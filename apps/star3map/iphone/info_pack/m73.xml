@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 73" type="Galaxies">
+	<images>
+		<image title="Constellation of Aquarius">m 73_1.jpg</image>
+	</images>
+	<information>
+Messier 73 (M73, also known as NGC 6994) is an asterism of four stars in the constellation of Aquarius. An asterism is composed of physically unconnected stars that appear close to each other in the sky as seen from Earth.
+M73 was discovered by Charles Messier on October 4, 1780, who originally described the object as a cluster of four stars with some nebulosity. Subsequent observations by John Herschel, however, failed to reveal any nebulosity. Moreover, Herschel noted that the designation of M73 as a cluster was questionable. Nonetheless, Herschel included M73 in his General Catalogue of clusters, nebulae, and galaxies, and John Dreyer included M73 when he compiled the New General Catalogue.
+M73 was once treated as a potential sparsely populated open cluster, which consists of stars that are physically associated in space as well as on the sky. The question of whether the stars were an asterism or an open cluster generated a small, interesting debate.
+In 2000, L. P. Bassino, S. Waldhausen, and R. E. Martinez published an analysis of the colors and luminosities of the stars in and around M73. They concluded that the four bright central stars and some other nearby stars followed the color-luminosity relation that is also followed by stars in open clusters (as seen in a Hertzsprung-Russell diagram). Their conclusion was that M73 was an old open cluster that was 9 arcmin wide. G. Carraro, however, published results in 2000 based on a similar analysis and concluded that the stars did not follow any color-luminosity relation. Carraro's conclusion was that M73 was an asterism. Adding to the controversy, E. Bica and collaborators concluded that the chance alignment of the four bright stars seen in the center of M73 as well as one other nearby star was highly unlikely, so M73 was probably a sparse open cluster. The controversy was solved in 2002, when M. Odenkirchen and C. Soubiran published an analysis of the high resolution spectra of the six brightest stars within 6 arcmin of the central position of M73. Odenkirchen and Soubiran demonstrated that the distances from the Earth to the six stars were very different from each other, and the stars were moving in different directions. Therefore, they concluded that the stars were only an asterism.
+Although M73 was determined to be only a chance alignment of stars, further analysis of asterisms is still important for the identification of sparsely populated open clusters. Such clusters can be important for demonstrating how open clusters are ripped apart by the gravitational forces in the Milky Way.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Aquarius</characteristic>
+		<characteristic name="Right ascension">20h 58m 54s</characteristic>
+		<characteristic name="Declination">−12° 38′</characteristic>
+		<characteristic name="Distance">approx. 2,500 ly (approx. 770 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.0m</characteristic>
+		<characteristic name="Apparent dimensions (V)">2.8′</characteristic>
+		<characteristic name="Radius">ly</characteristic>
+		<characteristic name="Estimated age">million yrs</characteristic>
+		<characteristic name="Other designations">M 73, NGC 6994</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 73 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_73</link>
+</object>

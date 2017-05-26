@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 94" type="Galaxies">
+	<images>
+		<image title="M94 Galaxy">m 94_1.jpg</image>
+	</images>
+	<information>
+Messier 94 (also known as NGC 4736) is a spiral galaxy in the constellation Canes Venatici. It was discovered by Pierre Méchain in 1781, and catalogued by Charles Messier two days later. Although some references describe M94 as a barred spiral galaxy, the "bar" structure appears to be more oval-shaped. The galaxy is also notable in that it has two ring structures.
+M94 is classified as having a low ionization nuclear emission region (LINER) nucleus. LINERs in general are characterized by optical spectra that reveal that ionized gas is present but the gas is only weakly ionized (i.e. the atoms are missing relatively few electrons).
+M94 contains both an inner ring with a diameter of 70" and an outer ring with a diameter of 600". These rings appear to form at resonance locations within the disk of the galaxy. The inner ring is the site of strong star formation activity and is sometimes referred to as a starburst ring. This star formation is fueled by gas that is dynamically driven into the ring by the inner oval-shaped bar-like structure.
+A 2009 study conducted by an international team of astrophysicists revealed that the outer ring of M94 is not a closed stellar ring, as historically attributed in the literature, but a complex structure of spiral arms when viewed in mid-IR and UV. The study found that the outer disk of this galaxy is active. It contains approximately 23% of the galaxy's total stellar mass and contributes about 10% of the galaxy's new stars. In fact, the star formation rate of the outer disk is approximately two times greater than the inner disk because it is more efficient per unit of stellar mass.
+There are several possible external events that could have led to the origin of M94's outer disk including the accretion of a satellite galaxy or the gravitational interaction with a nearby star system. However, further research found problems with each of these scenarios. Therefore, the report concludes that the inner disk of M94 (NGC4736) is an oval distortion which led to the creation of this galaxy's peripheral disk.
+In a paper published in 2004, John Kormendy and Robert Kennicutt argued that M94 contains a prototypical pseudobulge. A classical spiral galaxy consists of a disk of gas and young stars that intersects a large sphere (or bulge) of older stars. In contrast, a galaxy with a pseudobulge does not have a large bulge of old stars but instead contain a bright central structure with intense star formation that looks like a bulge when the galaxy is viewed face-on. In the case of M94, this pseudobulge takes the form of a ring around a central oval-shaped region.
+At least two techniques have been used to measure distances to M94. The surface brightness fluctuations distance measurement technique estimates distances to spiral galaxies based on the graininess of the appearance of their bulges. The distance measured to M94 using this technique is 17.0 ± 1.4 Mly (5.2 ± 0.4 Mpc). However, M94 is close enough that the Hubble Space Telescope can be used to resolve and measure the fluxes of the brightest individual stars within the galaxy. These measured fluxes can then be compared to the measured fluxes of similar stars within the Milky Way to measure the distance. The estimated distance to M94 using this technique is 15 ± 2 Mly (4.7 ± 0.6 Mpc). Averaged together, these distance measurements give a distance estimate of 16.0 ± 1.3 Mly (4.9 ± 0.4 Mpc).
+In 2008 a study was published that appeared to show that M94 had very little or no dark matter present. The study analyzed the rotation curves of the galaxy's stars and the density of hydrogen gas and found that ordinary luminous matter appeared to account for all of the galaxy's mass. This result was unusual and somewhat controversial, as current models don't indicate how a galaxy could form without a dark matter halo or how a galaxy could lose its dark matter. Other explanations for galactic rotation curves, such as MOND, also have difficulty explaining this galaxy. This result has yet to be confirmed or accepted by other research groups, however, and has not actually been tested against the predictions of standard galaxy formation models.
+M94 is one of the brightest galaxies within the M94 Group, a group of galaxies that contains between 16 and 24 galaxies. This group is one of many that lies within the Virgo Supercluster (i.e. the Local Supercluster). Although a large number of galaxies may be associated with M94, only a few galaxies near M94 appear to form a gravitationally bound system. Most of the other nearby galaxies appear to be moving with the expansion of the universe.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Canes Venatici</characteristic>
+		<characteristic name="Right ascension">12h 50m 53.1s</characteristic>
+		<characteristic name="Declination">+41° 07′ 14″</characteristic>
+		<characteristic name="Apparent dimensions (V)">11.2 × 9.1 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">8.99</characteristic>
+        <characteristic name="Type">(R)SA(r)ab, LINER</characteristic>
+		<characteristic name="Heliocentric radial velocity">308 ± 1km/s</characteristic>
+		<characteristic name="Redshift">0.001027 ± 0.000005</characteristic>
+		<characteristic name="Galactocentric velocity">360 ± 3 km/s</characteristic>
+		<characteristic name="Distance">16.0 ± 1.3 Mly (4.91 ± 0.40 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 4736, UGC 7996, PGC 43495</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 94 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_94</link>
+</object>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Cassiopeiae" type="Star">
+	<images>
+<image title="Shedir">shedir_1.png</image>
+<image title="">shedir__2.png</image>
+<image title="">shedir__3.jpg</image>
+<image title="">shedir__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Cassiopeiae (α Cas, α Cassiopeiae) is a second magnitude star in the constellation Cassiopeia, with the traditional name Schedar, sometimes spelt Shedir. Though listed as the alpha star by Johann Bayer, Schedar's visual brightness closely rivals the beta star in the constellation, Caph. Depending on which passband is used, α Cas may be marginally brighter or dimmer than β Cas. However, recent calculations from the All-Sky catalog indicate that Schedar is the brightest in Cassiopeia, with a visual magnitude of 2.240. With Schedar located farther away from Earth than Caph, at 228 light years versus 54, Schedar is almost 18 times brighter than its rival insofar as intrinsic brightness is concerned.
+
+With a declination of 56° 32' North, Schedar is principally visible in the northern hemisphere. The star is yet discernible to most observers across the globe reaching as far south as Perth, Australia, Santiago, Chile and other settlements north ± 33° South latitude, albeit just above the horizon. Schedar is located in line-of-sight of the Milky Way galaxy, so there are other notable celestial objects one can view close to this star—the Pacman Nebula, NGC 436 and NGC 457 being a few.
+Alpha Cas reaches its zenith above cities like Edinburgh, Copenhagen and Moscow. It is circumpolar throughout Europe, Russia, and as far south as Los Angeles, California on the North American continent as well as other locations around the globe having a latitude greater than ± 33° North. Since Schedar is listed as a second magnitude star, it is easily observable to the naked eye as long as one's stargazing is not hindered by the light pollution common to most cities.
+The best time for your observation is during the late autumn months of the northern hemisphere, when Cassiopeia passes the meridian at midnight, but given its circumpolar nature in many northern localities, it is visible to many of the world's inhabitants throughout the year.
+Depending on the photometric system used, Schedar's apparent magnitude is marginally brighter or dimmer than Caph, the beta star in the constellation. The Johnson UBV system throughout the latter half of the twentieth century indicated a visual magnitude that ranged from about 2.20 to 2.23, thus making it slightly brighter than Caph with its variable magnitude ranging from 2.25 to 2.31. However recent calculations in the optical V band between 500—600 nanometers (nm) by Floor Van Leeuwen in 2007 produced a new measurement for both stars, 2.4107 for Schedar and 2.3579 for Caph, suggesting that Caph ranks as the brightest in the constellation. The confusion arises because of the use of different passbands.
+With the advances in optical interferometry in the 1990s, Schedar's angular diameter was measured in 1998 at various wavelengths ranging from 500—850 nm. The result was a limb darkened angular measurement of 5.62 ± 0.06 milliarcseconds (mas), a diameter which equates to roughly 0.393 AU or 42.3R☉, assuming a parallax of 14.29 mas. With the planet Mercury orbiting the Sun at approximately 0.4 AU, Schedar's photosphere extends to roughly half the mercurial orbit.
+Schedar is an orange giant star whose spectral classification in the SIMBAD astronomical database is listed as K0IIIa, a stellar class that is notably cooler than the Sun. However, because the orange giant is nearing the final stages of its evolution, the photosphere has expanded substantially, yielding a bolometric luminosity that is approximately 676L☉
+According to Hipparcos, the New Reduction (van Leeuwen, 2007), the estimated distance to the star is about 70 parsecs or 228 light years. Like all giant stars, Schedar rotates slowly with an approximate velocity of 21 km/s—a speed which takes the star approximately 102 days to make one complete revolution on its axis.
+Schedar has been sometimes classified as a variable star, but no variability has been detected since the 19th century. Also, three companions to the star have been listed in the Washington Double Star Catalog, but it seems that all of them are just line-of-sight optical components.
+The traditional name, Schedar, was first encountered in the Alfonsine tables of the thirteenth century. The term comes from the Arabic word صدر şadr, meaning "breast", a word which is derived from its relative position in the heart of the mythological queen Cassiopeia.Johannes Hevelius used the name "Schedir" in his writings, although there are additional spellings of this Arabic transliteration such as Shedar, Shadar, Sheder, Seder, Shedis, and Shedir. Ulug Beg named the star "Al Dhāt al Kursiyy" (Arabic ألضة ألكرسي, meaning "the lady in the chair"), which Giovanni Battista Riccioli changed to "Dath Elkarti".
+In Chinese, 王良 (Wáng Liáng) refers to the Chinese asterism Wang Liang, a famous charioteer during the Spring and Autumn Period. The stellar pattern consists of α Cassiopeiae, β Cassiopeiae, κ Cassiopeiae, η Cassiopeiae and λ Cassiopeiae. Consequently, α Cassiopeiae itself is known as 王良四 (Wáng Liáng sì, English: the Fourth Star of Wang Liang.)
+In 1551, Gerardus Mercator, a Flemish cartographer, produced a celestial globe portraying the 48 traditional Ptolemaic constellations in addition to two others, Coma Berenices and Antinous. On this globe, he represents Cassiopeia as the Queen of Ethiopia, punished for her boasting by being chained to a chair hanging upside-down. Schedar is found near her left breast, reflecting its Arabic etymological origin.
+Coordinates: 00h 40m 30.5s, +56° 32′ 14.5″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cassiopeia</characteristic>
+<characteristic name="Right ascension">00h 40m 30.4405s</characteristic>
+<characteristic name="Declination">+56° 32′ 14.392″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.240</characteristic>
+<characteristic name="Spectral type">K0IIIa</characteristic>
+<characteristic name="U−B color index">1.14</characteristic>
+<characteristic name="B−V color index">1.16</characteristic>
+<characteristic name="Variable type">Suspected</characteristic>
+<characteristic name="Radial velocity (Rv)">−4.31 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 50.36 mas/yr, Dec.: −32.17 mas/yr</characteristic>
+<characteristic name="Parallax (π)">14.29 ± 0.15mas</characteristic>
+<characteristic name="Distance">228 ± 2 ly (70.0 ± 0.7 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−1.985</characteristic>
+<characteristic name="Mass">4–5 M☉</characteristic>
+<characteristic name="Radius">42.1 ± 1.7 R☉</characteristic>
+<characteristic name="Luminosity">676 L☉</characteristic>
+<characteristic name="Temperature">4,530 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.1 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">21 km/s</characteristic>
+<characteristic name="Age">1–2×10^8 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Cassiopeiae in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Shedir</link>
+</object>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Horologium" type="Constellation">
+	<images>
+<image title="Horologium">horologium_1.png</image>
+<image title="">horologium__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Horologium is a small and faint constellation in the southern sky (declination around −60 degrees). Its name is a Latin transliteration of the Greek  word for clock (Horo [ὥρο]- meaning hour and logium [λέγειν] meaning teller [horologium= the hour-teller]).
+
+Horologium was plotted in the 18th century by Abbé Nicolas Louis de Lacaille. He originally labeled it Horologium Oscillitorium, the Latin name for a pendulum clock, to honour its inventor Christiaan Huygens and his book Horologium Oscillatorium.
+Horologium does not have any bright stars. Alpha Horologii, the brightest, is an orange giant of magnitude 3.9, 117 light-years from Earth. Beta Horologii is a white giant of magnitude 5.0, 314 light-years from Earth. However, Horologium does have several variable stars. R Horologii is a red giant Mira variable with a very wide range, 1000 light-years from Earth. It has a minimum magnitude of 14.3 and a maximum magnitude of 4.7; its period is approximately 13 months.
+Horologium is also not home to many deep-sky objects; there are several globular clusters in the constellation. NGC 1261 is a globular cluster of magnitude 8, 44,000 light-years from Earth. The globular cluster Arp-Madore 1 is found in the constellation, the most remotely known globular cluster in the Milky Way at a distance of 398,000 light years.
+Coordinates: 03h 00m 00s, −60° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Hor</characteristic>
+<characteristic name="Genitive">Horologii</characteristic>
+<characteristic name="Pronunciation">/ˌhɒrɵˈlɒdʒiəm/, genitive /ˌhɒrɵˈlɒdʒiaɪ/</characteristic>
+<characteristic name="Symbolism">the Pendulum Clock</characteristic>
+<characteristic name="Right ascension">3</characteristic>
+<characteristic name="Declination">−60</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ1</characteristic>
+<characteristic name="Area">249 sq. deg. (58th)</characteristic>
+<characteristic name="Main stars">6</characteristic>
+<characteristic name="Bayer/Flamsteed stars">10</characteristic>
+<characteristic name="Stars with planets">2</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">α Hor (3.85m)</characteristic>
+<characteristic name="Nearest star">GJ 1061 (11.99 ly, 3.66 pc)</characteristic>
+<characteristic name="Messier objects">none</characteristic>
+<characteristic name="Bordering constellations">Eridanus, Hydrus, Reticulum, Dorado, Caelum</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +30° and −90°. Best visible at 21:00 (9 p.m.) during the month of December.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Horologium in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Horologium</link>
+</object>

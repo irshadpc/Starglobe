@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 84" type="Galaxies">
+	<images>
+		<image title="M84. Credit:NOAO">m 84_1.jpg</image>
+	</images>
+	<information>
+Messier 84 (also known as M84 or NGC 4374) is an elliptical or lenticular galaxy in the constellation Virgo. M84 is situated in the heavily populated inner core of the Virgo Cluster of galaxies.
+Radio observations and Hubble Space Telescope images of M84 have revealed two jets of matter shooting out from the galaxy's center as well as a disk of rapidly rotating gas and stars indicating the presence of a 1.5 ×109 M☉ supermassive black hole. It also has a few young stars and star clusters, indicating star formation at a very low rate.
+Charles Messier discovered Messier 84 on 18 March 1781 in a systematic search for "nebulous objects" in the night sky. The object is the 84th in the Messier Catalogue.
+Two supernovae have been observed in M84: SN 1957 and SN 1991bg. Possibly, a third, SN 1980I is part of M84 or, alternatively, one of its neighboring galaxies, NGC 4387 and M86.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 25m 03.7s</characteristic>
+		<characteristic name="Declination">+12° 53′ 13″</characteristic>
+		<characteristic name="Redshift">1060 ± 6 km/s</characteristic>
+		<characteristic name="Distance">60 ± 3 Mly (18.4 ± 0.9 Mpc)</characteristic>
+		<characteristic name="Type">E1</characteristic>
+		<characteristic name="Apparent dimensions (V)">6′.5 × 5′.6</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.1</characteristic>
+		<characteristic name="Other designations">NGC 4374, UGC 7494, PGC 40455, VCC 763</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 84 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_84</link>
+</object>

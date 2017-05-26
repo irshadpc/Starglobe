@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gamma Aquilae" type="Star">
+	<images>
+<image title="Tarazed">tarazed_1.png</image>
+<image title="">tarazed__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gamma Aquilae (γ Aql, γ Aquilae) is a star in the constellation Aquila. It has the traditional name Tarazed. This star has an apparent visual magnitude of 2.712, so it is readily visible to the naked eye at night. Parallax measurements place it at a distance of 395 light-years (121 parsecs) from Earth.
+Gamma Aquilae is a relatively young star with an age of about 100 million years. Nevertheless, it has reached a stage of its evolution where it has consumed the hydrogen at its core and expanded into what is termed a bright giant star, with a stellar classification of K3 II. The star is now burning helium into carbon in its core. After it has finished generating energy through nuclear fusion, Gamma Aquilae will become a white dwarf.
+The interferometry-measured angular diameter of Gamma Aquilae is 7.271 ± 0.073 mas, which, at its estimated distance, equates to a physical radius of about 95 times the radius of the Sun. With almost six times the Sun's mass, this is an enormous star that is radiating over 2,500 times the luminosity of the Sun. An effective temperature of 4,210 K in its outer envelope gives it the orange hue typical of K-type stars.
+The traditional name Tarazed may derive from Persian شاهين ترازو šāhin tarāzu "the beam of the scale", referring to an asterism of the Scale, α, β and γ Aquillae. Persian šāhīn means "royal falcon", "beam", and "pointer", and gave its name (as "falcon") to Beta Aquilae. In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Menkib al Nesr (منكب ألنسر - mankib al-nasr), which was translated into Latin as Humerus Vulturis, meaning the eagle's shoulder.
+In Chinese, 河鼓 (Hé Gŭ), meaning River Drum, refers to an asterism consisting of γ Aquilae, β Aquilae and Altair. Consequently, γ Aquilae itself is known as 河鼓三 (Hé Gŭ sān, English: the Third Star of River Drum.) In Chinese mythology, The Princess and the Cowherd, this star and β Aql, are children of Niulang (牛郎, The Cowherd, Altair) and Zhinü (織女, The Princess, Vega).
+The Koori people of Victoria knew β and γ Aquilae as the Black Swan wives of Bunjil (Altair), the Wedge-tailed Eagle.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Aquila</characteristic>
+<characteristic name="Right ascension">19h 46m 15.58029s</characteristic>
+<characteristic name="Declination">+10° 36′ 47.7408″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.712</characteristic>
+<characteristic name="Spectral type">K3 II</characteristic>
+<characteristic name="U−B color index">+1.720</characteristic>
+<characteristic name="B−V color index">+1.500</characteristic>
+<characteristic name="Radial velocity (Rv)">-2.79 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +16.99 mas/yr, Dec.: -2.98 mas/yr</characteristic>
+<characteristic name="Parallax (π)">8.26 ± 0.17mas</characteristic>
+<characteristic name="Distance">395 ± 8 ly (121 ± 2 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–3.38+0.24 −0.22</characteristic>
+<characteristic name="Mass">5.66 ± 0.66 M☉</characteristic>
+<characteristic name="Radius">95 R☉</characteristic>
+<characteristic name="Luminosity">2,538 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.63 cgs</characteristic>
+<characteristic name="Temperature">4,210 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.29 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">8 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gamma Aquilae in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Tarazed</link>
+</object>

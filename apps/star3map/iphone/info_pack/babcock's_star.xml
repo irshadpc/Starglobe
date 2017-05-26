@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="STAR_NAME_HERE" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Babcock's Star at Physic's Pages" icon="wiki.png">http://www.physicspages.com/tag/babcocks-star/</link>
+</object>

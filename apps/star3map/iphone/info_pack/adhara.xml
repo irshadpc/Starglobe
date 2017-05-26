@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Epsilon Canis Majoris" type="Star">
+	<images>
+<image title="Adhara">adhara.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Epsilon Canis Majoris (ε CMa, ε Canis Majoris) is the second brightest star in the constellation Canis Major, and one of the brightest stars in the night sky. It has the Bayer designation "epsilon" despite being the second brightest and not the fifth brightest star in its constellation. It has the traditional name Adhara (sometimes spelled Adara). The name is from the Arabic word عذارى ‘aðāra’, "virgins".
+In Chinese, 弧矢 (Hú Shǐ), meaning Bow and Arrow, refers to an asterism consisting of ε Canis Majoris, δ Canis Majoris, η Canis Majoris, HD 63032, HD 65456, ο Puppis, k Puppis, κ Canis Majoris and π Puppis. Consequently, ε Canis Majoris itself is known as 弧矢七 (Hú Shǐ qī, English: the Seventh Star of Bow and Arrow.)
+In the 17th century catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Aoul al Adzari (أول ألعذاري - awwil al-aðārii), which was translated into Latin as Prima Virginum, meaning First of the Virgins. Along with δ CMa (Wezen), η CMa (Aludra) and ο2 CMa (Thanih al Adzari), these stars were Al ʽAdhārā (ألعذاري), the Virgins.
+
+Adhara is a binary star, estimated by the Hipparcos astrometry satellite to lie about 430 light years away from Earth. The main star possesses an apparent magnitude of +1.5 and belongs to the spectral classification B2. Its color is blue or blueish-white, due to the surface temperature of 22,200K. It emits a total radiation equal to 38,700 times that of the Sun. This star is one of the brightest known extreme ultraviolet sources in the sky. It is the strongest source of photons capable of ionizing hydrogen atoms in interstellar gas near the sun, and is very important in determining the ionization state of the Local Interstellar Cloud.
+The +7.5 magnitude companion star (the absolute magnitude amounts to +1.9) is at 7.5" away with a position angle of 161° of the main star. Despite the relatively large angular distance the components can only be resolved in large telescopes, since the main star is approximately 250 times brighter than its companion.
+A few million years ago, Adhara was much closer to the Sun than it is at present, causing it to be a much brighter star in the night sky. About 4,700,000 years ago, Adhara was 34 light years from the Sun, and was the brightest star in the sky with a magnitude of –3.99. No other star has attained this brightness since, nor will any other star attain this brightness for at least five million years.
+Adhara appears on the national flag of Brazil, symbolising the state of Tocantins.
+Adhara also appears as a physical character in the 2007 animated film, Nocturna, as the main character Tim's favourite star. 
+USS Adhara (AK-71) was a United States Navy Crater class cargo ship named after the star.
+Coordinates: 06h 58m 37.6s, −28° 58′ 19″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Canis Major</characteristic>
+<characteristic name="Right ascension">06h 58m 37.6s</characteristic>
+<characteristic name="Declination">–28° 58′ 19″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.50</characteristic>
+<characteristic name="Spectral type">B2 II</characteristic>
+<characteristic name="U−B color index">–0.93</characteristic>
+<characteristic name="B−V color index">–0.13</characteristic>
+<characteristic name="Radial velocity (Rv)">+27.3 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +2.63 mas/yr, Dec.: +2.29 mas/yr</characteristic>
+<characteristic name="Parallax (π)">7.57 ± 0.57mas</characteristic>
+<characteristic name="Distance">430 ± 30 ly (132 ± 10 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–4.11</characteristic>
+<characteristic name="Mass">12.6 ± 1.0 M☉</characteristic>
+<characteristic name="Radius">13.9 R☉</characteristic>
+<characteristic name="Luminosity">38,700 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.31 cgs</characteristic>
+<characteristic name="Temperature">22,200 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">25 km/s</characteristic>
+<characteristic name="Age">22.5 ± 2.6 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Epsilon Canis Majoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Adhara</link>
+</object>

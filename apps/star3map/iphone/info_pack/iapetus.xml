@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Iapetus" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Iapetus_1.jpg</image>
+        <image title="">Iapetus_2.jpg</image>
+        <image title="">Iapetus_3.jpg</image>
+        <image title="">Iapetus_4.jpg</image>
+	</images>
+	<information>
+Iapetus, or occasionally Japetus, is the third-largest natural satellite of Saturn, eleventh-largest in the Solar System, and the largest body in the Solar System known not to be in hydrostatic equilibrium. Iapetus is best known for its dramatic 'two-tone' coloration. Discoveries by the Cassini mission in 2007 revealed several other unusual features, such as a massive equatorial ridge running three-quarters of the way around the moon.
+
+Iapetus was discovered by Giovanni Domenico Cassini, an Italian astronomer, in October 1671. He had discovered it on the western side of Saturn and tried viewing it on the eastern side some months later, but was unsuccessful. This was also the case the following year, when he was again able to observe it on the western side, but not the eastern side. Cassini finally observed Iapetus on the eastern side in 1705 with the help of an improved telescope, finding it two magnitudes dimmer on that side.
+
+Cassini correctly surmised that Iapetus has a bright hemisphere and a dark hemisphere, and that it is tidally locked, always keeping the same face towards Saturn. This means that the bright hemisphere is visible from Earth when Iapetus is on the western side of Saturn, and that the dark hemisphere is visible when Iapetus is on the eastern side. The dark hemisphere was later named Cassini Regio in his honour.
+
+Iapetus is named after the Titan Iapetus from Greek mythology. The name was suggested by John Herschel (son of William Herschel, discoverer of Mimas and Enceladus) in his 1847 publication Results of Astronomical Observations made at the Cape of Good Hope, in which he advocated naming the moons of Saturn after the Titans, brothers and sisters of the Titan Cronus (whom the Romans equated with their god Saturn).
+
+When first discovered, Iapetus was among four Saturnian moons labelled the Sidera Lodoicea by their discoverer Giovanni Cassini after King Louis XIV (the other three were Tethys, Dione and Rhea). However, astronomers fell into the habit of referring to them using Roman numerals, with Iapetus being Saturn V. Once Mimas and Enceladus were discovered in 1789, the numbering scheme was extended and Iapetus became Saturn VII. And with the discovery of Hyperion in 1848, Iapetus became Saturn VIII, which it is still known by today (see naming of natural satellites).
+
+Geological features on Iapetus are named after characters and places from the French epic poem The Song of Roland. Examples of names used include the craters Charlemagne and Baligant, and the northern bright region, Roncevaux Terra. The one exception is Cassini Regio, the dark region of Iapetus, named after the region's discoverer, Giovanni Cassini.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Iapetus in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Iapetus_(moon)</link>
+</object>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 86" type="Galaxies">
+	<images>
+		<image title="M86 by Hubble Space Telescope">m 86_1.jpg</image>
+		<image title="The Virgo Cluster of galaxies (Burrell Schmidt telescope)">m 86_2.jpg</image>
+	</images>
+	<information>
+Messier 86 (also known as M86 or NGC 4406) is an elliptical or lenticular galaxy in the constellation Virgo. It was discovered by Charles Messier in 1781. M86 lies in the heart of the Virgo Cluster of galaxies and forms a most conspicuous group with another giant, Lenticular Galaxy M84. It displays the highest blue shift of all Messier objects, as it is approaching the Milky Way at 244 km/s. This is due to its falling towards the center of the Virgo cluster from the opposite side, which causes it to move in the direction of the Milky Way.
+Messier 86 is linked by several filaments of ionized gas to the severely disrupted spiral galaxy NGC 4438 and shows some gas and interstellar dust that may have been stripped, as well as the gas on those filaments, of it. It's also suffering ram-pressure stripping as it moves at high speed through Virgo's intracluster medium, losing its interstellar medium as it moves through it leaving behind a very long trail of hot gas.
+Messier 86 has a rich system of globular clusters, with a total number of around 3,800. Its halo also has a number of stellar streams interpreted as remmants of dwarf galaxies that have been disrupted and absorbed by this galaxy
+n the TV show Andromeda, M86 is cited as being the origin of the Magog invasion of the three galaxies in the season 2 opener "The Widening Gyre"
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 26m 11.7s</characteristic>
+		<characteristic name="Declination">+12° 56′ 46″</characteristic>
+		<characteristic name="Redshift">-0.000814 +/- 0.000017 (-244 ± 5 km/s)</characteristic>
+		<characteristic name="Distance">52 ± 3 Mly (15.9 ± 1.0 Mpc)</characteristic>
+		<characteristic name="Type">S0(3)/E3</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.9 × 5′.8</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.8</characteristic>
+		<characteristic name="Notable features">displays a rare blue shift</characteristic>	
+		<characteristic name="Other designations">NGC 4406, UGC 7532, PGC 40653, VCC 0881</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 86 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_86</link>
+</object>

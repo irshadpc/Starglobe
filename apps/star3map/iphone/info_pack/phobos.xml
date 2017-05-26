@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Phobos" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Phobos_1.jpg</image>
+        <image title="">Phobos_2.jpg</image>
+        <image title="">Phobos_3.jpg</image>
+        <image title="">Phobos_4.jpg</image>
+	</images>
+	<information>
+        Phobos (systematic designation: Mars I) is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer, Asaph Hall.
+
+        Phobos is a small, irregularly shaped object with a mean radius of 11 km (7 mi), and is seven times more massive than the outer moon, Deimos. Phobos is named after the Greek god, Phobos, a son of Ares (Mars) and Aphrodite (Venus) which was the personification of Horror.
+
+        Phobos orbits 6,000 km (3,700 mi) from the Martian surface, closer to its primary body than any other known planetary moon. It is indeed so close that it orbits Mars much faster than Mars rotates, and completes an orbit in just 7 hours and 39 minutes. As a result, from the surface of Mars it appears to rise in the west, move across the sky in 4 hours and 15 minutes or less, and set in the east, twice each Martian day.
+
+        Phobos is one of the least reflective bodies in the Solar System, with an albedo of just 0.071. Surface temperatures range from about −4 °C (25 °F) on the sunlit side to −112 °C (−170 °F) on the shadowed side.[5] The defining surface feature is the large impact crater, Stickney, which takes up a substantial proportion of the moon's surface.
+
+        Images and models indicate that Phobos may be a rubble pile held together by a thin crust, and that it is being torn apart by tidal interactions. Phobos gets closer to Mars by about 2 meters every one hundred years, and it is predicted that within 30 to 50 million years it will either collide with the planet, or break up into a planetary ring.
+
+    Phobos has dimensions of 27 × 22 × 18 km, and retains too little mass to be rounded under its own gravity. Phobos does not have an atmosphere due to its low mass and low gravity.It is one of the least reflective bodies in the Solar System, with an albedo of about 0.071. Spectroscopically it appears to be similar to the D-type asteroids, and is apparently of composition similar to carbonaceous chondrite material. Phobos's density is too low to be solid rock, and it is known to have significant porosity. These results led to the suggestion that Phobos might contain a substantial reservoir of ice. Spectral observations indicate that the surface regolith layer lacks hydration, but ice below the regolith is not ruled out.
+
+        Phobos is heavily cratered. The most prominent of these is the crater, Stickney, (named after Asaph Hall's wife, Angeline Stickney Hall, Stickney being her maiden name) a large impact crater some 9 km (5.6 mi) in diameter, taking up a substantial proportion of the moon's surface area. As with Mimas's crater Herschel, the impact that created Stickney must have nearly shattered Phobos.
+
+    Many grooves and streaks also cover the oddly shaped surface. The grooves are typically less than 30 meters (98 ft) deep, 100 to 200 meters (330 to 660 ft) wide, and up to 20 kilometers (12 mi) in length, and were originally assumed to have been the result of the same impact that created Stickney. Analysis of results from the Mars Express spacecraft, however, revealed that the grooves are not in fact radial to Stickney, but are centered on the leading apex of Phobos in its orbit (which is not far from Stickney). Researchers suspect that they have been excavated by material ejected into space by impacts on the surface of Mars. The grooves thus formed as crater chains, and all of them fade away as the trailing apex of Phobos is approached. They have been grouped into 12 or more families of varying age, presumably representing at least 12 Martian impact events.
+
+    Faint dust rings produced by Phobos and Deimos have long been predicted but attempts to observe these rings have, to date, failed. Recent images from Mars Global Surveyor indicate that Phobos is covered with a layer of fine-grained regolith at least 100 meters thick; it is hypothesized to have been created by impacts from other bodies, but it is not known how the material stuck to an object with almost no gravity.
+
+    The unique Kaidun meteorite that fell on a Soviet military base in Yemen in 1980 has been hypothesized to be a piece of Phobos, but this has been difficult to verify because little is known about the exact composition of Phobos.
+
+    A 150-pound (68 kg) person standing on the surface of Phobos would weigh the equivalent to about two ounces (57 g) on Earth.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Phobos in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Phobos_(moon)</link>
+</object>

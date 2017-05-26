@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 85" type="Galaxies">
+	<images>
+		<image title="">m85_1.jpg</image>
+	</images>
+	<information>
+Messier 85 (also known as M85 or NGC 4382 or PGC 40515 or ISD 0135852) is a lenticular galaxy, or elliptical galaxy for other authors,[3] in the Coma Berenices constellation. It is 60 million light years away, and it is estimated to be 125,000 light years across.
+It was discovered by Pierre Méchain in 1781. It is the northernmost outlier of the Virgo cluster discovered as of 2004
+It's extremely poor in neutral hydrogen and has a very complex outer structure with shells and ripples that are thought to have been caused by a merger with another galaxy that took place between 4 and 7 billion years ago, as well as a relatively young (less than 3 billion years old) stellar population on its centermost region, some of it in a ring, that may have been created by a late starburst.
+Messier 85 may have a central supermassive black hole with a mass of 100 million solar masses.
+The type I supernova, 1960R was discovered in M85 on December 20, 1960 and reached an apparent magnitude of 11.7.
+This galaxy has also been the host of the first luminous red nova identified as such, M85 OT2006-1. It was discovered on January 7 of 2006 and took place on the outskirts of this galaxy.
+M85 is interacting with the nearby spiral galaxy NGC 4394, and a small elliptical galaxy called MCG 3-32-38.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenices</characteristic>
+		<characteristic name="Right ascension">12h 25m 24.0s</characteristic>
+		<characteristic name="Declination">+18° 11′ 28″</characteristic>
+		<characteristic name="Redshift">729 ± 2 km/s</characteristic>
+		<characteristic name="Distance">60 ± 4 Mly (18.5 ± 1.2 Mpc)</characteristic>
+		<characteristic name="Type">SA(s)0+ pec[1]/E2</characteristic>
+		<characteristic name="Apparent dimensions (V)">7′.1 × 5′.5</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.0</characteristic>
+		<characteristic name="Other designations">NGC 4382, UGC 7508, PGC 40515</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 85 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_85</link>
+</object>

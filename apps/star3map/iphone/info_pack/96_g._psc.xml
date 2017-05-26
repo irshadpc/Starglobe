@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="HD 4628" type="Star">
+	<images>
+<image title="HD 4628">wiki_logo.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+HD 4628 (96 G. Piscium) is a main sequence dwarf star in the constellation Pisces. It has a spectral classification of K2, giving it an orange-red hue and a slightly smaller mass and girth than our Sun. It lies at a distance of approximately 24 light years from us and has a relatively high proper motion. The apparent magnitude is just sufficient for this star to be viewed with the unaided eye. The star appears to be slightly older than our Sun—approximately 5.4 billion years old.
+No definitive companion has yet been found in orbit around this star. In 1958 it was thought to have stellar companion that was also a flare star, but this was subsequently disproved.
+
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Pisces</characteristic>
+<characteristic name="Right ascension">00h 48m 22.98s</characteristic>
+<characteristic name="Declination">+05° 16′ 50.2″</characteristic>
+<characteristic name="Apparent magnitude (V)">5.75</characteristic>
+<characteristic name="Spectral type">K2.5 V</characteristic>
+<characteristic name="U−B color index">0.59</characteristic>
+<characteristic name="B−V color index">0.89</characteristic>
+<characteristic name="Variable type">None</characteristic>
+<characteristic name="Radial velocity (Rv)">-12.6 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 757.11 ± 0.48 mas/yr, Dec.: -1,141.33 ± 0.34 mas/yr</characteristic>
+<characteristic name="Parallax (π)">134.14 ± 0.51mas</characteristic>
+<characteristic name="Distance">24.31 ± 0.09 ly (7.45 ± 0.03 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">5.88</characteristic>
+<characteristic name="Mass">0.70 ± 0.10 M☉</characteristic>
+<characteristic name="Radius">0.749 ± 0.051 R☉</characteristic>
+<characteristic name="Luminosity">0.28 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.39 ± 0.16 cgs</characteristic>
+<characteristic name="Temperature">5,829 ± 41 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.22 dex</characteristic>
+<characteristic name="Rotation">38.0 days</characteristic>
+<characteristic name="Age">5.4 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about HD 4628 in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/HD_4628</link>
+</object>

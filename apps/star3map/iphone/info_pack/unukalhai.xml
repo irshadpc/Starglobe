@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Serpentis" type="Star">
+	<images>
+<image title="Unukalhai">unukalhai_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Serpentis (α Serpentis, α Ser) is a double star in the head (Serpens Caput) of the equatorial constellation Serpens. It has the traditional name Unukalhai. With an apparent visual magnitude of 2.6, this star is the brightest in the constellation and it can be viewed with the naked eye from most of the Earth. Parallax measurements yield an estimated distance of about 74 light-years (23 parsecs) from Earth.
+Alpha Serpentis is a giant star with a stellar classification of K2 III, having consumed the hydrogen at its core and evolved away from the main sequence. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 4.85 ± 0.05 mas, which, at its estimated distance, equates to a physical radius of about 12 times the radius of the Sun. The effective temperature of the outer envelope is 4,498 K, giving it an orange hue that is characteristic of a K-type star.
+This star is radiating about 38 times the luminosity of the Sun, while a further 32 times the Sun's luminosity is being emitted in the infrared, for 70-fold total. A magnitude +11.8 companion is at an angular separation of 58 arcseconds from Alpha Serpentis, while a 13th magnitude star lies 2.3 arcminutes distant.
+Alpha Serpentis has the proper names Unukalhai, from the Arabic عنق الحية ‘Unuq al-Ħayyah "the Serpent's Neck", and Cor Serpentis from the Latin "the Heart of the Serpent". It was a member of indigenous Arabic asterism al-Nasaq al-Yamānī, "the Southern Line" of al-Nasaqān "the Two Lines"., along with δ Ser (Qin, Tsin), ε Ser (Ba, Pa), δ Oph (Yed Prior), ε Oph (Yed Posterior), ζ Oph (Han) and γ Oph (Tsung Ching).
+According to the catalogue of stars in the Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars, al-Nasaq al-Yamānī or Nasak Yamani were the title for two stars :δ Ser as Nasak Yamani I and ε Ser as Nasak Yamani II (exclude this star, δ Oph, ε Oph, ζ Oph and γ Oph)
+In Chinese, 天市右垣 (Tiān Shì Yòu Yuán), meaning Right Wall of Heavenly Market Enclosure, refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of α Serpentis, β Herculis, γ Herculis, κ Herculis, γ Serpentis, β Serpentis, δ Serpentis, ε Serpentis, δ Ophiuchi, ε Ophiuchi and ζ Ophiuchi. Consequently, α Serpentis itself is known as 天市右垣七 (Tiān Shì Yòu Yuán qī, English: the Seventh Star of Right Wall of Heavenly Market Enclosure), represent the state Shu (蜀) (or Shuh)(together with λ Ser in R.H.Allen's works).
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Serpens</characteristic>
+<characteristic name="Right ascension">15h 44m 16.07431s</characteristic>
+<characteristic name="Declination">+06° 25′ 32.2633″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.623</characteristic>
+<characteristic name="Spectral type">K2 III</characteristic>
+<characteristic name="U−B color index">+1.248</characteristic>
+<characteristic name="B−V color index">+1.167</characteristic>
+<characteristic name="Radial velocity (Rv)">+2.63 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +133.84 mas/yr, Dec.: +44.81 mas/yr</characteristic>
+<characteristic name="Parallax (π)">44.10 ± 0.19mas</characteristic>
+<characteristic name="Distance">74.0 ± 0.3 ly, (22.68 ± 0.10 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">+0.88 ± 0.03</characteristic>
+<characteristic name="Radius">12 R☉</characteristic>
+<characteristic name="Luminosity">70 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.5 cgs</characteristic>
+<characteristic name="Temperature">4,498 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">0.03 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">4.3 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Serpentis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Unukalhai</link>
+</object>

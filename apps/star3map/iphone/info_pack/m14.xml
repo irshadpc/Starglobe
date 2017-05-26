@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 14" type="Galaxies">
+	<images>
+		<image title="Messier 14 with amateur telescope">m 14_1.jpg</image>
+	</images>
+	<information>
+Messier 14 (also known as M14 or NGC 6402) is a globular cluster in the constellation Ophiuchus. It was discovered by Charles Messier in 1764.
+At a distance of about 30,000 light-years, M14 contains several hundreds of thousands of stars. At an apparent magnitude +7.6 it can be easily observed with binoculars. Medium-sized telescopes will show some hint of the individual stars of which the brightest is of magnitude +14.
+The total luminosity of M14 is in the order of 400,000 times that of the Sun corresponding to an absolute magnitude of -9.12. The shape of the cluster is decidedly elongated. M14 is about 100 light-years across.
+A respectable total of 70 variable stars is known in M14, many of the W Virginis variety common in globular clusters. In 1938, a nova appeared although this was not discovered until photographic plates from that time were studied in 1964. It is estimated that the nova reached a maximum brightness of magnitude +9.2, over five times brighter than the brightest 'normal' star in the cluster.
+Slightly over 3° southwest of M14 lies the faint globular cluster NGC 6366.
+	</information>
+	<characteristics>
+		<characteristic name="Class">VIII</characteristic>
+		<characteristic name="Constellation">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">17h 37m 36.15s</characteristic>
+		<characteristic name="Declination">–03° 14′ 45.3″</characteristic>
+		<characteristic name="Distance">30.3 kly (9.3 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+8.32</characteristic>
+		<characteristic name="Apparent dimensions (V)">11.0′</characteristic>
+		<characteristic name="Mass">1.04×106 M☉</characteristic>
+		<characteristic name="Radius">50 ly</characteristic>
+		<characteristic name="Metallicity">–1.28 dex</characteristic>
+		<characteristic name="Estimated age">12.0 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6402</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 14 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_14</link>
+</object>

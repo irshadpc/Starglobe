@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 96" type="Galaxies">
+	<images>
+		<image title="ESO's Very Large Telescope image of Messier 96, also known as NGC 3368. It shows its core displaced from the centre, its gas and dust are distributed asymmetrically and its spiral arms are ill-defined.">m 96_1.jpg</image>
+		<image title="Messier 96 with amateur telescope">m 96_2.jpg</image>
+	</images>
+	<information>
+Messier 96 (also known as M96 or NGC 3368) is an intermediate spiral galaxy about 31 million light-years away in the constellation Leo. It was discovered by French astronomer Pierre Méchain on March 20, 1781. After communicating his finding, French astronomer Charles Messier confirmed the finding four days later and added it to his catalogue of nebulous objects. Finding this object is extremely difficult with binoculars. With a telescope of 25.4 cm (10.0 in) aperture, the galaxy is visible as a 3 × 5 arcminute halo with a brighter core region.
+This complex galaxy is inclined by an angle of about 53° to the line of sight from the Earth, which is oriented at a position angle of 172°. It is categorized as a double-barred spiral galaxy with a small inner bulge through the core along with an outer bulge. The nucleus displays a weak level of activity of the LINER2 type. Variations in ultraviolet emission from the core suggest the presence of a supermassive black hole. Estimates for the mass of this object range from 1.5×106 to 4.8×107 times the mass of the Sun.
+On May 9, 1998 a supernova event was observed in this galaxy. Designated SN 1998bu, this was a Type Ia supernova explosion. It reached maximum light on May 21 then steadily declined in magnitude thereafter. Observations of the ejecta a year later showed that the explosion created 0.4 times the mass of the Sun worth of iron. The spectrum of the supernova remnant confirmed the presence of radioactive 56Co, which decays into 56Fe.
+M96 is the brightest galaxy within the M96 Group, a group of galaxies in the constellation Leo that includes the Messier objects M95 and M105, as well as at least nine other galaxies. The M96 galaxy has asymmetric arms and a displaced core, probably caused by the gravitational pull by the other nearby galaxies.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Leo</characteristic>
+		<characteristic name="Right ascension">10h 46m 45.7s</characteristic>
+		<characteristic name="Declination">+11° 49′ 12″</characteristic>
+		<characteristic name="Redshift">897 ± 4 km/s</characteristic>
+		<characteristic name="Distance">31 ± 3 Mly (9.6 ± 1.0 Mpc)</characteristic>
+		<characteristic name="Type">SAB(rs)ab</characteristic>
+		<characteristic name="Apparent dimensions (V)">7′.6 × 5′.2</characteristic>
+		<characteristic name="Apparent magnitude (V)">+10.1</characteristic>
+		<characteristic name="Other designations">NGC 3368, UGC 5882, PGC 32192</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 96 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_96</link>
+</object>

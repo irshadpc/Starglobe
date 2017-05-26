@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 98" type="Galaxies">
+	<images>
+		<image title="Messier 98">m 98_1.jpg</image>
+		<image title="M98, as seen by the Hubble Space Telescope">m 98_2.jpg</image>
+	</images>
+	<information>
+Messier 98, also known as M98 or NGC 4192, is an intermediate spiral galaxy located about 44.4[3] million light-years away in the constellation Coma Berenices, about 6° to the east of the bright star Denebola. It was discovered by French astronomer Pierre Méchain on 15 March 1781, along with nearby M99 and M100, and was cataloged by French astronomer Charles Messier on 13 April 1781 in his Catalogue des Nébuleuses &amp; des amas d'Étoiles. Messier 98 has a blue shift and is approaching us at about 140 km per second.
+The morphological classification of this galaxy is SAB(s)ab, which indicates it is a spiral galaxy that displays mixed barred and non-barred features with intermediate to tightly-wound arms and no ring. It is highly inclined to the line of sight at an angle of 74° and has a maximum rotation velocity of 236 km/s. The combined mass of the stars in this galaxy is an estimated 76 billion (7.6 × 1010) times the mass of the Sun. It contains about 4.3 billion solar masses of neutral hydrogen and 85 million solar masses in dust. The nucleus is active, displaying characteristics of a "transition" type object. That is, it shows properties of a LINER-type galaxy intermixed with an H II region around the nucleus.
+NGC 4192 is a member of the Virgo Cluster, which is a large, relatively nearby cluster of galaxies. About 750 million years ago, NGC 4192 may have interacted with the large spiral galaxy NGC 4254. The two are now separated by a distance of 1,300 kly (400 kpc).
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenicesi</characteristic>
+		<characteristic name="Right ascension">12h 13m 48.292s</characteristic>
+		<characteristic name="Declination">+14° 54′ 01.69″</characteristic>
+		<characteristic name="Redshift">−0.000474</characteristic>
+		<characteristic name="Helio radial velocity">−142 ± 4 km/s</characteristic>
+		<characteristic name="Distance">44.4 Mly (13.6 Mpc)</characteristic>
+		<characteristic name="Type">SAB(s)ab</characteristic>
+		<characteristic name="Apparent dimensions (V)">9′.8 × 2′.8</characteristic>
+		<characteristic name="Apparent magnitude (V)">11.0</characteristic>
+		<characteristic name="Other designations">NGC 4192, UGC 7231, PGC 39028</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 98 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_98</link>
+</object>

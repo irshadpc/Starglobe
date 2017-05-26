@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="OKEAN O Satellite details 1999-039A NORAD 25860" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">25860	</characteristic><characteristic name="Int'l Code">1999-039A</characteristic>
+<characteristic name="Perigee">651.2 km</characteristic>
+<characteristic name="Apogee">652.5 km</characteristic>
+<characteristic name="Inclination">98.0 °</characteristic>
+<characteristic name="Period">97.6 minutes</characteristic>
+<characteristic name="Semi major axis">7022 km</characteristic>
+<characteristic name="Launch date">July 17, 1999</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

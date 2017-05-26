@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Wezen" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+		<image title="">Wezen7.jpg</image>
+	</images>
+	<information>
+Delta Canis Majoris (δ Canis Majoris, abbreviated Delta CMa, δ CMa), also named Wezen, is a star in the constellation of Canis Major. It is a yellow-white F-type supergiant with an apparent magnitude of +1.83. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+Delta Canis Majoris is the third brightest star in the constellation after Sirius and Adhara, with an apparent magnitude of +1.83, and is white or yellow-white in colour. Lying about 10 degrees south southeast of Sirius, it only rises to about 11 degrees above the horizon at the latitude of the United Kingdom. The open cluster NGC 2354 is located only 1.3 degrees east of Delta Canis Majoris. As with the rest of Canis Major, Wezen is most visible in winter skies in the northern hemisphere, and summer skies in the southern. In Bayer's Uranometria, it is in the Great Dog's hind quarter.
+δ Canis Majoris (Latinised to Delta Canis Majoris) is the star's Bayer designation.
+
+The traditional name, Wezen (alternatively Wesen, or Wezea), is derived from the medieval Arabic وزن al-wazn, which means 'weight' in modern Arabic. The name was for one of a pair of stars, the other being Hadar, which has now come to refer to Beta Centauri. It is unclear whether the pair of stars was originally Alpha and Beta Centauri or Alpha and Beta Columbae. In any case, the name was somehow applied to both Delta Canis Majoris and Beta Columbae. Richard Hinckley Allen muses that the name alludes to the difficulty the star has rising above the (northern hemisphere) horizon. Astronomer Jim Kaler has noted the aptness of the traditional name given the star's massive nature.
+
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Wezen for this star.
+
+In Chinese, 弧矢 (Hú Shǐ), meaning Bow and Arrow, refers to an asterism consisting of δ Canis Majoris, η Canis Majoris, HD 63032, HD 65456, ο Puppis, k Puppis, ε Canis Majoris, κ Canis Majoris and π Puppis. Consequently, δ Canis Majoris itself is known as 弧矢一 (Hú Shǐ yī, English: the First Star of Bow and Arrow.)
+
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Thalath al Adzari (تالت ألعذاري - taalit al-aðārii), which was translated into Latin as Tertia Virginum, meaning the third virgin. This star, along with ε CMa (Adhara), η CMa (Aludra) and ο2 CMa (Thanih al Adzari), were Al ʽAdhārā (ألعذاري), the Virgins.
+Wezen is a supergiant of class F8 with a radius around 237 times that of the Sun. Its surface temperature is around 5,818 K, and it weighs around 17 solar masses. Its absolute magnitude is –6.87, and it lies around 1,600 light-years away. It is rotating at a speed of around 28 km/s, and hence may take a year to rotate fully. Only around 10 million years old, Wezen has stopped fusing hydrogen in its core. Its outer envelope is beginning to expand and cool, and in the next 100,000 years it will become a red supergiant as its core fuses heavier and heavier elements. Once it has a core of iron, it will collapse and explode as a supernova.
+
+If Wezen were as close to Earth as Sirius is, it would be as bright as a half-full moon.
+Wezen appears on the flag of Brazil, symbolising the state of Roraima.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Wezen in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Canis_Majoris</link>
+</object>

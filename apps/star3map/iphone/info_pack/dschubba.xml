@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Dschubba" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Delta Scorpii (δ Sco, δ Scorpii) is a star in the constellation Scorpius. It has the traditional name Dschubba.
+        
+        Because it is near the ecliptic δ Scorpii is occasionally occulted by the Moon, or (extremely rarely) by planets. It was once used as a spectroscopic standard for the B0 IV classification, but is now considered too unusual and variable.
+        
+        Delta Scorpii is a proper motion member of the Upper Scorpius subgroup of the Scorpius–Centaurus OB association, the nearest such co-moving association of massive stars to the Sun. The Upper Scorpius subgroup contains thousands of young stars with mean age 11 million years at average distance of 470 light years (145 parsecs).
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Dschubba in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Scorpii</link>
+</object>

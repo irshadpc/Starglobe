@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="TIANGONG 1 Satellite details 2011-053A NORAD 37820" type="Satellite">
+	<images><image>tiangong_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+TIANGONG 1 is the first Chinese space laboratory module launched on a critical test flight to demonstrate the vital docking technology required for a future space station. The Tiangong 1 space lab will serve as a space station module prototype for China, which is the third country (after Russia and the United States) to develop the capability to launch astronauts into space and return them safely to Earth. Tiangong 1 measures 34.1 feet (10.4 m) long and has a maximum diameter of 11 feet (3.4 m). The spacecraft features two modules: a resource module with fuel tanks and solar panels for power; and an experiment module with an effective volume of 530 cubic feet (15 cubic meters). China says that's enough volume for three astronauts to live and work. According to Chinese media, the experimentation and living section includes sleeping and exercise facilities. Tiangong means heavenly palace in English.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">37820	</characteristic><characteristic name="Int'l Code">2011-053A</characteristic>
+<characteristic name="Perigee">367.3 km</characteristic>
+<characteristic name="Apogee">382.7 km</characteristic>
+<characteristic name="Inclination">42.8 °</characteristic>
+<characteristic name="Period">91.9 minutes</characteristic>
+<characteristic name="Semi major axis">6746 km</characteristic>
+<characteristic name="Launch date">September 29, 2011</characteristic>
+<characteristic name="Source">People's Republic of China (PRC)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

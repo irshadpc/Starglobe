@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Epsilon Sagittarii" type="Star">
+	<images>
+<image title="Kaus Australis">kaus australis_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Epsilon Sagittarii (Epsilon Sgr, ε Sagittarii, ε Sgr) is a binary star system in the southern zodiac constellation Sagittarius. Its traditional name is Kaus Australis. The apparent visual magnitude of +1.85 makes it the brightest star in the constellation. Based upon parallax measurements, the distance to this star is around 143 light-years (44 parsecs).
+
+The primary component of this binary star system has a stellar classification of B9.5 III, with the luminosity class of III suggesting this is an evolved giant star that has exhausted the supply of hydrogen at its core. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 1.44 ± 0.06 mas, which, at its estimated distance, equates to a physical radius of about 6.8 times the radius of the Sun. This is a close match to the empirically-determined value of 6.9 solar radii. It has about 3.5 times the mass of the Sun and is radiating around 363 times the Sun's luminosity from its outer atmosphere at an effective temperature of 9,960 K. At this heat, the star glows with a blue-white hue.
+This star is spinning rapidly with a projected rotational velocity of 236 km s−1. It has a magnetic field with a strength in the range 10.5–130.5 G and it is an X-ray source with a luminosity of about 1030 erg s−1. The system displays an excess emission of infrared radiation, which suggests the presence of a circumstellar disk of dust. Based upon the temperature of this disk, it is orbiting at a mean separation of 155 AU from the primary.
+As of 2001, the secondary companion is located at an angular separation of 2.392 arcseconds from the primary along a position angle of 142.3°. At the distance of this system, this angle is equivalent to a physical separation of about 106 AU, which places it inside the debris disk. It is a main sequence star with about 95% of the mass of the Sun. Prior to its 1993 identification using an adaptive optics coronagraph, this companion may have been responsible for the spectral anomalies that were attributed to the primary star. There is a candidate stellar companion at an angular separation of 32.3 arcseconds.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Sagittarius</characteristic>
+<characteristic name="Right ascension">18h 24m 10.31840s</characteristic>
+<characteristic name="Declination">–34° 23′ 04.6193″</characteristic>
+<characteristic name="Apparent magnitude (V)">+1.85</characteristic>
+<characteristic name="Spectral type">B9.5 III</characteristic>
+<characteristic name="U−B color index">+0.13</characteristic>
+<characteristic name="B−V color index">–0.03</characteristic>
+<characteristic name="Radial velocity (Rv)">–15 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –39.42 mas/yr, Dec.: –124.20 mas/yr</characteristic>
+<characteristic name="Parallax (π)">22.76 ± 0.24mas</characteristic>
+<characteristic name="Distance">143 ± 2 ly (43.9 ± 0.5 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–1.41</characteristic>
+<characteristic name="Mass">3.515 ± 0.138 M☉</characteristic>
+<characteristic name="Radius">6.8 R☉</characteristic>
+<characteristic name="Luminosity">363 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.50 cgs</characteristic>
+<characteristic name="Temperature">9,960 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">236 km/s</characteristic>
+<characteristic name="Age">232 Myr</characteristic>
+<characteristic name="Mass">0.95 M☉</characteristic>
+<characteristic name="Luminosity">0.89 L☉</characteristic>
+<characteristic name="Temperature">5,807 K</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Epsilon Sagittarii in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Kaus_Australis</link>
+</object>

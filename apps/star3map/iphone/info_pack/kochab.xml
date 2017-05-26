@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Ursae Minoris" type="Star">
+	<images>
+<image title="Kochab">kochab_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Ursae Minoris (β UMi, β Ursae Minoris) is the brightest star in the bowl of the "Little Dipper" (which is part of the constellation Ursa Minor), and only slightly fainter than Polaris, the northern pole star and brightest star in Ursa Minor. It has the traditional name Kochab. Kochab is 16 degrees from Polaris and has an apparent visual magnitude of 2.08. The distance to this star can be deduced from the parallax measurements made during the Hipparcos, yielding a value of 130.9 light-years (40.1 parsecs).
+Kochab and its neighbor Pherkad are both naked eye stars and are sometimes referred to as the "Guardians of the Pole" or the "Indestructibles". They served as twin pole stars, Earth's North pole stars, from 1500 BC until 500 AD. Neither star was as proximitous to the celestial north pole as Polaris is now. Due to precession of the equinoxes, the previous holder of the title was Thuban, and the next was the present-day Polaris. This succession of pole stars is a result of earth's precessional motion.
+Amateur astronomers can use Kochab as a very precise guide for setting up a telescope, as the celestial north pole is located 43 arcminutes away from Polaris, very close to the line connecting Polaris with Kochab.
+
+This is a giant star with a stellar classification of K4 III. It is 130 times more luminous than the Sun. Kochab has reached a state in its evolution where the outer envelope has expanded to 42 times the girth of the Sun. This enlarged atmosphere is radiating 390 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 4,030 K. This heat gives the star the orange-hued glow of a K-type star.
+By modelling this star based upon evolutionary tracks, the mass of this star can be estimated as 2.2 ± 0.3 that of the Sun. A mass estimate using the interferometrically-measured radius of this star and its spectroscopically-determined surface gravity yields 2.5 ± 0.9 solar masses. The star is known to undergo periodic variations in luminosity over roughly 4.6 days, with the astroseismic frequencies depending sensitively on the star's mass. From this, a much lower mass estimate of 1.3 ± 0.3 solar is reached.
+The origin of the name Kochab is from Arabic الكوكب al-kawkab "the star", short for الكوكب الشمالي al-kawkab al-šamāliyy "the north star" (lit. heavenly body), a name shared with Polaris and may be the star called ΠολΟς Polos by the ancient Greeks in an era when it was nearer the pole.
+In Chinese, 北極 (Běi Jí), meaning North Pole, refers to an asterism consisting of β Ursae Minoris, γ Ursae Minoris, 5 Ursae Minoris, 4 Ursae Minoris and Σ 1694.  Consequently, β Ursae Minoris itself is known as 北極二 (Běi Jí èr, English: the Second Star of North Pole.), representing 帝 (Dì), meaning Emperor.
+Coordinates: 14h 50m 42.3s, +74° 09′ 20″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ursa Minor</characteristic>
+<characteristic name="Right ascension">14h 50m 42.32580s</characteristic>
+<characteristic name="Declination">+74° 09′ 19.8142″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.08</characteristic>
+<characteristic name="Spectral type">K4 III</characteristic>
+<characteristic name="U−B color index">+1.78</characteristic>
+<characteristic name="B−V color index">+1.47</characteristic>
+<characteristic name="Radial velocity (Rv)">+16.96 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −32.61 mas/yr, Dec.: +11.42 mas/yr</characteristic>
+<characteristic name="Parallax (π)">24.91 ± 0.12mas</characteristic>
+<characteristic name="Distance">130.9 ± 0.6 ly (40.1 ± 0.2 pc)</characteristic>
+<characteristic name="Mass">2.2 ± 0.3 M☉</characteristic>
+<characteristic name="Radius">42.06 ± 0.91 R☉</characteristic>
+<characteristic name="Luminosity">390 ± 25 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.83 cgs</characteristic>
+<characteristic name="Temperature">4,030 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.29 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">8 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Ursae Minoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Kochab</link>
+</object>

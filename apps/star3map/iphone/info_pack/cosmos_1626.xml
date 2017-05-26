@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1626" type="Satellite">
+	<images>
+		<image>satellite.png</image>
+	</images>
+	<information>
+	</information>
+	<characteristics>
+		<characteristic name="NORAD ID">15494</characteristic>
+		<characteristic name="Int'l Code">1985-009A</characteristic>
+		<characteristic name="Perigee">504.7 km</characteristic>
+		<characteristic name="Apogee">509.8 km</characteristic>
+		<characteristic name="Inclination">82.5 °</characteristic>
+		<characteristic name="Period">94.6 minutes</characteristic>
+		<characteristic name="Semi major axis">6878 km</characteristic>
+		<characteristic name="Launch date">January 24, 1985</characteristic>
+		<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

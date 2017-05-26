@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Becrux" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Beta Crucis (β Crucis, abbreviated Beta Cru, β Cru), also named Mimosa, is a binary star system; the second brightest star in the constellation of Crux (after Alpha Crucis or Acrux) and the 19th brightest star in the night sky. It forms part of the prominent asterism called the Southern Cross.
+        
+        Beta Crucis is believed to be the hottest first-magnitude star, with an apparent visual magnitude of 1.25. Based on parallax measurements, it is located at a distance of 280 ly (86 pc) from the Earth. In 1957, German astronomer Wulff-Dieter Heintz discovered that it is a spectroscopic binary with components that are too close together to resolve with a telescope. The pair orbit each other every 5 years with an estimated separation that varies from 5.4 to 12.0 Astronomical Units. The system is only 8 to 11 million years old.
+        
+        The primary, Beta Crucis A, is a massive star with about 16 times the Sun's mass. The projected rotational velocity of this star is about 35 km s−1. However, the orbital plane of the pair is only about 10°, which probably means the inclination of the star's pole is also likely to be low. This suggests that the azimuthal rotational velocity is quite high, at about 120 km s−1. With a radius of about 8.4 times the radius of the Sun, this would mean the star has a rotational period of only about 3.6 days.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Becrux in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Crucis</link>
+</object>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Rhea" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Rhea_1.jpg</image>
+        <image title="">Rhea_2.jpg</image>
+        <image title="">Rhea_3.jpg</image>
+	</images>
+	<information>
+Rhea is the second-largest moon of Saturn and the ninth-largest moon in the Solar System. It is the second smallest body in the Solar System, after the asteroid and dwarf planet Ceres, for which precise measurements have confirmed a shape consistent with hydrostatic equilibrium. It was discovered in 1672 by Giovanni Domenico Cassini.
+
+Rhea is an icy body with a density of about 1.236 g/cm3. This low density indicates that it is made of ~25% rock (density ~3.25 g/cm3) and ~75% water ice (density ~0.93 g/cm3). Although Rhea is the ninth-largest moon, it is only the tenth-most-massive moon.
+
+Earlier it was assumed that Rhea had a rocky core in the center. However measurements taken during a close flyby by the Cassini orbiter in 2005 (see below) cast this into doubt. In a paper published in 2007 it was claimed that the axial dimensionless moment of inertia coefficient was 0.4. Such a value indicated that Rhea had an almost homogeneous interior (with some compression of ice in the center) while the existence of a rocky core would imply a moment of inertia of about 0.34. In the same year another paper claimed the moment of inertia was about 0.37[e] implying that Rhea was partially differentiated. A year later yet another paper claimed that the moon may not be in hydrostatic equilibrium meaning that the moment of inertia can not be determined from the gravity data alone. In 2008 an author of the first paper tried to reconcile these three disparate results. He concluded that there is a systematic error in the Cassini radio Doppler data used in the analysis, but after restricting the analysis to a subset of data obtained closest to the moon, he arrived at his old result that Rhea was in hydrostatic equilibrium and had the moment inertia of about 0.4, again implying a homogeneous interior.
+
+The triaxial shape of Rhea is consistent with a homogeneous body in hydrostatic equilibrium rotating at Rhea's angular velocity.
+
+Models suggest that Rhea could be capable of sustaining an internal liquid-water ocean through heating by radioactive decay.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Rhea in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Rhea_(moon)</link>
+</object>

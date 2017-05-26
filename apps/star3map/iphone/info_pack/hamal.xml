@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Arietis" type="Star">
+	<images>
+<image title="Hamal">hamal_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Arietis (α Ari, α Arietis) is the Bayer designation for the brightest star in the northern zodiacal constellation of Aries. It has the traditional name Hamal, which comes from the Arabic phrase for "head of the ram", and the Flamsteed designation of 13 Arietis. With an apparent visual magnitude of 2.0, it is among the brightest stars in the night sky. Based upon parallax measurements made with Hipparcos astrometry satellite, α Arietis is about 65.8 light-years (20.2 parsecs) from Earth. It is a giant star that may host an orbiting planet with a mass greater than Jupiter.
+
+The spectrum of this star matches a stellar classification of K2 III Ca-1, with the luminosity class of III indicating that it is an evolved giant star that has exhausted the supply of hydrogen at its core and is now on the red giant branch. The 'Ca-1' portion of the classification indicates that it shows weaker than normal lines of calcium in its spectrum. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is estimated to have about 50% more mass than the Sun, while interferometric measurements show it to be 15 times larger in diameter. Despite its enlarged girth, this star is still spinning with a slightly faster equatorial azimuthal velocity than the Sun, having a projected rotational velocity of 3.44 km s−1.
+Alpha Arietis is radiating about 91 times the Sun's luminosity from its outer envelope at an effective temperature of 4,480 K. This is cooler than the surface of the Sun, giving it the orange-hued glow of a K-type star. It is suspected to be slightly variable, with an amplitude of 0.06 magnitude. The abundance of elements other than hydrogen and helium, what astronomers term the star's metallicity, is only around half that in the Sun.
+In 2011, the likely presence of a planet in orbit around this star was reported by Byeong-Cheol Lee et al. It was detected using the radial velocity method, based upon measurements made between 2003 and 2010 at the Bohyunsan Optical Astronomy Observatory in Korea. The object has an orbital period of 381 days and an eccentricity of 0.25. The lower bound on this object's mass is about 1.8 times the mass of Jupiter. The estimated semi-major axis of the planet's orbit is 1.2 astronomical units (AU), which would give it a periapsis distance of 0.9 AU and an apoapsis distance of 1.5 AU. By comparison, the star has a radius of 0.07 AU.
+Hamal's orientation with relation to the Earth's orbit around the Sun gives it a certain importance not apparent from its modest brightness. Between 2000 and 100 BCE, the apparent path of the Sun through the Earth's sky placed it in Aries at the northern vernal equinox, the point in time marking the start of spring in the Northern Hemisphere. This is why most astrology columns in modern newspapers begin with Aries. While the vernal equinox has moved to Pisces since then due to precession of the equinoxes, Hamal has remained in mind as a bright star near what was apparently an important place when people first studied the night sky.
+The name Hamal (also written Hemal, Hamul, Ras Hammel) derives from the Arabic راس الحمل rās al-ħamal "head of the ram", in turn from the name for the constellation as a whole, Al Ħamal "the ram". In Chinese, 婁宿 (Lóu Su), meaning Bond (asterism), refers to an asterism consisting of α Arietis, β Arietis and γ Arietis. Consequently, α Arietis itself is known as 婁宿三 (Lóu Su sān, English: the Third Star of Bond.) The other name of Hamal, Hamul, is used for the name of United States navy ship, USS Hamul (AD-20).
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Aries</characteristic>
+<characteristic name="Right ascension">02h 07m 10.40570s</characteristic>
+<characteristic name="Declination">+23° 27′ 44.7032″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.00</characteristic>
+<characteristic name="Spectral type">K2 III Ca-1</characteristic>
+<characteristic name="U−B color index">+1.13</characteristic>
+<characteristic name="B−V color index">+1.15</characteristic>
+<characteristic name="V−R color index">+0.7</characteristic>
+<characteristic name="R−I color index">+0.62</characteristic>
+<characteristic name="Variable type">Suspected</characteristic>
+<characteristic name="Radial velocity (Rv)">−14.2 ± 0.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +188.55 mas/yr, Dec.: −148.08 mas/yr</characteristic>
+<characteristic name="Parallax (π)">49.56 ± 0.25mas</characteristic>
+<characteristic name="Distance">65.8 ± 0.3 ly (20.2 ± 0.1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">+0.47 ± 0.04</characteristic>
+<characteristic name="Mass">1.5 ± 0.2 M☉</characteristic>
+<characteristic name="Radius">14.9 ± 0.3 R☉</characteristic>
+<characteristic name="Luminosity (bolometric)">91 ± 6 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.57 cgs</characteristic>
+<characteristic name="Temperature">4,480 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.25 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">3.44 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Arietis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Hamal</link>
+</object>

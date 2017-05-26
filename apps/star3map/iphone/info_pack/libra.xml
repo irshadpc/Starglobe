@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Libra (constellation)" type="Constellation">
+	<images>
+<image title="Libra (constellation)">libra_1.png</image>
+<image title="">libra__3.jpg</image>
+<image title="">libra__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Libra /ˈliːbrə/ is a constellation of the zodiac. Its name is Latin for weighing scales, and its symbol is  (Unicode ♎). It is fairly faint, with no first magnitude stars, and lies between Virgo to the west and Scorpius to the east.
+
+The brightest stars in Libra form a quadrangle that distinguishes it for the unaided observer. Alpha Librae, called Zubenelgenubi, is a binary star divisible in binoculars, 77 light-years from Earth. The primary is a blue-white star of magnitude 2.7 and the secondary is a white star of magnitude 5.2. Its traditional name means "the southern claw". Zubeneschamali (Beta Librae) is the corresponding "northern claw" to Zubenelgenubi. The brightest star in Libra, it is a green-tinged star of magnitude 2.6, 160 light-years from Earth. Gamma Librae is called Zubenelakrab, which means "the scorpion's claw", completing the suite of names referring to Libra's archaic status. It is an orange giant of magnitude 3.9, 152 light-years from Earth.
+Libra is home to several other binary and double stars. Iota Librae is a complex multiple star, 377 light-years from Earth, with both optical and true binary components. The primary appears as a blue-white star of magnitude 4.5; it is a binary star indivisible in even the largest amateur instruments with a period of 23 years. The secondary, visible in small telescopes as a star of magnitude 9.4, is a binary with two components, magnitudes 10 and 11. There is an optical companion to Iota Librae; 25 Librae is a star of magnitude 6.1, 219 light-years from Earth and visible in binoculars. Mu Librae is a binary star divisible in medium-aperture amateur telescopes, 235 light-years from Earth. The primary is of magnitude 5.7 and the secondary is of magnitude 6.8.
+There are many variable stars in Libra as well. Delta Librae is an Algol-type eclipsing variable star, 304 lightyears from Earth. It has a period of 2 days, 8 hours; its minimum magnitude of 5.9 and its maximum magnitude is 4.9. FX Librae, designated 48 Librae, is a shell star of magnitude 4.9. Shell stars, like Pleione and Gamma Cassiopeiae, are blue supergiants with irregular variations caused by their abnormally high speed of rotation. This ejects gas from the star's equator.
+σ Librae was formerly known as γ Scorpii despite being well inside the boundaries of Libra. It was not redesignated as σ Librae until 1851 (by Benjamin A. Gould).
+Libra is home to one bright globular cluster, NGC 5897. It is a loose cluster, 40,000 light-years from Earth; it is fairly large and has an integrated magnitude of 9.
+Libra is home to the star Gliese 581, which has a planetary system consisting of at least 6 planets. Both Gliese 581 d, and Gliese 581 g are debatably the most promising candidates for life, although Gliese 581 g's existences has been disputed and has not been entirely confirmed or agreed on in the scientific community.Gliese 581 c is considered to be the first Earth-like extrasolar planet to be found within its parent star's habitable zone. Gliese 581 e is possibly the smallest mass exoplanet orbiting a normal star found to date  All of these exoplanets are of significance for establishing the likelihood of life outside of the Solar System.
+The family of candidate habitable planets was extended in late September 2010 to include exoplanets around red dwarf stars because of Gliese 581 g, which is a tidally locked planet in the middle of the habitable zone. Weather studies show that tidally locked planets may still have the ability to support life.
+Libra was known in Babylonian astronomy as MUL Zibanu (the "scales" or "balance"), or alternatively as the Claws of the Scorpion. The scales were held sacred to the sun god Shamash, who was also the patron of truth and justice. It was also seen as the Scorpion's Claws in ancient Greece. Since these times, Libra has been associated with law, fairness and civility. In Arabic zubānā means "scorpion's claws", and likely similarly in other Semitic languages: this resemblance of words may be why the Scorpion's claws became the Scales. It has also been suggested that the scales are in allusion to the fact that when the sun entered this part of the ecliptic at the autumnal equinox, the days and nights are equal. Libra's status as the location of the equinox earned the equinox the name "First Point of Libra", though its position ended in 730 because of the precession of the equinoxes.
+Libra is a constellation not mentioned by Eudoxus or Aratus. In Roman mythology, Libra is considered to depict the scales held by Astraea (identified as Virgo), the goddess of justice. Libra is mentioned by Manetho (3rd century B.C.) and Geminus (1st century B.C.), and included by Ptolemy in his 48 asterisms. Ptolemy catalogued 17 stars, Tycho Brahe 10, and Johannes Hevelius 20. It only became a constellation in ancient Rome, when it began to represent the scales held by Astraea, associated with Virgo.
+Libra is the only zodiac sign that does not symbolize a living creature.
+As of 2002, the Sun appears in the constellation Libra from October 31 to November 22. In tropical astrology, the Sun is considered to be in the sign Libra from September 23 to October 22, and in sidereal astrology, from October 16 to November 15.
+Traditionally, α and β Librae are considered to represent the scales' balance beam, and γ and σ are the weighing pans.
+H.A. Rey has suggested a way to connect the stars more fully to graphically show a balance. Beta Librae represents the top of the balance, Gamma Librae and Alpha Librae represent the balance beam. Upsilon Librae and Tau Librae represent the left plate of the balance, while Sigma Librae represents the right plate. All these stars are of the third magnitude.
+USS Libra (AKA-12) was a United States navy ship named after the constellation.
+Coordinates: 15h 00m 00s, −15° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Lib</characteristic>
+<characteristic name="Genitive">Librae</characteristic>
+<characteristic name="Pronunciation">/ˈliːbrə/, genitive /ˈliːbraɪ/</characteristic>
+<characteristic name="Symbolism">the balance</characteristic>
+<characteristic name="Right ascension">15</characteristic>
+<characteristic name="Declination">−15</characteristic>
+<characteristic name="Family">Zodiac</characteristic>
+<characteristic name="Quadrant">SQ3</characteristic>
+<characteristic name="Area">538 sq. deg. (29th)</characteristic>
+<characteristic name="Main stars">4, 6</characteristic>
+<characteristic name="Bayer/Flamsteed stars">46</characteristic>
+<characteristic name="Stars with planets">3</characteristic>
+<characteristic name="Stars brighter than 3.00m">2</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">5</characteristic>
+<characteristic name="Brightest star">Zubeneschamali (β Lib) (2.61m)</characteristic>
+<characteristic name="Nearest star">Gliese 570 (19.20 ly, 5.89 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">May Librids</characteristic>
+<characteristic name="Bordering constellations">Serpens Caput, Virgo, Hydra, Centaurus (corner), Lupus, Scorpius, Ophiuchus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +65° and −90°. Best visible at 21:00 (9 p.m.) during the month of June.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Libra (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Libra_(constellation)</link>
+</object>

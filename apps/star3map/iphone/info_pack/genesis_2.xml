@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="GENESIS 2 Satellite details 2007-028A NORAD 31789" type="Satellite">
+	<images><image>genesis_2.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Genesis II is the second experimental pathfinder spacecraft designed to test and confirm systems for future manned commercial space modules planned by Las Vegas-based Bigelow Aerospace The privately-funded space station module was launched atop a Dnepr rocket at 8:02 a.m. PDT from the ISC Kosmotras Yasny Cosmodrome, located in the Orenburg region of Russia, and was inserted into orbit at 8:16 a.m. PDT at an inclination of 64 degrees.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">31789	</characteristic><characteristic name="Int'l Code">2007-028A</characteristic>
+<characteristic name="Perigee">532.7 km</characteristic>
+<characteristic name="Apogee">555.9 km</characteristic>
+<characteristic name="Inclination">64.5 °</characteristic>
+<characteristic name="Period">95.4 minutes</characteristic>
+<characteristic name="Semi major axis">6915 km</characteristic>
+<characteristic name="Launch date">June 28, 2007</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

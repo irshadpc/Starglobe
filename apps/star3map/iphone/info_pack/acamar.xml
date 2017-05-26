@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Acamar" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Theta Eridani (θ Eridani, abbreviated Theta Eri, θ Eri), also named Acamar, is a binary star in the constellation of Eridanus. Its distance from the Sun as measured by the Hipparcos astrometry satellite is approximately 120 light-years.
+
+Theta Eridani is the star's Bayer designation. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016[ included a table of the first two batches of names approved by the WGSN; which included Acamar for this star.
+
+The term Ākhir an-nahr or Achr al Nahr appeared in the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, which was translated into Latin as Postrema Fluminis.
+
+Historically, Acamar represented the end of the constellation Eridanus. Now that distinction is held by the star Achernar, which shares the same Arabic etymology. Achernar is not visible from the Greek isles (latitudes > 33° North), hence the choice of Acamar as the river's end during the time of Hipparchus and later Ptolemy.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Acamar in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Theta_Eridani</link>
+</object>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Columba (constellation)" type="Constellation">
+	<images>
+<image title="Columba (constellation)">columba_1.png</image>
+<image title="">columba__2.jpg</image>
+<image title="">columba__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Columba is a small, faint constellation created in the late sixteenth century. Its name is Latin for dove. It is located just south of Canis Major and Lepus.
+
+Columba was created by Dutch astronomer Petrus Plancius in 1592 in order to differentiate the 'unformed stars' of the large constellation Canis Major. Plancius first depicted Columba on the small celestial planispheres of his large wall map of 1592. It is also shown on his smaller world map of 1594 and on early Dutch celestial globes.
+Plancius originally named the constellation Columba Noachi ("Noah's Dove"), referring to the dove that gave Noah the information that the Great Flood was receding. This name is found on early 17th-century celestial globes and star atlases (such as Bayer's Uranometria of 1603). Columba may also represent the dove released by Jason and the Argonauts at the Black Sea's mouth; it helped them navigate the dangerous Symplegades.
+Although the Plancius is credited with the creation of Columba, the existence of a "dove" constellation was attested to by Clement of Alexandria (c. 150-215), although it is not known whether the same group of stars was contemplated. In addition, given the mythological linkage of Columba with Jason and the Argonauts, the celestial location of Columba over Puppis, part of the larger constellation once known as Argo Navis (the ship of the Argonauts), supports an ancient derivation of this constellation, despite its notable omission by Ptolemy.
+In the Society Islands, Alpha Columbae (Phaet) was called Ana-iva.
+Columba is rather inconspicuous, the brightest star, Alpha Columbae, being only of magnitude 2.7. Alpha Columbae, a blue-white star, is traditionally called Phact, which means "ring dove". Alpha Columbae is 268 light-years from Earth. The only other named star in Columba is Beta Columbae, which has the name Wazn. It is an orange-hued giant star of magnitude 3.1, 86 light-years from Earth.
+Columba is the constellation that is at the solar antapex - the Earth (and Sun) is moving away from its direction as the solar system moves through space.
+The constellation contains the runaway star μ Columbae, which was probably expelled from the ι Orionis system.
+There is one globular cluster in Columba, 7th-magnitude NGC 1851. It is 35,000 light-years from Earth and is resolvable in medium-sized amateur telescopes.
+Coordinates: 06h 00m 00s, −35° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Col</characteristic>
+<characteristic name="Genitive">Columbae</characteristic>
+<characteristic name="Pronunciation">/kəˈlʌmbə/, genitive /kəˈlʌmbiː/</characteristic>
+<characteristic name="Symbolism">the dove</characteristic>
+<characteristic name="Right ascension">05h 03m 53.8665s – 06h 39m 36.9263s</characteristic>
+<characteristic name="Declination">−27.0772038° – −43.1116486°</characteristic>
+<characteristic name="Area">270 sq. deg. (54th)</characteristic>
+<characteristic name="Main stars">5</characteristic>
+<characteristic name="Bayer/Flamsteed stars">18</characteristic>
+<characteristic name="Stars with planets">1</characteristic>
+<characteristic name="Stars brighter than 3.00m">1</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">0</characteristic>
+<characteristic name="Brightest star">α Col (Phact) (2.65m)</characteristic>
+<characteristic name="Nearest star">Gliese 218 (48.89 ly, 14.99 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">None</characteristic>
+<characteristic name="Bordering constellations">Lepus, Caelum, Pictor, Puppis, Canis Major</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +45° and −90°. Best visible at 21:00 (9 p.m.) during the month of February.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Columba (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Columba_(constellation)</link>
+</object>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Wild Duck Cluster" type="Galaxies">
+	<images>
+		<image title="The Wild Duck Cluster (M11-NGC 6705)">m 11_1.jpg</image>
+	</images>
+	<information>
+The Wild Duck Cluster (also known as Messier 11, or NGC 6705) is an open cluster in the constellation Scutum. It was discovered by Gottfried Kirch in 1681. Charles Messier included it in his catalogue in 1764.
+The Wild Duck Cluster is one of the richest and most compact of the known open clusters, containing about 2900 stars. Its age has been estimated to about 220 million years. Its name derives from the brighter stars forming a triangle which could represent a flying flock of ducks.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Scutum</characteristic>
+		<characteristic name="Right ascension">18h 51.1m</characteristic>
+		<characteristic name="Declination">−06° 16′</characteristic>
+		<characteristic name="Distance">6,200 ly (1,900 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.3</characteristic>
+		<characteristic name="Apparent dimensions (V)">14.0′</characteristic>
+		<characteristic name="Estimated age">220 million years</characteristic>
+		<characteristic name="Other designations">Messier 11, NGC 6705</characteristic>
+	</characteristics>
+	<link title="Get more info about Wild Duck Cluster in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Wild_Duck_Cluster</link>
+</object>

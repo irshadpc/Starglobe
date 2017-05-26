@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1953 Satellite details 1988-050A NORAD 19210" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cosmos 1953 was a Soviet ELINT (Electronic and Signals Intelligence) satellite launched from the Plesetsk cosmodrome. From 1965 to 1967 two dedicated ELINT systems were tested: the Tselina and the Navy's US. Both reached service, since the Ministry of Defence could not force a single system on the military services.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">19210	</characteristic><characteristic name="Int'l Code">1988-050A</characteristic>
+<characteristic name="Perigee">560.9 km</characteristic>
+<characteristic name="Apogee">578.7 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">95.9 minutes</characteristic>
+<characteristic name="Semi major axis">6940 km</characteristic>
+<characteristic name="Launch date">June 14, 1988</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

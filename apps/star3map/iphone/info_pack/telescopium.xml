@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Telescopium" type="Constellation">
+	<images>
+<image title="Telescopium">telescopium_1.png</image>
+<image title="">telescopium__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Telescopium is a minor southern constellation created in the 18th century by Nicolas Louis de Lacaille, a French astronomer and student of the southern skies. Its name is a Latinized form of the Greek word for telescope. It was created in honor of the telescope's invention.
+The brightest star in the constellation is Alpha Telescopii, a blue-white subgiant with an apparent magnitude of 3.5, followed by the orange giant star Zeta Telescopii at magnitude 4.1.
+Telescopium was introduced in 1751-52 by Nicolas Louis de Lacaille with the French name le Telescope, depicting an aerial telescope. It stretched out northwards between Sagittarius and Scorpio.Johann Bode called it the Astronomische Fernrohr in his 1805 Gestirne and kept its size, but Baily and Gould subsequently shrank its boundaries. The much reduced constellation lost several brighter stars to neighbouring constellations: Beta Telescopii became Eta Sagittarii, which it had been before Lacaille placed it in Telescopium, Gamma was placed in Scorpio and renamed G Scorpii by Benjamin Gould, Theta Telescopii reverted to its old appellation of d Ophiuchi, and Sigma Telescopii was placed in Corona Australis. Initially unnamed, it is now known as HR 6875.
+Telescopium was periodically called "Tubus Astronomicus"; this name is now deprecated.
+A small constellation, Telescopium is bordered by Sagittarius and Corona Australis to the north, Ara to the west, Pavo to the south, and Indus to the east, cornering on Microscopium to the northeast. The three-letter abbreviation for the constellation, as adopted by the International Astronomical Union in 1922, is 'Tel'. The official constellation boundaries, as set by Eugène Delporte in 1930, are defined by a polygon of four segments. In the equatorial coordinate system, the right ascension coordinates of these borders lie between 18h 09.1m and 20h 29.5m, while the declination coordinates are between −45.09° and −56.98°.
+There are no European names for stars in this constellation. The Chinese did assign names to α Tel (We, meaning danger), and γ Tel (the present-day G Scorpii) as Chuen Shwo, with a mythological meaning.
+With an apparent magnitude of 3.5, Alpha Telescopii is the brightest star in the constellation. It is a blue-white subgiant of spectral type B3IV which lies around 250 light years away. Close by Alpha are the two blue-white stars sharing the designation of Delta Telescopii. Delta¹ is of spectral type B6IV and apparent magnitude 4.9, while Delta² is of spectral type B3III and magnitude 5.1. They form an optical double, as the stars are 800 and 1120 light years away respectively. The second brightest star in the constellation is Zeta Telescopii of apparent magnitude 4.1 and spectral type K1III-IV. 127 light years distant, it has been described as yellow, or reddish in appearance.Epsilon Telescopii is another double star, though this time a true binary system. Epsilon Telescopii A is an orange giant of spectral type K0III with an apparent magnitude of +4.52, with a 13th magnitude companion, Epsilon Telescopii B, 21 arcseconds away from the primary, and just visible with a 15 cm telescope on a dark night. The system is 409 light years away.Kappa Telescopii is a yellow giant with a spectral type G9III and apparent magnitude of 5.18. It is approximately 293 light years from Earth, and is another optical double.RR Telescopii, also designated Nova Telescopium 1948, often called a slow nova is now classified as a symbiotic nova system composed of an M5III pulsating red giant and a white dwarf; between 1944 and 1948 it brightened by about 7 magnitudes before being noticed at apparent magnitude 6.0 in mid-1948. It has since faded slowly to about apparent magnitude 12.
+The globular cluster NGC 6584 lies near Theta Arae and is 45000 light years distant. It is an Oosterhoff type I cluster, and contains at least 59 variable stars, most of which are RR Lyrae variables. The planetary nebula IC 4699 is of 13th magnitude and lies midway between Alpha and Epsilon Telescopii.
+There are a group of twelve galaxies spanning three degrees in the northeastern part of the constellation. They lie around 120 million light years from our own galaxy. This group is known as the Telescopium group or AS0851. The brightest is the elliptical galaxy NGC 6868. To the west lies the spiral galaxy NGC 6861. These are the brightest members of two respective subgroups within the galaxy group, and are heading toward a merger in the future.
+On September 9, 2012, Voyager 2 was 99.077 AU (1.48217×10^10 km; 9.2098×10^9 mi) from the Earth and 99.504 AU (1.48856×10^10 km; 9.2495×10^9 mi) from the Sun; and traveling at 15.436 km/s (34,530 mph) (relative to the Sun) and traveling outward at about 3.256 AU per year. Sunlight takes 13.73 hours to get to Voyager 2. The brightness of the Sun from the spacecraft is magnitude -16.7. Voyager 2 is heading in the direction of the constellation Telescopium.
+Coordinates: 19h 00m 00s, −50° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Tel</characteristic>
+<characteristic name="Genitive">Telescopii</characteristic>
+<characteristic name="Pronunciation">/ˌtɛlɨˈskɒpiəm/, genitive /ˌtɛlɨˈskɒpi.aɪ/</characteristic>
+<characteristic name="Symbolism">the Telescope</characteristic>
+<characteristic name="Right ascension">19</characteristic>
+<characteristic name="Declination">−50</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ4</characteristic>
+<characteristic name="Area">252 sq. deg. (57th)</characteristic>
+<characteristic name="Main stars">2</characteristic>
+<characteristic name="Bayer/Flamsteed stars">13</characteristic>
+<characteristic name="Stars with planets">0</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">2</characteristic>
+<characteristic name="Brightest star">α Tel (3.49m)</characteristic>
+<characteristic name="Nearest star">Gliese 754 (19.35 ly, 5.93 pc)</characteristic>
+<characteristic name="Messier objects">none</characteristic>
+<characteristic name="Bordering constellations">Ara, Corona Australis, Indus, Microscopium (corner), Pavo, Sagittarius</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +40° and −90°. Best visible at 21:00 (9 p.m.) during the month of August.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Telescopium in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Telescopium</link>
+</object>

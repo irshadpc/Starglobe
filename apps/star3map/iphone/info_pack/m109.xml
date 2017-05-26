@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 109" type="Galaxies">
+	<images>
+		<image title="Amateur Image of Messier 109">m 109_1.jpg</image>
+	</images>
+	<information>
+Messier 109 (also known as NGC 3992) is a barred spiral galaxy approximately 83.5 ± 24 million light-years away in the constellation Ursa Major. M109 can be seen southeast of the star Phecda (γ UMa).
+Messier 109 was discovered by Pierre Méchain in 1781. In 1783 Charles Messier catalogued NGC 3992 as his 109th object.
+Between the 1920s through the 1950s, it was considered that Messier objects over 103 were not official, but in later years the additions became more widely accepted. David H. Levy mentions the modern 110 object catalog while Sir Patrick Moore gave the original to 104 but has M105-M109 listed as an addendum. By the late 1970s all 110 objects are commonly used among astronomers as they still are today.
+In March 1956, supernova 1956A was observed in M109. SN 1956A was a type Ia supernova in the southeast part of the galaxy, glowing at magnitude 12.8 to 12.3 at its maximum. SN 1956A has been the only supernova observed in M109 since its discovery. It is also by far the most distant object in the Messier Catalog, followed by M91
+M109 has three satellite galaxies (UGC 6923, UGC 6940 and UGC 6969) and possibly might have more. Detailed hydrogen line observations have been obtained from M109 and its satellites. M109's H I distribution is regular with a low level radial extension outside the stellar disc, while at exactly the region of the bar, there is a central H I hole in the gas distribution. Possibly the gas has been transported inwards by the bar, and because of the emptiness of the hole no large accretion events can have happened in the recent past.
+M109 is the brightest galaxy in the M109 Group, a large group of galaxies located in the constellation Ursa Major that may contain over 50 galaxies.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Ursa Major</characteristic>
+		<characteristic name="Right ascension">11h 57m 36.0s</characteristic>
+		<characteristic name="Declination">+53° 22′ 28″</characteristic>
+        <characteristic name="Apparent dimensions (V)">7.6 × 4.7 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.6</characteristic>
+        <characteristic name="Type">SB(rs)bc, LINER/HII</characteristic>
+        <characteristic name="Heliocentric radial velocity">1048 ± 1 km/s</characteristic>
+		<characteristic name="Redshift">0.003496 ± 0.000004</characteristic>
+		<characteristic name="Galactocentric velocity">1121 ± 3 km/s</characteristic>
+        <characteristic name="Distance">83.5 ± 24 Mly (25.60 ± 7.36 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 3992, MCG +09-20-044, PGC 037617, IRAS 11549+5339, UGC 6937</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 109 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_109</link>
+</object>

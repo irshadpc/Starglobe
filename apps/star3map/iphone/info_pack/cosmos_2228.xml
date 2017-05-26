@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 2228 Satellite details 1992-094A NORAD 22286" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">22286	</characteristic><characteristic name="Int'l Code">1992-094A</characteristic>
+<characteristic name="Perigee">603.2 km</characteristic>
+<characteristic name="Apogee">634.5 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">96.9 minutes</characteristic>
+<characteristic name="Semi major axis">6989 km</characteristic>
+<characteristic name="Launch date">December 25, 1992</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

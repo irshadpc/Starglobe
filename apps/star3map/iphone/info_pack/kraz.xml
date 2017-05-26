@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Kraz" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+        Beta Corvi (Beta Crv, β Corvi, β Crv) is the second brightest star in the southern constellation of Corvus. It has the traditional name Kraz. The origin and meaning of this name remains uncertain.
+        
+        Beta Corvi has about 3.7 times the Sun's mass and is roughly 206 million years old, which is old enough for a star of this mass to consume the hydrogen at its core and evolve away from the main sequence. The stellar classification is G5 II, with the luminosity class of 'II' indicating this is a bright giant. The effective temperature of the star's outer envelope is about 5,100 K, which produces a yellow hue common to G-type stars.
+        
+        The measured angular diameter of this star is 3.30 ± 0.17 mas. At an estimated distance of 146 light-years (45 parsecs),[1] this yields a physical size of about 16 times the radius of the Sun. Because of the star's mass and radius, it is emitting about 164 times the luminosity of the Sun. The abundance of elements other than hydrogen or helium, what astronomers term metallicity, is similar to the proportions in the Sun.
+        
+        This is a variable star that ranges in apparent visual magnitude from a low of 2.66 to a high of 2.60.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Kraz in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Corvi</link>
+</object>

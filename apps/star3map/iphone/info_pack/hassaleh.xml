@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Hassaleh" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Iota Aurigae is a star in the northern constellation of Auriga. It has the traditional name Al Kab, short for Kabdhilinan, from the Arabic الكعب ذي العنان al-kacb ðīl-cinān "the shoulder of the rein holder (charioteer)".[11] Under the name Alkab, this star is a marker on the astrolabe described by Geoffrey Chaucer in his Treatise on the Astrolabe in 1391. In Antonín Bečvář's atlas it has the traditional name Hassaleh. It is known as 五車一 (the First Star of the Five Chariots) in Chinese.
+        
+        This star has an apparent visual magnitude of 2.7, which is bright enough to be readily visible to the naked eye. Parallax measurements give a distance estimate of roughly 490 light-years (150 parsecs) from the Earth. At this distance, extinction from interstellar dust is causing a magnitude reduction of about 0.6. Examination of the spectrum yields a stellar classification of K3 II, with the luminosity class of 'II' indicating this is a category of evolved star known as a bright giant. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The effective temperature of the outer envelope is 4,160 K, which is cooler than the Sun's effective temperature and gives Iota Aurigae the orange hue of a K-type star.
+        
+        This star is a weak X-ray emitter with an X-ray luminosity of about 1.8 × 1027 ergs s−1. This emission is most likely coming from transient loops of plasma in Iota Aurigae's outer atmosphere, which have a temperature of around 3 million K. This is a suspected variable star, although this variability remains unconfirmed.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Hassaleh in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Iota_Aurigae</link>
+</object>

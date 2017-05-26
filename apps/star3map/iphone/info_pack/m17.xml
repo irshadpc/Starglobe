@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Omega Nebula" type="Galaxies">
+	<images>
+		<image title="Composite images obtained with the 3.58-metre NTT at La Silla Observatory.">m 17_1.jpg</image>
+		<image title="Section of the nebula">m 17_2.jpg</image>
+		<image title="A drawing of the nebula by John Herschel in 1833.">m 17_3.jpg</image>
+		<image title="Herschel's second drawing in 1837.">m 17_4.jpg</image>
+		<image title="A sketch by Trouvelot in 1875.">m 17_5.jpg</image>
+		<image title="First released VLT Survey Telescope image shows the star-forming region Messier 17. Credit ESO.">m 17_6.jpg</image>
+	</images>
+	<information>
+The Omega Nebula, also known as the Swan Nebula, Checkmark Nebula, Lobster Nebula, and the Horseshoe Nebula (catalogued as Messier 17 or M17 and as NGC 6618) is an H II region in the constellation Sagittarius. It was discovered by Philippe Loys de Chéseaux in 1745. Charles Messier catalogued it in 1764. It is located in the rich starfields of the Sagittarius area of the Milky Way.
+The Omega Nebula is between 5,000 and 6,000 light-years from Earth and it spans some 15 light-years in diameter. The cloud of interstellar matter of which this nebula is a part is roughly 40 light-years in diameter and has a mass of 30,000 solar masses. The total mass of the Omega Nebula is an estimated 800 solar masses.
+
+It is considered one of the brightest and most massive star-forming regions of our galaxy. Its local geometry is similar to the Orion Nebula except that it is viewed edge-on rather than face-on.
+
+An open cluster of 35 stars lies embedded in the nebulosity and causes the gases of the nebula to shine due to radiation from these hot, young stars; however the actual number of stars in the nebula is much higher - up to 800, 100 of spectral type earlier than B9, and 9 of spectral type O, plus >1000 stars in formation on its outer regions. It's also one of the youngest clusters known, with an age of just 1 million years.
+
+The luminous blue variable HD 168607, located in the south-east part of the Omega nebula, is generally assumed to be associated with it; its close neighbor, the blue hypergiant HD 168625, may be too.
+
+The Swan portion of M17, the Omega Nebula in the Sagittarius nebulosity is said to resemble a barber’s pole.
+The first attempt to accurately draw the nebula (as part of a series of sketches of nebulae) was made by John Herschel in 1833, and published in 1836. He described the nebula as such:
+“ 	The figure of this nebula is nearly that of a Greek capital omega, Ω, somewhat distorted, and very unequally bright. ... Messier perceived only the bright eastern branch of the nebula now in question, without any of the attached convolutions which were first noticed by my father. The chief peculiarities which I have observed in it are — 1. The resolvable knot in the eastern portion of the bright branch, which is, in a considerable degree, insulated from the surrounding nebula; strongly suggesting the idea of an absorption of the nebulous matter; and, 2. The much feebler and smaller knot at the northwestern end of the same branch, where the nebula makes a sudden bend at an acute angle. 	”
+
+A second, more detailed sketch was made during his visit to South Africa in 1837. The nebula was also studied by Johann von Lamont and separately by an undergraduate at Yale College, Mr Mason, starting from around 1836. When Herschel published his 1837 sketch in 1847, he wrote:
+“ 	In particular the large horseshoe-shaped arc … is there represented as too much elongated in a vertical direction and as bearing altogether too large a proportion to [the eastern] streak and to the total magnitude of the object. The nebulous diffusion, too, at the [western] end of that arc, forming the [western] angle and base-line of the capital Greek omega (Ω), to which the general figure of the nebula has been likened, is now so little conspicuous as to induce a suspicion that some real change may have taken place in the relative brightness of this portion compared with the rest of the nebula; seeing that a figure of it made on June 25, 1837, expresses no such diffusion, but represents the arc as breaking off before it even attains fully to the group of small stars at the [western] angle of the Omega. … Under these circumstances the arguments for a real change in the nebula might seem to have considerable weight. Nevertheless, they are weakened or destroyed by a contrary testimony entitled to much reliance. Mr. Mason ... expressly states that both the nebulous knots were well seen by himself and his coadjutor Mr. Smith on August 1, 1839, i.e., two years subsequent to the date of my last drawing. Neither Mr. Mason, however, nor any other observer, appears to have had the least suspicion of the existence of the fainter horseshoe arc attached to the extremity of Messier's streak. Dr. Lamont has given a figure of this nebula, accompanied by a description. In this figure, the nebulous diffusion at the [western] angle and along the [western] base-line of the Omega is represented as very conspicuous; indeed, much more so than I can persuade myself it was his intention it should appear. 	”
+Sketches were also made by William Lassell in 1862 using his four-foot telescope at Malta, and by M. Trouvelot from Cambridge, Massachusetts and Edward Singleton Holden in 1875 using the twenty-six inch Clark refractor at the United States Naval Observatory.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 20m 26s</characteristic>
+		<characteristic name="Declination">−16° 10′ 36″</characteristic>
+		<characteristic name="Distance">5,000-6,000 ly</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.0</characteristic>
+		<characteristic name="Apparent dimensions (V)">11 arcmins</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Designations">M17, NGC 6618,
+Swan Nebula, Sharpless 45, RCW 160, Gum 81</characteristic>
+	</characteristics>
+	<link title="Get more info about Omega Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Omega_Nebula</link>
+</object>

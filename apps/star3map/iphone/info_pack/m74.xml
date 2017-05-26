@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 74" type="Galaxies">
+	<images>
+		<image title="">m 74_1.jpg</image>
+		<image title="M74 as observed with the Spitzer Space Telescope as part of the Spitzer Infrared Nearby Galaxy Survey. The blue colors represent the 3.6 micrometre emission from stars. The green and red colors represent the 5.8 and 8.0 micrometre emission from polycyclic aromatic hydrocarbons and possibly dust">m 74_2.png</image>
+	</images>
+	<information>
+Messier 74 (also known as NGC 628) is a face-on spiral galaxy in the constellation Pisces. It is at a distance of about 32 million light-years away from Earth. The galaxy contains two clearly defined spiral arms and is therefore used as an archetypal example of a Grand Design Spiral Galaxy. The galaxy's low surface brightness makes it the most difficult Messier object for amateur astronomers to observe. However, the relatively large angular size of the galaxy and the galaxy's face-on orientation make it an ideal object for professional astronomers who want to study spiral arm structure and spiral density waves. It is estimated that M74 is home to about 100 billion stars.
+M74 was discovered by Pierre Méchain in 1780. Méchain then communicated his discovery to Charles Messier, who listed the galaxy in his catalog.
+Three supernovae have been identified in M74: SN 2002ap, SN 2003gd, and SN 2013ej.
+SN 2002ap has attracted considerable attention because it is one of the few Type Ic supernovae (or hypernovae) observed within 10 Mpc in recent years. This supernovae has been used to test theories on the origins of similar Type Ic supernovae at higher distances and theories on the connection between supernovae and gamma ray bursts.
+SN 2003gd is a Type II-P supernova. Type II supernovae have known luminosities, so they can be used to accurately measure distances. The distance measured to M74 using SN 2003gd is 9.6 ± 2.8 Mpc, or 31 ± 9 million ly. For comparison, distances measured using the brightest supergiants are 7.7 ± 1.7 Mpc and 9.6 ± 2.2 Mpc. Ben E. K. Sugerman found a "light echo" – a reflection of supernova explosion that appeared after the explosion itself – associated with SN 2003gd. This is one of the few supernovae in which such a reflection has been found. This reflection appears to be from dust in a sheet-like cloud that lies in front of the supernova, and it can be used to determine the composition of the interstellar dust.
+M74 is the brightest member of the M74 Group, a group of 5–7 galaxies that also includes the peculiar spiral galaxy NGC 660 and a few irregular galaxies. Although different group identification methods may consistently identify many of the same member galaxies in this group, the exact group membership is still uncertain.
+On March 22, 2005, it was announced  that the Chandra X-ray Observatory had observed an ultraluminous X-ray source (ULX) in M74, radiating more X-ray power than a neutron star in periodic intervals of around two hours. It has an estimated mass of around 10,000 Suns. This is an indicator of an intermediate-mass black hole. This would be a rather uncommon class of black holes, somewhere in between in size of stellar black holes and the massive black holes theorized to reside in the center of many galaxies. Because of this, they are believed to form not from single supernovae, but possibly from a number of lesser stellar black holes in a star cluster. The X-ray source is identified as CXOU J013651.1+154547.
+Messier 74 is located 1.5° east-northeast of Eta Piscium. This galaxy has the second lowest surface brightness of all the Messier objects. (M101 has the lowest.) It may be very difficult to see unless the sky is dark and clear, and it may be difficult to see in locations affected by light pollution. This galaxy may be best viewed under low magnification; when highly magnified, the diffuse emission becomes more extended and appears too faint to be seen by many people. Additionally, M74 may be more easily seen when using averted vision when the eyes are fully dark adapted.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Pisces</characteristic>
+		<characteristic name="Right ascension">01h 36m 41.8s</characteristic>
+		<characteristic name="Declination">+15° 47′ 01″</characteristic>
+		<characteristic name="Redshift">657 km/s</characteristic>
+		<characteristic name="Distance">30 ± 6 Mly</characteristic>
+		<characteristic name="Type">SA(s)c</characteristic>
+		<characteristic name="Apparent dimensions (V)">10′.5 × 9′.5</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.0</characteristic>
+		<characteristic name="Other designations">NGC 628, UGC 1149, PGC 5974</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 74 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_74</link>
+</object>

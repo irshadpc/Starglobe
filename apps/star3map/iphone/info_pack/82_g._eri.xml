@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="82 G. Eridani" type="Star">
+	<images>
+<image title="82 G. Eridani">wiki_logo.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+82 G. Eridani (HD 20794, HR 1008, e Eridani) is a star about 20 light years away from Earth in the constellation Eridanus. It is a main-sequence star with a stellar classification of G8.
+
+In the southern-sky catalog Uranometria Argentina, 82 G. Eridani (sometimes abbreviated to "82 Eridani") is the 82nd star listed in the constellation Eridanus. The Argentina catalog, compiled by the 19th-century astronomer Benjamin Gould, is a southern celestial hemisphere analog of the more famous Flamsteed catalog, and uses a similar numbering scheme. 82 G. Eridani, like other stars near the Sun, has held on to its Gould designation, even while other more distant stars have not.
+This star is slightly smaller and less massive than the Sun, making it marginally dimmer than the Sun in terms of luminosity; about 20% more luminous than Tau Ceti or Alpha Centauri B. The projected equatorial rotation rate (v sin i) is 4.0 km/s, compared to 2 km/s for the Sun.
+82 G. Eridani is a high-velocity star—it is moving quickly compared to the average—and hence is probably a member of Population II, generally older stars whose motions take them well outside the plane of the Milky Way. Like many other Population II stars, 82 G. Eridani is somewhat metal-deficient (though much less deficient than many), and is older than the Sun. It has a relatively high orbital eccentricity of 0.40 about the galaxy, ranging between 4.6 and 10.8 kiloparsecs from the core. Estimates of the age of this star ranged from 6 to 12 billion years.
+This star is located in a region of low-density interstellar matter (ISM), so it is believed to have a large astropause that subtends an angle of 6″ across the sky. Relative to the Sun, this star is moving at a space velocity of 101 km/s, with the bow shock advancing at more than Mach 3 through the ISM.
+On August 17, 2011, European astronomers announced the discovery of three planets orbiting 82 G. Eridani. The mass range of these planets classifies them as super-Earths; objects with only a few times the Earth's mass. These planets were discovered by precise measurements of the radial velocity of the star, with the planets revealing their presence by their gravitational displacement of the star during each orbit. None of the planets display a significant orbital eccentricity. However, their orbital periods are all 90 days or less, indicating that they are orbiting close to the host star. The equilibrium temperature for the most distant planet, based on an assumed Bond albedo of 0.3, would be about 388 K (115 °C); significantly above the boiling point of water.
+The number of planets in the system is slightly uncertain. At the time of planet c's detection, it exerted the lowest gravitational perturbation. There was also a similarity noted between its orbital period and the rotational period of the star. For these reasons the discovery team were somewhat more cautious regarding the verity of its candidate planet status than for the other two. Continued observation of the star will be required to determine the exact nature of the planetary system.
+An infrared excess was discovered around the star by the Infrared Space Observatory at 60 μm, but was not later confirmed by the Spitzer Space Telescope, in 2006. However, in 2012, a dust disk was found around the star, by the Herschel Space Observatory. While not well-constrained, if assumed to have a similar composition to 61 Virginis' dust disk, it has a semi-major axis of 19 AU.
+In his book Habitable Planets for Man, Stephen Dole gave 82 G. Eridani his highest estimate for habitability: 5.7%. Four other stars had this figure: Alpha Centauri B, 70 Ophiuchi A, Eta Cassiopeiae A, and Delta Pavonis. 82 G. Eridani (GJ 139) was also picked as a Tier 1 target star for NASA's proposed Space Interferometry Mission (SIM) mission to search for terrestrial-sized or larger planets.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Eridanus</characteristic>
+<characteristic name="Right ascension">03h 19m 55.65093s</characteristic>
+<characteristic name="Declination">−43° 04′ 11.2175″</characteristic>
+<characteristic name="Apparent magnitude (V)">4.254</characteristic>
+<characteristic name="Spectral type">G8 V</characteristic>
+<characteristic name="U−B color index">+0.21</characteristic>
+<characteristic name="B−V color index">+0.71</characteristic>
+<characteristic name="Radial velocity (Rv)">+87.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 3038.34 mas/yr Dec.: 726.58 mas/yr</characteristic>
+<characteristic name="Parallax (π)">165.47 ± 0.19mas</characteristic>
+<characteristic name="Distance">19.71 ± 0.02 ly (6.043 ± 0.007 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">5.34</characteristic>
+<characteristic name="Mass">0.70 M☉</characteristic>
+<characteristic name="Radius">0.92 R☉</characteristic>
+<characteristic name="Luminosity">0.74 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.40 cgs</characteristic>
+<characteristic name="Temperature">5,401 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.40 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">4.0 km/s</characteristic>
+<characteristic name="Age">6.1–12.7 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about 82 G. Eridani in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/82_G._Eridani</link>
+</object>

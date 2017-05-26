@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ASTRO E2 Satellite details 2005-025A NORAD 28773" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Orbiting observatory for study of high-energy processes; X-ray spectrometer (XRS) instrument failed one month into mission.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">28773	</characteristic><characteristic name="Int'l Code">2005-025A</characteristic>
+<characteristic name="Perigee">545.2 km</characteristic>
+<characteristic name="Apogee">552.6 km</characteristic>
+<characteristic name="Inclination">31.4 °</characteristic>
+<characteristic name="Period">95.5 minutes</characteristic>
+<characteristic name="Semi major axis">6919 km</characteristic>
+<characteristic name="Launch date">July 10, 2005</characteristic>
+<characteristic name="Source">Japan (JPN)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

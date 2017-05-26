@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Gruis" type="Star">
+	<images>
+<image title="Alpha Gruis">alnair_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Gruis (α Gruis, α Gru) or Alnair is the brightest star in the southern constellation Grus. Its first depiction in a celestial atlas was in Johann Bayer's Uranometria of 1603.
+
+Alpha Gruis has a stellar classification of B6 V, although some sources give it a classification of B7 IV. The first classification indicates that this is a B-type star on the main sequence of stars that are generating energy through the thermonuclear fusion of hydrogen at the core. However, a luminosity class of 'IV' would suggest that this is a subgiant star; meaning the supply of hydrogen at its core is becoming exhausted and the star has started the process of evolving away from the main sequence. It has no known companions.
+The measured angular diameter of this star, after correcting for limb darkening, is 1.02 ± 0.07 mas. At a parallax-measured distance of 101 light-years (31 parsecs) from Earth, this yields a physical size of 3.4 times the radius of the Sun. It is rotating rapidly, with a projected rotational velocity of about 215 km/s providing a lower bound for the rate of azimuthal rotation along the equator. This star has around four times the Sun's mass and is radiating 263 times the luminosity of the Sun.
+The effective temperature of Alpha Gruis's outer envelope is 13,920 K, giving it the blue-white hue characteristic of B-type stars. The abundance of elements other than hydrogen and helium, what astronomers term the metallicity, is about 74% of the abundance in the Sun. The Spitzer Space Telescope detected an excess of infrared emission from this star, suggesting that a circumstellar disk of dust may be in orbit around it.
+Based on the estimated age and motion, it may be a member of the AB Doradus moving group that share a common motion through space. This group has an age of about 70 million years, which is consistent with α Gruis's 100-million-year estimated age (allowing for a margin of error). The space velocity components of this star in the Galactic coordinate system are [U, V, W] = [–7.0 ± 1.1, –25.6 ± 0.7, –15.5 ± 1.4] km/s.
+Alpha Gruis has the proper name Alnair or Al Nair (sometimes Al Na'ir), from the Arabic al-nayyir [an-nai:r], meaning "the bright one". It is derived from its Arabic name, al-Nayyir min Dhanab al-ḥūt (al-Janūbiyy), "the Bright (star) belongs to the Tail of (the constellation of) the (Southern) Fish". Confusingly, "Alnair" is also given as the proper name for Zeta Centauri in an astronomical ephemerides in the middle of the 20th century. With β, δ, θ. ι, and λ Gru, Alnair belonged to Piscis Austrinus in traditional Arabic astronomy.
+In Chinese, 鶴 (Hè), meaning Crane, refers to an asterism consisting of α Gruis, β Gruis, ε Gruis, η Gruis, δ Tucanae, ζ Gruis, ι Gruis, θ Gruis, δ2 Gruis and μ1 Gruis. Consequently, α Gruis itself is known as 鶴一 (Hè yī, English: First Star of the Crane). The Chinese name gave rise to another English name, Ke.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Grus</characteristic>
+<characteristic name="Right ascension">22h 08m 13.98473s</characteristic>
+<characteristic name="Declination">–46° 57′ 39.5078″</characteristic>
+<characteristic name="Apparent magnitude (V)">+1.74</characteristic>
+<characteristic name="Spectral type">B6 V</characteristic>
+<characteristic name="U−B color index">–0.47</characteristic>
+<characteristic name="B−V color index">–0.13</characteristic>
+<characteristic name="Radial velocity (Rv)">+11.8 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +126.69 mas/yr, Dec.: −147.47 mas/yr</characteristic>
+<characteristic name="Parallax (π)">32.29 ± 0.21mas</characteristic>
+<characteristic name="Distance">101.0 ± 0.7 ly (31.0 ± 0.2 pc)</characteristic>
+<characteristic name="Mass">4.0 M☉</characteristic>
+<characteristic name="Radius">3.4 R☉</characteristic>
+<characteristic name="Luminosity">263 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.76 ± 0.11 cgs</characteristic>
+<characteristic name="Temperature">13,920 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.13 ± 0.02 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">215 km/s</characteristic>
+<characteristic name="Age">0.10 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Gruis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alpha_Gruis</link>
+</object>

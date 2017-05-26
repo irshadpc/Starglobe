@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 34" type="Galaxies">
+	<images>
+		<image title="2MASS image of M34 (taken in infrared band; falsecolor)">m 34_1.jpg</image>
+	</images>
+	<information>
+Messier 34 (also known as M 34 or NGC 1039) is an open cluster in the constellation Perseus. It was probably discovered by Giovanni Batista Hodierna before 1654 and included by Charles Messier in his catalog of comet-like objects in 1764. Messier described it as, "A cluster of small stars a little below the parallel of γ (Andromedae). In an ordinary telescope of 3 feet one can distinguish the stars."
+Based on the distance modulus of 8.38, this cluster is located at a distance of about 470 parsecs, or 1,500 light years. For stars in the range from 0.12 to 1.0 solar masses, M34 contains an estimated 400 members. It spans about 35' on the sky which translates to a true radius of 7 light years. The cluster is just visible to the naked eye in very dark conditions, well away from city lights. It is possible to see it in binoculars when light pollution is limited.
+The age of this cluster lies between the respective ages of the Pleiades open cluster at 100 million years and the Hyades open cluster at 800 million years. Comparisons between the observed stellar spectra and the values predicted by stellar evolutionary models gives an age estimate of 200–250 million years for M34. This is roughly the age at which stars with 0.5 solar masses enter the main sequence. By comparison, stars like the Sun enter the main sequence after 30 million years.
+The average proportion of elements with higher atomic numbers than helium is termed the metallicity by astronomers. This is expressed by the logarithm of the ratio of iron to hydrogen, compared to the same proportion in the Sun. For M34, the metallicity has a value of [Fe/H] = +0.07 ± 0.04. This is equivalent to a 17% higher proportion of iron compared to the Sun. Other elements show a similar abundance, with the exception of nickel which is underabundant.
+At least 19 members of this cluster are white dwarfs. These are stellar remnants of progenitor stars of up to eight solar masses that have evolved through the main sequence and are no longer engaged in thermonuclear fusion to generate energy. Seventeen of the white dwarfs are of spectral type DA or DAZ, while one is a type DB and the last is a type DC.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Perseus</characteristic>
+		<characteristic name="Right ascension">02h 42.1m</characteristic>
+		<characteristic name="Declination">+42° 46′</characteristic>
+		<characteristic name="Distance">1,500 light year (470 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">5.5</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.7 × 6′.5</characteristic>
+		<characteristic name="Radius">7 ly</characteristic>
+		<characteristic name="Estimated age">200–250 million years</characteristic>
+		<characteristic name="Other designations">NGC 1039, OCl 382, C 0238+425</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 34 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_34</link>
+</object>

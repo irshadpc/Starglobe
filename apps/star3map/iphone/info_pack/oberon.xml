@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Oberon" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Oberon_1.png</image>
+        <image title="">Oberon_2.jpg</image>
+	</images>
+	<information>
+        Oberon, also designated Uranus IV, is the outermost major moon of the planet Uranus. It is the second-largest and second most massive of the Uranian moons, and the ninth most massive moon in the Solar System. Discovered by William Herschel in 1787, Oberon is named after the mythical king of the fairies who appears as a character in Shakespeare's A Midsummer Night's Dream. Its orbit lies partially outside Uranus's magnetosphere.
+
+        It is likely that Oberon formed from the accretion disk that surrounded Uranus just after the planet's formation. The moon consists of approximately equal amounts of ice and rock, and is probably differentiated into a rocky core and an icy mantle. A layer of liquid water may be present at the boundary between the mantle and the core. The surface of Oberon, which is dark and slightly red in color, appears to have been primarily shaped by asteroid and comet impacts. It is covered by numerous impact craters reaching 210 km in diameter. Oberon possesses a system of chasmata (graben or scarps) formed during crustal extension as a result of the expansion of its interior during its early evolution.
+
+        The Uranian system has been studied up close only once: the spacecraft Voyager 2 took several images of Oberon in January 1986, allowing 40% of the moon's surface to be mapped.
+
+    Oberon orbits Uranus at a distance of about 584,000 km, being the farthest from the planet among its five major moons. Oberon's orbit has a small orbital eccentricity and inclination relative to the equator of Uranus. Its orbital period is around 13.5 days, coincident with its rotational period. In other words, Oberon is a synchronous satellite, tidally locked, with one face always pointing toward the planet. Oberon spends a significant part of its orbit outside the Uranian magnetosphere. As a result, its surface is directly struck by the solar wind. This is important, because the trailing hemispheres of satellites orbiting inside a magnetosphere are struck by the magnetospheric plasma, which co–rotates with the planet. This bombardment may lead to the darkening of the trailing hemispheres, which is actually observed for all Uranian moons except Oberon.
+
+    Because Uranus orbits the Sun almost on its side, and its moons orbit in the planet's equatorial plane, they (including Oberon) are subject to an extreme seasonal cycle. Both northern and southern poles spend 42 years in a complete darkness, and another 42 years in continuous sunlight, with the sun rising close to the zenith over one of the poles at each solstice. The Voyager 2 flyby coincided with the southern hemisphere's 1986 summer solstice, when nearly the entire northern hemisphere was in darkness. Once every 42 years, when Uranus has an equinox and its equatorial plane intersects the Earth, mutual occultations of Uranus's moons become possible. One such event, which lasted for about six minutes, was observed on May 4, 2007, when Oberon occulted Umbriel.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Oberon in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Oberon_(moon)</link>
+</object>

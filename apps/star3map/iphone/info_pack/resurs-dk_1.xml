@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="RESURS DK-1 Satellite details 2006-021A NORAD 29228" type="Satellite">
+	<images><image>resurs-dk_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Resurs DK-1 is a Russian civilian remote sensing craft that was launched by a Soyuz-U rocket from Baikonur at 08:00 UT on 15 June 2006. The 6.8 tonne (with fuel) satellite carries imaging instruments to enable one-meter resolution black &amp; white images or two-meter resolution in color. Unlike earlier missions which captured images on a film and dropped the canisters over Russia, this satellite will downlink the data over selected Russian stations. The status of natural resources, natural disasters, sea-ice conditions, and polar weather will be promptly available to national and international organizations, as well as to private commercial customers. The satellite also carries an Italian cosmic ray monitor, and a Russian instrument to identify probable electromagnetic precursors of earthquakes.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">29228	</characteristic><characteristic name="Int'l Code">2006-021A</characteristic>
+<characteristic name="Perigee">568.5 km</characteristic>
+<characteristic name="Apogee">576.0 km</characteristic>
+<characteristic name="Inclination">69.9 °</characteristic>
+<characteristic name="Period">96.0 minutes</characteristic>
+<characteristic name="Semi major axis">6943 km</characteristic>
+<characteristic name="Launch date">June 15, 2006</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

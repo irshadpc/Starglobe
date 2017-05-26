@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Red Rectangle" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">Red_Rectangle_Nebula5.jpg</image>
+	</images>
+	<information>
+The Red Rectangle Nebula, so called because of its red color and unique rectangular shape, is a protoplanetary nebula in the Monoceros constellation. Also known as HD 44179, the nebula was discovered in 1973 during a rocket flight associated with the AFCRL Infrared Sky Survey called Hi Star. The binary system at the center of the nebula was first discovered by Robert Grant Aitken in 1915.
+High-resolution images of it in visible and near infrared light reveal a highly symmetric, compact bipolar nebula with X-shaped spikes which imply anisotropic dispersion of the circumstellar material. The central binary system is completely obscured, providing no direct light.
+
+The Red Rectangle is known to be particularly rich in polycyclic aromatic hydrocarbons (PAHs). The presence of such carbon-bearing macromolecules in the X-shaped nebular component, while the equatorial regions are known to contain silicate-rich (O-bearing) dust grains, was interpreted as due to a change of the O/C abundance ratio of the primary star during its late evolution. However, PAHs could also be formed as a result of the development of a central photondissociation region, a region in which a very active chemistry appears due to dissociation of stable molecules by the UV emission of the central stellar system. The Red Rectangle was the first nebula around an evolved star in which an equatorial disk in rotation was well identified (the existence of such disks has been demonstrated only in a few of these objects, only expansion is observed in most of them). However, the disk absorbs the stellar light and is practically not seen in the beautiful optical image, which mainly represents a relatively diffuse outflow that is very probably formed of material extracted from the denser disk. The distinct rungs suggest several episodes of increased ejection rate.
+The Hubble Space Telescope has revealed a wealth of new features in the Red Rectangle that cannot be seen by ground-based telescopes looking through Earth's turbulent atmosphere. The origins of many of the features in this dying star, in particular its X-shaped image, still remain hidden or even outright mysterious. The presence of a conspicuous bipolar symmetry is usual in protoplanetary and planetary nebulae. Theorists, like Noam Soker, Vincent Icke, Adam Frank, and others, have shown that this axial symmetry can appear as a result of shocks due to interaction of different phases of the stellar winds (characteristic of the late stellar evolution), but its origin is still debated. On the other hand, the X-like shape and the low velocity of the outflowing gas in the Red Rectangle are peculiar, probably because its origin (associated to a stable, extended disk) is different than for most protoplanetary nebulae.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Red Rectangle in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Red_Rectangle_Nebula</link>
+</object>

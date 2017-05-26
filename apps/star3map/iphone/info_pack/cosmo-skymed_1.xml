@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="SKYMED 1 Satellite details 2007-023A NORAD 31598" type="Satellite">
+	<images><image>cosmo-skymed_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+COSMO-SKYMED 1, which carries a radar imager, will be part of a constellation of four orbiting probes that will collect data on floods, droughts, earthquakes and landslides. It is the first to be launched, and a second was expected to lift off from Vandenberg later this year (2007). Italian space officials expect the fully functional system to beam back up to 1,800 images of the Earth a day.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">31598	</characteristic><characteristic name="Int'l Code">2007-023A</characteristic>
+<characteristic name="Perigee">628.6 km</characteristic>
+<characteristic name="Apogee">630.7 km</characteristic>
+<characteristic name="Inclination">97.9 °</characteristic>
+<characteristic name="Period">97.2 minutes</characteristic>
+<characteristic name="Semi major axis">7000 km</characteristic>
+<characteristic name="Launch date">June 8, 2007</characteristic>
+<characteristic name="Source">Italy (IT)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

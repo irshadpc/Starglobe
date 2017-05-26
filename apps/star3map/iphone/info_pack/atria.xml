@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Atria" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Alpha Trianguli Australis (α Trianguli Australis, abbreviated Alpha TrA, α TrA), also named Atria,[7] is the brightest star in the southern constellation of Triangulum Australe, forming an apex of a triangle with Beta and Gamma Trianguli Australis that gives the constellation its name (Latin for southern triangle).
+        
+        Alpha Trianguli Australis is a bright giant star with an apparent magnitude of +1.91. Based upon parallax measurements, this star is located roughly 391 light-years (120 parsecs) distant from the Earth.[1] The estimated age of the star is 48 million years old; sufficiently old for a massive star to evolve away from the main sequence and expand into a giant. It has a mass roughly seven times the mass of the Sun, but is emitting about 5,500 times the Sun's luminosity. The effective temperature of the star's outer envelope is 4,150 K, which gives it the characteristic orange hue of a K-type star.[12] With a diameter 130 times that of the Sun, it would almost reach the orbit of Venus if placed at the centre of the Solar System.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Atria in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Alpha_Trianguli_Australis</link>
+</object>

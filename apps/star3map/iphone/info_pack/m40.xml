@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Winnecke 4" type="Galaxies">
+	<images>
+		<image title="">m40_1.jpg</image>
+	</images>
+	<information>
+Winnecke 4 (also known as Messier 40 or WNC 4) is a double star in the constellation Ursa Major. It was discovered by Charles Messier in 1764 while he was searching for a nebula that had been reported in the area by Johann Hevelius. Not seeing any nebulae, Messier catalogued this double star instead. It was subsequently rediscovered by Friedrich August Theodor Winnecke in 1863, and included in the Winnecke Catalogue of Double Stars as number 4. Burnham calls M40 "one of the few real mistakes in the Messier catalog," faulting Messier for including it when all he saw was a double star, not a nebula of any sort.
+In 1991 the separation between the components was measured at 51".7, an increase since Messier's time. Data gathered by astronomers Brian Skiff (2001) and Richard L. Nugent (2002) strongly suggest that this is merely an optical double star rather than a physically connected system.
+The nearby nebula observed by Hevelius may have been the nearby ring galaxy NGC 4290. The galaxy, being 12th magnitude, may have been bright enough to notice for large telescopes at the time, but not quite bright enough for Messier.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Ursa Major</characteristic>
+		<characteristic name="Right ascension">12h 22m 12.5s</characteristic>
+		<characteristic name="Declination">+58° 4' 59"</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.65 + 10.10</characteristic>
+		<characteristic name="Distance">510 ly (156 pc)</characteristic>
+		<characteristic name="Spectral type">G0+F8</characteristic>
+		<characteristic name="Other designations">M40, BD+56 1372, HD 238107 + HD 238108, SAO 28353 + SAO 28355, CCDM 12223+5805</characteristic>
+	</characteristics>
+	<link title="Get more info about Winnecke 4 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Winnecke_4</link>
+</object>

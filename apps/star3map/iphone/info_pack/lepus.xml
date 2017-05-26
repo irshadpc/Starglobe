@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lepus (constellation)" type="Constellation">
+	<images>
+<image title="Lepus (constellation)">lepus_1.png</image>
+<image title="">lepus__2.jpg</image>
+<image title="">lepus__3.jpg</image>
+<image title="">lepus__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Lepus (/ˈliːpəs/, colloquially /ˈlɛpəs/) is a constellation lying just south of the celestial equator, immediately south of Orion. Its name is Latin for hare. Although the hare does not represent any particular figure in Greek mythology, Lepus was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations. It is located below the constellation Orion (the hunter), and is sometimes represented as a hare being chased by Orion or, alternatively, by Orion's hunting dogs.
+This constellation should not be confused with Lupus, the wolf.
+
+Lepus is most often represented as a rabbit being hunted by Orion, whose hunting dogs (Canis Major and Canis Minor) pursue it. The constellation is also associated with some lunar mythology, including the Moon rabbit.
+Four stars of this constellation (α, β, γ, δ Lep) form a quadrilateral and are known as ‘Arsh al-Jawzā', "the Throne of Jawzā'" or Kursiyy al-Jawzā' al-Mu'akhkhar, "the Hindmost Chair of Jawzā'" and al-Nihāl, "the Camels Quenching Their Thirst" in Arabic.
+There are a fair number of bright stars, both single and double, in Lepus. Alpha Leporis, the brightest star of Lepus, is a white supergiant of magnitude 2.6, 1300 light-years from Earth. Its traditional name, Arneb, means "hare". Beta Leporis, called Nihal, is a yellow giant of magnitude 2.8, 159 light-years from Earth. Gamma Leporis is a double star divisible in binoculars. The primary is a yellow star of magnitude 3.6, 29 light-years from Earth. The secondary is an orange star of magnitude 6.2. Delta Leporis is a yellow giant of magnitude 3.8, 112 light-years from Earth. Epsilon Leporis is an orange giant of magnitude 2.2, 227 light-years from Earth. Kappa Leporis is a double star divisible in medium aperture amateur telescopes, 560 light-years from Earth. The primary is a blue-white star of magnitude 4.4 and the secondary is a star of magnitude 7.4.
+There are several variable stars in Lepus. R Leporis is a Mira variable star also called "Hind's Crimson Star" for its striking red color. It varies in magnitude from a minimum of 9.8 to a maximum of 7.3, with a period of 420 days. R Leporis is at a distance of 1500 light-years. The color intensifies as the star brightens. It can be as dim as magnitude 12 and as bright as magnitude 5.5. It was named for John Russell Hind. T Leporis is also a Mira variable observed in detail by ESO's Very Large Telescope Interferometer.RX Leporis is a semi-regular red giant that has a period of 2 months. It has a minimum magnitude of 7.4 and a maximum magnitude of 5.0.
+There is one Messier Object in Lepus, M79. It is a globular cluster of magnitude 8.0, 42,000 light-years from Earth. One of the few globular clusters visible in the Northern Hemisphere winter, it is a Shapley class V cluster, which means that it has an intermediate concentration towards its center. It is often described as having a "starfish" shape. M79 was discovered in 1780 by Pierre Méchain.
+Coordinates: 06h 00m 00s, −20° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Lep</characteristic>
+<characteristic name="Genitive">Leporis</characteristic>
+<characteristic name="Pronunciation">/ˈliːpəs/, or colloquially /ˈlɛpəs/; genitive /ˈlɛpərɨs/</characteristic>
+<characteristic name="Symbolism">the Hare</characteristic>
+<characteristic name="Right ascension">6</characteristic>
+<characteristic name="Declination">−20</characteristic>
+<characteristic name="Family">Orion</characteristic>
+<characteristic name="Quadrant">NQ2</characteristic>
+<characteristic name="Area">290 sq. deg. (51st)</characteristic>
+<characteristic name="Main stars">8</characteristic>
+<characteristic name="Bayer/Flamsteed stars">20</characteristic>
+<characteristic name="Stars with planets">3</characteristic>
+<characteristic name="Stars brighter than 3.00m">2</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">3</characteristic>
+<characteristic name="Brightest star">α Lep (Arneb) (2.58m)</characteristic>
+<characteristic name="Nearest star">Gliese 229 (18.83 ly, 5.77 pc)</characteristic>
+<characteristic name="Messier objects">1</characteristic>
+<characteristic name="Meteor showers">None</characteristic>
+<characteristic name="Bordering constellations">Orion, Monoceros, Canis Major, Columba, Caelum, Eridanus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +63° and −90°. Best visible at 21:00 (9 p.m.) during the month of January.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Lepus (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Lepus_(constellation)</link>
+</object>

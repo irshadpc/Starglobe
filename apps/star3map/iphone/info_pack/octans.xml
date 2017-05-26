@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Octans" type="Constellation">
+	<images>
+<image title="Octans">octans_1.png</image>
+<image title="">octans__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Octans /ˈɒktænz/ is a faint constellation of the southern sky. Its name is Latin for the eighth part of a circle, but it is named after the octant, a navigational instrument. The constellation was devised by Nicolas Louis de Lacaille in the eighteenth century.
+Octans is notable as the location of the south celestial pole. Unlike the north pole, it has no bright pole star: Sigma Octantis (σ Oct) is a naked-eye star very close to the pole, but it is so faint (mag. +5.45) that it is practically useless for navigation purposes. Conveniently for navigators, the constellation Crux, the Southern Cross, points toward the pole.
+The constellation is circumpolar to the south celestial pole, so it can be seen in Southern Hemisphere skies during the evening in any month of the year. The Right Ascension and month of best visibility given are for the three brightest stars, which are at their highest in the sky during the evening in November.
+
+Octans was created by Nicolas Louis de Lacaille in 1759 out of faint circumpolar stars. Originally, it was known as "Octans Hadleianus" in honor of the octant's inventor, John Hadley, who devised it in 1730. There is no real mythology related to Octans, partially due to its extreme southerly latitude.
+Octans is a very faint constellation; its brightest star is Nu Octantis, a magnitude 3.8 star. Sigma Octantis, the southern pole star, is a magnitude 5.4 star about 1 degree away from the South Celestial Pole. Its faintness means that it cannot be used for navigation.
+USS Octans (AF-26) was once a United States Navy ship.
+
+Coordinates: 22h 00m 00s, −90° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Oct</characteristic>
+<characteristic name="Genitive">Octantis</characteristic>
+<characteristic name="Pronunciation">/ˈɒktænz/, genitive /ɒkˈtæntɨs/</characteristic>
+<characteristic name="Symbolism">the Octant</characteristic>
+<characteristic name="Right ascension">22</characteristic>
+<characteristic name="Declination">−90</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ4</characteristic>
+<characteristic name="Area">291 sq. deg. (50th)</characteristic>
+<characteristic name="Main stars">3</characteristic>
+<characteristic name="Bayer/Flamsteed stars">27</characteristic>
+<characteristic name="Stars with planets">3</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">ν Oct (3.73m)</characteristic>
+<characteristic name="Nearest star">LHS 531 (28.11 ly, 8.62 pc)</characteristic>
+<characteristic name="Messier objects">none</characteristic>
+<characteristic name="Meteor showers">none</characteristic>
+<characteristic name="Bordering constellations">Tucana, Indus, Pavo, Apus, Chamaeleon, Mensa, Hydrus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +0° and −90°. Best visible at 21:00 (9 p.m.) during the month of October. Circumpolar.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Octans in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Octans</link>
+</object>

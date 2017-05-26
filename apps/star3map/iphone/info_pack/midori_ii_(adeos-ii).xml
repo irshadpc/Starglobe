@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ADEOS 2 Satellite details 2002-056A NORAD 27597" type="Satellite">
+	<images><image>midori_ii_(adeos-ii).png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">27597	</characteristic><characteristic name="Int'l Code">2002-056A</characteristic>
+<characteristic name="Perigee">808.3 km</characteristic>
+<characteristic name="Apogee">811.1 km</characteristic>
+<characteristic name="Inclination">98.3 °</characteristic>
+<characteristic name="Period">100.9 minutes</characteristic>
+<characteristic name="Semi major axis">7180 km</characteristic>
+<characteristic name="Launch date">December 14, 2002</characteristic>
+<characteristic name="Source">Japan (JPN)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 99" type="Galaxies">
+	<images>
+		<image title="Spiral Galaxy M99 taken at the Mount Lemmon SkyCenter using the 0.8m Schulman Telescope.">m 99_1.jpg</image>
+		<image title="Image of Messier 99 taken by the NASA/ESA Hubble Space Telescope.">m 99_2.jpg</image>
+		<image title="A near-infrared image of M99. Credit: 2MASS/NASA.">m 99_3.jpg</image>
+		<image title="Image of Messier 99 taken by an amateur telescope.">m 99_4.jpg</image>
+	</images>
+	<information>
+Messier 99 (also known as M99 or NGC 4254) is an unbarred spiral galaxy approximately 50 million light-years away in the constellation Coma Berenices.
+Messier 99 was discovered by Pierre Méchain on March 17, 1781 along . The discovery was then reported to Charles Messier, who included the object in the Messier Catalogue, which was the first astronomical catalogue of star clusters, nebulae, and galaxies.
+Messier 99 was one of the first galaxies in which a spiral pattern was first seen. The spiral pattern was first identified by Lord Rosse in the spring of 1846.
+The galaxy has a normal looking arm and an extended arm that is less tightly wound. A bridge of neutral hydrogen gas links NGC 4254 with VIRGOHI21. The gravity from the possible dark galaxy VIRGOHI21 may have distorted M99 and drawn out the gas bridge, as the two galaxy-sized objects may have had a close encounter, before they went their separate ways (however the existence of the latter galaxy is unclear and another candidate is the lenticular galaxy NGC 4262 with this event having taken place 280 million years ago). It is expected that the drawn out arm will relax to match the normal arm once the encounter is over. Three supernovae have been observed in this galaxy.
+While not classified as a starburst galaxy, M99 has a star formation activity three times larger than other galaxies of similar Hubble type that may have been triggered too by that encounter.
+Some authors also consider M99 is entering in the Virgo Cluster for the first time and, after the mentioned interaction, its suffering ram-pressure stripping as it moves through Virgo's intracluster medium.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenicesi</characteristic>
+		<characteristic name="Right ascension">12h 18m 49.6s</characteristic>
+		<characteristic name="Declination">+14° 24′ 59″</characteristic>
+		<characteristic name="Redshift">0.008029</characteristic>
+		<characteristic name="Helio radial velocity">2407 ± 3 km/s</characteristic>
+		<characteristic name="Distance">50.2 ± 5.5 Mly (15.4 ± 1.7 Mpc)</characteristic>
+		<characteristic name="Type">SA(s)c</characteristic>
+		<characteristic name="Apparent dimensions (V)">5′.4 × 4′.7</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.4</characteristic>
+		<characteristic name="Other designations">NGC 4254, UGC 7345, PGC 39578, Coma Pinwheel Galaxy, Virgo Cluster Pinwheel</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 99 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_99</link>
+</object>

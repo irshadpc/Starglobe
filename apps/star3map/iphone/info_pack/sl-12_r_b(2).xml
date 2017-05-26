@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="SL-12 R/B(2) Satellite details 1985-042D NORAD 15772" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">15772	</characteristic><characteristic name="Int'l Code">1985-042D</characteristic>
+<characteristic name="Perigee">804.8 km</characteristic>
+<characteristic name="Apogee">853.4 km</characteristic>
+<characteristic name="Inclination">71.1 °</characteristic>
+<characteristic name="Period">101.3 minutes</characteristic>
+<characteristic name="Semi major axis">7200 km</characteristic>
+<characteristic name="Launch date">May 30, 1985</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Scorpius" type="Constellations">
+	<images>
+<image title="Scorpius">scorpius_1.png</image>
+<image title="">scorpius__3.jpg</image>
+<image title="">scorpius__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Scorpius, sometimes known as Scorpio, is one of the constellations of the zodiac. Its name is Latin for scorpion, and its symbol is  (Unicode ♏). It lies between Libra to the west and Sagittarius to the east. It is a large constellation located in the southern hemisphere near the center of the Milky Way.
+Scorpius contains many bright stars, including Antares (α Sco), "rival of Mars," so named because of its distinct reddish hue; β1 Sco (Graffias or Acrab), a triple star; δ Sco (Dschubba, "the forehead"); θ Sco (Sargas, of unknown origin); ν Sco (Jabbah); ξ Sco (Girtab, "the scorpion"); π Sco (Iclil); σ Sco (Alniyat); and τ Sco (also known as Alniyat, "the arteries"). 
+Marking the tip of the scorpion's curved tail are λ Sco (Shaula) and υ Sco (Lesath), whose names both mean "sting." Given their proximity to one another, λ Sco and υ Sco are sometimes referred to as the Cat's Eyes.
+Most of the bright stars are massive members of the nearest OB association: Scorpius-Centaurus. Its bright stars form a pattern like a longshoreman's hook.
+The star δ Sco, after having been a stable 2.3 magnitude star, flared in July 2000 to 1.9 in a matter of weeks. It has since become a variable star fluctuating between 2.0 and 1.6. This means that at its brightest it is the second brightest star in Scorpius.
+U Scorpii is the fastest known nova with a period of about 10 years.
+ω¹ Scorpii and ω² Scorpii are an optical double, which can be resolved by the unaided eye. They have contrasting blue and yellow colours.
+The star once designated γ Sco (despite being well within the boundaries of Libra) is today known as σ Lib. Moreover, the entire constellation of Libra was considered to be claws of Scorpius (Chelae Scorpionis) in Ancient Greek times, with a set of scales held aloft by Astraea (represented by adjacent Virgo) being formed from these western-most stars during later Greek times. The division into Libra was formalised during Roman times.
+Due to its location on the Milky Way, this constellation contains many deep-sky objects such as the open clusters Messier 6 (the Butterfly Cluster) and Messier 7 (the Ptolemy Cluster), NGC 6231 (by ζ² Sco), and the globular clusters Messier 4 and Messier 80.
+Messier 80 (NGC 6093) is a globular cluster of magnitude 7.3, 33,000 light-years from Earth. It is a compact Shapley class II cluster; the classification indicates that it is highly concentrated and dense at its nucleus. M80 was discovered in 1781 by Charles Messier. It was the site of a rare discovery in 1860 when Arthur von Auwers discovered the nova T Scorpii.
+In Greek Mythology the myths associated with Scorpio almost invariably also contain a reference to Orion. According to one of these myths it is written that Orion boasted to goddess Artemis and her mother, Leto, that he would kill every animal on the earth. Although Artemis was known to be a hunter herself she offered protection to all creatures. Artemis and her mother Leto sent a scorpion to deal with Orion. The pair battled and the scorpion killed Orion. However, the contest was apparently a lively one that caught the attention of the king of the gods Zeus, who later raised the scorpion to heaven and afterwards, at the request of Artemis, did the same for Orion to serve as a reminder for mortals to curb their excessive pride. There is also a version that Orion was better than the goddess Artemis but said that Artemis was better than he and so Artemis took a liking to Orion. The god Apollo, Artemis's twin brother, grew angry and sent a scorpion to attack Orion. After Orion was killed, Artemis asked Zeus to put Orion up in the sky. So every winter Orion hunts in the sky, but every summer he flees as the constellation of the scorpion comes.
+In another Greek story involving Scorpio without Orion, Phaeton (the mortal male offspring of Helios) went to his father, who had earlier sworn by the River Styx to give Phaeton anything he should ask for. Phaeton wanted to drive his father's Sun Chariot for a day. Although Helios tried to dissuade his son, Phaeton was adamant. However, when the day arrived, Phaeton panicked and lost control of the white horses that drew the chariot. First, the Earth grew chill as Phaeton flew too high and encountered the celestial scorpion, its deadly sting raised to strike. Alarmed, he dipped the chariot too close, causing the vegetation to burn. By accident, Phaeton turned most of Africa into desert and darkened the skin of the Ethiopian nation until it was black. Eventually, Zeus was forced to intervene by striking the runaway chariot and Phaeton with a lightning bolt to put an end to its rampage and Phaeton plunged into the River Eridanos.
+The Babylonians called this constellation MUL.GIR.TAB - the 'Scorpion', the signs can be literally read as 'the (creature with) a burning sting'. The Claws of the Scorpion were also known as the Scales in Babylonia.
+The Western astrological sign Scorpio of the tropical zodiac (October 23 – November 21) differs from the astronomical constellation and the Hindu astrological sign of the sidereal zodiac (November 16 – December 16). Astronomically, the sun is in Scorpius for just six days, from November 23 – November 28. Much of the difference is due to the constellation Ophiuchus, which is used by only a few astrologers. Scorpius corresponds to the nakshatras Anuradha, Jyeshtha, and Mula.
+The Javanese people of Indonesia call this constellation Banyakangrem ("the brooded swan") or Kalapa Doyong ("leaning coconut tree") due to the shape similarity.
+Coordinates: 16h 53m 15s, −30° 44′ 12″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Sco</characteristic>
+<characteristic name="Genitive">Scorpii</characteristic>
+<characteristic name="Pronunciation">/ˈskɔrpiəs/, genitive /ˈskɔrpiaɪ/</characteristic>
+<characteristic name="Symbolism">the Scorpion</characteristic>
+<characteristic name="Right ascension">16.8875</characteristic>
+<characteristic name="Declination">−30.7367</characteristic>
+<characteristic name="Family">Zodiac</characteristic>
+<characteristic name="Quadrant">SQ3</characteristic>
+<characteristic name="Area">497 sq. deg. (33rd)</characteristic>
+<characteristic name="Main stars">18</characteristic>
+<characteristic name="Bayer/Flamsteed stars">47</characteristic>
+<characteristic name="Stars with planets">14</characteristic>
+<characteristic name="Stars brighter than 3.00m">13</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">3</characteristic>
+<characteristic name="Brightest star">Antares (α Sco) (0.96m)</characteristic>
+<characteristic name="Nearest star">Gliese 682 (16.44 ly, 5.04 pc)</characteristic>
+<characteristic name="Messier objects">4</characteristic>
+<characteristic name="Meteor showers">Alpha Scorpiids, Omega Scorpiids</characteristic>
+<characteristic name="Bordering constellations">Sagittarius, Ophiuchus, Libra, Lupus, Norma, Ara, Corona Australis</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +40° and −90°. Best visible at 21:00 (9 p.m.) during the month of July.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Scorpius in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Scorpius</link>
+</object>

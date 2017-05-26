@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sagittarius Star Cloud" type="Galaxies">
+	<images>
+		<image title="">m 24_1.jpg</image>
+	</images>
+	<information>
+The Sagittarius Star Cloud (also known as Delle Caustiche, Messier 24, IC 4715) is a star cluster in the constellation of Sagittarius, approximately 600 light years wide, which was discovered by Charles Messier in 1764. It is sometimes known as the Small Sagittarius Star Cloud to distinguish it from the Great Sagittarius Star Cloud located to the north of Gamma Sagittarii and Delta Sagittarii.
+The stars, clusters and other objects comprising M24 are part of the Sagittarius or Sagittarius-Carina arms of the Milky Way galaxy. Messier described M24 as a "large nebulosity containing many stars" and gave its dimensions as being some 1.5° across. Some sources, improperly, identify M24 as the faint cluster NGC 6603.
+M24 fills a space of significant volume to a depth of 10,000 to 16,000 light-years. This is the most dense concentration of individual stars visible using binoculars, with around 1,000 stars visible within a single field of view.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">18h 17m</characteristic>
+		<characteristic name="Declination">−18° 29′</characteristic>
+		<characteristic name="Distance">~10 kly (3070 Pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">4.6</characteristic>
+		<characteristic name="Apparent dimensions (V)">90′</characteristic>
+		<characteristic name="Radius">~300</characteristic>
+		<characteristic name="Estimated age">220 million years</characteristic>
+		<characteristic name="Other designations">Delle Caustiche, IC 4715</characteristic>
+	</characteristics>
+	<link title="Get more info about Sagittarius Star Cloud in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Sagittarius_Star_Cloud</link>
+</object>

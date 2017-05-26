@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Zubenelgenub" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+	</images>
+	<information>
+Alpha Librae (α Lib, α Librae), or Zubenelgenubi, is the second brightest star in the constellation Libra (despite its Bayer designation as alpha). Alpha2 Librae is 0.33 degree from the ecliptic so it can be easily occulted by the Moon and (very rarely) by planets. The next occultation by a planet will be by Mercury on 10 November 2052.
+Alpha Librae is the Bayer designation. It has the traditional name Zubenelgenubi /ˌzuːbənɛldʒəˈnuːbi/, also rendered Zuben Elgenubi. The name, from Arabic ّالزُبَانَى الجَنُوبِي al-zubānā al-janūbiyy, means "the southern claw" and was coined before Libra was recognized as a constellation distinct from Scorpius. The alternative name Kiffa Australis (Elkhiffa Australis) is a partial Latin translation of the Arabic al-kiffah al-janūbiyy "southern pan (of the scales)". Another name used in older astronomy texts, equivalent to "southern pan", was Lanx Australis.
+Alpha Librae is about 77 light-years (24 parsecs) from the Sun. The two brightest components of Alpha Librae form a double star moving together through space as common proper motion companions. The brightest member, α2 Librae, is itself a spectroscopic binary system. The second member, α1 Librae, is separated from the primary system by around 5400 AU. It too is a spectroscopic binary with an orbital period of 5,870 days and an angular separation of 0.383 arcseconds; equal to about 10 AU. The system may have a fifth component, the star KU Librae at a separation of 2.6°, thus forming a hierarchical quintuple star system. KU Lib shares a similar motion through space to the Alpha Librae system, but is separated from the other stars by about a parsec. Still, it is sufficiently close to be gravitationally bound to the other members.
+
+The two brightest members of Alpha Librae are separated in the sky by an angular distance of 231" (3'51"). The position angle of the companion is 314 degrees. The brighter of the two is a white star of spectral type A3, with an apparent brightness of 2.8. Its companion is a type F4 star of apparent brightness 5.2. They are probably members of the Castor Moving Group of stars that have a similar motion through space and share a common origin some 200 million years ago.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Zubenelgenub in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Alpha_Librae</link>
+</object>

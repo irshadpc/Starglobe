@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Crucis" type="Star">
+	<images>
+<image title="Acrux">acrux_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Crucis (α Cru, α Crucis, also Acrux, HD 108248) is the brightest star in the constellation Crux, the Southern Cross, and, at a combined visual magnitude 0.77, is the 13th brightest star in the night sky. Acrux is the southernmost first-magnitude star, just a bit more southerly than Alpha Centauri.
+
+Acrux is a multiple star system located 321 light years from the earth. Only two components are visually distinguishable, α1 and α2, separated by 4 arcseconds. α1 is magnitude 1.40 and α2 is magnitude 2.09, both hot class B (almost class O) stars, with surface temperatures of about 28,000 and 26,000 K respectively. Their luminosities are 25,000 and 16,000 times that of the Sun. α1 and α2 orbit over such a long period that motion is only barely seen. From their minimum separation of 430 astronomical units, the period is at least 1,500 years, and may be much longer.
+α1 is itself a spectroscopic binary star, with its components thought to be around 14 and 10 times the mass of the Sun and orbiting in only 76 days at a separation of about 1 AU. The masses of α2 and the brighter component of α1 suggest that the stars will someday explode as supernovae. The fainter component of α1 may survive to become a massive white dwarf.
+Another class-B4 subgiant, Alpha Crucis C or alpha-3 Crucis, lies 90 arcseconds away from triple Acrux and shares Acrux's motion through space, suggesting it may be gravitationally bound to Acrux. It is therefore generally assumed to be physically associated with Acrux. It has also been suggested that Alpha Crucis C is under-luminous for its class, meaning that the system would be an optical double star.
+"Acrux" is an "Americanism" for the full Bayer designation "Alpha Crucis", coined in the 19th century, but entering common use only by the mid 20th century.
+Since Acrux is at −63° declination, the southermost first-magnitude star, it is only visible south of latitude 27°N. Therefore, it barely rises from cities such as Miami, Florida, or Karachi, Pakistan (both around 25°N) and not at all from New Orleans, Louisiana, or Cairo, Egypt (both about 30°N). Because of Earth's axial precession, however, the star was visible to ancient Hindu astronomers in India who named it “Tri-shanku”. It was also visible to the ancient Romans and Greeks, who regarded it to be part of the constellation Centaurus.
+In Chinese, 十字架 (Shí Zì Jià, "Cross"), refers to an asterism consisting of α Crucis, γ Crucis, β Crucis and δ Crucis. Consequently, α Crucis itself is known as 十字架二 (Shí Zì Jià èr, "the Second Star of Cross".).
+This star is known as Estrela de Magalhães ("Star of Magellan") in Portuguese.
+Acrux is represented in the flags of Australia, New Zealand and Papua New Guinea as one of five stars which comprise the Southern Cross. It is also featured in the flag of Brazil, along with 26 other stars, each of which represents a state. Acrux represents the State of São Paulo.
+On 2008 October 2, the Cassini–Huygens spacecraft resolved three of the components (A, B and C) of the multiple star system as Saturn's disk occulted it.
+Coordinates: 12h 26m 35.89522s, −63° 05′ 56.7343″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Crux</characteristic>
+<characteristic name="Right ascension">12h 26m 35.89522s</characteristic>
+<characteristic name="Declination">−63° 05′ 56.7343″</characteristic>
+<characteristic name="Apparent magnitude (V)">0.77</characteristic>
+<characteristic name="Spectral type">B0.5IV + B1V</characteristic>
+<characteristic name="Radial velocity (Rv)">−11.2 / −0.6 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −35.83 mas/yr, Dec.: −14.86 mas/yr</characteristic>
+<characteristic name="Parallax (π)">10.13 ± 0.50mas</characteristic>
+<characteristic name="Distance">320 ± 20 ly (99 ± 5 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−4.14</characteristic>
+<characteristic name="Mass">14 / 10 M☉</characteristic>
+<characteristic name="Luminosity">25,000 L☉</characteristic>
+<characteristic name="Temperature">28,000 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">124 km/s</characteristic>
+<characteristic name="Companion">α Crucis Ab</characteristic>
+<characteristic name="Period (P)">0.208 yr</characteristic>
+<characteristic name="Semi-major axis (a)">1.0 AU&quot;</characteristic>
+<characteristic name="Eccentricity (e)">0.0</characteristic>
+<characteristic name="Inclination (i)">0.0°</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Crucis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Acrux</link>
+</object>

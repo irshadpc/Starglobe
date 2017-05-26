@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 91" type="Galaxies">
+	<images>
+		<image title="M91 map">m 91_1.png</image>
+	</images>
+	<information>
+Messier 91 (also known as NGC 4548 or M91) is a barred spiral galaxy located in the Coma Berenices constellation and is part of the Virgo Cluster of galaxies. M91 is about 63 million light-years away from the earth. It was the last of a group of eight nebulae discovered by Charles Messier in 1781. Originally M91 was a missing Messier object in the catalogue as the result a bookkeeping mistake by Messier. It was not until 1969 that amateur astronomer William C. Williams realized that M91 was NGC 4548, which was documented by William Herschel in 1784 (according to other sources, however, the nearby spiral galaxy NGC 4571 was also considered as a candidate for Messier 91 by him.)
+Messier 91 was discovered on the night of March 18, 1781, Charles Messier described it as Nebula without stars, fainter than M90. Messier mistakenly logged its position from Messier 58, where in fact it should have been Messier 89. William Herschel observed the same galaxy on April 8, 1784. Williams solved the missing Messier object by measuring its right ascension and declination relative to those of the nearby galaxy M89 (there are no suitable reference stars in the vicinity). Williams applied the observed differences of M91 with M58, a 9th-magnitude galaxy which Messier recorded in 1778. The calculation reproduces the Messier position to 0.1' in right ascension and 1' in declination.
+The inclusion of Messier 91 in the Virgo Cluster of Galaxies was confirmed by detecting Cepheid variables when a recent measurement was done. M91’s bar is very conspicuous where it lies at an angle of 65/245 degrees when being measured from the North direction to the East. There is a considerable peculiar velocity toward us through the Virgo cluster of about 700 km/s while the cluster's recession velocity is about 1100 km/s, this ultimately pegs its recessional velocity to only about 400 km/s.
+Messier 91 is also classified as an anemic galaxy -i.e., a spiral galaxy with low star formation and content of gas compared with other galaxies of its type-.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenices</characteristic>
+		<characteristic name="Right ascension">12h 35m 26.4s</characteristic>
+		<characteristic name="Declination">+14° 29′ 47″</characteristic>
+		<characteristic name="Redshift">486 ± 4 km/s</characteristic>
+		<characteristic name="Distance">63 ± 16 Mly (19 ± 5 Mpc)</characteristic>
+		<characteristic name="Type">SBb(rs)</characteristic>
+		<characteristic name="Apparent dimensions (V)">5′.4 × 4′.3</characteristic>
+		<characteristic name="Apparent magnitude (V)">11.0</characteristic>
+		<characteristic name="Other designations">NGC 4548, UGC 7753, PGC 41934</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 91 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_91</link>
+</object>

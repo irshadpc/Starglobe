@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="TERRA Satellite details" type="Satellite">
+	<images>
+		<image>satellite.png</image>
+	</images>
+	<information>
+The Earth Observing System (EOS) is a science and observation program that will provide long-term (15-year) data sets for Earth system science in order to gain an understanding of the interactions between Earth's land, atmosphere, oceans, and biology. 
+	</information>
+	<characteristics>
+		<characteristic name="NORAD ID">25994</characteristic>
+		<characteristic name="Int'l Code">1999-068A</characteristic>
+		<characteristic name="Perigee">708.4 km</characteristic>
+		<characteristic name="Apogee">711.1 km</characteristic>
+		<characteristic name="Inclination">98.2°</characteristic>
+		<characteristic name="Period">98.8 minutes</characteristic>
+		<characteristic name="Semi major axis">7080 km</characteristic>
+		<characteristic name="Launch date">December 18, 1999</characteristic>
+		<characteristic name="Source">United States (US)</characteristic>
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

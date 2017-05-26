@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alcor" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+        Alcor and Mizar form a naked eye double star in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major. Mizar is the second star from the end of the Big Dipper's handle, and Alcor its faint companion.
+        
+        Mizar, also designated Zeta Ursae Majoris (ζ Ursae Majoris, abbreviated Zeta UMa, ζ UMa), is itself a quadruple system and Alcor, also designated 80 Ursae Majoris (80 UMa), is a binary, the pair together forming a sextuple system. The whole system lies about 83 light-years away from the Sun, as measured by the Hipparcos astrometry satellite.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Alcor in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Mizar_and_Alcor</link>
+</object>

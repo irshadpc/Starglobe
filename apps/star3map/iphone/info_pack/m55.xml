@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 55" type="Galaxies">
+	<images>
+		<image title="">m 55_1.jpg</image>
+		<image title="Messier 55 with amateur telescope">m 55_2.jpg</image>
+	</images>
+	<information>
+Messier 55 (also known as M55 or NGC 6809 or "The Summer Rose Star") is a globular cluster in the constellation Sagittarius. It was discovered by Nicolas Louis de Lacaille in June 16, 1752 while observing from South Africa. Starting in 1754, Charles Messier made several attempts to find this object from Paris, France, but the low declination meant it never rose sufficiently far above the horizon to allow for easy observation. He finally observed and catalogued it in 1778. The cluster can be seen with a pair of 50 mm binoculars, although resolving the individual stars requires a medium-sized telescope.
+M55 is at a distance of about 17,600 light-years away from Earth. It has a mass of about 269,000 times that of the Sun. As with other Milky Way globular clusters, it has a low abundance of elements other than hydrogen and helium compared to the Sun—what astronomers term the metallicity of the cluster. This quantity is normally listed as the base–10 logarithm of the proportion relative to the Sun; for NGC 6809 the metallicity is given by: [Fe/H] = –1.94 dex. Taking this exponent to the powers of 10 yields an abundance equal to 1.1% of the proportion of such elements in the Sun.
+Only about 55 variable stars have been discovered in the central part of M55
+	</information>
+	<characteristics>
+		<characteristic name="Class">III</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">18h 55m 03.33s</characteristic>
+		<characteristic name="Declination">−30° 28′ 47.5″</characteristic>
+		<characteristic name="Distance">87.4 kly (26.8 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">8.37</characteristic>
+		<characteristic name="Apparent dimensions (V)">12′.0</characteristic>
+		<characteristic name="Radius">153 ly</characteristic>
+		<characteristic name="Estimated age">13 Gyr</characteristic>
+		<characteristic name="Notable features">Probably extragalactic</characteristic>
+		<characteristic name="Other designations">M54, NGC 6715, GCl 104, C 1851-305</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 55 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_55</link>
+</object>

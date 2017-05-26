@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Comet" type="Comet">
+	<images>
+		<image title="">comet_1.png</image>
+		<image title="">comet_2.jpg</image>
+		<image title="">comet_3.jpeg</image>
+		<image title="">comet_4.jpg</image>
+	</images>
+	<information>
+	</information>
+	<characteristics>
+	</characteristics>
+	<link title="Get more info about comet in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/comet</link>
+</object>

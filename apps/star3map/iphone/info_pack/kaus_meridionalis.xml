@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Kaus Meridionalis" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Delta Sagittarii (δ Sagittarii, abbreviated Delta Sgr, δ Sgr), also named Kaus Media, is a double star[6] in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of this star is +2.70, making it easily visible to the naked eye. Parallax measurements place the distance at roughly 348 light-years (107 parsecs) from the Sun.
+        
+        It bore the traditional names Kaus Media, Kaus Meridionalis, and Media, which derive from the Arabic قوس qaws 'bow' and Latin media 'middle'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Kaus Media for this star.
+        
+        In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Thani al Waridah, meaning 'second of Warida'.
+        
+        In Chinese, 箕 (Jī), meaning Winnowing Basket, refers to an asterism consisting of Delta Sagittarii, Gamma Sagittarii, Epsilon Sagittarii and Eta Sagittarii. Consequently, Delta Sagittarii itself is known as 箕宿二 (Jī Sù èr, English: the Second Star of Winnowing Basket.)
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Kaus Meridionalis in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Sagittarii</link>
+</object>

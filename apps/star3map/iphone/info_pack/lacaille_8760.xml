@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lacaille 8760" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Lacaille 8760 (AX Microscopii) is a red dwarf in the constellation Microscopium, the microscope. Although it is generally too faint to be seen without a telescope, it is one of the nearest stars to the Sun at about 12.9 light years distance. At an apparent magnitude of +6.7, it may only be visible to the unaided eye under exceptionally good viewing conditions, under dark skies. It was originally listed in a 1763 catalog that was published posthumously by the French Abbé Nicolas Louis de Lacaille. He observed it in the southern sky while working from an observatory at the Cape of Good Hope.
+        
+        In the past Lacaille 8760 has been classified anywhere from spectral class K7 down to M2. In 1979 the Irish astronomer Patrick Byrne discovered that it is a flare star, and it was given the variable star designation AX Microscopii. As a flare star it is relatively quiet, only erupting on average less than once per day.
+        
+        Lacaille 8760 orbits around the galaxy with a relatively high ellipticity of 0.23. Its closest approach to the Sun occurred about 20,000 years ago when it came within 12 ly (3.7 pc). Due to its low mass (60% of the Sun), it has an expected lifespan of about 7.5 × 1010 years, seven times longer than the Sun's.
+        
+        Despite efforts by astronomers, as of 2011 no planets have been detected in orbit around this star.
+        
+        Although Lacaille 8760 is the brightest red dwarf visible in the night sky, it is still too dim to be viewed by the average naked eye. It is also one of the largest and brightest red dwarfs known, with about 60% the mass and 51% the radius of the Sun.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Lacaille 8760 in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Lacaille_8760</link>
+</object>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Epsilon Ursae Majoris" type="Star">
+	<images>
+<image title="Alioth">alioth_1.png</image>
+<image title="">alioth__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Epsilon Ursae Majoris (Epsilon UMa, ε Ursae Majoris, ε UMa) is the brightest star in the constellation Ursa Major (despite its Bayer designation being merely "epsilon"), and at magnitude 1.76 is the thirty-first brightest star in the sky. It has the traditional name Alioth. It is the star in the tail of the bear closest to its body, and thus the star in the handle of the Big Dipper (Plough) closest to the bowl. It is also a member of the large and diffuse Ursa Major moving group. Historically, the star was frequently used in celestial navigation in the maritime trade, because it is listed as one of the 57 navigational stars.
+
+According to Hipparcos, Alioth is 81 light years (25 parsecs) from Earth. Its spectral type is A0p; the "p" stands for peculiar, as the spectrum of its light is characteristic of an Alpha2 Canum Venaticorum variable. Alioth, as a representative of this type, may harbor two interacting processes. First, the star's strong magnetic field separating different elements in the star's hydrogen 'fuel'. In addition, a rotation axis at an angle to the magnetic axis may be spinning different bands of magnetically sorted elements into the line of sight between Alioth and the Earth. The intervening elements react differently at different frequencies of light as they whip in and out of view, causing Alioth to have very strange spectral lines that fluctuate over a period of 5.1 days.
+With Alioth, the rotational and magnetic axes are at almost 90 degrees to one another. Darker (denser) regions of chromium form a band at right angles to the equator.
+A recent study suggests Alioth's 5.1-day variation may be due to a substellar object of about 14.7 Jupiter masses in an eccentric orbit (e=0.5) with an average separation of 0.055 astronomical units.
+Alioth has a relatively weak magnetic field, 15 times weaker than α CVn, but it is still 100 times stronger than that of the Earth.
+USS Allioth (AK-109) was a United States Navy Crater class cargo ship named after the star.
+
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ursa Major</characteristic>
+<characteristic name="Right ascension">12h 54m 01.74959s</characteristic>
+<characteristic name="Declination">+55° 57′ 35.3627″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.77</characteristic>
+<characteristic name="Spectral type">A0pCr</characteristic>
+<characteristic name="U−B color index">+0.02</characteristic>
+<characteristic name="B−V color index">-0.02</characteristic>
+<characteristic name="Variable type">α2-CVn</characteristic>
+<characteristic name="Radial velocity (Rv)">-9.3 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +111.91 mas/yr, Dec.: -8.24 mas/yr</characteristic>
+<characteristic name="Parallax (π)">39.51 ± 0.20mas</characteristic>
+<characteristic name="Distance">82.6 ± 0.4 ly (25.3 ± 0.1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–0.2</characteristic>
+<characteristic name="Mass">2.91 M☉</characteristic>
+<characteristic name="Radius">4.2 ± 0.2 R☉</characteristic>
+<characteristic name="Luminosity">108 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.5 cgs</characteristic>
+<characteristic name="Temperature">10,800 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">+0.00 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">33 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Epsilon Ursae Majoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alioth</link>
+</object>

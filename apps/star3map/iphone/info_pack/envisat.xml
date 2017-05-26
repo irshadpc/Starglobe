@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ENVISAT Satellite details 2002-009A NORAD 27386" type="Satellite">
+	<images><image>envisat.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">27386	</characteristic><characteristic name="Int'l Code">2002-009A</characteristic>
+<characteristic name="Perigee">772.4 km</characteristic>
+<characteristic name="Apogee">774.2 km</characteristic>
+<characteristic name="Inclination">98.4 °</characteristic>
+<characteristic name="Period">100.2 minutes</characteristic>
+<characteristic name="Semi major axis">7144 km</characteristic>
+<characteristic name="Launch date">March 1, 2002</characteristic>
+<characteristic name="Source">European Space Agency (ESA)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

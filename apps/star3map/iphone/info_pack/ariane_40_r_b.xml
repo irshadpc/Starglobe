@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ARIANE 40 R/B Satellite details 1993-061H NORAD 22830" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">22830	</characteristic><characteristic name="Int'l Code">1993-061H</characteristic>
+<characteristic name="Perigee">786.5 km</characteristic>
+<characteristic name="Apogee">804.0 km</characteristic>
+<characteristic name="Inclination">98.8 °</characteristic>
+<characteristic name="Period">100.6 minutes</characteristic>
+<characteristic name="Semi major axis">7166 km</characteristic>
+<characteristic name="Launch date">September 26, 1993</characteristic>
+<characteristic name="Source">France (FR)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

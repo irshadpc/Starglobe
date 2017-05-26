@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 70" type="Galaxies">
+	<images>
+		<image title="M70 from Hubble Space Telescope; 3.32′ view Credit: NASA/STScI/WikiSky">m 70_1.jpg</image>
+		<image title="Picture obtained with the Wide Field Camera of Hubble’s Advanced Camera for Surveys. The field of view is around 3.3 by 3.3 arcminutes.">m 70_2.jpg</image>
+	</images>
+	<information>
+Messier 70 (also known as M70 or NGC 6681) is a globular cluster in the constellation Sagittarius. It was discovered by Charles Messier in 1780.
+M70 is at a distance of about 29,300 light years away from Earth and close to the Galactic Center. It is roughly the same size and luminosity as its neighbour in space, M69. Only two variable stars are known within this cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Class">V</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">18h 43m 12.76s</characteristic>
+		<characteristic name="Declination">–32° 17′ 31.6″</characteristic>
+		<characteristic name="Distance">29.4 kly (9.0 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+9.06</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.0</characteristic>
+		<characteristic name="Mass">1.79×105 M☉</characteristic>
+		<characteristic name="Radius">34 ly</characteristic>
+		<characteristic name="Metallicity">–1.35 dex</characteristic>
+		<characteristic name="Estimated age">12.80 Gyr</characteristic>
+		<characteristic name="Other designations">M70, NGC 6681, GCl 101</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 70 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_70</link>
+</object>

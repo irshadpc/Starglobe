@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Matar" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+Eta Pegasi (η Peg) is a binary star in the constellation Pegasus. It has the traditional name Matar, which comes from the Arabic Al Saʽd al Maṭar (سعد المطر) meaning lucky star of rain. The apparent visual magnitude of this star is +2.95, making this the fifth brightest member of Pegasus. Based upon parallax measurements, the distance to this star is about 167 light-years (51 parsecs).
+This system consists of a pair of stars in a binary orbit with a period of 813 days and an eccentricity of 0.183. The primary component is a bright giant star with a stellar classification of G2 II and about four times the mass of the Sun. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 3.26 ± 0.07 mas, which, at its estimated distance, equates to a physical radius of nearly 18 times the radius of the Sun.[8] It is radiating 247 times the luminosity of the Sun from its expanded outer envelope at an effective temperature of 5,450 K. The rotation rate of the star slowed as it expanded, so it has a projected rotational velocity of 1.7 km s−1 with an estimated rotation period of 818 days.
+The secondary component is an F-type main sequence star with a classification of F0 V. There are also 2 class G stars further away that may or may not be physically related to the main pair.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Matar in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Eta_Pegasi</link>
+</object>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Graffias" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Beta Scorpii is a multiple star system in the southern zodiac constellation of Scorpius. It has the traditional names Acrab, Akrab or Elacrab, all come from (Arabic: العقرب‎‎) al-'Aqrab, the Scorpion, for the whole constellation, as well as Graffias, a name it shares with Xi Scorpii.
+        
+        Observed through a small telescope, Beta Scorpii appears as a binary star with a separation between the two components of 13.5 arcseconds and a combined apparent magnitude of 2.50. This pair, β1 and β2, form the top branches of the hierarchy of orbiting components in this system. β1 Scorpii, the brighter of the pair, consists of two sub-components, β Sco A and β Sco B, orbiting at an angular separation of 3.9 arcseconds with an orbital period of 610 years. β Sco A is itself a spectroscopic binary with the components β Sco Aa and β Sco Ab separated by 1.42 milliarcseconds and an orbital period of 6.82 days.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Graffias in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Scorpii</link>
+</object>

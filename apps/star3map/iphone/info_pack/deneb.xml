@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Deneb" type="Star">
+	<images>
+<image title="Deneb">deneb_1.png</image>
+<image title="">deneb__2.png</image>
+<image title="">deneb__3.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Deneb (α Cyg, α Cygni, Alpha Cygni) is the brightest star in the constellation Cygnus and one of the vertices of the Summer Triangle. It is the 19th brightest star in the night sky, with an apparent magnitude of 1.25. A blue-white supergiant, Deneb is also one of the most luminous nearby stars. However, its exact distance (and hence luminosity) has been difficult to calculate, so it is anywhere between 54,000 and 196,000 times as luminous as the sun.
+Other names include Arided and Aridif, but these have fallen out of use.
+
+Deneb lies at a vertex of a widely spaced asterism called the Summer Triangle, the other two members of which are the zero-magnitude stars Vega in the constellation Lyra and Altair in Aquila. This formation is the approximate shape of a right triangle, with Deneb located at one of the acute angles. The Summer Triangle is recognizable in the northern skies for there are few other bright stars in its vicinity.
+Deneb's absolute magnitude is currently estimated as −8.4, placing it among the most luminous stars known, with an estimated luminosity nearly 200,000 times that of our Sun. This is towards the upper end of various published values over the last few decades.
+Deneb's exact distance from the Earth is still rather uncertain. The currently accepted distance of around 2,600 light-years (and the associated physical data shown in the starbox) is derived by a variety of methods, including spectral luminosity classes, atmospheric modelling, stellar evolution models, assumed membership of the Cyg OB7 association, and direct measurements of angular diameter. The original rather inaccurate Hipparcos parallax measurement was not inconsistent with this distance, but the more recent re-analysis gives a much larger parallax and a distance barely half the widely accepted value. One 2008 calculation using the Hipparcos data puts the most likely distance at 1,550 light-years, with an uncertainty of only around 10%, although parallax measurements of asymmetric, pulsating stars embedded within shells are known to be unreliable. The controversy over whether the direct Hipparcos measurements can be ignored in favour of a wide range of indirect stellar models and interstellar distance scales is similar to the better known situation with the Pleiades. The Gaia satellite should provide distance measurements at least two orders of magnitude more reliable than Hipparcos and resolve many such questions, although it will not measure Deneb itself.
+Even assuming the lowest estimates of distance and luminosity, Deneb is the brightest and most distant of the stars with apparent magnitude brighter than 1.5, and the most distant (by a factor of almost 2) of the 30 brightest stars. Based on its temperature and luminosity, and also on direct measurements of its tiny angular diameter (a mere 0.002 second of arc), Deneb appears to have a diameter of 100-200 times that of the Sun; if placed at the center of our Solar System, Deneb would extend halfway out to the orbit of the Earth. It is one of the largest white stars known.
+Deneb is a bluish-white star of spectral type A2Ia, with a surface temperature of 8,500 kelvin. Since 1943, its spectrum has served as one of the stable anchor points by which other stars are classified. It is the prototype of a class of variable stars known as Alpha Cygni variables. Its surface undergoes non-radial fluctuations which cause its brightness and spectral type to change slightly.
+Deneb's mass is estimated at 20 solar masses. As a blue-white supergiant, its high mass and temperature mean that it will have a short lifespan and will probably go supernova within a few million years. It has already stopped fusing hydrogen in its core. It was probably an O class star during its main-sequence lifetime and is now probably expanding into a red supergiant. As it expands, it will go through the F, G, K and M spectral types.
+Deneb's solar wind causes it to lose mass at a rate of 0.8 millionth of a solar mass per year, a hundred thousand times the flow rate from the Sun.
+The name Deneb is derived from dhaneb, the Arabic for "tail", from the phrase ذنب الدجاجة Dhanab ad-Dajājah, or "tail of the hen". Similar names were given to at least seven different stars, most notably Deneb Kaitos, the brightest star in the constellation Cetus; Deneb Algedi, the brightest star in Capricornus; and Denebola, the second brightest star in Leo. All these stars are referring to the tail of the animals that their respective constellations represent.
+Denebadigege was used in the Alfonsine Tables, other variants include Deneb Adige, Denebedigege and Arided. This latter name was derived from Al Ridhādh, a name for the constellation. Johann Bayer called it Arrioph, derived from Aridf and Al Ridf, 'the hindmost' or Gallina. German poet and author Philippus Caesius termed it Os rosae, or Rosemund in German, or Uropygium – the parson's nose.
+In Chinese, 天津 (Tiān Jīn), meaning Celestial Ford, refers to an asterism consisting of Deneb, γ Cygni, δ Cygni, 30 Cygni, ν Cygni, τ Cygni, υ Cygni, ζ Cygni and ε Cygni. Consequently, Deneb itself is known as 天津四 (Tiān Jīn sì, English: the Fourth Star of the Celestial Ford).
+In the Chinese love story of Qi Xi, Deneb marks the magpie bridge across the Milky Way, which allows the separated lovers Niu Lang (Altair) and Zhi Nü (Vega) to be reunited on one special night of the year in late summer. In other versions of the story Deneb is a fairy who acts as chaperone when the lovers meet.
+The north pole of Mars points to the midpoint of the line connecting Deneb and the star Alderamin.
+USS Arided was a United States Navy Crater-class cargo ship named after the star.
+Coordinates: 20h 41m 25.9s, +45° 16′ 49″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cygnus</characteristic>
+<characteristic name="Right ascension">20h 41m 25.9s</characteristic>
+<characteristic name="Declination">+45° 16′ 49″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.25</characteristic>
+<characteristic name="Spectral type">A2 Ia</characteristic>
+<characteristic name="U−B color index">−0.24</characteristic>
+<characteristic name="B−V color index">+0.09</characteristic>
+<characteristic name="Variable type">Alpha Cyg</characteristic>
+<characteristic name="Radial velocity (Rv)">−4.5 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 1.99 mas/yr, Dec.: 1.95 mas/yr</characteristic>
+<characteristic name="Parallax (π)">2.29 ± 0.32mas</characteristic>
+<characteristic name="Distance">802 + 66pc</characteristic>
+<characteristic name="Absolute magnitude (MV)">−8.38</characteristic>
+<characteristic name="Mass">19 ± 4 M☉</characteristic>
+<characteristic name="Radius">203 ± 17 R☉</characteristic>
+<characteristic name="Luminosity">196,000 ± 32,000 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.10 ± 0.05 cgs</characteristic>
+<characteristic name="Temperature">8,525 ± 75 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">-0.25 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">20 ± 2 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Deneb in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Deneb</link>
+</object>

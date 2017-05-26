@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Hatsya" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassOStar.png</image>
+	</images>
+	<information>
+        Iota Orionis (ι Ori, ι Orionis) is a star in the equatorial constellation of Orion the hunter. The apparent visual magnitude of Iota Orionis is 2.77, making it the eighth brightest member of Orion.
+        
+        Iota Orionis is the brightest star in an asterism known as Orion's sword. It has the traditional names Hatsya or Hatysa and in Arabic, Na’ir al Saif, which means simply "the Bright One of the Sword." From parallax measurements, it is located at a distance of roughly 1,330 light-years (410 parsecs) from Earth.
+        
+        Iota Orionis is a quadruple system dominated by a massive spectroscopic binary with an eccentric (e=0.764), 29-day orbit. The two components of ι Ori A are a stellar class O9 III star (blue giant) and a class B0.8 III/IV star about 2 magnitudes fainter.[3] The collision of the stellar winds from this pair makes the system a strong X-ray source. Oddly, the two objects of this system appear to have different ages, with the secondary being about double the age of the primary. In combination with the high eccentricity of their orbit, this suggests that the binary system was created through a capture, rather than by being formed together and undergoing a mass transfer. This capture may have occurred, for example, through an encounter between two binary systems.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Hatsya in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Iota_Orionis</link>
+</object>

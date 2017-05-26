@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1220 Satellite details 1980-089A NORAD 12054" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">12054	</characteristic><characteristic name="Int'l Code">1980-089A</characteristic>
+<characteristic name="Launch date">November 4, 1980</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+<characteristic name="Decay date">2014-02-16						Comments: COSMOS 1220 was a Soviet naval reconnaisance satellite launched from the Baikonur cosmodrome aboard a Tsyklon 2 rocket. This naval forces monitoring spacecraft was used to determine the position of enemy naval forces through detection and triangulation of their electrmagnetic emissions (radio, radar, etc).</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

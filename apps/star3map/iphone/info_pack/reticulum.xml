@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Reticulum" type="Constellation">
+	<images>
+<image title="Reticulum">reticulum_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Reticulum is a small, faint constellation in the southern sky. Its name is Latin for a small net, or reticle—a net of crosshairs at the focus of a telescope eyepiece that is used to measure star positions. The constellation is best viewed between October and December, but cannot be seen from middle to northern latitudes.
+A constellation in this area was introduced by Isaac Habrecht II in his celestial globe in 1621, who named it Rhombus. It was replaced with a somewhat different constellation by the French astronomer Nicolas Louis de Lacaille in the eighteenth century; during his stay at the Cape of Good Hope, he named the constellation le Réticule Rhomboide to commemorate the reticle in his telescope eyepiece. The name was later Latinized to Reticulum in his star catalogue Coelum Australe Stelliferum. In 1810, the stars of Reticulum were used by William Croswell to produce the constellation Marmor Sculptile, which represented the bust of Christopher Columbus, but this did not catch on among astronomers.
+The constellation Reticulum became officially recognized during the First General Assembly of the International Astronomical Union in 1922. The boundary for this and other constellations was drawn up by Belgian astronomer Eugène Delporte along arcs of right ascension and declination for epoch 1875. These were published in 1930 in the Delimination Scientifique des Constellations at the behest of the IAU.
+Only two of the stars in this constellation are brighter than visual magnitude 5: Alpha (α) and Beta (β) reticuli. The reddish star R Reticuli is a Mira variable. This variable was discovered by C. Ragoonatha Chary at the Madras Observatory in India.
+The binary star system Epsilon Reticuli consists of a spectral class K2IV star being orbited by a white dwarf. Based on parallax measurements, this system is located about 50 light years from the Sun. In 2000, a planetary companion was announced, orbiting the star ε Reticuli A.
+Zeta Reticuli is a wide binary star system, with both members being similar to the Sun. It is located at a distance of about 39 light years. This system gained some notoriety in ufology when the alleged alien abductees Betty and Barney Hill named it as the home of their abductors.
+In 2005, a type 1a supernova was discovered in the spiral galaxy NGC 1559, located in the Reticulum constellation.
+Coordinates: 04h 00m 00s, −60° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Ret</characteristic>
+<characteristic name="Genitive">Reticuli</characteristic>
+<characteristic name="Pronunciation">/rɨˈtɪkjələm/, genitive /rɨˈtɪkjʊlaɪ/</characteristic>
+<characteristic name="Symbolism">the Reticle</characteristic>
+<characteristic name="Right ascension">4</characteristic>
+<characteristic name="Declination">−60</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ1</characteristic>
+<characteristic name="Area">114 sq. deg. (82nd)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">11</characteristic>
+<characteristic name="Stars with planets">7</characteristic>
+<characteristic name="Stars brighter than 3.00m">none</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">none</characteristic>
+<characteristic name="Brightest star">α Ret (3.33m)</characteristic>
+<characteristic name="Nearest star">ζ2 Reticuli (39.40 ly, 12.08 pc)</characteristic>
+<characteristic name="Messier objects">none</characteristic>
+<characteristic name="Bordering constellations">Horologium, Dorado, Hydrus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +23° and −90°. Best visible at 21:00 (9 p.m.) during the month of January.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Reticulum in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Reticulum</link>
+</object>

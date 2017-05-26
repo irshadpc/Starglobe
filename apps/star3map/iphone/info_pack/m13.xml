@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 13" type="Galaxies">
+	<images>
+		<image title="The heart of Hercules Globular Cluster">m 13_1.jpg</image>
+		<image title="Wide field image of Messier 13.">m 13_2.jpg</image>
+		<image title="M13 is in 'armpit' of Hercules constellation">m 13_3.png</image>
+	</images>
+	<information>
+Messier 13 (M13), also designated NGC 6205 and sometimes called the Great Globular Cluster in Hercules or the Hercules Globular Cluster, is a globular cluster of about 300,000 stars in the constellation of Hercules.
+M13 was discovered by Edmond Halley in 1714, and catalogued by Charles Messier on June 1, 1764.
+It is located at right ascension 16h 41.7m and declination +36° 28'. With an apparent magnitude of 5.8, it is barely visible with the naked eye on a very clear night. Its diameter is about 23 arc minutes and it is readily viewable in small telescopes. Nearby is NGC 6207, a 12th magnitude edge-on galaxy that lies 28 arc minutes directly north east. A small galaxy, IC 4617, lies halfway between NGC 6207 and M13, north-northeast of the large globular cluster's center.
+M13 is about 145 light-years in diameter, and it is composed of several hundred thousand stars, the brightest of which is the variable star V11 with an apparent magnitude of 11.95. M13 is 25,100 light-years away from Earth.
+The Arecibo message of 1974, containing encoded information about the human race, DNA, atomic numbers, Earth's position, and other information, was beamed towards M13, as an experiment in contacting potential extraterrestrial civilizations in the cluster. However, the experimenters intentionally sabotaged their goal: the message will reach the cluster's past position in 25,000 years. By then, the cluster will occupy a different position in space; it will never receive the message.
+	</information>
+	<characteristics>
+		<characteristic name="Class">V</characteristic>
+		<characteristic name="Hercules">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">16h 41m 41.24s</characteristic>
+		<characteristic name="Declination">+36° 27′ 35.5″</characteristic>
+		<characteristic name="Distance">22.2 kly (6.8 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+5.8</characteristic>
+		<characteristic name="Apparent dimensions (V)">20 arcmins</characteristic>
+		<characteristic name="Mass">6×105 M☉</characteristic>
+		<characteristic name="Radius">84 ly</characteristic>
+		<characteristic name="Metallicity">–1.33 dex</characteristic>
+		<characteristic name="Estimated age">11.65 Gyr</characteristic>
+		<characteristic name="Notable features">one of the best-known clusters of the northern hemisphere</characteristic>
+		<characteristic name="Other designations">NGC 6205</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 13 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_13</link>
+</object>

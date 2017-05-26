@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Cursa" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+        Beta Eridani, also named Cursa, is the second brightest star in the constellation of Eridanus, located in the northeast end of this constellation near the shared border with Orion. The apparent visual magnitude of this star is 2.796, so it can be viewed with the naked eye in dark skies. Parallax measurements yield an estimated distance of about 89 light-years (27 parsecs) from the Earth.
+        
+        Beta Eridani has a spectral type of A3 III, with the III luminosity class indicating this is a giant star that has consumed the hydrogen at its core and evolved away from the main sequence. The effective temperature of the outer envelope is about 8,104 K, which gives the star a white hue typical of A-type stars.[18] The projected rotational velocity is a rapid 196 km s−1, compared to 2 km s−1 along the Sun's equator. The star is known to vary in apparent visual magnitude, ranging between 2.72 and 2.80. A particularly strong flare up was reported in 1985.
+        
+        The location and trajectory of this star suggest that it is a member of the Ursa Major supergroup, an association of stars that share a common origin and motion though space. However, its photometric properties indicate that it may instead be an interloper. Beta Eridani has an optical companion star with an apparent magnitude 10.90 at an angular separation of 120 arcseconds and a position angle of 148°. It has the catalogue identifier CCDM J05079-0506B.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Cursa in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Eridani</link>
+</object>

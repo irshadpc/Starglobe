@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 53е" type="Galaxies">
+	<images>
+		<image title="Messier 53 by Hubble Space Telescope; 3.5′ view Credit: NASA/STScI/WikiSky">m 53_1.jpg</image>
+	</images>
+	<information>
+Messier 53 (also known as M53 or NGC 5024) is a globular cluster in the Coma Berenices constellation. It was discovered by Johann Elert Bode in 1775. M53 is one of the more outlying globular clusters, being about 60,000 light-years away from the Galactic Center, and almost the same distance (about 58,000 light-years) from the Solar system.
+	</information>
+	<characteristics>
+		<characteristic name="Class">V</characteristic>
+		<characteristic name="Constellation">Coma Berenices</characteristic>
+		<characteristic name="Right ascension">13h 12m 55.25s</characteristic>
+		<characteristic name="Declination">+18° 10′ 05.4″</characteristic>
+		<characteristic name="Distance">58 kly (18 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+8.33</characteristic>
+		<characteristic name="Apparent dimensions (V)">13.0′</characteristic>
+		<characteristic name="Mass">8.26×105 M☉</characteristic>
+		<characteristic name="Metallicity">–1.86 dex</characteristic>
+		<characteristic name="Estimated age">12.67 Gyr</characteristic>
+		<characteristic name="Other designations">M53, NGC 5024, GCl 22, C 1310+184</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 53 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_53</link>
+</object>

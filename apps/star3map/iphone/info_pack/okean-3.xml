@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="OKEAN 3 Satellite details 1991-039A NORAD 21397" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+The Okean series of satellites are all-weather radar oceanographic systems primarily designed to monitor sea-ice conditions in the Arctic Seas. The payload includes a side-looking radar, a scanning microwave radiometer, nadir-viewing microwave spectrometer, optical scanners and a data collection platform. The spacecraft is a stepped cylindrical pressurized bus 3 m high and 1.4 m diameter. The spacecraft is 3-axis stabilized (nadir pointing, aided by a gravity gradient boom), has twin solar arrays spanning 4.82 m and an 11.8 m radar antenna mounted on the Earth-facing base.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">21397	</characteristic><characteristic name="Int'l Code">1991-039A</characteristic>
+<characteristic name="Perigee">591.7 km</characteristic>
+<characteristic name="Apogee">618.8 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">96.6 minutes</characteristic>
+<characteristic name="Semi major axis">6976 km</characteristic>
+<characteristic name="Launch date">June 4, 1991</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

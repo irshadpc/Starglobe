@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alnitak" type="Star">
+	<images>
+<image title="Alnitak">alnitak_1.jpg</image>
+<image title="">alnitak__2.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alnitak (Arabic: النطاق an-niṭāq‎) is a triple star some 736 light years distant in the constellation Orion. It is part of Orion's Belt along with Alnilam and Mintaka, and has a Bayer designation of Zeta Orionis (ζ Ori) and a Flamsteed designation of 50 Orionis.
+The primary star is a hot blue supergiant with an absolute magnitude of -5.25, and is the brightest class O star in the night sky with a visual magnitude of +2.04. It has two bluish 4th magnitude companions, producing a combined magnitude for the trio of +1.72. The stars are members of the Orion OB1 association and the Collinder 70 association.
+
+Alnitak has been known since antiquity and, as a component of Orion's belt, has been of widespread cultural significance. It was reported to be a double star by amateur German astronomer George K. Kunowsky in 1819. Much more recently, in 1998, the bright primary was found by a team from the Lowell Observatory to have a close companion; this had been suspected from observations made with the Narrabri Stellar Intensity Interferometer in the 1970s. Initially thought to be around 1500 light years distant, the Alnitak system's distance was determined to be roughly half that via measurement of its stellar parallax by the Hipparcos satellite.
+Alnitak is a triple star system at the eastern end of Orion's belt. The primary (Alnitak A) is itself a close binary, comprising Alnitak Aa (a blue supergiant of spectral and luminosity type O9.7 Ibe, with an absolute magnitude of -5.25 and an apparent magnitude of 2.0) and Alnitak Ab (a blue dwarf of spectral and luminosity type O9V, with an absolute magnitude of about -3.0 and an apparent magnitude of about 4, discovered in 1998 ). Aa is estimated as being up to 28 times as massive as the sun, and to have a diameter 20 times greater. It is the brightest star of class O in the night sky. Alnitak B is a 4th magnitude B-type star which orbits Alnitak A every 1500 years. A fourth star, 9th magnitude Alnitak C, has not been confirmed to be part of the Aa-Ab-B group, and may simply lie along the line of sight.
+The Alnitak system is bathed in the nebulosity of IC 434.
+The traditional name Alnitak, alternately spelled Al Nitak or Alnitah, is taken from the Arabic النطاق an-niṭāq, "the girdle".
+The three belt stars were collectively known by many names in many cultures. Arabic terms include النجاد Al Nijād 'the Belt', النسك Al Nasak 'the Line', العلقات Al Alkāt 'the Golden Grains or Nuts' and, in modern Arabic, ميزان الحق Al Mīzān al Ḥaqq 'the Accurate Scale Beam'. In Chinese mythology they were known as The Weighing Beam.
+The belt was also the Three Stars mansion (simplified Chinese: 参宿; traditional Chinese: 參宿; pinyin: Shēn Xiù), one of the Twenty-eight mansions of the Chinese constellations. It is one of the western mansions of the White Tiger.
+In pre-Christian Scandinavia, the belt was known as Frigg's Distaff (Friggerock) or Freyja's distaff. Similarly Jacob's Staff and Peter's Staff were European biblical derived terms, as were the Three Magi, or the Three Kings. Väinämöinen's Scythe (Kalevala) and Kalevan Sword are terms from Finnish mythology.
+The Seri people of northwestern Mexico call the three belt stars Hapj (a name denoting a hunter) which consists of three stars: Hap (mule deer), Haamoja (pronghorn), and Mojet (bighorn sheep). Hap is in the middle and has been shot by the hunter; its blood has dripped onto Tiburón Island.
+In Latin America, this asterism is known as Las Tres Marías or As Três Marias which stand for The Three Marys in Spanish and Portuguese respectively.
+In the Star Trek episode The City on the Edge of Forever, Captain James T. Kirk references Alnitak by pointing it out as "that far left star in Orion's belt—see?"
+USS Alnitah (AK-127) was a United States Navy Crater class cargo ship named after the star.
+Coordinates: 05h 40m 45.5s, −01° 56′ 34″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Orion</characteristic>
+<characteristic name="Right ascension">05h 40m 45.5s</characteristic>
+<characteristic name="Declination">−01° 56′ 34″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.0/~4/4.21</characteristic>
+<characteristic name="Spectral type">O9.7 Ib/O9III/B0 III-IV</characteristic>
+<characteristic name="U−B color index">−1.07</characteristic>
+<characteristic name="B−V color index">0.14 / ? / −0.01</characteristic>
+<characteristic name="Radial velocity (Rv)">18 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 3.19 mas/yr, Dec.: 2.03 mas/yr</characteristic>
+<characteristic name="Parallax (π)">4.43 ± 0.64 mas</characteristic>
+<characteristic name="Distance">approx. 700 ly (approx. 230 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−5.25/−3/−2.8</characteristic>
+<characteristic name="Mass">27/19/16 M☉</characteristic>
+<characteristic name="Radius">19/7.5/7.2 R☉</characteristic>
+<characteristic name="Luminosity">180,000/50,000/35,000 L☉</characteristic>
+<characteristic name="Temperature">28,000/32,500/29,000 K</characteristic>
+<characteristic name="Metallicity">?</characteristic>
+<characteristic name="Rotation">140 km/s / ?</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alnitak in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alnitak</link>
+</object>

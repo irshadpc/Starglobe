@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 68" type="Galaxies">
+	<images>
+		<image title="M68 from Hubble Space Telescope in 2008; 3.32′ view Credit: NASA/STScI/WikiSky">m 68_1.jpg</image>
+		<image title="A 2012 view of M68 from the Wide Field Camera of Hubble’s Advanced Camera for Surveys">m 68_2.jpg</image>
+	</images>
+	<information>
+Messier 68 (also known as M68 or NGC 4590) is a globular cluster in the Hydra constellation. It was discovered by Charles Messier in 1780. M68 is at a distance of about 33,000 light-years away from Earth.
+	</information>
+	<characteristics>
+		<characteristic name="Class">X</characteristic>
+		<characteristic name="Constellation">Hydra</characteristic>
+		<characteristic name="Right ascension">12h 39m 27.98s</characteristic>
+		<characteristic name="Declination">–26° 44′ 38.6″</characteristic>
+		<characteristic name="Distance">33.6 kly (10.3 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+9.67</characteristic>
+		<characteristic name="Apparent dimensions (V)">11′.0</characteristic>
+		<characteristic name="Mass">2.23×105 M☉</characteristic>
+		<characteristic name="Radius">53 ly</characteristic>
+		<characteristic name="Metallicity">–2.23 dex</characteristic>
+		<characteristic name="Estimated age">11.2 Gyr</characteristic>
+		<characteristic name="Notable features">Relatively metal poor.</characteristic>
+		<characteristic name="Other designations">M68, NGC 4590, GCl 20</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 68 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_68</link>
+</object>

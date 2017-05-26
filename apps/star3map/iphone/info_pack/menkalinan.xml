@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Menkalinan" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Beta Aurigae (β Aurigae, abbreviated Beta Aur, β Aur), also named Menkalinan, is a binary star system in the northern constellation of Auriga. The combined apparent visual magnitude of the system is 1.9, making it the second brightest member of the constellation after Capella. Using the parallax measurements made during the Hipparcos mission, the distance to this star system can be estimated as 81.1 light-years (24.9 parsecs), give or take a half light year margin of error.
+Beta Aurigae is a binary star system, although the light that the star system releases forges the appearance of a single star in the night sky. The two brightest components are metallic-lined subgiant stars belonging to the A-type stellar classification; they have roughly the same mass and radius. A-type entities are hot stars that release a blue-white hued light; these two stars burn brighter and with more heat than the Sun, which is a G2-type main sequence star. The pair constitute an eclipsing spectroscopic binary; the combined apparent magnitude varies over a period of 3.96 days between +1.89 and +1.94, as every 47.5 hours one of the stars partially eclipses the other from Earth's perspective.
+
+At an angular separation of 13.9 ± 0.3 arcseconds along a position angle of 155° is a companion star that is 8.5 magnitudes fainter than the binary pair. This is a candidate member of Beta Aurigae, which would make it a triple (trinary) star system. It may be the source of the X-ray emission from the vicinity. The Beta Aurigae system is believed to be a stream member of the Ursa Major Moving Group.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Menkalinan in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Aurigae</link>
+</object>

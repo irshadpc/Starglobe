@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Ceti" type="Star">
+	<images>
+<image title="Menkar">menkar_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Ceti (α Cet, α Ceti) is a star in the constellation of Cetus. It has the traditional name Menkar or Menkab. The name Menkar derives from the Arabic word منخر manħar "nostril" (of Cetus).
+This star, along with γ Cet (Kaffaljidhma), δ Cet, λ Cet (Menkar), μ Cet, ξ1 Cet and ξ2 Cet were Al Kaff al Jidhmah, "the Part of a Hand".
+In Chinese, 天囷 (Tiān Qūn), meaning Circular Celestial Granary, refers to an asterism consisting of α Ceti, κ1 Ceti, λ Ceti, μ Ceti, ξ1 Ceti, ξ2 Ceti, ν Ceti, γ Ceti, δ Ceti, 75 Ceti, 70 Ceti, 63 Ceti and 66 Ceti. Consequently, α Ceti itself is known as 天囷一 (Tiān Qūn yī, English: the First Star of Circular Celestial Granary.)
+
+Despite having the Bayer designation α Ceti, at visual magnitude 2.54 this star is actually not the brightest star in the constellation Cetus. That honor goes instead to Beta Ceti at magnitude 2.04. Menkar is a red giant with a stellar classification of M1.5 IIIa. It has more than twice the mass of the Sun and, as a giant star has expanded to about 89 times the Sun's radius. The large area of the photosphere means that it is emitting about 1,455 times as much energy as the Sun, even though the effective temperature is only 3,795 K (compared to 5,778 K on the Sun). The relatively low temperature gives Menkar the red hue of an M-type star.
+Menkar has evolved from the main sequence after exhausting the helium at its core. As it begins to burn its carbon core it will probably become a highly unstable star like Mira before finally shedding its outer layers and forming a planetary nebula, leaving a relatively large white dwarf remnant.
+USS Menkar (AK-123) was a United States Navy Crater class cargo ship named after the star.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cetus</characteristic>
+<characteristic name="Right ascension">03h 02m 16.77307s</characteristic>
+<characteristic name="Declination">+04° 05′ 23.0596″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.53</characteristic>
+<characteristic name="Spectral type">M1.5 IIIa</characteristic>
+<characteristic name="U−B color index">+1.93</characteristic>
+<characteristic name="B−V color index">+1.64</characteristic>
+<characteristic name="Variable type">None</characteristic>
+<characteristic name="Radial velocity (Rv)">–26.08 ± 0.02 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: -10.41 ± 0.51 mas/yr, Dec.: -76.85 ± 0.36 mas/yr</characteristic>
+<characteristic name="Parallax (π)">13.09 ± 0.44mas</characteristic>
+<characteristic name="Distance">249 ± 8 ly (76 ± 3 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–3.2 ± 0.3</characteristic>
+<characteristic name="Mass">2.3 ± 0.2 M☉</characteristic>
+<characteristic name="Radius">89 ± 5 R☉</characteristic>
+<characteristic name="Luminosity">1455 ± 328 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">0.9 ± 0.1 cgs</characteristic>
+<characteristic name="Temperature">3,795 ± 70 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">0.00 ± 0.30 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">6.9 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Ceti in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Menkar</link>
+</object>

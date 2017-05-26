@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Tureis" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+	</images>
+	<information>
+Rho Puppis (Rho Pup, ρ Puppis, ρ Pup) is a star in the southern constellation of Puppis, which according to British astronomy author Patrick Moore, has the traditional name Turais, which is shared by Iota Carinae. With an average apparent visual magnitude of 2.78, it is the third brightest member of this generally faint constellation. Based upon parallax measurements made during the Hipparcos mission, Rho Puppis is located at a distance of 63.5 light-years (19.5 parsecs) from Earth. At present it is moving away from the Sun with a radial velocity of +46.1 km s−1. The closest approach occurred about 394,000 years ago when Rho Puppis came within roughly 11.6 ly (3.6 pc) of the Solar System; about the same distance as Procyon in the present era.
+
+The variability of this star was announced in 1956 by American astronomer Olin J. Eggen. It was determined to be a Delta Scuti-type variable star, making it one of the first stars of that type to be identified. Photometric observations dating back to 1946 provide a lengthy record of its pattern of pulsation; it undergoes periodic pulsations with a single period of 0.14088143(3) days, or 7.1 cycles per day. During each cycle, the star's magnitude varies with an amplitude of 0.15 and the radial velocity varies by 10 km s−1. The peak brightness occurs 28.8 minutes following the minimum radial velocity. The outer atmosphere's effective temperature of 6,920 K is one of the lowest known for a Delta Scuti variable.
+
+Rho Puppis has an estimated age of about 2 billion years and it has 3.4 times the Sun's radius. It has a stellar classification of F2mF5IIp, which matches the spectrum of an F-type bright giant star. It shows stronger than normal absorption lines of metals—a term astronomers use for any element other than hydrogen and helium. The 'p' suffix indicates chemical peculiarities that mark it as a cooler temperature Am star. Most such stars are found in binary star systems, but this appears to be an exception as no companion has been discovered. Evolved stars that show this combination of Delta Scuti variability with Am-like peculiarities of abundance have come to be known as ρ Pup stars. The star's metallicity is more than double that in the Sun.
+
+This star shows an excess emission of infrared radiation, suggesting that there is a circumstellar disk of dust orbiting this star. The mean temperature of the emission is 85 K, corresponding to an orbital separation from the host star of 50 AU.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Tureis in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Rho_Puppis</link>
+</object>

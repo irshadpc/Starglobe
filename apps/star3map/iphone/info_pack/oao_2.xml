@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="OAO 2 Satellite details 1968-110A NORAD 03597" type="Satellite">
+	<images><image>oao2.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+This spacecraft was one of a series of automated astronomical observatories that was ground controllable in orientation and was placed in a low-earth orbit. This spacecraft carried two experiment packages, which were located centrally within the spacecraft, each viewing space from opposite ends.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">3597</characteristic><characteristic name="Int'l Code">1968-110A</characteristic>
+<characteristic name="Perigee">743.4 km</characteristic>
+<characteristic name="Apogee">752.4 km</characteristic>
+<characteristic name="Inclination">35.0 °</characteristic>
+<characteristic name="Period">99.6 minutes</characteristic>
+<characteristic name="Semi major axis">7118 km</characteristic>
+<characteristic name="Launch date">December 7, 1968</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

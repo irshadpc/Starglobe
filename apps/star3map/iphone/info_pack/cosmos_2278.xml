@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 2278 Satellite details 1994-023A NORAD 23087" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">23087	</characteristic><characteristic name="Int'l Code">1994-023A</characteristic>
+<characteristic name="Perigee">847.3 km</characteristic>
+<characteristic name="Apogee">861.4 km</characteristic>
+<characteristic name="Inclination">71.1 °</characteristic>
+<characteristic name="Period">101.9 minutes</characteristic>
+<characteristic name="Semi major axis">7225 km</characteristic>
+<characteristic name="Launch date">April 23, 1994</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Rastaban" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+Gamma Draconis (γ Dra, γ Draconis) is the Bayer designation for a star in the northern constellation of Draco. It has the traditional name Etamin, Eltanin or Ettanin and the Flamsteed designation 33 Draconis. Despite its gamma designation, it is actually the brightest star in Draco at magnitude 2.4, outshining Rastaban (Beta Draconis) by nearly half a magnitude. Its proximity to the zenith point directly overhead of London has earned it the name "Zenith Star." As for other places, it is relatively easy to locate in the night sky. If one finds Vega, Eltanin is the red star just north-northwest of it.
+
+Eltanin lies around 154.3 light-years (47.3 parsecs) away, as determined by parallax measurements from the Hipparcos astrometry satellite. In 1728, while unsuccessfully attempting to measure the parallax of this star, James Bradley discovered the aberration of light resulting from the movement of the Earth. Bradley's discovery confirmed Copernicus' theory that the Earth revolved around the Sun.
+Gamma Draconis is an evolved giant star with a stellar classification of K5 III. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It has 72% more mass than the Sun and it has expanded to around 48 times the Sun's girth. It is radiating about 471 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 3,930 K. This is cooler than the Sun, giving this star the orange-hued glow of a K-type star. It may have a physical companion. If so, the two are separated by about 1000 AU. The luminosity of this object suggests it is a red dwarf star. In 1.5 million years, Eltanin will pass within 28 light years of Earth. At this point (assuming its current absolute magnitude does not change) it will be the brightest star in the night sky, nearly as bright as Sirius is at present.
+The name Etamin comes from the Arabic التنين At-Tinnin The great serpent. The name "Rastaban" was formerly used for Eltanin, and the two terms share an Arabic root meaning "serpent" or "dragon." This star, along with β Dra (Rastaban), μ Dra (Erakis), ν Dra (Kuma) and ξ Dra (Grumium) were Al ʽAwāïd, "the Mother Camels", which was later known as the Quinque Dromedarii.
+
+In Chinese, 天棓 (Tiān Bàng), meaning Celestial Flail, refers to an asterism consisting of γ Draconis, ξ Draconis, ν Draconis, β Draconis and ι Herculis. Consequently, γ Draconis itself is known as 天棓四 (Tiān Bàng sì, English: the Fourth Star of Celestial Flail.)
+
+USS Etamin (AK-93) was a United States Navy Crater class cargo ship named after the star.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Rastaban in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Draconis</link>
+</object>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Algol" type="Star">
+	<images>
+<image title="Algol">algol_1.png</image>
+<image title="">algol__3.gif</image>
+<image title="">algol__4.jpg</image>
+<image title="Perseus Hevelius.jpg">algol__5.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Algol (Beta Per, β Persei, β Per), known colloquially as the Demon Star, is a bright star in the constellation Perseus. It is one of the best known eclipsing binaries, the first such star to be discovered, and also one of the first (non-nova) variable stars to be discovered. Algol is actually a three-star system (Beta Persei A, B, and C) in which the large and bright primary Beta Persei A is regularly eclipsed by the dimmer Beta Persei B. Thus, Algol's magnitude is usually near-constant at 2.1, but regularly dips to 3.4 every two days, 20 hours and 49 minutes during the roughly 10-hour long partial eclipses. There is also a secondary eclipse (the "second minimum") when the brighter star occults the fainter secondary. This secondary eclipse can only be detected photoelectrically. Algol gives its name to its class of eclipsing variable, known as Algol variables.
+
+The association of Algol with a demon-like creature (Gorgon in the Greek tradition, ghoul in the Arabic tradition) suggests that its variability was known long before the 17th century, but there is still no indisputable evidence for this. Investigating a calendar for lucky and unlucky days composed in Egypt some 3200 years ago, scholars have noted a significant periodicity of 2.85 days and several empirical tests indicate that this periodicity may be connected to Algol.
+The variability of Algol was first unambiguously recorded in 1667 by Italian astronomer Geminiano Montanari, but the periodic nature of its variations in brightness was not recognized until more than a century later, when the British amateur astronomer John Goodricke also proposed a mechanism for the star's variability. In May 1783 he presented his findings to the Royal Society, suggesting that the periodic variability was caused by a dark body passing in front of the star (or else that the star itself has a darker region that is periodically turned toward the Earth.) For his report he was awarded the Copley Medal.
+In 1881, the Harvard astronomer Edward Charles Pickering presented evidence that Algol was actually an eclipsing binary. This was confirmed a few years later, in 1889, when the Potsdam astronomer Hermann Carl Vogel found periodic doppler shifts in the spectrum of Algol, inferring variations in the radial velocity of this binary system. Thus Algol became one of the first known spectroscopic binaries. Dr. Joel Stebbins at the University of Illinois Observatory used an early selenium cell photometer to produce the first-ever photoelectric study of a variable star. The light curve revealed the second minimum and the reflection effect between the two stars. Some difficulties in explaining the observed spectroscopic features led to the conjecture that a third star may be present in the system; four decades later this conjecture was found to be correct.
+From the point of view of the Earth, Algol A and Algol B form an eclipsing binary because their orbital plane contains the line of sight to the Earth. To be more precise, Algol is a triple-star system: the eclipsing binary pair is separated by only 0.062 astronomical units (AU) from each other, whereas the third star in the system (Algol C) is at an average distance of 2.69 AU from the pair, and the mutual orbital period of the trio is 681 Earth days. The total mass of the system is about 5.8 solar masses, and the mass ratios of A, B and C are about 4.5 to 1 to 2.
+Studies of Algol led to the Algol paradox in the theory of stellar evolution: although components of a binary star form at the same time, and massive stars evolve much faster than the less massive ones, it was observed that the more massive component Algol A is still in the main sequence, whereas the less massive Algol B is a subgiant star at a later evolutionary stage. The paradox can be solved by mass transfer: when the more massive star became a subgiant, it filled its Roche lobe, and most of the mass was transferred to the other star, which is still in the main sequence. In some binaries similar to Algol, a gas flow can be seen.
+This system also exhibits variable activities in the forms of x-ray and radio wave flares. The former is thought to be caused by the magnetic fields of the A and B components interacting with the mass transfer. The radio-wave emissions might be created by magnetic cycles similar to those of sunspots, but because the magnetic fields of these stars are up to ten times stronger than the field of the Sun, these radio flares are more powerful and more persistent.
+Algol is located about 92.8 light years from the Sun, but about 7.3 million years ago it passed within 9.8 light years of the Solar System and its apparent magnitude was about -2.5, which is considerably brighter than the star Sirius is today. Because the total mass of the Algol system is about 5.8 solar masses, at the closest approach this might have given enough gravity to perturb the Oort cloud of the Solar System somewhat and hence increase the number of comets entering the inner solar system. However, the actual increase in net cometary collisions is thought to have been quite small.
+The name Algol derives from Arabic رأس الغول ra's al-ghūl : head (ra's) of the ogre (al-ghūl) (see "ghoul"). The English name "Demon Star" is a direct translation of this.
+In Hebrew folklore, Algol was called Rōsh ha Sāṭān or "Satan's Head", as stated by Edmund Chilmead, who called it "Divels head" or Rosch hassatan. A Latin name for Algol from the 16th century was Caput Larvae or "the Spectre's Head".Hipparchus and Pliny made this a separate, though connected, constellation.
+In Chinese, 大陵 (Dà Líng), meaning Mausoleum, refers to an asterism consisting of β Persei, 9 Persei, τ Persei, ι Persei, κ Persei, ρ Persei, 16 Persei and 12 Persei. Consequently, β Persei itself is known as 大陵五 (Dà Líng wu, English: the Fifth Star of Mausoleum.). According to R.H. Allen the star bore the grim name of Tseih She 叠尸 (Dié Shī), meaning "Piled up Corpses" but this appears to be a misidentification.
+Historically, the star has received a strong association with bloody violence across a wide variety of cultures. In the Tetrabiblos, the 2nd-century astrological text of the Alexandrian astronomer Ptolemy, Algol is referred to as "the Gorgon of Perseus" and associated with death by decapitation: a theme which mirrors the myth of the hero Perseus’ victory over the snake-haired Gorgon Medusa. Astrologically, Algol is considered one of the unluckiest stars in the sky, and was listed as one of the 15 Behenian stars.
+Coordinates: 03h 08m 10.1315s, +40° 57′ 20.332″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Perseus</characteristic>
+<characteristic name="Right ascension">03h 08m 10.1315s</characteristic>
+<characteristic name="Declination">+40° 57′ 20.332″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.12</characteristic>
+<characteristic name="Spectral type">B8V (A) /K0IV (B) /A5V (C)</characteristic>
+<characteristic name="U−B color index">−0.37</characteristic>
+<characteristic name="B−V color index">−0.05</characteristic>
+<characteristic name="Variable type">Eclipsing binary</characteristic>
+<characteristic name="Radial velocity (Rv)">3.7 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 2.39 mas/yr, Dec.: −1.44 mas/yr</characteristic>
+<characteristic name="Parallax (π)">35.14 ± 0.90 mas</characteristic>
+<characteristic name="Distance">93 ± 2 ly (28.5 ± 0.7 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−0.15</characteristic>
+<characteristic name="Mass">3.59/0.79/1.67 M☉</characteristic>
+<characteristic name="Radius">4.13/3.0/0.9 R☉</characteristic>
+<characteristic name="Luminosity">98/3.4/4.1 L☉</characteristic>
+<characteristic name="Temperature">9,200/4,500/8,500 K</characteristic>
+<characteristic name="Metallicity">Not available</characteristic>
+<characteristic name="Rotation">65 km/s</characteristic>
+<characteristic name="Age">&lt; 3×10^8 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Algol in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Algol</link>
+</object>

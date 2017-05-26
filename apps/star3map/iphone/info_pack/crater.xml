@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Crater (constellation)" type="Constellation">
+	<images>
+<image title="Crater (constellation)">crater_1.png</image>
+<image title="">crater__2.jpg</image>
+<image title="">crater__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Crater is a constellation. Its name is Latin for cup, and in Greek mythology it is identified with the cup of the god Apollo. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and remains one of the 88 modern constellations. It is faint, with no star brighter than third magnitude.
+
+Alpha Crateris, traditionally called Alkes, is an orange-hued giant star of magnitude 4.1, 174 light-years from Earth. Its traditional name means "the cup". Beta Crateris is a blue-white hued star of magnitude 4.5, 266 light-years from Earth. Gamma Crateris is a double star divisible in small amateur telescopes. The primary is a white star of magnitude 4.1, 84 light-years from Earth. The secondary is of magnitude 9.6. Delta Crateris is the brightest star in Crater at magnitude 3.6. 195 light-years away, it is an orange-hued giant star.
+R Crateris is a semi-regular variable of type SRb and a spectral classification of M7. It has a magnitude of 9.8-11.2 and an optical period of 160 days.
+SZ Crateris is a magnitude 8.1 variable star. It is a nearby star system located about 44 light years from the Sun. It is also identified as Gliese 425, and in the past it was known as Abt's Star.[citation needed]
+31 Crateris (now regarded as part of Corvus) is a 5.2 magnitude star which was once mistaken for a moon of Mercury.
+NGC 3511 is a spiral galaxy with a slight bar, seen nearly from the edge, of type SBbc. It is a member of the galaxy cluster Abell 1060. This galaxy is magnitude 12, and is 4' × 1' in size.
+NGC 3887 is a barred-spiral galaxy of type SBc, magnitude 11, with a diameter of 3.5'.
+NGC 3981 is a spiral galaxy with two wide spiral arms, of type SBbc. It is magnitude 12 with a diameter of 3'. This galaxy was discovered by William Herschel in 1785.
+RX J1131 is a quasar located 6 billion light years away from Earth. The black hole in the center of the quasar was the first black hole whose spin has ever been directly measured.
+Crater is identified with a story from Greek mythology in which a crow or raven serves Apollo, and is sent to fetch water, but it rests lazily on the journey, and after finally obtaining the water in a cup, takes back a water snake as an excuse. According to the myth, Apollo saw through the fraud, and angrily cast the crow, cup, and snake, into the sky. The constellations of Corvus the crow and Hydra the water-snake are also identified with this myth.
+In Chinese astronomy, the stars of Crater are located within the constellation of the Vermillion Bird of the South (南方朱雀, Nán Fāng Zhū Què).
+In the Society Islands, Crater was recognized as a constellation called Moana-ohu-noa-ei-haa-moe-hara.
+USS Crater (AK-70) was a United States Navy Crater class cargo ship named after the constellation.
+Coordinates: 11h 00m 00s, −16° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Crt</characteristic>
+<characteristic name="Genitive">Crateris</characteristic>
+<characteristic name="Pronunciation">/ˈkreɪtər/, genitive /krəˈtɪərɨs/</characteristic>
+<characteristic name="Symbolism">the cup</characteristic>
+<characteristic name="Right ascension">11</characteristic>
+<characteristic name="Declination">−16</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Quadrant">SQ2</characteristic>
+<characteristic name="Area">282 sq. deg. (53rd)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">12</characteristic>
+<characteristic name="Stars with planets">7</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">0</characteristic>
+<characteristic name="Brightest star">δ Crt (Labrum) (3.57m)</characteristic>
+<characteristic name="Nearest star">LHS 2358 (34.86 ly, 10.69 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">Eta Craterids</characteristic>
+<characteristic name="Bordering constellations">Leo, Sextans, Hydra, Corvus, Virgo</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +65° and −90°. Best visible at 21:00 (9 p.m.) during the month of April.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Crater (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Crater_(constellation)</link>
+</object>

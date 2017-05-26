@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Titania" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Titania_1.jpg</image>
+        <image title="">Titania_2.jpg</image>
+        <image title="">Titania_3.jpg</image>
+	</images>
+	<information>
+        Titania is the largest of the moons of Uranus and the eighth largest moon in the Solar System at a diameter of 1,578 kilometres (981 mi). Discovered by William Herschel in 1787, Titania is named after the queen of the fairies in Shakespeare's A Midsummer Night's Dream. Its orbit lies inside Uranus's magnetosphere.
+
+        Titania consists of approximately equal amounts of ice and rock, and is probably differentiated into a rocky core and an icy mantle. A layer of liquid water may be present at the core–mantle boundary. The surface of Titania, which is relatively dark and slightly red in color, appears to have been shaped by both impacts and endogenic processes. It is covered with numerous impact craters reaching up to 326 kilometres (203 mi) in diameter, but is less heavily cratered than the surface of Uranus's outermost moon, Oberon. Titania probably underwent an early endogenic resurfacing event which obliterated its older, heavily cratered surface. Titania's surface is cut by a system of enormous canyons and scarps, the result of the expansion of its interior during the later stages of its evolution. Like all major moons of Uranus, Titania probably formed from an accretion disk which surrounded the planet just after its formation.
+
+        Infrared spectroscopy conducted from 2001 to 2005 revealed the presence of water ice as well as frozen carbon dioxide on the surface of Titania, which in turn suggested that the moon may have a tenuous carbon dioxide atmosphere with a surface pressure of about 10 nanopascals (10−13 bar). Measurements during Titania's occultation of a star put an upper limit on the surface pressure of any possible atmosphere at 1–2 mPa (10–20 nbar).
+
+        The Uranian system has been studied up close only once, by the spacecraft Voyager 2 in January 1986. It took several images of Titania, which allowed mapping of about 40% of its surface.
+
+    Titania is the largest and most massive Uranian moon, and the eighth most massive moon in the Solar System. Its density of 1.71 g/cm³, which is much higher than the typical density of Saturn's satellites, indicates that it consists of roughly equal proportions of water ice and dense non-ice components; the latter could be made of rock and carbonaceous material including heavy organic compounds. The presence of water ice is supported by infrared spectroscopic observations made in 2001–2005, which have revealed crystalline water ice on the surface of the moon. Water ice absorption bands are slightly stronger on Titania's leading hemisphere than on the trailing hemisphere. This is the opposite of what is observed on Oberon, where the trailing hemisphere exhibits stronger water ice signatures. The cause of this asymmetry is not known, but it may be related to the bombardment by charged particles from the magnetosphere of Uranus, which is stronger on the trailing hemisphere (due to the plasma's co-rotation). The energetic particles tend to sputter water ice, decompose methane trapped in ice as clathrate hydrate and darken other organics, leaving a dark, carbon-rich residue behind.
+
+    Except for water, the only other compound identified on the surface of Titania by infrared spectroscopy is carbon dioxide, which is concentrated mainly on the trailing hemisphere. The origin of the carbon dioxide is not completely clear. It might be produced locally from carbonates or organic materials under the influence of the solar ultraviolet radiation or energetic charged particles coming from the magnetosphere of Uranus. The latter process would explain the asymmetry in its distribution, because the trailing hemisphere is subject to a more intense magnetospheric influence than the leading hemisphere. Another possible source is the outgassing of the primordial CO2 trapped by water ice in Titania's interior. The escape of CO2 from the interior may be related to the past geological activity on this moon.
+
+    Titania may be differentiated into a rocky core surrounded by an icy mantle. If this is the case, the radius of the core 520 kilometres (320 mi) is about 66% of the radius of the moon, and its mass is around 58% of the moon’s mass—the proportions are dictated by moon's composition. The pressure in the center of Titania is about 0.58 GPa (5.8 kbar). The current state of the icy mantle is unclear. If the ice contains enough ammonia or other antifreeze, Titania may have a subsurface ocean at the core–mantle boundary. The thickness of this ocean, if it exists, is up to 50 kilometres (31 mi) and its temperature is around 190 K. However the present internal structure of Titania depends heavily on its thermal history, which is poorly known.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Titania in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Titania_(moon)</link>
+</object>

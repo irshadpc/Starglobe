@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 102" type="Galaxies">
+	<images>
+		<image title="Messier 101 as observed by the Hubble Space Telescope. Credit: NASA/ESA.">m 102_1.jpg</image>
+		<image title="NGC 5866 as observed by the Hubble Space Telescope. Credit: NASA/ESA.">m 102_2.png</image>
+	</images>
+	<information>
+Messier 102 (also known as M102) is a galaxy listed in the Messier Catalogue that has not been identified unambiguously. Its original discoverer Pierre Méchain later said that it was a duplicate observation of Messier 101, but there are historical and observational reasons to believe that it could be NGC 5866, although other galaxies have been suggested as possible identities.
+Since the publication of the Messier Catalogue, a number of galaxies have been identified by different historians, professional astronomers, and amateur astronomers as corresponding to M102.
+Messier 101 (also known as the Pinwheel Galaxy or NGC 5457) is a face-on spiral galaxy in the constellation Ursa Major. In a letter written in 1783 to J. Bernoulli, Pierre Méchain (who had shared information about his discoveries with Messier) claimed that M102 was actually an accidental duplication of M101 in the catalog. This letter was later published twice: First in original French in the Memoirs of the Berlin Academy for 1782, and second in German translation and somewhat rearranged by Johann Elert Bode in the Berliner Astronomisches Jahrbuch for 1786.
+NGC 5866 (one of two galaxies commonly called the Spindle Galaxy) is a lenticular galaxy in the Draco constellation. This galaxy appears to closely match both the object description (by Pierre Méchain) in the printed version of the Messier Catalog of 1781, and the object position given by Charles Messier in hand-written notes on his personal list of the Messier Catalogue.
+Although M101 and NGC 5866 are considered to be the two most likely candidates for M102, a few other objects have been suggested as potentially corresponding to this entry.
+NGC 5879, NGC 5907, NGC 5905, and NGC 5908 are all galaxies near the position of NGC 5866. By that criterion, they may all be as likely as NGC 5866 to be the objects that correspond to M102. However, none of these galaxies are as bright or as high in surface brightness as NGC 5866, so it is less likely that these objects correspond to M102.
+NGC 5928 is a 14th magnitude galaxy located between ο Boötis and ι Serpentis. J. L. E. Dreyer, in his Notes and Corrections to the New General Catalogue, suggested that this may have been the source identified as M102 on the basis that ι Serpentis may have been misidentified as ι Draconis in the location given for the object. However, it may not have been observable by Messier and Méchain, so it is unlikely to correspond to M102.
+	</information>
+	<characteristics>
+	</characteristics>
+	<link title="Get more info about Messier 102 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_102</link>
+</object>

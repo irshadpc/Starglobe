@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Zaurak" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+Gamma Eridani (γ Eridani, abbreviated Gamma Eri, γ Eri), also named Zaurak, is a red dwarf star in the constellation of Eridanus. It lies at a distance of about 150 light years from the Sun, as determined by the Hipparcos astrometry satellite.
+Gamma Eridani is the star's Bayer designation. It has the traditional name Zaurak, alternatively spelled Zaurac, which is Arabic for 'boat'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Zaurak for this star.
+
+In Chinese, 天苑 (Tiān Yuàn), meaning Celestial Meadows, refers to an asterism consisting of γ Eridani, δ Eridani, π Eridani, ε Eridani, ζ Eridani, η Eridani, π Ceti, τ1 Eridani, τ2 Eridani, τ3 Eridani, τ4 Eridani, τ5 Eridani, τ6 Eridani, τ7 Eridani, τ8 Eridani and τ9 Eridani. Consequently, γ Eridani itself is known as 天苑一 (Tiān Yuàn yī, English: the First [Star] of Celestial Meadows.)
+
+USS Zaurak (AK-117) was a United States Navy Crater class cargo ship named after the star.
+Zaurak has an apparent magnitude of +2.95 and is of spectral type M0.5IIICa-ICr -.
+
+Coordinates (equinox 2000):
+Right ascension: 3h 58m 1.76695s
+Declination: −13° 30′ 30.6698″
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Zaurak in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Eridani</link>
+</object>

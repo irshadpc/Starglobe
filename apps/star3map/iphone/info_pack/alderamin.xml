@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Cephei" type="Star">
+	<images>
+<image title="Alderamin">alderamin_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Cephei (α Cep, α Cephei) is a second magnitude star in the constellation of Cepheus that is relatively close to Earth at only 49 light years. It has the traditional name Alderamin, an Arabic name meaning "the right arm".
+
+With a declination in excess of 62 degrees north, Alderamin is mostly visible to observers in the northern hemisphere, though the star is still visible to latitudes as far south as -27°, albeit just above the horizon. The star is circumpolar throughout all of Europe, northern Asia, Canada and American cities as far south as San Diego. Since Alderamin has an apparent magnitude of about 2.5, the star is easily observable to the naked eye, even in light-polluted cities.
+Alderamin is a white Class A star, evolving off of the main sequence into a subgiant, probably on its way to becoming a red giant as its hydrogen supply runs low. In 2007, the star's apparent magnitude was recalibrated at 2.5141 along with an updated parallax of 66.50 ± 0.11 mas yielding a distance of 15 parsecs or approximately 49 light years from Earth.
+Given a surface temperature of 7,740 Kelvin, stellar models yield a total luminosity for the star of about 17 times the luminosity of the Sun. Alderamin has a radius of 2.3 times the Sun's radius and boasting a mass that is 1.74 that of the Sun. Like other stars in its class, it is slightly variable with a range in brightness of 0.06 magnitude, and is listed as a Delta Scuti variable.
+Alderamin has a very high rotation speed of at least 246 km/s, completing one complete revolution in less than 12 hours, with such a rapid turnover appearing to inhibit the differentiation of chemical elements usually seen in such stars. By comparison, the Sun takes almost a month to turn on its axis. α Cep is also known to emit an amount of X radiation similar to the Sun, which along with other indicators suggests the existence of considerable magnetic activity—something unexpected (though not at all unusual) for a fast rotator.
+Alderamin is located near the precessional path traced across the celestial sphere by the Earth's north pole. That means that it periodically comes within 3° of being a pole star, much as Polaris is at present. This will next occur about the year 7500 AD. The north pole of Mars lies halfway between Alderamin and the star Deneb.
+The name Alderamin is a contraction of the Arabic phrase الذراع اليمين að-ðirā‘ al-yamīn "the right arm," with the first definite article transliterated literally as al, as is often the case with Arabic star names.
+This star, along with β Cep (Alfirk) and η Cep (Alkidr) were Al Kawākib al Firḳ (الكوكب الفرق), meaning "the Stars of The Flock" by Ulug Beg.
+In Chinese, 天鈎 (Tiān Gōu), meaning Celestial Hook, refers to an asterism consisting of α Cephei, 4 Cephei, HD 194298, η Cephei, θ Cephei, ξ Cephei, 26 Cephei, ι Cephei and ο Cephei. Consequently, α Cephei itself is known as 天鈎五 (Tiān Gōu wu, English: the Fifth Star of the Celestial Hook.).
+USS Alderamin (AK-116) was a United States Navy Crater class cargo ship named after the star.
+Coordinates: 21h 18m 34.8s, +62° 35′ 08″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cepheus</characteristic>
+<characteristic name="Right ascension">21h 18m 34.7715s</characteristic>
+<characteristic name="Declination">62° 35′ 08.061″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.5141</characteristic>
+<characteristic name="Spectral type">A7IV-V</characteristic>
+<characteristic name="U−B color index">+0.12</characteristic>
+<characteristic name="B−V color index">+0.21</characteristic>
+<characteristic name="Variable type">Delta Scuti</characteristic>
+<characteristic name="Radial velocity (Rv)">−10 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +150.55 mas/yr, Dec.: 49.09 mas/yr</characteristic>
+<characteristic name="Parallax (π)">66.50 ± 0.11mas</characteristic>
+<characteristic name="Distance">49.05 ± 0.08 ly (15.04 ± 0.02 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">1.57</characteristic>
+<characteristic name="Mass">1.74 M☉</characteristic>
+<characteristic name="Radius">2.3 R☉</characteristic>
+<characteristic name="Luminosity">17 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.99 cgs</characteristic>
+<characteristic name="Temperature">7,740 ± 170 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">246 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Cephei in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alderamin</link>
+</object>

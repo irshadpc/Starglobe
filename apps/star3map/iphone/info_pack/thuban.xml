@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Thuban" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Thuban, also designated Alpha Draconis (α Draconis, abbreviated Alpha Dra, α Dra), is a star (or star system) in the constellation of Draco. A relatively inconspicuous star in the night sky of the Northern Hemisphere, it is historically significant as having been the north pole star from the 4th to 2nd millennium BC.
+
+Even though Johann Bayer gave Thuban the designation Alpha, its apparent magnitude of 3.65 is 3.7 times fainter than the brightest star in the constellation, Gamma Draconis (Eltanin), whose apparent magnitude is 2.24.
+α Draconis (Latinised to Alpha Draconis) is the star's Bayer designation.
+
+The traditional name Thuban is derived from the Arabic Arabic: ثعبان‎‎ thuʿbān 'snake'. It is sometimes known as the Dragon's Tail and as Adib. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Thuban for this star. It is now so entered in the IAU Catalog of Star Names.
+
+In Chinese, 紫微右垣 (Zǐ Wēi Yòu Yuán), meaning Right Wall of Purple Forbidden Enclosure, refers to an asterism consisting of Alpha Draconis, Kappa Draconis, Lambda Draconis, 24 Ursae Majoris, 43 Camelopardalis, Alpha Camelopardalis and BK Camelopardalis. Consequently, Alpha Draconis itself is known as 紫微右垣一 (Zǐ Wēi Yòu Yuán yī, English: the First Star of Right Wall of Purple Forbidden Enclosure.), representing 右樞 (Yòushū), meaning Right Pivot. 右樞 (Yòushū) is westernized into Yu Choo by R.H. Allen with the same meaning.
+Given good viewing conditions, Thuban is relatively easy to spot in the night sky, due to its location in relation to the Big Dipper (Plough) asterism of Ursa Major. While it is well known that the two outer stars of the 'dipper' point to the modern-day pole star Polaris, it is less well known that the two inner stars, Phecda and Megrez, point to Thuban, just 15 degrees of arc from Megrez. Thuban is not bright enough to be viewed from badly light-polluted areas.
+Due to the precession of Earth's rotational axis, Thuban was the naked-eye star closest to the north pole from 3942 BC, when it moved farther north than Theta Boötis, until 1793 BC, when it was superseded by Kappa Draconis. It was closest to the pole in 2830 BC, when it was less than ten arc-minutes away from the pole. It remained within one degree of true north for nearly 200 years afterwards, and even 900 years after its closest approach, was just five degrees off the pole. Thuban was considered the pole star until about 1900 BC, when the much brighter Kochab began to approach the pole as well.
+
+Having gradually drifted away from the pole over the last 4,800 years, Thuban is now seen in the night sky at a declination of 64° 20' 45.6", RA 14h 04m 33.58s. After moving nearly 47 degrees off the pole by 10000 AD, Thuban will gradually move back toward the north celestial pole. In 20346 AD, it will again be the pole star, that year reaching a maximum declination of 88° 43' 17.3", RA 19h 08m 54.17s.
+Thuban has a spectral class of A0III, indicating its similarity to Vega in temperature and spectrum, but more luminous and more massive. Thuban is not a main sequence star; it has now ceased hydrogen fusion in its core. That makes it a white giant star, being 120 times more luminous than the Sun but over 300 light-years distant.
+
+Thuban is a binary star, with a companion star in a 51-day orbit. The companion has not been directly imaged, but appears to be a main sequence star of 9-10,000 K.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Thuban in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Thuban</link>
+</object>

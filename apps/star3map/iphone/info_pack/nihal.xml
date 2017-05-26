@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Leporis" type="Star">
+	<images>
+<image title="Beta Leporis">nihal_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Leporis (Beta Lep, β Leporis, β Lep) is the second brightest star in the constellation of Lepus. It is also known as Nihal,"quenching their thirst". The occasional spelling Nibal appears to be due to a misreading.
+Based on parallax measurements from the Hipparcos astrometry satellite, this star is located about 160 light-years (49 parsecs) from the Earth. It has an apparent visual magnitude of 2.84 and a stellar classification of G5 II. The mass of this star is 3.5 times the mass of the Sun and it is about 240 million years old, which is sufficient time for a star this massive to consume the hydrogen at its core and evolve away from the main sequence, becoming a G-type bright giant.
+This is a double star system and may be a binary. Using adaptive optics on the AEOS telescope at Haleakala Observatory, the pair was found to be separated by an angle of 2.58 arcseconds at a position angle of 1.4°. Component B has been observed to fluctuate in brightness and is catalogued as suspected variable star NSV 2008. 
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Lepus</characteristic>
+<characteristic name="Right ascension">05h 28m 14.72316s</characteristic>
+<characteristic name="Declination">−20° 45′ 33.9878″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.84</characteristic>
+<characteristic name="Spectral type">G5 II</characteristic>
+<characteristic name="U−B color index">+0.47</characteristic>
+<characteristic name="B−V color index">+0.82</characteristic>
+<characteristic name="R−I color index">+0.44</characteristic>
+<characteristic name="Radial velocity (Rv)">−13.6 ± 0.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −5.02 mas/yr, Dec.: −85.92 mas/yr</characteristic>
+<characteristic name="Parallax (π)">20.34 ± 0.18mas</characteristic>
+<characteristic name="Distance">160 ± 1 ly (49.2 ± 0.4 pc)</characteristic>
+<characteristic name="Mass">3.5 ± 0.1 M☉</characteristic>
+<characteristic name="Radius">16 R☉</characteristic>
+<characteristic name="Luminosity">171 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.60 ± 0.03 cgs</characteristic>
+<characteristic name="Temperature">5,450 ± 100 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">+0.05 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">11 km/s</characteristic>
+<characteristic name="Age">240 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Leporis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Beta_Leporis</link>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ORBVIEW 2 (SEASTAR) Satellite details 1997-037A NORAD 24883" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Orbview 2 (SeaStar)was a spacecraft, developed by Orbital Sciences Corporation, to deliver daily, worldwide, high precision, moderate resolution, multispectral visible observations of ocean radiance for research in biogeochemical processes, climate change, and oceanography. Local high resolution (1 km) data (LAC) were delivered by direct broadcast at L-Band to regional scientific centers nationwide. Reduced resolution (4 km) data (GAC and selected LAC) were directly broadcast at S-band to smaller research centers and ships at sea. All reduced resolution data and selected full resolution data were recorded on board and transmitted to GSFC via daily dump at S-Band or via the Tracking and Data Relay Satellite System (TDRSS). A minimum three year mission life was expected.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">24883	</characteristic><characteristic name="Int'l Code">1997-037A</characteristic>
+<characteristic name="Perigee">788.2 km</characteristic>
+<characteristic name="Apogee">790.5 km</characteristic>
+<characteristic name="Inclination">98.5 °</characteristic>
+<characteristic name="Period">100.5 minutes</characteristic>
+<characteristic name="Semi major axis">7160 km</characteristic>
+<characteristic name="Launch date">August 1, 1997</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

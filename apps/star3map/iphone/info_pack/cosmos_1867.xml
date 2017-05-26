@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1867 Satellite details 1987-060A NORAD 18187" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cosmos 1867 was a Soviet nuclear powered Radar Ocean Reconnaissance Satellite (RORSAT) launched from the Baikonur cosmodrome aboard a Tsyklon 2 rocket. The RORSATs were designed to search the oceans for US Navy task forces and other shipping.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">18187	</characteristic><characteristic name="Int'l Code">1987-060A</characteristic>
+<characteristic name="Perigee">782.7 km</characteristic>
+<characteristic name="Apogee">808.3 km</characteristic>
+<characteristic name="Inclination">65.0 °</characteristic>
+<characteristic name="Period">100.6 minutes</characteristic>
+<characteristic name="Semi major axis">7166 km</characteristic>
+<characteristic name="Launch date">July 10, 1987</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

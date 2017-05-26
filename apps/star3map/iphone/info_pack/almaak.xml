@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Almaak" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Gamma Andromedae (γ Andromedae, abbreviated Gamma And, γ And) is the third brightest point of light in the constellation of Andromeda.
+        
+        In 1778, Johann Tobias Mayer discovered that γ Andromedae was a double star. When examined in a small telescope, it appears to be a bright, golden yellow star (γ1 Andromedae, also named Almach,) next to a dimmer, indigo blue star (γ2 Andromedae), separated by approximately 10 arcseconds. It is often considered by stargazers to be a beautiful double star with a striking contrast of color. It was later discovered that γ2 Andromedae is itself a triple star system. What appears as a single star to the naked eye is thus a quadruple star system, approximately 350 light-years from the Earth.
+    
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Almaak in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/STAR_NAME_HERE</link>
+</object>

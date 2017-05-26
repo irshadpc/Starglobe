@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Ursa Minor" type="Constellation">
+	<images>
+<image title="Ursa Minor">ursa minor_1.png</image>
+<image title="">ursa_minor__2.jpg</image>
+<image title="">ursa_minor__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Ursa Minor (Latin: "Smaller Bear", contrasting with Ursa Major), also known as the Little Bear, is a constellation in the northern sky. Like the Great Bear, the tail of the Little Bear may also be seen as the handle of a ladle, hence the name Little Dipper. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and remains one of the 88 modern constellations. Ursa Minor is notable as the location of the north celestial pole, although this will change after some centuries due to the precession of the equinoxes.
+
+Ursa Minor is colloquially known as the Little Dipper because its seven brightest stars seem to form the shape of a dipper (ladle or scoop). The star at the end of the dipper handle is Polaris, the North Star. Polaris can also be found by following a line through the two stars that form the end of the "bowl" of the Big Dipper, a nearby asterism found in the constellation Ursa Major.
+The four stars constituting the "bowl" of the little dipper are unusual in that they are of second, third, fourth, and fifth magnitudes. Hence, they provide an easy guide to determining what magnitude stars are visible, useful for city dwellers or testing one's eyesight.
+The six named stars of Ursa Minor are the following:
+Polaris (α UMi), the brightest star in the constellation, is a 'yellow-white' supergiant shining at 2.02 apparent magnitude . It belongs to the rare class of Cepheid variable stars. Kochab (β UMi) is only slightly less bright than Polaris. It is a 2.08 orange giant star, 16 degrees from Polaris. Kochab 126.4 ± 2.5 light years from the Sun, and is 130 times more luminous than the Sun, at a surface temperature of approximately 4,000 K.
+Ursa Minor is rather devoid of many deep-sky objects. A notable object is the Ursa Minor Dwarf, a dwarf galaxy, located in the area of the constellation.
+The Ursids are Ursa Minor's prominent meteor shower and peak between December 18 and 25. Its parent body is the comet 8P/Tuttle.
+Ursa Minor is commonly visualized as a baby bear with an unusually long tail.
+Ursa Minor and Ursa Major were related by the Greeks to the myth of Callisto and Arcas. However, in a variant of the story, in which it is Boötes that represents Arcas, Ursa Minor represents a dog. This is the older tradition, which sensibly explains both the length of the tail and the obsolete alternate name of Cynosura (the dog's tail) for Polaris, the North Star.
+Previously, Ursa Minor was considered just seven close stars, mythologically regarded as sisters. In early Greek mythology, the seven stars of the Little Dipper were the Hesperides, daughters of Atlas. Together with the nearby constellations of Boötes, Ursa Major, and Draco, it may have formed the origin of the myth of the apples of the Hesperides, which forms part of the Labours of Hercules. Ursa Minor with its modern associations was invented by Thales of Miletus in approximately 600 BCE, from what had previously represented the wings of Draco, the Dragon. He did so out of a desire to commemorate the location of the North Celestial Pole, then near Beta and Gamma Ursae Minoris.
+In Hungarian mythology the constellation is called 'Little Goncol cart' (Göncöl szekér) after a legendary shaman. (Ursa Major is 'Big Goncol cart.') The shaman's knowledge knew no limit. He invented the cart: His nation was wandering, so the cart was the biggest gift of the Gods to the country. Legends claim he knew everything about the world. Nobody saw his death; his body simply disappeared among the stars.
+Because Ursa Minor consists of seven stars, the Latin word for "North" (i.e. where Polaris points) is septentrio, from septem (seven) and triones (oxen), from seven oxen driving a plow, which the seven stars also resemble.
+Coordinates: 15h 00m 00s, +75° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">UMi</characteristic>
+<characteristic name="Genitive">Ursae Minoris</characteristic>
+<characteristic name="Pronunciation">/ˌɜrsə ˈmaɪnər/, genitive /ˌɜrsiː mɨˈnɒrɨs/</characteristic>
+<characteristic name="Symbolism">the lesser Bear</characteristic>
+<characteristic name="Right ascension">15</characteristic>
+<characteristic name="Declination">+75</characteristic>
+<characteristic name="Family">Ursa Major</characteristic>
+<characteristic name="Quadrant">NQ3</characteristic>
+<characteristic name="Area">256 sq. deg. (56th)</characteristic>
+<characteristic name="Main stars">7</characteristic>
+<characteristic name="Bayer/Flamsteed stars">23</characteristic>
+<characteristic name="Stars with planets">1</characteristic>
+<characteristic name="Stars brighter than 3.00m">3</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">0</characteristic>
+<characteristic name="Brightest star">Polaris (1.97m)</characteristic>
+<characteristic name="Nearest star">UU UMi (42.60 ly, 13.06 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">Ursids</characteristic>
+<characteristic name="Bordering constellations">Draco, Camelopardalis, Cepheus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −10°. Best visible at 21:00 (9 p.m.) during the month of June.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Ursa Minor in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Ursa_Minor</link>
+</object>

@@ -1,0 +1,1 @@
+../../../FyberMediationFacebookAudienceNetwork/Fyber_FacebookAudienceNetwork_4.21.0-r1/SDK8/Fyber_FacebookAudienceNetwork_4.21.0-r1.embeddedframework/Resources/FYBFacebookAudienceNetwork.h

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ATLAS 5 CENTAUR R/B Satellite details 2007-006G NORAD 30778" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">30778	</characteristic><characteristic name="Int'l Code">2007-006G</characteristic>
+<characteristic name="Perigee">425.6 km</characteristic>
+<characteristic name="Apogee">440.3 km</characteristic>
+<characteristic name="Inclination">35.7 °</characteristic>
+<characteristic name="Period">93.1 minutes</characteristic>
+<characteristic name="Semi major axis">6803 km</characteristic>
+<characteristic name="Launch date">March 9, 2007</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

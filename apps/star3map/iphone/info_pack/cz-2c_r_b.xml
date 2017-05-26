@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="CZ-2C R/B Satellite details 2007-010B NORAD 31114" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">31114	</characteristic><characteristic name="Int'l Code">2007-010B</characteristic>
+<characteristic name="Perigee">792.8 km</characteristic>
+<characteristic name="Apogee">879.1 km</characteristic>
+<characteristic name="Inclination">98.4 °</characteristic>
+<characteristic name="Period">101.5 minutes</characteristic>
+<characteristic name="Semi major axis">7206 km</characteristic>
+<characteristic name="Launch date">April 11, 2007</characteristic>
+<characteristic name="Source">People's Republic of China (PRC)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

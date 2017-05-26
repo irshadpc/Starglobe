@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ATLAS CENTAUR 2 R/B Satellite details 1963-047A NORAD 00694" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+This Atlas Centaur 2 launch vehicle was used for a performance and structural integrity test. It was instrumented with 2000 pounds of sensors, equipment, and telemetry
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">694	</characteristic><characteristic name="Int'l Code">1963-047A</characteristic>
+<characteristic name="Perigee">467.5 km</characteristic>
+<characteristic name="Apogee">1,339.6 km</characteristic>
+<characteristic name="Inclination">30.4 °</characteristic>
+<characteristic name="Period">102.9 minutes</characteristic>
+<characteristic name="Semi major axis">7274 km</characteristic>
+<characteristic name="Launch date">November 27, 1963</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

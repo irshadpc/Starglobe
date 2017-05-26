@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Ursae Majoris" type="Star">
+	<images>
+<image title="Beta Ursae Majoris">merak_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Ursae Majoris (Beta UMa, β Ursae Majoris, β UMa) is a star in the northern circumpolar constellation of Ursa Major. It has the traditional name Merak.
+The apparent visual magnitude of this star is +2.37, which means it is readily visible to the naked eye. It is more familiar to northern hemisphere observers as one of the "pointer stars" in the Big Dipper, or "The Plough" in England, which is a prominent asterism of seven stars that forms part of the larger constellation. Extending an imaginary straight line from this star through the nearby Alpha Ursae Majoris (Dubhe) extends to Polaris, the north star.
+
+Based upon parallax measurements of this star, it is located at a distance of 79.7 light-years (24.4 parsecs) from the Earth. The spectrum shows this to have a stellar classification of A1 V, making it a fairly typical main sequence star that is generating energy through the thermonuclear fusion of hydrogen at its core. The effective temperature of the outer envelope is about 9,225 K, giving it a white-hued glow that is typical for A-type stars. It is larger than the Sun, with about 2.7 times the mass and 2.84 times the Solar radius. If they were viewed from the same distance, Beta Ursae Majoris would appear much brighter than the Sun, as it is radiating 68 times the Sun's luminosity.
+Observation of the star in the infrared reveal an excess emission that suggests the presence of a circumstellar debris disk of orbiting dust, much like those discovered around Fomalhaut and Vega The mean temperature of this disk is 120 K, indicating that it is centered at a radius of 47 Astronomical Units from the host star. The dust has an estimated mass of about 0.27% the mass of the Earth.
+Beta Ursae Majoris is one of five stars in the Big Dipper that form a part of a loose open cluster called the Ursa Major moving group, sharing the same region of space and not just the same patch of sky by our perspective. This group has an estimated age of about (500 ± 100) million years. As the members of this group share a common origin and motion through space, this yields an estimate for the age of Beta Ursae Majoris. Two stars are known to be located in relatively close proximity: 37 Ursae Majoris at 5.2 light-years (1.6 pc) and Gamma Ursae Majoris at 11.0 light-years (3.4 pc); much closer to each other than these stars are to the Earth.
+USS Merak (1918) and USS Merak (AF-21), both of United States navy ship.
+In the original Star Trek series episode The Cloud Minders, the planet "Merak II" is said to be suffering from a botanical plague that can only be treated by the use of the mineral zenite.
+Coordinates: 11h 01m 50.5s, +56° 22′ 57″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ursa Major</characteristic>
+<characteristic name="Right ascension">11h 01m 50.47654s</characteristic>
+<characteristic name="Declination">+56° 22′ 56.7339″</characteristic>
+<characteristic name="Apparent magnitude (V)">+2.37</characteristic>
+<characteristic name="Spectral type">A1 V</characteristic>
+<characteristic name="U−B color index">+0.00</characteristic>
+<characteristic name="B−V color index">-0.02</characteristic>
+<characteristic name="Variable type">Suspected</characteristic>
+<characteristic name="Radial velocity (Rv)">-12.0 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +81.43 mas/yr, Dec.: +33.49 mas/yr</characteristic>
+<characteristic name="Parallax (π)">40.90 ± 0.16mas</characteristic>
+<characteristic name="Distance">79.7 ± 0.3 ly (24.45 ± 0.10 pc)</characteristic>
+<characteristic name="Mass">2.7 M☉</characteristic>
+<characteristic name="Radius">3.021 ± 0.038 R☉</characteristic>
+<characteristic name="Luminosity">63.015 ± 1.307 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.83 cgs</characteristic>
+<characteristic name="Temperature">9377 ± 75 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">46 km/s</characteristic>
+<characteristic name="Age">500 ± 100 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Ursae Majoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Beta_Ursae_Majoris</link>
+</object>

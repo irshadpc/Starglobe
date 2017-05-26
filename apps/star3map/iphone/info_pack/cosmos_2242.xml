@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 2242 Satellite details 1993-024A NORAD 22626" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cosmos 2242 was a Russian ELINT (Electronic and Signals Intelligence) satellite.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">22626	</characteristic><characteristic name="Int'l Code">1993-024A</characteristic>
+<characteristic name="Perigee">604.0 km</characteristic>
+<characteristic name="Apogee">633.2 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">96.9 minutes</characteristic>
+<characteristic name="Semi major axis">6989 km</characteristic>
+<characteristic name="Launch date">April 16, 1993</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

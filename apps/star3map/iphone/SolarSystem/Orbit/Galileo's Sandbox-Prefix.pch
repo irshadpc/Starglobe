@@ -1,0 +1,89 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <CoreMotion/CoreMotion.h>
+
+#define DEFAULTS_NUMBER_LAUNCHES_KEY @"number-of-launches"
+#define DEFAULTS_LATEST_LAUNCH_VERSION_KEY @"latest-launched-version-major"
+
+#define JSON_FROM_FILE(f) [NSJSONSerialization JSONObjectWithData:[NSData dataWithContentsOfFile:[[NSBundle mainBundle] pathForResource:f ofType:nil]] options:kNilOptions error:nil]
+
+#define PRODUCT_IDENTIFIERS (JSON_FROM_FILE(@"products.json"))
+#define PRODUCT_CONTENTS (JSON_FROM_FILE(@"product-contents.json"))
+
+#define DEFAULTS_KEY_PURCHASED_PRODUCT(pid) ([NSString stringWithFormat:@"purchased--%@",pid])
+#define PURCHASE_ACTIVATED(pid) [[NSUserDefaults standardUserDefaults] boolForKey:DEFAULTS_KEY_PURCHASED_PRODUCT(pid)]
+
+#define GALILEO_VERSION_MAJOR 1
+#define IS_FIRST_VERSION_LAUNCH ([[NSUserDefaults standardUserDefaults] integerForKey:DEFAULTS_LATEST_LAUNCH_VERSION_KEY] < GALILEO_VERSION_MAJOR)
+#define GALILEO_NUMBER_LAUNCHES ([defaults integerForKey:DEFAULTS_NUMBER_LAUNCHES_KEY])
+
+#define ARC4RANDOM_MAX      0x100000000
+#define RAND_0_1 ((CGFloat)arc4random() / (CGFloat)ARC4RANDOM_MAX)
+#define IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#define RAM_MB ([NSProcessInfo processInfo].physicalMemory/1024/1024)
+#define KEYBOARD_HEIGHT_LANDSCAPE 352
+
+#define GRAVITATIONAL_CONSTANT (6.67f*powf(10.0f,-11.0f))
+
+#define IAP_ID_BASE @"com.connerdouglass.Galileo"
+#define IAP_ID_REM_BASE(s) [s substringFromIndex:(IAP_ID_BASE.length + 1)]
+#define IAP_ID_ADD_BASE(s) [NSString stringWithFormat:@"%@.%@", IAP_ID_BASE, s]
+
+#define SECONDS_PER_DAY 50.0f
+
+#define BODY_JSON @"bodies.json"
+#define USERWORLDS_JSON @"userworlds.json"
+
+#define UNIT_NAME_MASS @"megagram"
+#define UNIT_NAME_DIST @"megameter"
+#define UNIT_NAME_ANG_VEL @"degrees per second"
+// #define UNIT_FACTOR_MASS 1.0f//powf(10.0f,3.0f)
+// #define UNIT_FACTOR_DIST 1.0f//powf(10.0f,6.0f)
+#define SKYBOX_SCALE 0.5f
+
+#define GALILEO_MAIN_QUEUE dispatch_get_main_queue()
+#define GALILEO_DATA_QUEUE dispatch_queue_create("com.connerdouglass.galileo-data-rw-queue", NULL)
+
+#import "CC3GLMatrix.h"
+#import "UIImage+FixOrientation.h"
+
+#import "AppSettings.h"
+#import "WorldDataManager.h"
+#import "SettingView.h"
+#import "GSPurchaseManager.h"
+#import "GSWorldData.h"
+
+#import "Texture.h"
+#import "Entity.h"
+#import "QuadEntity.h"
+#import "CubeEntity.h"
+#import "RingEntity.h"
+#import "SphereEntity.h"
+#import "OBJEntity.h"
+
+#import "OpenGLScene.h"
+#import "OpenGLView.h"
+
+#import "GSWorld.h"
+
+#import "WorldPreviewScene.h"
+#import "WorldCreatorViewController.h"
+#import "PlanetButton.h"
+#import "SolarSystemScene.h"
+#import "MainViewController.h"

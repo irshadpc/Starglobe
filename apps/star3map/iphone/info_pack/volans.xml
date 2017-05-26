@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Volans" type="Constellation">
+	<images>
+<image title="Volans">volans_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Volans is a constellation in the southern sky. It represents a flying fish; its name is a shortened form of its original name, Piscis Volans. Volans was one of twelve constellations created by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman and it first appeared on a 35-cm diameter celestial globe published in 1597 (or 1598) in Amsterdam by Plancius with Jodocus Hondius. The first depiction of this constellation in a celestial atlas was in Johann Bayer's Uranometria of 1603.
+
+Volans is one of the 12 constellations that were introduced by the Dutch navigators Pieter Dirkszoon Keyser and Frederick de Houtman in the late 16th century. It was first depicted on Petrus Plancius’ globe in 1598. Plancius called the constellation Vliegendenvis (flying fish).
+In 1603, Johann Bayer included the constellation in his star atlas Uranometria under the name Piscis Volans, the flying fish. It was known by that name until the mid-19th century, when John Herschel suggested that the name be shortened to just "Volans."
+Volans represents a type of tropical fish that can jump out of the water and glide through the air on wings. In early celestial maps, the flying fish was often depicted as accompanying the ship Argo Navis, and being chased by the predatory fish represented by the Dorado constellation.
+There are two double stars within the constellation which can be observed using a small telescope, Gamma Volantis and Epsilon Volantis, along with two galaxies which may be more difficult to see clearly, NGC 2442 and NGC 2434. The magnitudes of the Gamma Volantis stars are fourth and sixth, and of Epsilon Volantis fourth and eighth.
+Volans has several deep-sky objects within its borders.
+The Lindsay-Shapley ring, also categorized as AM0644-741, is a ring galaxy located 300 million light-years from Earth. Named for its discoverers, the Lindsay-Shapley ring was found near the Large Magellanic Cloud in 1960. Like the Cartwheel Galaxy in Sculptor, the unusual shape of this galaxy results from a collision many millions of years ago. The blue ring, 150,000 light-years in diameter, was formed when a shock wave from the collision created a ring of hot blue stars; the yellow core is an amalgamation of the progenitors' cores.NGC 2442, an intermediate-spiral galaxy, is also located in this constellation, with a distance of 50 million light-years from Earth.
+Coordinates: 08h 00m 00s, −70° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Vol</characteristic>
+<characteristic name="Genitive">Volantis</characteristic>
+<characteristic name="Pronunciation">/ˈvoʊlænz/, genitive /vɒˈlæntɨs/</characteristic>
+<characteristic name="Symbolism">the Flying Fish</characteristic>
+<characteristic name="Right ascension">8</characteristic>
+<characteristic name="Declination">−70</characteristic>
+<characteristic name="Family">Bayer</characteristic>
+<characteristic name="Quadrant">SQ2</characteristic>
+<characteristic name="Area">141 sq. deg. (76th)</characteristic>
+<characteristic name="Main stars">6</characteristic>
+<characteristic name="Bayer/Flamsteed stars">12</characteristic>
+<characteristic name="Stars with planets">2</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">β Vol (3.77m)</characteristic>
+<characteristic name="Nearest star">Gliese 293 (19.35 ly, 5.93 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">0</characteristic>
+<characteristic name="Bordering constellations">Carina, Pictor, Dorado, Mensa, Chamaeleon</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +15° and −90°. Best visible at 21:00 (9 p.m.) during the month of March.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Volans in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Volans</link>
+</object>

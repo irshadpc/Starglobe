@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 46" type="Galaxies">
+	<images>
+		<image title="Messier 46 and NGC 2438">m 46_1.jpg</image>
+	</images>
+	<information>
+Messier 46 (also known as M 46 or NGC 2437) is an open cluster in the constellation of Puppis. It was discovered by Charles Messier in 1771. Dreyer described it as "very bright, very rich, very large." M46 is about 5,500 light-years away with an estimated age on the order of several 100 million years.
+The planetary nebula NGC 2438 appears to lie within the cluster near its northern edge (the faint smudge at the top center of the image), but it is most likely unrelated since it does not share the cluster's radial velocity. The case is yet another example of a superposed pair, joining the famed case of NGC 2818.
+M46 is about a degree east of M47 in the sky, so the two fit well in a binocular or wide-angle telescope field.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">07h 41.8m</characteristic>
+		<characteristic name="Declination">−14° 49′</characteristic>
+		<characteristic name="Distance">5.4 kly (1.7 kPc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.1</characteristic>
+		<characteristic name="Apparent dimensions (V)">27.0′</characteristic>
+		<characteristic name="Radius">15</characteristic>
+		<characteristic name="Estimated age">300 million years</characteristic>
+		<characteristic name="Notable features">contains superimposed planetary nebula NGC 2438</characteristic>
+		<characteristic name="Other designations">NGC 2437</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 46 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_46</link>
+</object>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 15" type="Galaxies">
+	<images>
+		<image title="M15 photographed by HST. The planetary nebula Pease 1 can be seen as a small blue object to the upper left of the core of the cluster.">m 15_1.jpg</image>
+		<image title="The central square arcminute of M15 imaged using the lucky imaging technique">m 15_2.gif</image>
+		<image title="Messier 15 with amateur telescope">m 15_3.jpg</image>
+	</images>
+	<information>
+Messier 15 or M15 (also designated NGC 7078) is a globular cluster in the constellation Pegasus. It was discovered by Jean-Dominique Maraldi in 1746 and included in Charles Messier's catalogue of comet-like objects in 1764. At an estimated 12.0 billion years old, it is one of the oldest known globular clusters.
+M15 is about 33,600 light-years from Earth, and 175 light years in diameter. It has an absolute magnitude of -9.2, which translates to a total luminosity of 360,000 times that of the Sun. Messier 15 is one of the most densely packed globulars known in the Milky Way galaxy. Its core has undergone a contraction known as 'core collapse' and it has a central density cusp with an enormous number of stars surrounding what may be a central black hole.
+Home to over 100,000 stars, the cluster is notable for containing a large number of variable stars (112) and pulsars (8), including one double neutron star system, M15 C. M15 also contains Pease 1, the first planetary nebula discovered within a globular cluster in 1928. Just three others have been found in globular clusters since then.
+At magnitude 6.2, M15 approaches naked eye visibility under good conditions and can be observed with binoculars or a small telescope, appearing as a fuzzy star. Telescopes with a larger aperture (at least 6 in./150 mm diameter) will start to reveal individual stars, the brightest of which are of magnitude +12.6. The cluster appears 18 arc minutes in size.
+Earth-orbiting satellites Uhuru and Chandra X-ray Observatory have detected two bright X-ray sources in this cluster: Messier 15 X-1 (4U 2129+12) and Messier 15 X-2. The former appears to be the first astronomical X-ray source detected in Pegasus.
+	</information>
+	<characteristics>
+		<characteristic name="Class">IV</characteristic>
+		<characteristic name="Constellation">Pegasus</characteristic>
+		<characteristic name="Right ascension">21h 29m 58.33s[</characteristic>
+		<characteristic name="Declination">+12° 10′ 01.2″</characteristic>
+		<characteristic name="Distance">33 kly (10 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.2</characteristic>
+		<characteristic name="Apparent dimensions (V)">18′.0</characteristic>
+		<characteristic name="Mass">5.6×105 M☉</characteristic>
+		<characteristic name="Radius">~88 ly</characteristic>
+		<characteristic name="VHB">15.83</characteristic>
+		<characteristic name="Metallicity">–2.37 dex</characteristic>
+		<characteristic name="Estimated age">12.0 Gyr</characteristic>
+		<characteristic name="Notable features">steep central cusp</characteristic>
+		<characteristic name="Other designations">NGC 7078, GCl 120</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 15 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_15</link>
+</object>

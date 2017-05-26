@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Zubeneschamali" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+Beta Librae (β Lib, β Librae), or Zubeneschamali, is the brightest star in the zodiac constellation of Libra. The apparent visual magnitude of this star is 2.6. From parallax measurements, its distance can be estimated as 185 light-years (57 parsecs) from Earth.
+Beta Librae is the Bayer designation. It has the traditional name Zubeneschamali /ˌzuːbənˌɛʃəˈmeɪli/ and the Latin name Lanx Borealis meaning "the northern pan [of the scales]". The name Zubeneschamali is derived from the Arabic ّالزُبَانَى الشَمَالِي (al-zubānā al-šamāliyy) meaning "The Northern Claw". Less common renderings (or corruptions) are Zuben Eschamali, Zuben el Chamali, Zubenesch, Zubenelg; there is also Kiffa Borealis, from the Arabic al-kiffah aš-šamāliyy "the northern pan (of the scales)".
+Based upon the features of its spectrum, Beta Librae has a stellar classification of B8 V, making it a B-type main sequence star. It is about 130 times more luminous than the Sun and has a surface temperature of 12300 K, double that of the Sun. This high temperature produces light with a simple spectrum, making it ideal for examining the interstellar gas and dust between Earth and the star. Like many stars of its kind, it is spinning rapidly, over 100 times faster than the Sun with a projected rotational velocity of 250 km·s−1. The measured angular diameter of the primary star is 0.801 mas. At the estimated distance of this system, this yields a physical size of about 4.9 times the radius of the Sun. This type of massive, hydrogen-fusing star often appears blue-white, and is usually stated to be white or bluish by modern observers, but earlier observers often described Beta Librae as the only greenish star visible to the naked eye. There seems to be no generally accepted explanation for why some observers see it as green.
+
+The small periodic variations in the magnitude of Beta Librae suggest the presence of a companion star which is not directly observable from Earth. However, it is categorized as a single star.
+According to Eratosthenes Beta Librae was observed to be brighter than Antares. Ptolemy, 350 years later, said it was as bright as Antares. The discrepancy may be due to Antares becoming brighter, but this is not known for certain. It could simply be caused by Beta Librae being a variable star, showing a present-day variability of 0.03 of a magnitude.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Zubeneschamali in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Librae</link>
+</object>

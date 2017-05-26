@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="GENESIS 1 Satellite details 2006-029A NORAD 29252" type="Satellite">
+	<images><image>genesis_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Genesis 1 is an American entrepreneur's inflatable satellite that was launched by a Dnepr rocket (a converted ICBM, known as SS-18 Satan) at 12:53 UT on 12 July 2006 from the southern Ural mountain. The 1,300 kg craft was successfully inflated about two hours after launch to its normal cylindrical size of 2.4 m x 4.5 m. It is made of a tough sheet fabricated from a composite Kevlar that is often used in bullet-proof vests. The goal of the entrepreneur is to launch a few more of them, string them together and promote &quot;space tourism&quot;.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">29252	</characteristic><characteristic name="Int'l Code">2006-029A</characteristic>
+<characteristic name="Perigee">523.1 km</characteristic>
+<characteristic name="Apogee">563.0 km</characteristic>
+<characteristic name="Inclination">64.5 °</characteristic>
+<characteristic name="Period">95.4 minutes</characteristic>
+<characteristic name="Semi major axis">6914 km</characteristic>
+<characteristic name="Launch date">July 12, 2006</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 72" type="Galaxies">
+	<images>
+		<image title="M72 from Hubble Space Telescope; 3.44′ view Credit: NASA/STScI/WikiSky">m 72_1.jpg</image>
+	</images>
+	<information>
+Messier 72 (also known as M72 or NGC 6981) is a globular cluster in the Aquarius constellation discovered by French astronomer Pierre Méchain on August 29, 1780. French astronomer Charles Messier looked for it on the following October 4, and included it in his catalog. Both decided that it was a faint nebula rather than a cluster. With a larger instrument, British astronomer John Herschel called it a bright "cluster of stars of a round figure". American astronomer Harlow Shapley noted a similarity to Messier 4 and Messier 12.
+This cluster is visible as a faint nebula in a telescope with a 6 cm (2.4 in) aperture. the surrounding field stars become visible at 15 cm (5.9 in), while 25 cm (9.8 in) is sufficient to resolve the cluster with an angular diameter of 2.5′. At 30 cm (12 in) the core is resolved in a 1.25′ diameter, showing a broad spread with darker regions to the south and east.
+Based upon a 2011 census of variable stars, Messier 72 is located at a distance of 54.57 ± 1.17 kly (16.73 ± 0.36 kpc) from the Sun. It has an estimated combined mass equal to 168,000 times the mass of the Sun and is around 9.5 billion years old. The core region has a density of stars that is radiating 2.26 times the luminosity of the Sun per cubic parsec. There are 43 identified variable stars in the cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Class">IX</characteristic>
+		<characteristic name="Constellation">Aquarius</characteristic>
+		<characteristic name="Right ascension">20h 53m 27.70s</characteristic>
+		<characteristic name="Declination">–12° 32′ 14.3″</characteristic>
+		<characteristic name="Distance">54.57 ± 1.17 kly (16.73 ± 0.36 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.35</characteristic>
+		<characteristic name="Mass">1.68×105 M☉</characteristic>
+		<characteristic name="Metallicity">–1.48 ± 0.03 dex</characteristic>
+		<characteristic name="Estimated age">9.5 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6981, GCl 118</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 72 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_72</link>
+</object>

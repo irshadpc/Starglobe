@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 106" type="Galaxies">
+	<images>
+		<image title="Messier Object 106">m 106_1.jpg</image>
+		<image title="Amateur Image of Messier 106 showing a possible companion galaxy NGC 4217 in the lower right">m 106_2.jpg</image>
+	</images>
+	<information>
+Messier 106 (also known as NGC 4258) is a spiral galaxy in the constellation Canes Venatici. It was discovered by Pierre Méchain in 1781. M106 is at a distance of about 22 to 25 million light-years away from Earth. It is also a Seyfert II galaxy. Due to x-rays and unusual emission lines detected, it is suspected that part of the galaxy is falling into a supermassive black hole in the center. NGC 4217 is a possible companion galaxy of Messier 106.
+M106 has a water vapor megamaser (the equivalent of a laser operating in microwave instead of light and on a galactic scale) that is seen by the 22-GHz line of ortho-H2O that evidences dense and warm molecular gas. These water vapors give M106 its characteristic purple color. Water masers are useful to observe nuclear accretion disks in active galaxies. The water masers in M106 enabled the first case of a direct measurement of the distance to a galaxy and thereby providing an independent anchor for the cosmic distance ladder. M 106 has a slightly warped, thin, almost edge-on Keplerian disc which is on a subparsec scale. It surrounds a central area with mass 4 × 107M⊙.
+It's one of the largest and brightest nearby galaxies, similar in size and luminosity to the Andromeda Galaxy.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Canes Venatici</characteristic>
+		<characteristic name="Right ascension">12h 18m 57.5s</characteristic>
+		<characteristic name="Declination">+47° 18′ 14″</characteristic>
+		<characteristic name="Redshift">448 ± 3 km/s</characteristic>
+        <characteristic name="Distance">23.7 ± 1.5 Mly (7 ± 0.5 Mpc)</characteristic>
+		<characteristic name="Type">SAB(s)bc</characteristic>
+		<characteristic name="Apparent dimensions (V)">18′.6 × 7′.2</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.1</characteristic>
+		<characteristic name="Notable features">Maser galaxy, Seyfert II galaxy.</characteristic>
+		<characteristic name="Other designations">M 106, NGC 4258, UGC 7353, PGC 39600.</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 106 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_106</link>
+</object>

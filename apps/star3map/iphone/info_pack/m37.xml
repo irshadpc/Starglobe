@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 37" type="Galaxies">
+	<images>
+		<image title="M37 open cluster, source: NOAO">m 37_1.jpg</image>
+		<image title="Large scale map">m 37_2.jpg</image>
+		<image title="Small scale map">m 37_3.jpg</image>
+	</images>
+	<information>
+Messier 37 (also known as M37 or NGC 2099) is the richest open cluster in the constellation Auriga. It is the brightest of three open clusters in Auriga and was discovered by the Italian astronomer Giovanni Battista Hodierna before 1654. M37 was missed by French astronomer Guillaume Le Gentil when he rediscovered M36 and M38 in 1749. French astronomer Charles Messier independently rediscovered M37 in September of 1764 but all three clusters were recorded by Hodierna. It is classified as Trumpler type I,1,r or I,2,r.
+M37 is located in the antipodal direction, opposite from the Galactic Center as seen from Earth. Estimates of its age range from 347 million to 550 million years. It has 1,500 times the mass of the Sun and contains over 500 identified stars, with roughly 150 stars brighter than magnitude 12.5. M37 has at least a dozen red giants and its hottest surviving main sequence star is of stellar classification B9 V. The abundance of elements other than hydrogen and helium, what astronomers term metallicity, is similar to, if not slightly higher than, the abundance in the Sun.
+At its estimated distance of around 4,500 light-years (1,400 parsecs) from Earth, the cluster's angular diameter of 24 arcminutes corresponds to a physical extent of about 20–25 ly (6.1–7.7 pc). The tidal radius of the cluster, where external gravitational perturbations begin to have a significant influence on the orbits of its member stars, is about 46–59 ly (14–18 pc). This cluster is following an orbit through the Milky Way with a period of 219.3 Ma and an eccentricity of 0.22. This will bring it as close as 19.6 kly (6.0 kpc) to, and as distant as 30.7 kly (9.4 kpc) from, the Galactic Center. It reaches a peak distance above the galactic plane of 0.29 kly (0.089 kpc) and will cross the plane with a period of 31.7 Ma.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation"> Auriga</characteristic>
+		<characteristic name="Right ascension">5h 52m 18s</characteristic>
+		<characteristic name="Declination">+32° 33′ 02″</characteristic>
+		<characteristic name="Distance">4.511 kly (1.383 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.2</characteristic>
+		<characteristic name="Apparent dimensions (V)">24′</characteristic>
+		<characteristic name="Mass">1,500 M☉</characteristic>
+		<characteristic name="Radius">20-25 ly</characteristic>
+		<characteristic name="Estimated age">346.7 to 550 Ma</characteristic>
+		<characteristic name="Other designations">NGC 2099</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 37 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_37</link>
+</object>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Kaus Borealis" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Lambda Sagittarii (λ Sagittarii, abbreviated Lambda Sgr, λ Sgr), also named Kaus Borealis, is a star within the southern constellation of Sagittarius. The star marks the top of the Archer's bow.
+        
+        With an apparent visual magnitude of +2.82, this is one of the brighter members of the constellation and, accordingly to the Bortle Dark-Sky Scale, it is readily visible to the naked eye. Based upon parallax measurements, it is located at a distance of 78.2 light-years (24.0 parsecs) from the Sun. Being near the ecliptic, Lambda Sgr is sometimes occulted by the Moon and, more rarely, by a planet. The last planet to pass in front of it was Venus, on 19 November 1984. The previous occasion was on 5 December 1865, when it was occulted by the planet Mercury.
+        
+        Kaus Borealis is a subgiant star with a stellar classification of K0 IV. It has a mass 2.6 times that of the Sun. The interferometry-measured angular diameter of this star, after correction for limb darkening, is 4.24 ± 0.05 mas. At the estimated distance of Lambda Sagittarii, this yields a physical size of about 11 times the radius of the Sun. This expanded outer envelope is radiating energy at an effective temperature of 4,770 K, causing it to glow with the cool orange hue of a K-type star. It appears to be rotating at a leisurely rate, with a projected rotational velocity of 3.81 km s−1.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Kaus Borealis in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Lambda_Sagittarii</link>
+</object>

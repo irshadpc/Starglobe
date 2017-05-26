@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 50" type="Galaxies">
+	<images>
+		<image title="">m 50_1.jpg</image>
+	</images>
+	<information>
+Messier 50 (also known as M 50 or NGC 2323) is an open cluster in the constellation Monoceros. It was perhaps discovered by G. D. Cassini before 1711 and independently discovered by Charles Messier in 1772. M50 is at a distance of about 3,000 light-years away from Earth. It is described as a 'heart-shaped' figure.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">07h 03.2m</characteristic>
+		<characteristic name="Declination">−08° 20′</characteristic>
+		<characteristic name="Distance">3.2 kly (1 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">5.9</characteristic>
+		<characteristic name="Apparent dimensions (V)">16.0′</characteristic>
+		<characteristic name="Radius">10</characteristic>
+		<characteristic name="Estimated age">78 million years</characteristic>
+		<characteristic name="Other designations">NGC 2323</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 50 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_50</link>
+</object>

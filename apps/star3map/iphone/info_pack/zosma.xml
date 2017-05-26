@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Zosma" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Delta Leonis (δ Leonis, abbreviated Delta Leo, δ Leo), also named Zosma, is a star in the zodiac constellation of Leo. Based upon parallax measurements, it lies at a distance of about 58.4 light-years (17.9 parsecs) from the Sun.
+Zosma is a relatively ordinary main sequence star with a stellar classification of A4 V, making it is somewhat larger and hotter than the Sun. It is a fairly well-studied star, allowing relatively accurate measurements of its age and size. The radius of the star, as measured directly using an interferometer, is about 214% of the Sun's radius and it is emitting more than 15 times as much luminosity as the Sun. The energy is being emitted from the outer envelope with an effective temperature 8,296 K, giving it the white hue characteristic of an A-type star. Having a larger mass than the Sun it will have a shorter lifespan, and in another 600 million years or so will swell into an orange or red giant star before decaying quietly into a white dwarf.
+
+This star is rotating rapidly, with a projected rotational velocity of 180 km s−1. The inclination of the axis of rotation to the line of sight from the Earth is estimated at 38.1°, which would mean the azimuthal velocity along the equator is about 280 km s−1. This rotation is producing an equatorial bulge, giving the star a pronounced oblate spheroidal shape. The polar radius is about 84% of the radius along the equator.
+
+Based upon the location and trajectory of this star through space, it may be a member of the Ursa Major Moving Group, a type of stellar kinematics group that share a common origin and motion through space. The age of this group is about 500 million years.
+δ Leonis (Latinised to Delta Leonis) is the star's Bayer designation.
+
+It bore the traditional names Zosma or Zozma and Duhr (rare spellings included Zozca, Zosca, Zubra, and Dhur). Zosma means 'girdle' in ancient Greek, referring to the star's location in its constellation, on the hip of the lion. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016[15] included a table of the first two batches of names approved by the WGSN; which included Zosma for this star.
+
+In Chinese, 太微右垣 (Tài Wēi Yòu Yuán), meaning Right Wall of Supreme Palace Enclosure, refers to an asterism consisting of δ Leonis, β Virginis, σ Leonis, ι Leonis and θ Leonis. Consequently, δ Leonis itself is known as 太微右垣五 (Tài Wēi Zuǒ Yuán wu, English: the Fifth Star of Right Wall of Supreme Palace Enclosure.), representing 西上相 (Xīshǎngxiāng), meaning The First Western Minister. 西上相 (Xīshǎngxiāng), spelled Shang Seang by R.H. Allen, means "the Higher Minister of State".
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Zosma in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Leonis</link>
+</object>

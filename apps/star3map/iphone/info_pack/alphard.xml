@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alphard" type="Star">
+	<images>
+<image title="Alphard">alphard_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alphard (α Hya, α Hydrae, Alpha Hydrae) is the brightest star in the constellation Hydra. The name Alphard is from the Arabic الفرد (al-fard), "the solitary one", there being no other bright stars near it. It was also known as the "backbone of the Serpent" to the Arabs. In ancient China it formed part of an asterism called the "red bird". The European astronomer Tycho Brahe dubbed it Cor Hydræ, the heart of the snake.
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, it was designated Soheil al Fard, which was translated into Latin as Soheil Solitarius, meaning the bright solitary one.
+In Chinese, 星宿 (Xīng Sù), meaning Star, refers to an asterism consisting of Alphard, τ1 Hydrae, τ2 Hydrae, ι Hydrae, 26 Hydrae, 27 Hydrae, HD 82477 and HD 82428. Consequently, Alphard itself is known as 星宿一 (Xīng Sù yī), "the First Star of Star".
+Alphard has three times the mass of the Sun. Its estimated age is 420 million years and it has evolved away from the main sequence to become a giant star with a spectral classification of K3 and luminosity class between II and III. The angular diameter has been measured using long baseline interferometry, yielding a value of 9.09 ± 0.09 milliarcseconds. It has expanded to 50 times the radius of the Sun.
+Alphard's spectrum shows a mild excess of barium, an element that is normally produced by the s-process of nucleosynthesis. Typically a barium star belongs to a binary system and the anomalies in abundances are explained by mass transfer from a companion white dwarf star.
+Precise radial velocity measurements have shown variations in the stellar radial velocities and spectral line profiles. The oscillations are multi-periodic with periods from several hours up to several days. The short-term oscillations were assumed to be a result of stellar pulsations, similar to the solar ones. A correlation between the variations in the asymmetry of the spectral line profile and the radial velocity has also been found. The multi-periodic oscillations make HD 81797 (Alphard) an object of interest for asteroseismologic investigations.
+Alphard appears on the flag of Brazil, symbolising the state of Mato Grosso do Sul.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Hydra</characteristic>
+<characteristic name="Right ascension">09h 27m 35.2433s</characteristic>
+<characteristic name="Declination">−08° 39′ 30.969″</characteristic>
+<characteristic name="Apparent magnitude (V)">+2.00</characteristic>
+<characteristic name="Spectral type">K3 II-III</characteristic>
+<characteristic name="U−B color index">+1.73</characteristic>
+<characteristic name="B−V color index">+1.44</characteristic>
+<characteristic name="Radial velocity (Rv)">−4.3 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −14.49 mas/yr, Dec.: 33.25 mas/yr</characteristic>
+<characteristic name="Parallax (π)">18.40 ± 0.78mas</characteristic>
+<characteristic name="Distance">177 ± 8 ly (54 ± 2 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−1.69 ± 0.09</characteristic>
+<characteristic name="Mass">3.03 ± 0.36 M☉</characteristic>
+<characteristic name="Radius">50.5 ± 4.0 R☉</characteristic>
+<characteristic name="Luminosity">780 ± 78 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.54 cgs</characteristic>
+<characteristic name="Temperature">4,120 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">−0.06 dex</characteristic>
+<characteristic name="Rotation">2,991 days</characteristic>
+<characteristic name="Rotational velocity (v sin i)">1.1 km/s</characteristic>
+<characteristic name="Age">(4.2 ± 1.6) × 10^8 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alphard in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alphard</link>
+</object>

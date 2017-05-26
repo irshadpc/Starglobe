@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 59" type="Galaxies">
+	<images>
+		<image title="m59_1.jpg">m59_1.jpg</image>
+	</images>
+	<information>
+Messier 59 (also known as M59 or NGC 4621) is an elliptical galaxy in the constellation Virgo.
+Messier 59 and the nearby elliptical galaxy Messier 60 were both discovered by Johann Gottfried Koehler in April 1779 during observations of a comet in the same part of the sky. Charles Messier listed both in the Messier Catalogue about three days after Koehler's discovery.
+One supernova (1939B) has been recorded in M59; it reached a peak magnitude of 11.9.
+Messier 59's core contains a supermassive black hole, with a mass that has been estimated to be 270 million times the mass of the Sun, and counter-rotates with respect of the rest of the galaxy, being bluer. This galaxy also has an inner disk of stars[8][9] and is very rich in globular clusters, with a population of them that has been estimated in around 2200.
+M59 is a member of the Virgo Cluster
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 42m 02.3s</characteristic>
+		<characteristic name="Declination">+11° 38′ 49″</characteristic>
+		<characteristic name="Redshift">410 ± 6 km/s</characteristic>		
+		<characteristic name="Distance">60 ± 5 Mly (18.3 ± 1.7 Mpc)</characteristic>
+        <characteristic name="Type">E5</characteristic>
+        <characteristic name="Apparent dimensions (V)">5′.4 × 3′.7</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.6</characteristic>
+		<characteristic name="Other designations">NGC 4621, UGC 7858, PGC 42628, GC 3155.</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 59 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_59</link>
+</object>

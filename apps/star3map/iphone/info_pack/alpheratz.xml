@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Andromedae" type="Star">
+	<images>
+<image title="Alpheratz">alpheratz_1.gif</image>
+<image title="">alpheratz__2.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Andromedae (Alpha And, α And, α Andromedae), which has the traditional names Alpheratz (or Alpherat) and Sirrah (or Sirah), is the brightest star in the constellation of Andromeda. Located immediately northeast of the constellation of Pegasus, it is the northeastern star of the Great Square of Pegasus. Ptolemy considered Alpha Andromedae to be shared by Pegasus, and Bayer assigned it a designation in both constellations: Alpha Andromedae (α And) and Delta Pegasi (δ Peg). When the modern constellation boundaries were fixed in 1930, the latter designation dropped from use.
+It is located 97 light-years from Earth. Although it appears to the naked eye as a single star, with overall apparent visual magnitude +2.06, it is actually a binary system composed of two stars in close orbit. The chemical composition of the brighter of the two stars is unusual as it is a mercury-manganese star whose atmosphere contains abnormally high levels of mercury, manganese, and other elements, including gallium and xenon. It is the brightest mercury-manganese star known.
+
+The radial velocity of a star away from or towards the observer can be determined by measuring the red shift or blue shift of its spectrum. The American astronomer Vesto Slipher made a series of such measurements from 1902 to 1904 and discovered that the radial velocity of α Andromedae varied periodically. He concluded that it was in orbit in a spectroscopic binary star system with a period of about 100 days. A preliminary orbit was published by Hans Ludendorff in 1907, and a more precise orbit was later published by Robert Horace Baker.
+The fainter star in the system was first resolved interferometrically by Xiaopei Pan and his coworkers during 1988 and 1989, using the Mark III Stellar Interferometer at the Mount Wilson Observatory, California, United States. This work was published in 1992. Because of the difference in luminosity between the two stars, its spectral lines were not observed until the early 1990s, in observations made by Jocelyn Tomkin, Xiaopei Pan, and James K. McCarthy between 1991 and 1994 and published in 1995.
+The two stars are now known to orbit each other with a period of 96.7 days. The larger, brighter star, called the primary, has a spectral type of B8IVpMnHg, a mass of approximately 3.6 solar masses, a surface temperature of about 13,800 K, and, measured over all wavelengths, a luminosity of about 200 times the Sun's. Its smaller, fainter companion, the secondary, has a mass of approximately 1.8 solar masses and a surface temperature of about 8,500 K, and, again measured over all wavelengths, a luminosity of about 10 times the Sun's. It is an early-type A star whose spectral type has been estimated as A3V.
+In 1906, Norman Lockyer and F. E. Baxandall reported that α Andromedae had a number of unusual lines in its spectrum. In 1914, Baxandall pointed out that most of the unusual lines came from manganese, and that similar lines were present in the spectrum of μ Leporis. In 1931, W. W. Morgan identified 12 additional stars with lines from manganese appearing in their spectra. Many of these stars were subsequently identified as part of the group of mercury-manganese stars, a class of chemically peculiar stars which have an excess of elements such as mercury, manganese, phosphorus, and gallium in their atmospheres., §3.4. In the case of α Andromedae, the brighter primary star is a mercury-manganese star which, as well as the elements already mentioned, has excess xenon.
+In 1970, Georges Michaud suggested that such chemically peculiar stars arose from radiative diffusion. According to this theory, in stars with unusually calm atmospheres, some elements sink under the force of gravity, while others are pushed to the surface by radiation pressure., §4. This theory has successfully explained many observed chemical peculiarities, including those of mercury-manganese stars., §4.
+α Andromedae has been reported to be slightly variable, but observations from 1990 to 1994 found its brightness to be constant to within less than 0.01 magnitude. However, Adelman and his co-workers have discovered, in observations made between 1993 and 1999 and published in 2002, that the mercury line in its spectrum at 398.4 nm varies as the primary rotates. This is because the distribution of mercury in its atmosphere is not uniform. Applying Doppler imaging to the observations allowed Adelman et al. to find that it was concentrated in clouds near the equator. Subsequent Doppler imaging studies, published in 2007, showed that these clouds drift slowly over the star's surface.
+The names Alpheratz and Sirrah both derive from the Arabic name, سرة الفرس surrat al-faras "the navel of the mare". (سرة alone is surrah.) The word horse reflects the star's historical placement in Pegasus. Another term for this star used by medieval astronomers writing in Arabic was راس المراة المسلسلة rās al-mar'a al-musalsala "the head of the woman in chains", the chained woman here being Andromeda. Other Arabic names include al-kaff al-khaḍīb and kaff al-naṣīr.
+In the Hindu lunar zodiac, this star, together with the other stars in the Great Square of Pegasus (α, β, and γ Pegasi), makes up the nakshatras of Pūrva Bhādrapadā and Uttara Bhādrapadā.
+In Chinese, 壁宿 (Bì Sù), meaning wall, refers to an asterism consisting of α Andromedae and γ Pegasi. Consequently, α Andromedae itself is known as 壁宿二 (Bì Sù èr, English: the second star of the wall.)
+It is also known as one of the "Three Guides" that mark the prime meridian of the heavens, the other two being Beta Cassiopeiae and Gamma Pegasi. It was believed to bless those born under its influence with honour and riches.
+The location of α Andromedae in the sky is shown on the left. It can be seen by the naked eye and is theoretically visible at all latitudes north of 60° S. During evening from August to October, it will be high in the sky as seen from the northern midlatitudes.
+The binary system described above has an optical visual companion, discovered by William Herschel on July 21, 1781. Designated as ADS 94 B in the Aitken Double Star Catalogue, it is a G-type star with an apparent visual magnitude of approximately 10.8. Although by coincidence it appears near to the other two stars in the sky, it is not close to them in space.
+Coordinates: 00h 08m 23.2586s, +29° 05′ 25.555″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Andromeda</characteristic>
+<characteristic name="Right ascension">00h 08m 16.626s</characteristic>
+<characteristic name="Declination">+29° 05′ 45.49″</characteristic>
+<characteristic name="Apparent magnitude (V)">10.8</characteristic>
+<characteristic name="Spectral type">G5</characteristic>
+<characteristic name="B−V color index">1.0</characteristic>
+<characteristic name="Proper motion (μ)">RA: −3.9 mas/yr, Dec.: −24.0 mas/yr</characteristic>
+<characteristic name="Epoch of observation">2000</characteristic>
+<characteristic name="Angular distance">89.3″ </characteristic>
+<characteristic name="Position angle">284° </characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Andromedae in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alpheratz</link>
+</object>

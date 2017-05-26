@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gamma Ursae Majoris" type="Star">
+	<images>
+<image title="Phad">phad_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gamma Ursae Majoris (Gamma UMa, γ Ursae Majoris, γ UMa) is a star in the constellation Ursa Major It has the traditional name Phad, or Phecda. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Based upon parallax measurements with the Hipparcos astrometry satellite, it is located at distance of around 83.2 light-years (25.5 parsecs).
+It is more familiar to most observers in the northern hemisphere as the lower-left star forming the bowl of the Big Dipper, together with Dubhe (upper-right), Merak (lower-right) and Megrez (upper-left). Along with four other stars in this well-known asterism, Phecda forms an actual loose, association of stars known as the Ursa Major moving group. Like the other stars in the group, it is a main sequence star not unlike our Sun, although somewhat hotter, brighter and larger.
+Gamma Ursae Majoris is an Ae star, which is surrounded by an envelope of gas that is adding emission lines to the spectrum of the star; hence the 'e' suffix in the stellar classification of A0 Ve. It has 2.6 times the mass of the Sun, three times the Sun's radius, and an effective temperature of 9,355 K in its outer atmosphere. This star is rotating rapidly, with a projected rotational velocity of 178 km s–1. The estimated angular diameter of this star is about 0.92 mas. It has an estimated age of 300 million years.
+Phecda is located in relatively close physical proximity to the prominent Mizar-Alcor star system. The two are separated by an estimated distance of 8.55 ly (2.62 pc); much closer than the two are from the Sun. The star Beta Ursae Majoris is separated from Gamma UMa by 11.0 ly (3.4 pc).
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ursa Major</characteristic>
+<characteristic name="Right ascension">11h 53m 49.84732s</characteristic>
+<characteristic name="Declination">+53° 41′ 41.1350″</characteristic>
+<characteristic name="Apparent magnitude (V)">+2.438</characteristic>
+<characteristic name="Spectral type">A0 Ve</characteristic>
+<characteristic name="U−B color index">+0.008</characteristic>
+<characteristic name="B−V color index">–0.013</characteristic>
+<characteristic name="Radial velocity (Rv)">−12.6 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +107.68 mas/yr, Dec.: +11.01 mas/yr</characteristic>
+<characteristic name="Parallax (π)">39.21 ± 0.40mas</characteristic>
+<characteristic name="Distance">83.2 ± 0.8 ly (25.5 ± 0.3 pc)</characteristic>
+<characteristic name="Mass">2.62 M☉</characteristic>
+<characteristic name="Radius">3.04 ± 0.08 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.79 cgs</characteristic>
+<characteristic name="Temperature">9,355 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">178 km/s</characteristic>
+<characteristic name="Age">0.3 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gamma Ursae Majoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Phad</link>
+</object>

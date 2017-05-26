@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ASTRO F (AKARI) Satellite details 2006-005A NORAD 28939" type="Satellite">
+	<images><image>akari_(astro-f).png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Akari, also known by its pre-launch name Astro-F, is a Japanese (JAXA/ISAS) astrophysics mission. The rocket also released a 3.6 kg picosatellite, named Cute 1.7 to train students at the Tokyo Institute of Technology. The 955 kg satellite carries a Ritchey-Chretien, F/6.1 infrared telescope with aperture 67 cm and focal length 420 cm. It carries two focal plane instruments kept at a temperature of 6 K (-450?F) by 170 liter of liquid helium. Akari is expected to provide a significant advance over the results from the earlier NASA/ESA mission, IRAS (1983-004A).
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">28939	</characteristic><characteristic name="Int'l Code">2006-005A</characteristic>
+<characteristic name="Perigee">438.8 km</characteristic>
+<characteristic name="Apogee">652.8 km</characteristic>
+<characteristic name="Inclination">98.2 °</characteristic>
+<characteristic name="Period">95.4 minutes</characteristic>
+<characteristic name="Semi major axis">6916 km</characteristic>
+<characteristic name="Launch date">February 21, 2006</characteristic>
+<characteristic name="Source">Japan (JPN)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

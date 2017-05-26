@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Butterfly Cluster" type="Galaxies">
+	<images>
+		<image title="">m6_1.jpg</image>
+	</images>
+	<information>
+The Butterfly Cluster (cataloged as Messier 6 or M6, and as NGC 6405) is an open cluster of stars in the constellation of Scorpius. Its name derives from the vague resemblance of its shape to a butterfly.
+The first astronomer to record the Butterfly Cluster's existence was Giovanni Battista Hodierna in 1654. However, Robert Burnham, Jr has proposed that the 1st century astronomer Ptolemy may have seen it with the naked eye while observing its neighbor the Ptolemy Cluster (M7). Charles Messier catalogued the cluster as M6 in 1764. It was not till the 20th century that star counts, distance, and other properties were measured.
+Most of the bright stars in this cluster are hot, blue B type stars but the brightest member is a K type orange giant star, BM Scorpii, which contrasts sharply with its blue neighbours in photographs. BM Scorpii, is classed as a semiregular variable star, its brightness varying from magnitude +5.5 to magnitude +7.0.
+Estimates of the Butterfly Cluster's distance have varied over the years, with a mean value of around 1,600 light years, giving it a spatial dimension of some 12 light years. Modern measurements show its total visual brightness to be magnitude 4.2.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Scorpius</characteristic>
+		<characteristic name="Right ascension">17h 40.1m</characteristic>
+		<characteristic name="Declination">−32° 13′</characteristic>
+		<characteristic name="Distance">1.6 kly (491 Pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">4.2</characteristic>
+		<characteristic name="Apparent dimensions (V)">25′</characteristic>
+		<characteristic name="Radius">6 light years</characteristic>
+		<characteristic name="Other">Messier 6, NGC 6405, Collinder</characteristic>
+		<characteristic name="designations">341, Melotte 178, Lund 769, OCL 1030, ESO 455-SC030</characteristic>
+	</characteristics>
+	<link title="Get more info about Butterfly Cluster in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Butterfly_Cluster</link>
+</object>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Nash" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+Gamma2 Sagittarii (Gamma2 Sgr, γ2 Sagittarii, γ2 Sgr) is a 3rd-magnitude star in the zodiac constellation Sagittarius. The location of this star forms the tip of the arrow in the bow of Sagittarius the Centaur. It has the proper names Alnasl (Nasl, El Nasl), Nushaba (Nash) and Warida.
+
+This star is close enough to the Earth that its distance can be determined using parallax, yielding a value of about 96.9 light-years (29.7 parsecs). It has an apparent visual magnitude of +2.98, making it the seventh brightest star in the constellation. A stellar classification of K1 III reveals that this is a giant star, having expanded to an estimated 12 times the Sun's radius. This means it has exhausted the hydrogen in its core and evolved away from the main sequence. The abundance of elements other than hydrogen and helium in this star, what astronomers term the star's metallicity, is lower than in the Sun. Gamma2 Sagittarii has an effective temperature of 4,760 K, compared to 5,778 K for the Sun. It is this lower temperature that gives Gamma2 Sagittarii the orange hue that is a characteristic of K-type stars.
+
+There is a fainter optical companion Gamma1 Sagittarii located about 50 arcminutes north of this star. It is magnitude 4.7 Cepheid variable star designated W Sagittarii.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Nash in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma2_Sagittarii</link>
+</object>

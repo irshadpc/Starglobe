@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 60" type="Galaxies">
+	<images>
+		<image title="Arp 116 is composed of a giant elliptical galaxy known as Messier 60, and a much smaller spiral galaxy, NGC 4647.">m 60_1.jpg</image>
+		<image title="M60 and NGC 4647">m 60_2.jpg</image>
+		<image title="M60 and the region around it, including the ultra-compact dwarf galaxy M60-UCD1.">m 60_3.jpg</image>
+	</images>
+	<information>
+Messier 60 (also known as NGC 4649) is an elliptical galaxy approximately 55 million light-years away in the constellation Virgo. It is part of a pair of galaxies known as Arp 116 with NGC 4647.
+Messier 60 and the nearby galaxy Messier 59 were both discovered by Johann Gottfried Koehler in April 1779 during observations of a comet in the same part of the sky. Charles Messier listed both in the Messier Catalogue about three days after Koehler's discovery.
+NGC 4647 appears approximately 2′.5 away from Messier 60; the optical disks of the two galaxies overlap. Although this overlap suggests that the galaxies are interacting, photographic images of the two galaxies do not reveal any evidence for gravitational interactions between the two galaxies as would be suggested if the two galaxies were physically close to each other. This suggests that the galaxies are at different distances and are only weakly interacting if at all. However, recent studies by the Hubble Space Telescope show indications that tidal interactions may have just began. The pair together is collectively known as Arp 116 (APG 116).
+M60 has several satellite galaxies. One of them is the ultracompact dwarf galaxy M60-UCD1.
+M60 is the third-brightest giant elliptical galaxy of the Virgo cluster of galaxies, and is the dominant member of a subcluster of four galaxies, which is the closest-known isolated compact group of galaxies.
+A supernova (SN 2004W) was observed in Messier 60.
+At the center of M60 is a black hole of 4.5 trillion solar masses, one of the largest ever found.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 43m 39.6s</characteristic>
+		<characteristic name="Declination">+11° 33′ 09″</characteristic>
+		<characteristic name="Redshift">0.003726</characteristic>
+		<characteristic name="Helio radial velocity">1117 ± 6 km/s</characteristic>		
+		<characteristic name="Distance">55 ± 4 Mly (16.8 ± 1.2 Mpc)</characteristic>
+        <characteristic name="Type">E2</characteristic>
+        <characteristic name="Apparent dimensions (V)">7′.4 × 6′.0</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.8</characteristic>
+		<characteristic name="Other designations">M60, NGC 4649, UGC 7898, PGC 42831 Arp 116, GC 3182.</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 60 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_60</link>
+</object>

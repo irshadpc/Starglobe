@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="DELTA 1 R/B Satellite details 1989-089B NORAD 20323" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">20323	</characteristic><characteristic name="Int'l Code">1989-089B</characteristic>
+<characteristic name="Perigee">688.3 km</characteristic>
+<characteristic name="Apogee">793.0 km</characteristic>
+<characteristic name="Inclination">97.1 °</characteristic>
+<characteristic name="Period">99.5 minutes</characteristic>
+<characteristic name="Semi major axis">7111 km</characteristic>
+<characteristic name="Launch date">November 18, 1989</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

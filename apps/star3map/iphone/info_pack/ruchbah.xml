@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Ruchbah" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Delta Cassiopeiae (δ Cassiopeiae, abbreviated Delta Cas, δ Cas), also named Ruchbah, is a star in the northern circumpolar constellation of Cassiopeia.
+δ Cassiopeiae (Latinised to Delta Cassiopeiae) is the star's Bayer designation.
+
+It also bore the traditional names Ruchbah and Ksora; the former deriving from the Arabic word ركبة rukbah meaning "knee", and the latter appeared in a 1951 publication, Atlas Coeli (Skalnate Pleso Atlas of the Heavens) by Czech astronomer Antonín Bečvář. Professor Paul Kunitzch has been unable to find any clues as to the origin of the name. The star Alpha Sagittarii also bore the traditonal name Ruchbah (as well as Rukbat). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Ruchbah for this star (Alpha Sagittarii was given the name Rukbat).
+
+In Chinese, 閣道 (Gé Dào), meaning Flying Corridor, refers to an asterism consisting of Delta Cassiopeiae, Iota Cassiopeiae, Epsilon Cassiopeiae, Theta Cassiopeiae, Nu Cassiopeiae and Omicron Cassiopeiae. Consequently, Delta Cassiopeiae itself is known as 閣道三 (Gé Dào sān, English: the Third Star of Flying Corridor.)
+Delta Cassiopeiae is an eclipsing binary star system consisting of a pair of stars that orbit about each other over a period of 759 days. The combined apparent visual magnitude of the two stars is 2.68, making it readily observable with the naked eye. However, this magnitude varies between +2.68 mag and +2.74 as the stars pass in front of each other. Based on parallax measurements, this system is about 99.4 light-years (30.5 parsecs) from the Earth.
+
+The primary member of the system has a stellar classification of A5III-IVv, with the luminosity class of IV indicating that it has exhausted the hydrogen at its core and has begun to evolve through the subgiant phase into a giant star. It has expanded to about 3.9 times the Sun's radius. The lower case 'v' in the stellar class indicates that the spectrum shows signs of variation. The system has an estimated age of 600 million years.
+
+An excess infrared emission has been observed at a wavelength of 60 μm, which suggests the presence of a circumstellar debris disk. This emission can be characterized by heat radiated from dust at a temperature of 85 K, which corresponds to an orbital radius of 88 Astronomical Units, or 88 times the distance of the Earth from the Sun. For comparison, the region of the remote Kuiper belt in the Solar System extends from 30–50 AU.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Ruchbah in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Cassiopeiae</link>
+</object>

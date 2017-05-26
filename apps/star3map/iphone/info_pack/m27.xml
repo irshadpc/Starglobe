@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Dumbbell Nebula" type="Galaxies">
+	<images>
+		<image title="ESO image showing extended structure and central star Credit: ESO">m 27_1.jpg</image>
+		<image title="Image from the Spitzer Space Telescope.">m 27_2.jpg</image>
+		<image title="HST closeup of knots in M 27 Credit: C.R. O'Dell (Vanderbilt University)">m 27_3.jpg</image>
+		<image title="M27. This picture was processed and combined using IRAF and MaxIm DL by Mohamad Abbas.">m 27_4.jpg</image>
+	</images>
+	<information>
+The Dumbbell Nebula (also known as Apple Core Nebula, Messier 27, M 27, or NGC 6853) is a planetary nebula in the constellation Vulpecula, at a distance of about 1,360 light years.
+This object was the first planetary nebula to be discovered; by Charles Messier in 1764. At its brightness of visual magnitude 7.5 and its diameter of about 8 arcminutes, it is easily visible in binoculars, and a popular observing target in amateur telescopes.
+The Dumbbell Nebula appears to be shaped like an prolate spheroid and is viewed from our perspective along the plane of its equator. In 1992, Moreno-Corral et al. computed that its rate of expansion in the plane of the sky was no more than 2.3" per century. From this, an upper limit to the age of 14,600 yr may be determined. In 1970, Bohuski, Smith, and Weedman found an expansion velocity of 31 km/s. Given its semi-minor axis radius of 1.01 ly, this implies that the kinematic age of the nebula is some 9,800 years.
+Like many nearby planetary nebulae, the Dumbbell contains knots. Its central region is marked by a pattern of dark and bright cusped knots and their associated dark tails (see picture). The knots vary in appearance from symmetric objects with tails to rather irregular tail-less objects. Similarly to the Helix Nebula and the Eskimo Nebula, the heads of the knots have bright cusps which are local photoionization fronts.
+The central star, a white dwarf, is estimated to have a radius which is 0.055 ± 0.02 R☉ which gives it a size larger than any other known white dwarf. The central star mass was estimated in 1999 by Napiwotzki to be 0.56 ± 0.01 M☉
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">19h 59m 36.340s</characteristic>
+		<characteristic name="Declination">+22° 43′ 16.09″</characteristic>
+		<characteristic name="Distance">1,360+160 −212 ly (417+49 −65 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">7.5</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.0 × 5′.6</characteristic>
+		<characteristic name="Constellation">Vulpecula</characteristic>
+		<characteristic name="Radius">1.44+0.21 −0.16 ly</characteristic>
+		<characteristic name="Absolute magnitude (V)">-0.6+0.4 −0.3</characteristic>
+		<characteristic name="Notable features">Central star radius is largest known for a white dwarf.</characteristic>
+		<characteristic name="Other designations">NGC 6853, M 27, Diabolo Nebula, Dumb-Bell Nebula</characteristic>
+	</characteristics>
+	<link title="Get more info about Dumbbell Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Dumbbell_Nebula</link>
+</object>

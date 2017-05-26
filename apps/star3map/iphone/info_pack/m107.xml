@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 107" type="Galaxies">
+	<images>
+		<image title="M107 from Hubble Space Telescope; 3.5′ view Credit: NASA/STScI/WikiSky">m 107_1.jpg</image>
+		<image title="The globular star cluster Messier 107 image taken by the Wide Field Imager (WFI) on the MPG/ESO 2.2-metre telescope.">m 107_2.jpg</image>
+	</images>
+	<information>
+Globular Cluster M107 (also known as Messier Object 107 or NGC 6171) is the last globular cluster in the Messier Catalogue. It is a very loose globular cluster in the constellation Ophiuchus. It was discovered by Pierre Méchain in April 1782 and independently by William Herschel in 1793. It wasn't until 1947 that Helen Sawyer Hogg added it and three other objects discovered by Méchain to the list of Messier objects.
+M107 is close to the galactic plane at a distance of about 20,900 light-years from Earth. There are 25 known variable stars in this cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Class">X</characteristic>
+		<characteristic name="Right ascension">16h 32m 31.86s</characteristic>
+		<characteristic name="Declination">–13° 03′ 13.6″</characteristic>
+		<characteristic name="Distance">20.9 kly (6.4 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+8.85</characteristic>
+		<characteristic name="Apparent dimensions (V)">13′.0</characteristic>
+		<characteristic name="Mass">1.82×105 M☉</characteristic>
+		<characteristic name="Radius">39.5 ly</characteristic>
+		<characteristic name="Metallicity">–0.95 dex</characteristic>
+		<characteristic name="Estimated age">13.95 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6171, GCl 44</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 107 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_107</link>
+</object>

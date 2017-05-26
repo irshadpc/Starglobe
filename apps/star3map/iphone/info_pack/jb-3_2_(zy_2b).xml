@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="JB-3 B Satellite details 2002-049A NORAD 27550" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Officially intended for environment monitoring and protection, city planning, crops yield estimate, disaster prevention and mitigation, space science testing.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">27550	</characteristic><characteristic name="Int'l Code">2002-049A</characteristic>
+<characteristic name="Perigee">401.2 km</characteristic>
+<characteristic name="Apogee">410.1 km</characteristic>
+<characteristic name="Inclination">97.1 °</characteristic>
+<characteristic name="Period">92.5 minutes</characteristic>
+<characteristic name="Semi major axis">6776 km</characteristic>
+<characteristic name="Launch date">October 27, 2002</characteristic>
+<characteristic name="Source">People's Republic of China (PRC)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

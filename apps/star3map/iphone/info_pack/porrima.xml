@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Porrima" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+	</images>
+	<information>
+
+γ Virginis (Latinised to Gamma Virginis) is the star's Bayer designation.
+
+The traditional name Porrima derives from Ancient Rome, Porrima (also known as Antevorta) was one of the Camenae or goddesses of prophecy. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Porrima for this star.
+
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Laouiyet al Aoua, which was translated into Latin as Angulus Latratoris, meaning 'the angle of the barker'. This star, along with Beta Virginis (Zavijava), Eta Virginis (Zaniah), Delta Virginis (Auva) and Epsilon Virginis (Vindemiatrix), were Al ʽAwwāʼ, the Barker.
+
+In Chinese, 太微左垣 (Tài Wēi Zuǒ Yuán), meaning Left Wall of Supreme Palace Enclosure, refers to an asterism consisting of Gamma Virginis, Eta Virginis, Delta Virginis, Epsilon Virginis and Alpha Comae Berenices. Consequently, Gamma Virginis itself is known as 太微左垣二 (Tài Wēi Zuǒ Yuán èr, English: the Second Star of Left Wall of Supreme Palace Enclosure.), representing 東上相 (Dōngshǎngxiāng), meaning The First Eastern Minister. 東上相 (Dōngshǎngxiāng), westernized into Shang Seang by R.H. Allen and the meaning is "the High Minister of State".
+Gamma Virginis is a binary star, consisting of two stars of approximately equal apparent magnitudes 3.65 and 3.56, and of spectral type F0V. With an orbital period of 168.93 years,[4] it was an easy object for amateur astronomers until the beginning of the 1990s, but in 2011 the smaller apparent distance between the stars requires a larger telescope to resolve the individual components. The last time they were at periapsis was in 1836. The distance will again be wide enough in 2020 to view with a small telescope. The star system has a combined apparent magnitude of 2.9. The system is 39 light years away from the Sun.
+
+As Gamma Virginis is close to the ecliptic, it can be occulted by the Moon and (extremely rarely) by planets. In June 2011, Saturn came within a quarter of a degree from Porrima.
+
+Based upon X-ray emissions—an indicator of the strength of the stellar magnetic field—this system has an estimated age of 1.14 billion years.
+This table shows the apparent distance between the two stars and their relative position angle: first three columns show data predicted from an orbit calculated in 1937, the next two columns show in 2006,[15] the next three columns show observations reported by the Hanwell Community Observatory.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Porrima in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Virginis</link>
+</object>

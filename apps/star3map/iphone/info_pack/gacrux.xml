@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gacrux" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Gamma Crucis (γ Crucis, abbreviated Gamma Cru, γ Cru), also named Gacrux, is the nearest red giant star to the Sun. The distance to Gacrux has been determined using parallax measurements made during the Hipparcos mission, which yielded a value of 88.6 light-years (27.2 parsecs) away from the Sun. With an apparent visual magnitude of +1.63, this is the third-brightest star in the southern circumpolar constellation of Crux, the Southern Cross, and one of the brightest stars in the night sky. A line from the two "Pointers", Alpha Centauri through Beta Centauri, leads to within a few degrees of this star.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Gacrux in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Crucis</link>
+</object>

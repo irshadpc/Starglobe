@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gamma Leonis" type="Star">
+	<images>
+<image title="Algieba">algieba_1.png</image>
+<image title="">algieba__3.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gamma Leonis (γ Leo, γ Leonis) is a binary star system in the constellation Leo. It has the traditional name Algieba or Al Gieba.
+
+The name Algieba originates from the Arabic الجبهة Al-Jabhah, meaning the forehead. Despite this meaning, the star actually appears in the mane of Leo. The star's Latin name is Juba.
+It is known as 軒轅十二 (the Twelfth Star of Xuanyuan) in Chinese. Xuanyuan is the name of Yellow Emperor.
+Algieba, as a binary system, consists of two stars. The brighter component has an apparent magnitude of +2.28 and is of spectral class K1-IIIbCN-0.5. The giant K star has a surface temperature of 4,470 K, a luminosity 180 times that of Earth's Sun, and a diameter 23 times that of the Sun. The companion star has an apparent magnitude of +3.51 and belongs to the spectral class G7IIICN-I. The giant G star has a temperature of 4,980 K, a luminosity of 50 times that of the Sun, and a diameter 10 times that of the Sun. With angular separation of just over 4", the two stars are at least 170 AU apart (four times the distance between Pluto and the Sun), and have an orbital period of over 500 years. Because the orbital period is so long, only a fraction of the full path has been observed since discovery.
+Both stars are almost certainly true giants, meaning that they have stopped fusing hydrogen to helium in their cores and have expanded to great proportions. Although there has been too little observation of their orbit to calculate their masses, comparison with evolutionary calculations suggests that each are about double the mass of the Sun. Originating from the same interstellar cloud some two billion years ago, the stars have iron contents about a third that of the Sun. It is hard to tell how far along they might be in their life cycle. They both may be fusing helium in their cores, or they could be giants in development, with quiet helium cores that are waiting to fire up. The chemical composition at the surface, which is influenced by age, suggests the former.
+The bright binary system in Leo with orange-red and yellow or greenish-yellow components is visible through a modest telescope under good atmospheric conditions. To the naked eye, the Algieba system shines at mid-second magnitude, but a telescope easily splits the pair.
+On November 6, 2009, the discovery of a planetary companion around primary star Gamma-1 Leonis was announced. The radial velocity measurements suggest two additional periodicities of 8.5 and 1340 days. The former is likely due to stellar pulsation, whereas the latter could be indicative of the presence of an additional planetary companion with 2.14 Jupiter masses, moderate eccentricity (e=0.13) and located at 2.6 Astronomical Units away from the giant star. Nevertheless the nature of such a signal is still unclear and further investigations are needed to confirm or rule out an additional substellar companion.
+Coordinates: 10h 19m 58.3s, +19° 50′ 30″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Leo</characteristic>
+<characteristic name="Right ascension">10h 19m 58.35056s</characteristic>
+<characteristic name="Declination">+19° 50′ 29.3468″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.98 (2.28/3.51)</characteristic>
+<characteristic name="Spectral type">K0 IIIb + G7 IIICN...</characteristic>
+<characteristic name="U−B color index">1.00</characteristic>
+<characteristic name="B−V color index">1.14</characteristic>
+<characteristic name="Radial velocity (Rv)">–36.24 ± 0.18 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +304.30 mas/yr, Dec.: –154.28 mas/yr</characteristic>
+<characteristic name="Parallax (π)">25.07 ± 0.52mas</characteristic>
+<characteristic name="Distance">130 ± 3 ly (39.9 ± 0.8 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–0.27/+0.98</characteristic>
+<characteristic name="Period (P)">510.3 yr</characteristic>
+<characteristic name="Semi-major axis (a)">4.24&quot;</characteristic>
+<characteristic name="Eccentricity (e)">0.845</characteristic>
+<characteristic name="Inclination (i)">76.0°</characteristic>
+<characteristic name="Longitude of the node (Ω)">143.4°</characteristic>
+<characteristic name="Periastron epoch (T)">1671.3</characteristic>
+<characteristic name="Mass">1.23 M☉</characteristic>
+<characteristic name="Radius">31.88 / 10 R☉</characteristic>
+<characteristic name="Luminosity">320 / 40 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.35 / 2.98 cgs</characteristic>
+<characteristic name="Temperature">4,470 / 4,980 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.49 ± 0.12 / –0.52 ± 0.11 dex</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gamma Leonis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Algieba</link>
+</object>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Pegasi" type="Star">
+	<images>
+<image title="Alpha Pegasi">markab_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Pegasi (α Peg, α Pegasi) is the third brightest star in the constellation Pegasus and one of the four stars in the asterism known as the Great Square of Pegasus. It has the traditional name Markab (or Marchab), which comes from an Arabic word مركب markab, "the saddle of the horse", or is mistranscription of Mankib comes from an Arabic phrase منكب الفرس Mankib al-Faras, "(the Star of) the Shoulder (of the Constellation) of the Horse" for β Pegasi.
+Markab has a stellar classification of B9 III, indicating that it is a B-type giant star that has exhausted the hydrogen at its core and has evolved beyond the main sequence. It is rotating rapidly, with a projected rotational velocity of 125 km/s giving a lower bound on the azimuthal velocity along the star's equator. The effective temperature of the photosphere is nearly 10,000 K and the star has expanded to nearly five times the radius of the Sun.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Pegasus</characteristic>
+<characteristic name="Right ascension">23h 04m 45.65345s</characteristic>
+<characteristic name="Declination">+15° 12′ 18.9617″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.48</characteristic>
+<characteristic name="Spectral type">B9 III</characteristic>
+<characteristic name="U−B color index">–0.06</characteristic>
+<characteristic name="B−V color index">–0.04</characteristic>
+<characteristic name="Radial velocity (Rv)">–2.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 60.40 ± 0.17 mas/yr, Dec.: -41.30 ± 0.16 mas/yr</characteristic>
+<characteristic name="Parallax (π)">24.46 ± 0.19mas</characteristic>
+<characteristic name="Distance">133 ± 1 ly (40.9 ± 0.3 pc)</characteristic>
+<characteristic name="Radius">4.72 ± 0.14 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.51 ± 0.03 cgs</characteristic>
+<characteristic name="Temperature">9,765 ± 63 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">−0.02 ± 0.10 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">125 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Pegasi in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alpha_Pegasi</link>
+</object>

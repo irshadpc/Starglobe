@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Cassiopeiae" type="Star">
+	<images>
+<image title="Caph">caph_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Cassiopeiae (β Cas, β Cassiopeiae) is a Delta Scuti variable star in the constellation Cassiopeia. It is a subgiant or giant star belonging to the spectral class F2, with a mean apparent magnitude of +2.27 and absolute magnitude of +1.16. It has the traditional name Caph, from the Arabic word كف kaf, "palm" (i.e. reaching from the Pleiades), also known as Al Sanām al Nākah. Another Arabic name is al-Kaff al-Khadib.
+
+With a mean apparent magnitude (V-band) of +2.27, it is one of the five stars which make up the 'W' of Cassiopeia, adjacent to the just brighter Schedar (Alpha Cassiopeiae).SN 1572, traditionally known as Tycho's Star, appeared about 5 degrees to the northwest of Caph in 1572.
+As a star in the deep northern hemisphere of the sky, Beta Cassiopeiae is prominent to viewers in the northern hemisphere but not often seen by those in the southern hemisphere. The constellation of Cassiopeia does not rise above the horizon to viewers in Tasmania, and only low if one were in Cairns.
+β Cassiopeiae is a yellow-white hued subgiant or giant of stellar class F2III-IV, with a surface temperature of 6,700 Kelvin. More than three times the size of and 28 times brighter than the sun, Caph has an absolute magnitude of +1.16. It was once an A-type star with about double the sun's mass. It is now in the process of cooling and expanding to become a red giant. Its core is likely to have used up its hydrogen and is shrinking and heating, while its outer envelope of hydrogen is expanding and cooling. Stars do not spend much time in this state and are relatively uncommon. Caph's corona is unusually weak.
+β Cassiopeiae is a variable star of the Delta Scuti type, in fact the second brightest of such stars in the sky after Altair. It is a monoperiodic pulsator, with a brightness that ranges from magnitude +2.25 to +2.31 with a period of 2.5 hours. This type of variables includes subgiant or main sequence stars of spectral classes F5–A0, having masses between 1.5–2.5 solar masses and nearing the end of their core hydrogen fusion lifetime. Their pulsations are related to the same helium instability strip on the Hertzsprung–Russell diagram as that of classical Cepheids. Delta Scuti stars are located at the intersection of the strip with the main sequence.
+This star is rotating at about 92% of its critical speed, completing a full rotation every 1.12–1.16 days. This is giving the star an oblate spheroid shape with an equatorial bulge that is 24% larger than the polar radius. This shape is causing the polar region to have a higher temperature than the equator: the temperature difference is about 1,000 K. The axis of rotation is inclined about 20° to the line of sight from the Earth.
+β Cassiopeiae is a binary star, with a faint companion, which orbits it every 27 days. Little else is known about this companion.
+Originally, the pre-Islamic Arabic term al-Kaff al-Khadib "the stained hand" referred to the five stars comprising the 'W' of the constellation Cassiopeia, and depicted a hand stained with henna. The term was abbreviated and somehow came to signify β Cassiopeiae alone. The old "stained hand" was part of an asterism stretching from the Pleiades, which signified the "head" through Taurus and Perseus and into Cassiopeia, while the other "hand" was in Cetus.
+Alternate common names are Chaph and Kaff, as well as al-Sanam al-Nakah "the Camel's Hump".
+In Chinese, 王良 (Wáng Liáng), meaning Wang Liang, refers to an asterism consisting of β Cassiopeiae, κ Cassiopeiae, η Cassiopeiae, α Cassiopeiae and λ Cassiopeiae. Consequently, β Cassiopeiae itself is known as 王良一 (Wáng Liáng yī, English: the First Star of Wang Liang.)
+Together with Alpha Andromedae (Alpheratz) and Gamma Pegasi (Algenib), Beta Cassiopeiae was one of three bright stars known as the "Three Guides" marking the equinoctial colure. This is an imaginary line running due south from Beta Cassiopeiae through Alpha Andromedae to the celestial equator, at a point where the sun's path (the ecliptic) crosses it each autumn and spring equinox.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cassiopeia</characteristic>
+<characteristic name="Right ascension">00h 09m 10.68518s</characteristic>
+<characteristic name="Declination">+59° 08′ 59.2120″</characteristic>
+<characteristic name="Apparent magnitude (V)">+2.28 (2.25–2.31)</characteristic>
+<characteristic name="Spectral type">F2 III-IV</characteristic>
+<characteristic name="U−B color index">0.11</characteristic>
+<characteristic name="B−V color index">0.34</characteristic>
+<characteristic name="Variable type">Delta Scuti</characteristic>
+<characteristic name="Radial velocity (Rv)">11.3 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 523.50 mas/yr, Dec.: -179.77 mas/yr</characteristic>
+<characteristic name="Parallax (π)">59.58 ± 0.38mas</characteristic>
+<characteristic name="Distance">54.7 ± 0.3 ly (16.8 ± 0.1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">+1.16</characteristic>
+<characteristic name="Mass">1.91 ± 0.02 M☉</characteristic>
+<characteristic name="Radius">3.43–3.69 R☉</characteristic>
+<characteristic name="Luminosity">27.3 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.40 cgs</characteristic>
+<characteristic name="Temperature">7,079 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">0.03 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">71.0 km/s</characteristic>
+<characteristic name="Age">1.09–1.18 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Cassiopeiae in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Caph</link>
+</object>

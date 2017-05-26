@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 80" type="Galaxies">
+	<images>
+		<image title="A Hubble Space Telescope (HST) image of M80. Credit: HST/NASA/ESA.">m 80_1.jpg</image>
+		<image title="M80 is on the far right edge of this image towards the top.">m 80_2.jpg</image>
+	</images>
+	<information>
+Messier 80 (also known as M80 or NGC 6093) is a globular cluster in the constellation Scorpius. It was discovered by Charles Messier in 1781.
+M80 is located midway between α Scorpii (Antares) and β Scorpii in a field in the Milky Way that is rich in nebulae. It can be viewed with modest amateur telescopes as a mottled ball of light. With an apparent diameter of about 10' and at an estimated distance of 32,600 light-years, M80's spatial diameter is about 95 light-years. It contains several hundred thousand stars, and is among the more densely populated globular clusters in the Milky Way Galaxy.
+M80 contains a relatively large number of blue stragglers, stars that appear to be much younger than the cluster itself. It is thought these stars have lost part of their outer layers due to close encounters with other cluster members or perhaps the result of collisions between stars in the dense cluster. Images from the Hubble Space Telescope have shown districts of very high blue straggler densities, suggesting that the center of the cluster is likely to have a very high capture and collision rate.
+On May 21, 1860, a nova was discovered in M80 that attained a magnitude of +7.0. The nova, variable star designation T Scorpii, reached an absolute magnitude of −8.5, briefly outshining the entire cluster.
+	</information>
+	<characteristics>
+	    <characteristic name="Class">II</characteristic>
+		<characteristic name="Constellation">Scorpius</characteristic>
+		<characteristic name="Right ascension">16h 17m 02.41s</characteristic>
+		<characteristic name="Declination">–22° 58′ 33.9″</characteristic>
+		<characteristic name="Distance">32.6 kly (10.0 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.87</characteristic>
+		<characteristic name="Apparent dimensions (V)">10′.0</characteristic>
+		<characteristic name="Mass">5.02×105 M☉</characteristic>
+		<characteristic name="Radius">48 ly</characteristic>
+		<characteristic name="Metallicity">–1.47 dex</characteristic>
+		<characteristic name="Estimated age">12.54</characteristic>
+		<characteristic name="Other designations"> 	M80, NGC 6093, GCl 39</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 80 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_80</link>
+</object>

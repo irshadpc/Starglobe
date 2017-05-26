@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="INTERCOSMOS 24 Satellite details 1989-080A NORAD 20261" type="Satellite">
+	<images><image>intercosmos_24.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">20261	</characteristic><characteristic name="Int'l Code">1989-080A</characteristic>
+<characteristic name="Perigee">506.6 km</characteristic>
+<characteristic name="Apogee">2,395.9 km</characteristic>
+<characteristic name="Inclination">82.6 °</characteristic>
+<characteristic name="Period">114.8 minutes</characteristic>
+<characteristic name="Semi major axis">7822 km</characteristic>
+<characteristic name="Launch date">September 28, 1989</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Owl Nebula" type="Galaxies">
+	<images>
+		<image title="Owl Nebula">m 97_1.jpg</image>
+	</images>
+	<information>
+The Owl Nebula is a planetary nebula located approximately 2,030 light years away in the constellation Ursa Major. This object is known by the catalogue identifiers Messier Object 97 (M97) and NGC 3587. It was discovered by French astronomer Pierre Méchain on February 16, 1781. When William Parsons, 3rd Earl of Rosse observed the nebula in 1848, his hand-drawn illustration resembled an owl's head. It has been known as the owl nebula ever since.
+The nebula is approximately 8,000 years old. It is approximately circular in cross-section with a little visible internal structure. It was formed from the outflow of material from the stellar wind of the central star as it evolved along the asymptotic giant branch. The nebula is arranged in three concentric shells, with the outermost shell being about 20–30% larger than the inner shell. The owl-like appearance of the nebula is the result of an inner shell that is not circularly symmetric, but instead forms a barrel-like structure aligned at an angle of 45° to the line of sight.
+The nebula holds about 0.13 solar masses of matter, including hydrogen, helium, nitrogen, oxygen, and sulfur; all with a density of less than 100 particles per cubic centimeter. Its outer radius is around 0.91 ly (0.28 pc) and it is expanding with velocities in the range of 27–39 km/s into the surrounding interstellar medium.
+The 14th magnitude central star has since reached the turning point of its evolution where it condenses to form a white dwarf. It has 55–60% of the Sun's mass, 41–148 times the brightness of the Sun, and an effective temperature of 123,000 K. The star has been successfully resolved by the Spitzer Space Telescope as a point source that does not show the infrared excess characteristic of a circumstellar disk.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">11h 14m 47.734s</characteristic>
+		<characteristic name="Declination">+55° 01′ 08.50″</characteristic>
+		<characteristic name="Distance">2,030 ly (621 pc)</characteristic>
+	    <characteristic name="Apparent magnitude (V)">+9.9</characteristic>
+		<characteristic name="Apparent dimensions (V)">3′.4 × 3′.3</characteristic>
+		<characteristic name="Constellation">Ursa Major</characteristic>
+		<characteristic name="Radius">0.91 ly (0.28 pc)</characteristic>
+		<characteristic name="Notable features">Owl-like "eyes" visible through larger telescopes</characteristic>	
+		<characteristic name="Other designations">M97, NGC 3587, PN G148.4+57.0</characteristic>
+	</characteristics>
+	<link title="Get more info about Owl Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Owl_Nebula</link>
+</object>

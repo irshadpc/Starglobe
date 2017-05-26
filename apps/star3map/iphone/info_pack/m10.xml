@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 10" type="Galaxies">
+	<images>
+		<image title="The core region of Messier 10 by Hubble Space Telescope; 3.5′ view">m 10_1.jpg</image>
+		<image title="Messier 10 with amateur telescope">m 10_2.jpg</image>
+	</images>
+	<information>
+Messier 10 or M10 (also designated NGC 6254) is a globular cluster of stars in the equatorial constellation of Ophiuchus. The object was discovered by the French astronomer Charles Messier on May 29, 1764, who cataloged it as number 10 in his catalogue and described it as a "nebula without stars". In 1774, German astronomer Johann Elert Bode likewise called it a "nebulous patch without stars; very pale". Using larger instrumentation, German-born astronomer William Herschel was able to resolve the cluster into its individual members. He described it as a "beautiful cluster of extremely compressed stars". William Parsons, 3rd Earl of Rosse thought he could distinguish a dark lane through part of the cluster. The first to estimate the distance to the cluster was Harlow Shapley, although his derivation of 33,000 light years was much further than the modern value.
+The tidal radius of M10 is 19.3 arcminutes, which is about two-thirds of the apparent diameter of the Moon. Viewed through medium-sized telescopes it appears about half that size (8–9 arcminutes), as its bright core is only 35 light-years across. It has a core radius of 48 arcseconds and a half-mass radius of 147 arcseconds (2.5 arcminutes). M10 has a spatial diameter of 83 light-years and is estimated to be 14,300 light-years away from Earth.
+In terms of the abundance of elements other than hydrogen and helium, what astronomers term the metallicity, Messier 10 is "moderately metal–poor". The abundance of iron, measured as [Fe/H] equals –1.45 ± 0.04 dex, is only 3.5% of the abundance found at the surface of the Sun. The cluster shows evidence of being enriched by the elements generated through the s-process in massive stars and Type II supernovae. It shows little evidence of enrichment by Type 1a supernovae.
+Because binary stars are, on average, more massive than normal stars, the binaries tend to migrate toward the center of the cluster. The fraction of binary stars in the core region is about 14%. This proportion decreases with increasing radius to about 1.5% in the outlying regions of the cluster. Correspondingly, the core region contains a concentration of interaction-formed blue straggler stars, most of which formed 2–5 billion years ago. The density of stars in the core region is about 3.8 solar masses per cubic parsec. Four variable stars have been discovered in this cluster.
+The cluster is currently located about 5 kiloparsecs (16 kly) from the Galactic Center. It completes an orbit around the Milky Way galaxy about every 140 million years, during which it crosses the plane of the galactic disk every 53 million years. Its rosette orbit has an eccentricity of 0.21.
+	</information>
+	<characteristics>
+		<characteristic name="Class">VII</characteristic>
+		<characteristic name="Constellation">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">16h 57m 8.92s</characteristic>
+		<characteristic name="Declination">−04° 05′ 58.07″</characteristic>
+		<characteristic name="Distance">14.3 kly (4.4 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.4</characteristic>
+		<characteristic name="Apparent dimensions (V)">20′.0</characteristic>
+		<characteristic name="Mass">2.25 × 105 M☉</characteristic>
+		<characteristic name="Radius">41.6 ly</characteristic>
+		<characteristic name="Metallicity">–1.25[7] dex</characteristic>
+		<characteristic name="Estimated age">11.39 Gyr</characteristic>
+		<characteristic name="Other designations">GCl-49, NGC 6254</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 10 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_10</link>
+</object>

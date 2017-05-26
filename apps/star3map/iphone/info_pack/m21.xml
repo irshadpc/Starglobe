@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 21" type="Galaxies">
+	<images>
+		<image title="">m 21_1.jpg</image>
+	</images>
+	<information>
+Messier 21 or M21 (also designated NGC 6531) is an open cluster of stars in the constellation of Sagittarius. It was discovered and catalogued by Charles Messier on June 5, 1764.
+M21 is a relatively young cluster of a mere 4.6 million years of age. It is tightly packed but contains about 57 stars. A few blue giant stars have been identified in the cluster, but Messier 21 is composed mainly of small dim stars. With a magnitude of 6.5, M21 is not visible to the naked eye; however, with the smallest binoculars it can be easily spotted on a dark night
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 04.6m</characteristic>
+		<characteristic name="Declination">−22° 30′</characteristic>
+		<characteristic name="Distance">4.25 kly (1.3 kPc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.5</characteristic>
+		<characteristic name="Apparent dimensions (V)">13.0′</characteristic>
+		<characteristic name="Estimated age">4.6 million years</characteristic>
+		<characteristic name="Other designations">NGC 6531</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 21 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_21</link>
+</object>

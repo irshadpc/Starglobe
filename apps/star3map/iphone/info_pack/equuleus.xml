@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Equuleus" type="Constellation">
+	<images>
+<image title="Equuleus">equuleus_1.png</image>
+<image title="">equuleus__2.jpg</image>
+<image title="">equuleus__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Equuleus /ɨˈkwuːliəs/ is a constellation. Its name is Latin for 'little horse', a foal. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and remains one of the 88 modern constellations. It is the second smallest of the modern constellations (after Crux), spanning only 72 square degrees. It is also very faint, having no stars brighter than the fourth magnitude.
+
+The brightest star in Equuleus is Alpha Equulei, traditionally called Kitalpha, a yellow star magnitude 3.9, 186 light-years from Earth. Its traditional name means "the section of the horse".
+There are few variable stars in Equuleus. Only around 25 are known, most of which are faint. Gamma Equulei is an alpha CVn star, ranging between magnitudes 4.58 and 4.77 over a period of around 12½ minutes. It is a white star 115 light-years from Earth, and has an optical companion of magnitude 6.1, 6 Equulei. It is divisible in binoculars.R Equulei is a Mira variable that ranges between magnitudes 8.0 and 15.7 over nearly 261 days.
+Equuleus contains some double stars of interest. γ Equ consists of a primary star with a magnitude around 4.7 (slightly variable) and a secondary star of magnitude 11.6, separated by 2 arcseconds. Epsilon Equulei is a triple star also designated 1 Equulei. The system, 197 light-years away, has a primary of magnitude 5.4 that is itself a binary star; its components are of magnitude 6.0 and 6.3 and have a period of 101 years. The secondary is of magnitude 7.4 and is visible in small telescopes. The components of the primary are becoming closer together and will not be divisible in amateur telescopes beginning in 2015.δ Equ is a binary star with an orbital period of 5.7 years, which at one time was the shortest known orbital period for an optical binary. The two components of the system are never more than 0.35 arcseconds apart.
+Due to its small size and its distance from the plane of the Milky Way, Equuleus contains no notable deep sky objects. Some very faint galaxies between magnitudes 13 and 15 include NGC 7015, NGC 7040, NGC 7045 and NGC 7046.
+In Greek mythology, one myth associates Equuleus with the foal Celeris (meaning "swiftness" or "speed"), who was the offspring or brother of the winged horse Pegasus. Celeris was given to Castor by Mercury. Other myths say that Equuleus is the horse struck from Poseidon's trident, during the contest between him and Athena when deciding which would be the superior. Because this section of stars rises before Pegasus, it is often called Equus Primus, or the First Horse. Equuleus is also linked to the story of Philyra and Saturn.
+Created by Hipparchus and included by Ptolemy, it abuts Pegasus; unlike the larger horse it is depicted as a horse's head alone.
+In Chinese astronomy, the stars that correspond to Equuleus are located within the Black Tortoise of the North (北方玄武, Běi Fāng Xuán Wǔ).
+Coordinates: 21h 00m 00s, +10° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Equ</characteristic>
+<characteristic name="Genitive">Equulei</characteristic>
+<characteristic name="Pronunciation">/ɨˈkwuːliəs/ Equúleus, genitive /ɨˈkwuːliaɪ/</characteristic>
+<characteristic name="Symbolism">the pony</characteristic>
+<characteristic name="Right ascension">21</characteristic>
+<characteristic name="Declination">+10</characteristic>
+<characteristic name="Family">Heavenly Waters</characteristic>
+<characteristic name="Quadrant">NQ4</characteristic>
+<characteristic name="Area">72 sq. deg. (87th)</characteristic>
+<characteristic name="Main stars">3</characteristic>
+<characteristic name="Bayer/Flamsteed stars">10</characteristic>
+<characteristic name="Stars with planets">2</characteristic>
+<characteristic name="Stars brighter than 3.00m">None</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">None</characteristic>
+<characteristic name="Brightest star">α Equ (Kitalpha) (3.92m)</characteristic>
+<characteristic name="Nearest star">HD 200779 (48.41 ly, 14.84 pc)</characteristic>
+<characteristic name="Messier objects">None</characteristic>
+<characteristic name="Meteor showers">None</characteristic>
+<characteristic name="Bordering constellations">Aquarius, Delphinus, Pegasus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −80°. Best visible at 21:00 (9 p.m.) during the month of September.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Equuleus in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Equuleus</link>
+</object>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Epsilon Pegasi" type="Star">
+	<images>
+<image title="Enif">enif_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Epsilon Pegasi (ε Peg, ε Pegasi) is the brightest star in the northern constellation of Pegasus. It has the traditional name Enif. The name "Enif" is derived from the Arabic word for nose, due to its position as the muzzle of Pegasus. With an apparent visual magnitude of 2.4, this is a second-magnitude star that is readily visible to the naked eye. The distance to this star can be estimated using parallax measurements from the Hipparcos astrometry satellite, yielding a value of around 690 light-years (210 parsecs).
+Other traditional names for the star include Fom al Feras, Latinised to Os Equi. In Chinese, 危宿 (Wēi Sù), meaning Rooftop (asterism), refers to an asterism consisting of ε Pegasi, α Aquarii and θ Peg. Consequently, ε Pegasi itself is known as 危宿三 (Wēi Sù sān, English: the Third Star of Rooftop.)
+This is an evolved star that has entered the supergiant stage, as indicated by the stellar classification of K2 Ib. It is estimated to be 12 times the Sun's mass. The measured angular diameter of this star, after correction for limb darkening, is 8.17 ± 0.09 mas. At the estimated distance of this star, this yields an enormous physical size of about 185 times the radius of the Sun. From this expanded envelope, it is radiating roughly 12,250 times the luminosity of the Sun at an effective temperature of 4,337 K. This temperature is cooler than the Sun, giving it the orange-hued glow of a K-type star.
+Enif probably only has a few million years left to go, although it is unknown whether it will explode in a supernova or die off as a rare neon-oxygen white dwarf, due to its mass straddling the dividing line between stars destined to explode or not. Enif has been observed to brighten radically upon a few occasions, giving rise to the theory that it (and possibly other supergiants) erupt in massive flares that dwarf those of our own Sun. It is a type LC slow irregular variable star that varies from +0.7 to +3.5 in magnitude. The spectrum of this star shows an overabundance of the elements strontium and barium, which may be the result of the S-process of nucleosynthesis in the outer atmosphere of the star. It has a relatively high peculiar velocity of 21.6 km s–1.
+Coordinates: 21h 44m 11.158s, +09° 52′ 30.04″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Pegasus</characteristic>
+<characteristic name="Right ascension">21h 44m 11.15614s</characteristic>
+<characteristic name="Declination">+09° 52′ 30.0311″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.399</characteristic>
+<characteristic name="Spectral type">K2 Ib</characteristic>
+<characteristic name="U−B color index">+1.722</characteristic>
+<characteristic name="B−V color index">+1.527</characteristic>
+<characteristic name="Variable type">LC</characteristic>
+<characteristic name="Radial velocity (Rv)">3.39 ± 0.06 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +26.92 mas/yr, Dec.: +0.4 mas/yr</characteristic>
+<characteristic name="Parallax (π)">4.73 ± 0.17mas</characteristic>
+<characteristic name="Distance">690 ± 20 ly (211 ± 8 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–4.142</characteristic>
+<characteristic name="Mass">11.7 ± 0.8 M☉</characteristic>
+<characteristic name="Radius">185 R☉</characteristic>
+<characteristic name="Luminosity">3895 L☉</characteristic>
+<characteristic name="Luminosity (bolometric)">12,250 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.01 cgs</characteristic>
+<characteristic name="Temperature">4,379 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.04 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">8 km/s</characteristic>
+<characteristic name="Age">20.0 ± 4.5 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Epsilon Pegasi in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Enif</link>
+</object>

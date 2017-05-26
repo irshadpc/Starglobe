@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 79" type="Galaxies">
+	<images>
+		<image title="">m 79_1.png</image>
+		<image title="An infrared color-magnitude diagram of Messier 79.">m 79_2.png</image>
+	</images>
+	<information>
+Messier 79 (also known as M79 or NGC 1904) is a globular cluster in the Lepus constellation. It was discovered by Pierre Méchain in 1780. M79 is at a distance of about 41,000 light years away from Earth and 60,000 light years away from the Galactic Center.
+Like Messier 54 (the other extragalactic globular on Messier's list), it is thought that M79 is not native to the Milky Way galaxy at all, but instead to the putative Canis Major Dwarf Galaxy which is currently experiencing a very close encounter with the Milky Way. This is, however, a contentious subject as astronomers are still debating the nature of the Canis Major dwarf galaxy itself.
+This color-magnitude diagram was made using infrared images of Messier 79 in two bands- J and K. J-band magnitude is plotted along y-axis and color, J-K, is plotted along x-axis. The image was created using Peter Stetson standard for clouded-field photometry, Daophot.
+Based on the diagram, it is evident that most of the stars in this cluster are red giants. The elongated branch is Red giant branch. Stars in the upper left sequence extending outwards from the branch and some stars at the very low temperature end are actually foreground stars.
+Altogether 3 regions of HRD are present here: low mass end of the main sequence, complete red giant branch and horizontal branch. In infrared red stars are brighter, that's why red stars are brighter in this diagram making the lower main sequence shallower than usual. On the other hand the horizontal branch becomes steeper in this diagram due to IR effects (on the HB the blue end is fainter and the red end is brighter).
+	</information>
+	<characteristics>
+		<characteristic name="Class">V</characteristic>
+		<characteristic name="Constellation">Lepus</characteristic>
+		<characteristic name="Right ascension">05h 24m 10.59s</characteristic>
+		<characteristic name="Declination">−24° 31′ 27.3″</characteristic>
+		<characteristic name="Distance">41 kly (13 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+8.56</characteristic>
+		<characteristic name="Apparent dimensions (V)">8.7'</characteristic>
+		<characteristic name="Metallicity">–1.55 dex</characteristic>
+		<characteristic name="Estimated age">11.7 Gyr</characteristic>
+		<characteristic name="Other designations">M79, NGC 1904, GCl 10</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 79 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_79</link>
+</object>

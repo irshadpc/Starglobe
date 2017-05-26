@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Serpens" type="Constellation">
+	<images>
+<image title="Serpens">serpens_1.png</image>
+<image title="Serpens Cauda">serpens__2.png</image>
+<image title="">serpens__3.jpg</image>
+<image title="">serpens__4.jpg</image>
+<image title="">serpens__5.jpg</image>
+<image title="">serpens__6.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Serpens ("the Serpent", Greek Ὄφις) is a constellation of the northern hemisphere. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy and it remains one of the 88 modern constellations defined by the International Astronomical Union.
+It is unique among the modern constellations in being split into two non-contiguous parts, Serpens Caput (Serpent's Head) to the west and Serpens Cauda (Serpent's Tail) to the east. Between these two halves lies the constellation of Ophiuchus, the "Serpent-Bearer". In figurative representations, the body of the serpent is represented as passing behind Ophiuchus between μ Ser in Serpens Caput and ν Ser in Serpens Cauda. The brightest star in Serpens is Unukalhai or Cor Serpentis "Serpent's Heart", with an apparent magnitude of 2.63.
+Since Serpens is regarded as one constellation despite being split into two halves, the ordering of Bayer designations goes in order of brightness among both halves.
+Only one of the stars in Serpens is brighter than third magnitude, so the constellation is not easy to perceive. α Serpentis, named Unukalhai, is in the head part. δ Serpentis, also in the head, is a double star 210 light-years from Earth. θ Serpentis. also named Alya ("the snake" in Arabic), in the tail, is also double.
+Stars in the head include α, β, γ, δ, ε, ι, κ, λ, μ, π, ρ, σ, τ, χ and ω Serpentis. Stars in the tail include ζ, η, θ, ν, ξ, and ο Serpentis.
+Messier 5, a globular cluster located approximately 8° southwest of α Serpentis in the head.
+The Eagle Nebula (IC 4703) and its associated star cluster lie 7,000 light-years from Earth in the direction of the galactic center. The nebula measures 70 light-years by 50 light-years and contains the Pillars of Creation, three dust clouds that became famous for the image taken by the Hubble Space Telescope. The stars being born in the Eagle Nebula, added to those with an approximate age of 5 million years have an average temperature of 45,000 degrees Kelvin and produce prodigious amounts of radiation that will eventually destroy the dust pillars. Despite its fame, the Eagle Nebula is fairly dim, with an integrated magnitude of approximately 6.0. The star-forming regions in the nebula are often evaporating gaseous globules; unlike Bok globules they only hold one protostar.
+MWC 922, a nebula in the Mount Wilson Catalog, is a Symmetric Bipolar Nebula notable for its appearance as a perfectly symmetrical square or rectangle. It is also known as IRAS 18184-1302, and located at RA: 18:21:16 DEC: -13:01:27, near M16 in Serpens Cauda. The MWC is from Mount Wilson Observatory.
+Part of the Milky Way passes through the tail, as illustrated by the shaded regions of the star map.
+The Serpens South star cluster was uncovered by NASA's Spitzer Space Telescope in the southern portion of the Serpens cloud. The discovery was possible due to the infrared observation capabilities of the SST because at visible wavelengths the stars are completely obscured by interstellar dust in the Serpens cloud.
+Hoag's Object is a perfectly shaped ring galaxy located 600 million light-years from Earth (redshift 0.00425). The outer ring is largely composed of young blue stars but the core is made up of older yellow stars. The predominant theory regarding its formation is that the progenitor galaxy was a barred spiral galaxy whose arms had a velocity too great to keep its coherence and therefore detached.
+Arp 220 is another unusual galaxy in Serpens. The prototypical ultraluminous infrared galaxy, Arp 220 is located 250 million light-years from Earth (redshift 0.0181). It consists of two large spiral galaxies in the process of colliding with their nuclei orbiting at a distance of 1,200 light-years, causing extensive star formation throughout both components. It possesses a large cluster of more than a billion stars, partially covered by thick dust clouds near one of the galaxies' core.
+Seyfert's Sextet is a group of six galaxies, four of which are interacting gravitationally and two of which simply appear to be a part of the group despite their greater distance. The gravitationally bound cluster lies at a distance of 190 million light-years from Earth (redshift 0.0145) and is approximately 100,000 light-years across, making Seyfert's Sextet one of the densest galaxy clusters known. Astronomers predict that the four interacting galaxies will eventually merge to form a large elliptical galaxy.
+There are two daytime meteor showers that radiate from Serpens, the Omega Serpentids and the Sigma Serpentids. Both showers peak between December 18th and December 25th.
+Aratus describes the constellation as follows:
+There were two "serpent" constellations in Babylonian astronomy, known as Mušḫuššu and Bašmu. It appears that Mušḫuššu was depicted as a hybrid of dragon, lion and bird, and loosely corresponds to Hydra. Bašmu was a horned serpent (c.f. Ningishzida) and loosely corresponds to the Ὄφις constellation of Eudoxus of Cnidus on which the Ὄφις (Serpens) of Ptolemy is based.
+USS Serpens (AK-97) was a United States Navy Crater class cargo ship named after the constellation.
+Coordinates: 17h 00m 00s, +03° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Ser</characteristic>
+<characteristic name="Genitive">Serpentis</characteristic>
+<characteristic name="Pronunciation">/ˈsɜrpɨnz/, genitive /sərˈpɛntɨs/</characteristic>
+<characteristic name="Symbolism">the Snake</characteristic>
+<characteristic name="Right ascension">Serpens Caput: 16 h, Serpens Cauda: 18</characteristic>
+<characteristic name="Declination">Serpens Caput: +10°, Serpens Cauda: −5</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Quadrant">Serpens Caput: NQ3, Serpens Cauda: SQ3</characteristic>
+<characteristic name="Area">Serpens Caput: 428 sq. deg., Serpens Cauda: 208 sq. deg., Total: 637 sq. deg. (23rd)</characteristic>
+<characteristic name="Main stars">9</characteristic>
+<characteristic name="Bayer/Flamsteed stars">57</characteristic>
+<characteristic name="Stars with planets">15</characteristic>
+<characteristic name="Stars brighter than 3.00m">1</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">2</characteristic>
+<characteristic name="Brightest star">α Ser (Unukalhai) (2.63m)</characteristic>
+<characteristic name="Nearest star">GJ 1224 (24.60 ly, 7.54 pc)</characteristic>
+<characteristic name="Messier objects">2</characteristic>
+<characteristic name="Bordering constellations">Serpens Caput: Corona, Borealis, Boötes, Virgo, Libra, Ophiuchus, Hercules; Serpens Cauda: Aquila, Ophiuchus, Sagittarius, Scutum</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +80° and −80°. Best visible at 21:00 (9 p.m.) during the month of July.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Serpens in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Serpens</link>
+</object>

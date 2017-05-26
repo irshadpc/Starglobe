@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lynx (constellation)" type="Constellation">
+	<images>
+<image title="Lynx (constellation)">lynx_1.png</image>
+<image title="">lynx__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Lynx is a constellation in the northern sky, introduced in the 17th century by Johannes Hevelius. It is named after the lynx, a genus of cat. It is a very faint constellation; its brightest stars form a zigzag line.
+
+Johannes Hevelius defined the constellation in the 17th century because he wanted to fill the open gap between the constellations Ursa Major and Auriga. He supposedly named it Lynx because of its faintness: only the lynx-eyed (or those of good sight) would have been able to recognize it.
+According to Richard H. Allen, the chief stars in Lynx "might well have been utilized by the modern constructor, whoever he was, of our Ursa Major to complete the quartette of feet."
+The only named star in this constellation is Alsciaukat (from the Arabic for thorn), also known as 31 Lyncis, or κ Lyncis.
+Lynx's most notable deep sky object is the Intergalactic Tramp NGC 2419, also called the "Intergalactic Wanderer", a globular cluster that is one of the most distant known of its kind at a distance of 300,000 light-years from Earth. It is likely that NGC 2419 is in a highly elliptical orbit around the Milky Way. It has a magnitude of 10.3 and is a Shapley class II cluster; the classification indicates that it is extremely concentrated at its center. Originally thought to be a star, NGC 2419 was discovered to be a globular cluster by Carl Lampland.
+Lynx has been used for the name of four United States Navy ships: USS Lynx (1814), USS Lynx (SP-2), USS Lynx (AK-100) and USS Lynx II (SP-730), of which only USS Lynx (AK-100) was named for the constellation.
+Coordinates: 08h 00m 00s, +45° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Lyn</characteristic>
+<characteristic name="Genitive">Lyncis</characteristic>
+<characteristic name="Pronunciation">/ˈlɪŋks/, genitive /ˈlɪnsɨs/</characteristic>
+<characteristic name="Symbolism">the Lynx</characteristic>
+<characteristic name="Right ascension">8</characteristic>
+<characteristic name="Declination">+45</characteristic>
+<characteristic name="Family">Ursa Major</characteristic>
+<characteristic name="Quadrant">NQ2</characteristic>
+<characteristic name="Area">545 sq. deg. (28th)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">42</characteristic>
+<characteristic name="Stars with planets">5</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">α Lyn (3.14m)</characteristic>
+<characteristic name="Nearest star">LHS 1963 (26.62 ly, 8.16 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Bordering constellations">Ursa Major, Camelopardalis, Auriga, Gemini, Cancer, Leo (corner), Leo Minor</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −55°. Best visible at 21:00 (9 p.m.) during the month of March.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Lynx (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Lynx_(constellation)</link>
+</object>

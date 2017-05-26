@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name=" Sadalmelik" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+Alpha Aquarii (Alpha Aqr, α Aquarii, α Aqr) is a single star in the Aquarius. It has the traditional name Sadalmelik, which is derived from Arabic for "Luck of the king". The apparent visual magnitude of 2.94 makes this the second-brightest star in Aquarius. Based upon parallax measurements made during the Hipparcos mission, this star is located at a distance of roughly 520 light-years (160 parsecs) from Earth.
+With an age of 53 million years, this star has evolved into a supergiant with a stellar classification of G2 Ib. It has 6.5 times as much mass as the Sun and has expanded to around 77 times the Sun's radius. It is radiating 3,000 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 5,210 K. At this heat, the star glows with the yellow hue of a G-type star. Examination of this star with the Chandra X-ray Observatory shows it to be significantly X-ray deficient compared to G-type main sequence stars. This deficit is a common feature of early G-type giant stars.
+Sadalmelik has a visual companion, designated CCDM J22058-0019B, with an apparent visual magnitude of approximately 12.2. It is at an angular separation of 110.4 arcseconds from Sadalmelik along a position angle of 40°.
+The name Sadalmelik derives from an Arabic expression سعد الملك sa‘d al-malik meaning "Luck of the king". The name Rucbah has also been applied to this star; it shares this name with Delta Cassiopeiae. It is only one of two stars with ancient proper names to lie within a degree of the celestial equator. The origin of the Arabic name is lost to history.
+In Chinese, 危宿 (Wēi Xiù), meaning Rooftop (asterism), refers to an asterism consisting of α Aquarii, θ Pegasi and ε Pegasi. Consequently, α Aquarii itself is known as 危宿一 (Wēi Xiù yī, English: the First Star of Rooftop.)
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about  Sadalmelik in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Alpha_Aquarii</link>
+</object>

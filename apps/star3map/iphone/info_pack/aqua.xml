@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="AQUA Satellite details 2002-022A NORAD 27424" type="Satellite">
+	<images><image>aqua.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+AQUA (EOS-PM1) is an afternoon equator-crossing platform which includes a suite of sensors designed to study the diurnal properties of cloud and aerosol radiative fluxes, cloud formation, and precipitation (MIMR, AIRS/AMSU-A/MHS, and MODIS-N) in conjunction with a wind scatterometer planned for the Japanese ADEOS-II spacecraft. MIMR, MODIS-N, and AIRS will contribute to studies of sea-ice extent and heat exchange with the atmosphere. Data from the EOS-PM1 platform and the sensors on the TRMM spacecraft will combined to assess the utility and accuracy of precipitation measurements.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">27424	</characteristic><characteristic name="Int'l Code">2002-022A</characteristic>
+<characteristic name="Perigee">708.7 km</characteristic>
+<characteristic name="Apogee">710.6 km</characteristic>
+<characteristic name="Inclination">98.2 °</characteristic>
+<characteristic name="Period">98.8 minutes</characteristic>
+<characteristic name="Semi major axis">7080 km</characteristic>
+<characteristic name="Launch date">May 4, 2002</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

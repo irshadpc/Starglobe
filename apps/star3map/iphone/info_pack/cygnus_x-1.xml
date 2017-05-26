@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Cygnus X-1" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassOStar.png</image>
+	</images>
+	<information>
+        Cygnus X-1 (abbreviated Cyg X-1) is a well-known galactic X-ray source, thought to be a black hole, in the constellation Cygnus. It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources seen from Earth, producing a peak X-ray flux density of 2.3×10−23 Wm−2 Hz−1 (2.3×103 Jansky). Cygnus X-1 was the first X-ray source widely accepted to be a black hole and it remains among the most studied astronomical objects in its class. The compact object is now estimated to have a mass about 14.8 times the mass of the Sun[7] and has been shown to be too small to be any known kind of normal star, or other likely object besides a black hole. If so, the radius of its event horizon is about 44 km.
+        
+        Cygnus X-1 belongs to a high-mass X-ray binary system about 6070 ly from the Sun that includes a blue supergiant variable star designated HDE 226868 which it orbits at about 0.2 AU, or 20% of the distance from the Earth to the Sun. A stellar wind from the star provides material for an accretion disk around the X-ray source. Matter in the inner disk is heated to millions of degrees, generating the observed X-rays. A pair of jets, arranged perpendicular to the disk, are carrying part of the energy of the infalling material away into interstellar space.
+        
+        This system may belong to a stellar association called Cygnus OB3, which would mean that Cygnus X-1 is about five million years old and formed from a progenitor star that had more than 40 solar masses. The majority of the star's mass was shed, most likely as a stellar wind. If this star had then exploded as a supernova, the resulting force would most likely have ejected the remnant from the system. Hence the star may have instead collapsed directly into a black hole.
+        
+        Cygnus X-1 was the subject of a friendly scientific wager between physicists Stephen Hawking and Kip Thorne in 1975, with Hawking betting that it was not a black hole. He conceded the bet in 1990 after observational data had strengthened the case that there was indeed a black hole in the system. This hypothesis has not been confirmed due to a lack of direct observation but has generally been accepted from indirect evidence.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Cygnus X-1 in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Cygnus_X-1</link>
+</object>

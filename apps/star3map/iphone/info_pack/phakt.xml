@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name=" Phakt" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+Alpha Columbae (α Columbae, abbreviated Alpha Col, α Col), also named Phact, is a third magnitude star in the southern constellation of Columba. It has an apparent visual magnitude of 2.6, making it the brightest member of Columba. Based upon parallax measurements made during the Hipparcos mission, Alpha Columbae is located at a distance of around 261 light-years (80 parsecs).
+The traditional name of Phact (also Phad, Phaet, Phakt[11]) derives from the Arabic ألفاجتة - fākh(i)tah [fa:x(i)ta] meaning 'ring dove'. It was originally applied to the constellation Cygnus as al-Fākhtah, but later transferred to this star. The etymology of its name hadāri (unknown meaning)[16] has also been suggested. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Phact for this star.
+
+In Chinese, 丈人 (Zhàng Rén), meaning Grandfather, refers to an asterism consisting of α Columbae and ε Columbae. Consequently, α Columbae itself is known as 丈人一 (Zhàng Rén yī, English: the First Star of Grandfather.).[20] From this Chinese name, the name Chang Jin has appeared.
+This is believed to be a solitary star, although it has a faint optical companion at an angular separation of 13.5 arcseconds, making it a double star. The stellar classification of Alpha Columbae is B7 IV, with the luminosity class of IV indicating it has evolved into a subgiant star. The spectrum shows it to be a Be star surrounded by a hot gaseous disk, which is generating emission lines because of hydrogen recombination. Like most if not all such stars, it is rotating rapidly with a projected rotational velocity of 176 km s−1. The azimuthal equatorial velocity may be 457 km s−1. It is a suspected Gamma Cassiopeiae type (GCAS) variable star, with its apparent magnitude varying from 2.62m to 2.66m.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about  Phakt in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Alpha_Columbae</link>
+</object>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sagitta" type="Constellation">
+	<images>
+<image title="Sagitta">sagitta_1.png</image>
+<image title="">sagitta__2.jpg</image>
+<image title="">sagitta__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Sagitta is a constellation. Its name is Latin for "arrow", and it should not be confused with the larger constellation Sagittarius, the archer. Although Sagitta is an ancient constellation, it has no star brighter than 3rd magnitude and has the third-smallest area of all constellations (only Equuleus and Crux are smaller). It was included among the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations defined by the International Astronomical Union. Located to the north of the equator, Sagitta can be seen from every location on Earth except within the Antarctic circle.
+Sagitta lies within the Milky Way and is bordered by the following constellations (beginning at the north and then continuing clockwise): the little fox Vulpecula, the mythological hero Hercules, the eagle Aquila and the dolphin Delphinus.
+The Greeks who may have originally identified this constellation called it Oistos. The Romans named it Sagitta.
+Johann Bayer chose to name the stars in Sagitta in a non-brightness order, in this case giving the brightest star a designation of γ. Another example of such a deviation from the usual brightness order is the constellation Sagittarius.
+Sagitta's shape is reminiscent of an arrow, and many cultures have interpreted it thus, among them the Persians, Hebrews, Greeks and Romans. The Arabs called it as-Sahm, a name that was transferred Sham and now refers to α Sge only.
+In ancient Greece, Sagitta was regarded as the weapon that Hercules used to kill the eagle (Aquila) of Jove that perpetually gnawed Prometheus' liver. The Arrow is located beyond the north border of Aquila, the Eagle. Others believe the Arrow to be the one shot by Hercules towards the adjacent Stymphalian birds (6th labor) who had claws, beaks and wings of iron, and who lived on human flesh in the marshes of Arcadia - Aquila the Eagle and Cygnus the Swan, and the Vulture - and still lying between them, whence the title Herculea. Eratosthenes claimed it as the arrow with which Apollo exterminated the Cyclopes.
+Coordinates: 19h 50m 00s, +18° 40′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Sge</characteristic>
+<characteristic name="Genitive">Sagittae</characteristic>
+<characteristic name="Pronunciation">/səˈdʒɪtə/ Sagítta, genitive /səˈdʒɪtiː/</characteristic>
+<characteristic name="Symbolism">the Arrow</characteristic>
+<characteristic name="Right ascension">19.8333</characteristic>
+<characteristic name="Declination">+18.66</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Quadrant">NQ4</characteristic>
+<characteristic name="Area">80 sq. deg. (86th)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">19</characteristic>
+<characteristic name="Stars with planets">2</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">γ Sge (3.51m)</characteristic>
+<characteristic name="Nearest star">Gliese 745 (28.14 ly, 8.63 pc)</characteristic>
+<characteristic name="Messier objects">1</characteristic>
+<characteristic name="Bordering constellations">Vulpecula, Hercules, Aquila, Delphinus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −70°. Best visible at 21:00 (9 p.m.) during the month of August.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Sagitta in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Sagitta</link>
+</object>

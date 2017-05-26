@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1833 Satellite details 1987-027A NORAD 17589" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cosmos 1833 was a Soviet ELINT (Electronic and Signals Intelligence) satellite. Based on the first generation Tselina ELINT, TSNII-KS at the beginning of the 1970's developed the specifications for an improved model with increased frequency range and on-board method of determining the position of fixed transmitters.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">17589	</characteristic><characteristic name="Int'l Code">1987-027A</characteristic>
+<characteristic name="Perigee">850.3 km</characteristic>
+<characteristic name="Apogee">863.3 km</characteristic>
+<characteristic name="Inclination">70.9 °</characteristic>
+<characteristic name="Period">101.9 minutes</characteristic>
+<characteristic name="Semi major axis">7227 km</characteristic>
+<characteristic name="Launch date">March 18, 1987</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

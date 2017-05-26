@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sargas" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+	</images>
+	<information>
+Theta Scorpii (θ Sco, θ Scorpii) is a star in the southern zodiac constellation of Scorpius. It has the traditional name Sargas, of Sumerian origin. In Chinese, it is referred to as 尾宿五 (Mandarin: wěi xiù wǔ), the Fifth Star of the Tail. The apparent visual magnitude of this star is +1.87,[4] making it readily visible to the naked eye and one of the brightest stars in the night sky. It is sufficiently near that the distance can be measured directly using the parallax technique, which yields an estimate of roughly 300 light years (90 parsecs).
+
+This is an evolved bright giant star with a stellar classification of F0 II. With a mass 5.7 times that of the Sun, it has expanded to about 26 times the Sun's radius. It is radiating 1,834 times as much luminosity as the Sun from its outer envelope at an effective temperature of 7,268, giving it the yellow-white hued glow of an F-type star. This star is rotating rapidly, giving it an oblate shape with an equatorial radius 19% larger than the polar radius.
+
+It has a magnitude 5.36 companion at an angular separation of 6.470 arcseconds.
+Sargas appears on the flag of Brazil, symbolising the state of Alagoas.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Sargas in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Theta_Scorpii</link>
+</object>

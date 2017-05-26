@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Barnard's Star" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Barnard's Star /ˈbɑːrnərd/ is a very-low-mass red dwarf about six light-years away from Earth in the constellation of Ophiuchus. It is the fourth-closest known individual star to the Sun (after the three components of the Alpha Centauri system) and the closest star in the Northern Hemisphere. Despite its proximity, at a dim apparent magnitude of about nine, it is not visible with the unaided eye; however, it is much brighter in the infrared than it is in visible light.
+        
+        Barnard's Star is a red dwarf of the dim spectral type M4, and it is too faint to see without a telescope. Its apparent magnitude is 9.5. This compares with a magnitude of −1.5 for Sirius – the brightest star in the night sky – and about 6.0 for the faintest objects visible with the naked eye (this magnitude scale is logarithmic, so the magnitude of 9.54 is only about 1/27 of the brightness of the faintest star that can be seen with the naked eye (under good viewing conditions).
+        
+        At 7–12 billion years of age, Barnard's Star is considerably older than the Sun, which is 4.5 billion years old, and it might be among the oldest stars in the Milky Way galaxy. Barnard's Star has lost a great deal of rotational energy, and the periodic slight changes in its brightness indicate that it rotates once in 130 days (the Sun rotates in 25). Given its age, Barnard's Star was long assumed to be quiescent in terms of stellar activity. However, in 1998, astronomers observed an intense stellar flare, surprisingly showing that Barnard's Star is a flare star. Barnard's Star has the variable star designation V2500 Ophiuchi. In 2003, Barnard's Star presented the first detectable change in the radial velocity of a star caused by its motion. Further variability in the radial velocity of Barnard's Star was attributed to its stellar activity.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Barnard's Star in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Barnard%27s_Star</link>
+</object>

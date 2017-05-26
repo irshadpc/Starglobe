@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Persei" type="Star">
+	<images>
+<image title="Mirphak">mirphak_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Persei (Alpha Per, α Persei, α Per) is the brightest star in the northern constellation of Perseus, just outshining the constellation's best known star, Algol. Known by the traditional names Mirfak and Algenib, it is a circumpolar star when viewed from the latitude of New York City or higher. It has an apparent visual magnitude of 1.8, placing it among the brightest stars in the sky. Mirfak lies in the midst of a cluster of stars eponymously named the Alpha Persei Cluster, or Melotte 20, which is easily visible in binoculars and includes many of the fainter stars in the constellation. The distance to this star has been determined using the parallax technique, putting it 510 light-years (160 parsecs) away.
+The spectrum of Alpha Persei matches a stellar classification of F5 Ib, revealing it to be a supergiant star in the latter stages of its evolution. It has a similar spectrum to Procyon, though the latter star is much less luminous. This difference is highlighted in their spectral designation under the Yerkes spectral classification, published in 1943, where stars are ranked on luminosity as well as spectral typing. Procyon is thus F5 IV, a subgiant star. Since 1943, the spectrum of Alpha Persei has served as one of the stable anchor points by which other stars are classified.
+Mirfak has about 8.5 times the Sun's mass and has expanded to roughly 60 times the size of the Sun. It is radiating 7,000 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 6,350 K, which creates the yellow-white glow of an F-type star. In the Hertzsprung–Russell Diagram, Mirfak lies inside the region in which Cepheid variables are found. It is thus useful in the study of these stars, which are important standard candles.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Perseus</characteristic>
+<characteristic name="Right ascension">03h 24m 19.37009s</characteristic>
+<characteristic name="Declination">+49° 51′ 40.2455″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.806</characteristic>
+<characteristic name="Spectral type">F5 Ib</characteristic>
+<characteristic name="U−B color index">+0.38</characteristic>
+<characteristic name="B−V color index">+0.483</characteristic>
+<characteristic name="Radial velocity (Rv)">–2.04 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +23.75 mas/yr, Dec.: -26.23 mas/yr</characteristic>
+<characteristic name="Parallax (π)">6.44 ± 0.17mas</characteristic>
+<characteristic name="Distance">510 ± 10 ly (155 ± 4 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–5.1</characteristic>
+<characteristic name="Mass">8.5 ± 0.3 M☉</characteristic>
+<characteristic name="Radius">68 ± 3 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.90 ± 0.04 cgs</characteristic>
+<characteristic name="Temperature">6,350 ± 100 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.02 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">20 km/s</characteristic>
+<characteristic name="Age">41 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Persei in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Mirphak</link>
+</object>

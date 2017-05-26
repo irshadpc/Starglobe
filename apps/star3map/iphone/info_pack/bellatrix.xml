@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Bellatrix" type="Star">
+	<images>
+<image title="Bellatrix">bellatrix_1.png</image>
+<image title="">bellatrix__3.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Bellatrix, also known by its Bayer designation Gamma Orionis (γ Ori, γ Orionis), is the third brightest star in the constellation Orion. A second-magnitude star, it is the twenty-seventh brightest star in the night sky.
+
+Since 1963, Bellatrix was included with a set of bright stars that astronomers employ as a luminosity standard. These are used for comparison with other stars to check for variability, and so by definition, the apparent magnitude of Bellatrix was set to 1.64. However, when an all-sky photometry survey was carried out in 1988, this star was itself found to be variable. It ranges in apparent magnitude from 1.59 to 1.64.
+Bellatrix is a massive star with about 8.4 times the Sun's mass. It has an estimated age of approximately 20 million years; long enough for a star of this mass to consume the hydrogen at its core and begin to evolve away from the main sequence into a giant star. The effective temperature of the outer envelope of this star is 22,000 K, which is considerably hotter than the 5,778 K on the Sun. This high temperature gives this star the blue-white hue that occurs with B-type stars. The measured angular diameter of this star, after correction for limb darkening, is 0.72 ± 0.04 mas. At an estimated distance of 250 light-years (77 parsecs), this yields a physical size of about six times the radius of the Sun.
+Bellatrix was once thought to belong to the Orion OB1 Association of stars that share a common motion through space, along with the "Orion's Belt" stars ζ Ori (Alnitak), ε Ori (Alnilam), and δ Ori (Mintaka). However, this is no longer believed to be the case, as Bellatrix is now known to be much closer than the rest of the group. It is not known to have a stellar companion, although researchers Maria-Fernanda Nieva and Norbert Przybilla raised the possibility it might be a spectroscopic binary composed of two very similar stars after detailed analysis of its spectrum, adding that this would explain its unexpected brightness. A 2011 search for nearby companions failed to conclusively find any objects that share a proper motion with Bellatrix. Three nearby candidates were all found to be background stars.
+The name Bellatrix is Latin for "female warrior", and first appeared in the works of Abu Ma'shar al-Balkhi and John of Seville. The name originally referred to Capella, but was transferred to Gamma Orionis by the Vienna school of astronomers in the 15th century, and appeared in contemporary reprints of the Alfonsine tables. It was also called the Amazon Star, which Richard Hinckley Allen proposed came from a loose translation of the Arabic name Al Najīd, the Conqueror. A c.1275 Arabic celestial globe records the name as المرزم "the lion". Bellatrix is one of the four navigational stars in Orion that are used for celestial navigation. The Chinese name for the star is 参宿五 ("The Fifth of the Three Stars").
+In the 17th century catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Menkib al Jauza al Aisr, which was translated into Latin as Humerus Sinister Gigantis.
+J.K. Rowling named one of the Death Eaters "Bellatrix Lestrange". The Latin translation alludes to the character's nature in the Harry Potter series.
+The marooned astronauts in the original 1968 film of Planet of the Apes initially believe that they are on an unknown planet orbiting Bellatrix, before the sole survivor realizes their true location in the final scene.
+The Wardaman people of northern Australia know Bellatrix as Banjan, the sparkling pigment used in ceremonies conducted by Rigel the Red Kangaroo Leader in a songline when Orion is high in the sky. The other stars of Orion are his ceremonial tools and entourage. Betelgeuse is Ya-jungin "Owl Eyes Flicking", watching the ceremonies.
+To the Inuit, the appearance of Betelgeuse and Bellatrix high in the southern sky after sunset marked the beginning of spring and lengthening days in late February and early March. The two stars were known as Akuttujuuk "those (two) placed far apart", referring to the distance between them, mainly to people from North Baffin Island and Melville Peninsula.
+Coordinates: 05h 25m 07.9s, +06° 20′ 59″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Orion</characteristic>
+<characteristic name="Pronunciation">/ˈbɛlətrɪks/</characteristic>
+<characteristic name="Right ascension">05h 25m 07.86325s</characteristic>
+<characteristic name="Declination">+06° 20′ 58.9318″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.64</characteristic>
+<characteristic name="Spectral type">B2 III</characteristic>
+<characteristic name="U−B color index">–0.86</characteristic>
+<characteristic name="B−V color index">–0.21</characteristic>
+<characteristic name="Variable type">Eruptive</characteristic>
+<characteristic name="Radial velocity (Rv)">+18.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –8.11 mas/yr, Dec.: –12.88 mas/yr</characteristic>
+<characteristic name="Parallax (π)">12.92 ± 0.52mas</characteristic>
+<characteristic name="Distance">250 ± 10 ly (77 ± 3 pc)</characteristic>
+<characteristic name="Mass">8.4+0.3 −0.1 M☉</characteristic>
+<characteristic name="Radius">6 R☉</characteristic>
+<characteristic name="Luminosity">~6,400 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.60 cgs</characteristic>
+<characteristic name="Temperature">22,000 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.25 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">46 ± 8 km/s</characteristic>
+<characteristic name="Age">20+2 −4 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Bellatrix in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Bellatrix</link>
+</object>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Mira" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+Mira /ˈmaɪrə/, alternatively designated Omicron Ceti (ο Ceti, abbreviated Omicron Cet, ο Cet) is a red giant star estimated to be 200–400 light years from the Sun in the constellation of Cetus.
+
+ο Ceti is a binary stellar system, consisting of a variable red giant (Mira A) along with a white dwarf companion (Mira B). Mira A is a pulsating variable star and was the first non-supernova variable star discovered, with the possible exception of Algol. It is the brightest periodic variable in the sky that is not visible to the naked eye for part of its cycle.
+Omicron Ceti is the star's Bayer designation. It was named Mira (Latin for 'wonderful' or 'astonishing') by Johannes Hevelius in his Historiola Mirae Stellae (1662). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mira for this star.
+Evidence that the variability of Mira was known in ancient China, Babylon or Greece is at best only circumstantial. What is certain is that the variability of Mira was recorded by the astronomer David Fabricius beginning on August 3, 1596. Observing what he thought was the planet Mercury (later identified as Jupiter), he needed a reference star for comparing positions and picked a previously unremarked third-magnitude star nearby. By August 21, however, it had increased in brightness by one magnitude, then by October had faded from view. Fabricius assumed it was a nova, but then saw it again on February 16, 1609.
+
+In 1638 Johannes Holwarda determined a period of the star's reappearances, eleven months; he is often credited with the discovery of Mira's variability. Johannes Hevelius was observing it at the same time and named it Mira in 1662, for it acted like no other known star. Ismail Bouillaud then estimated its period at 333 days, less than one day off the modern value of 332 days. This is likely to be not only perfectly forgivable, but also quite accurate; Mira is known to vary slightly in period, and may even be slowly changing over time. The star is estimated to be a 6-billion-year-old red giant.
+
+There is considerable speculation as to whether Mira had been observed prior to Fabricius. Certainly Algol's history (known for certain as a variable only in 1667, but with legends and such dating back to antiquity showing that it had been observed with suspicion for millennia) suggests that Mira might have been known too. Karl Manitius, a modern translator of Hipparchus' Commentary on Aratus, has suggested that certain lines from that second-century text may be about Mira. The other pre-telescopic Western catalogs of Ptolemy, al-Sufi, Ulugh Beg, and Tycho Brahe turn up no mentions, even as a regular star. There are three observations from Chinese and Korean archives, in 1596, 1070, and the same year when Hipparchus would have made his observation (134 BC) that are suggestive, but the Chinese practice of pinning down observations no more precisely than within a given Chinese constellation makes it difficult to be sure.
+The distance to Mira is uncertain; pre-Hipparcos estimates centered on 220 light-years; while Hipparcos data from the 2007 reduction suggest a distance of 299 light-years, with a margin of error of 11%.
+
+This binary star system consists of a red giant (Mira, designated Mira A) undergoing mass loss and a high temperature white dwarf companion (Mira B) that is accreting mass from the primary. Such an arrangement of stars is known as a symbiotic system and this is the closest such symbiotic pair to the Sun. Examination of this system by the Chandra X-ray Observatory shows a direct mass exchange along a bridge of matter from the primary to the white dwarf. The two stars are currently separated by about 70 astronomical units.
+Mira A is currently an asymptotic giant branch (AGB) star, in the thermally pulsing AGB phase. Each pulse lasts a decade or more, and an amount of time on the order of 10,000 years passes between each pulse. With every pulse cycle Mira increases in luminosity and the pulses grow stronger. This is also causing dynamic instability in Mira, resulting in dramatic changes in luminosity and size over shorter, irregular time periods.
+
+The overall shape of Mira A has been observed to change, exhibiting pronounced departures from symmetry. These appear to be caused by bright spots on the surface that evolve their shape on time scales of 3–14 months. Observations of Mira A in the ultraviolet band by the Hubble Space Telescope have shown a plume-like feature pointing toward the companion star.
+Mira A is a well-known example of a category of variable stars known as Mira variables, which are named after it. The 6–7,000 known stars of this class are all red giants whose surfaces pulsate in such a way as to increase and decrease in brightness over periods ranging from about 80 to more than 1,000 days.
+
+In the particular case of Mira, its increases in brightness take it up to about magnitude 3.5 on average, placing it among the brighter stars in the Cetus constellation. Individual cycles vary too; well-attested maxima go as high as magnitude 2.0 in brightness and as low as 4.9, a range almost 15 times in brightness, and there are historical suggestions that the real spread may be three times this or more. Minima range much less, and have historically been between 8.6 and 10.1, a factor of four times in luminosity. The total swing in brightness from absolute maximum to absolute minimum (two events which did not occur on the same cycle) is 1,700 times. Interestingly, since Mira emits the vast majority of its radiation in the infrared, its variability in that band is only about two magnitudes. The shape of its light curve is of an increase over about 100 days, and a return twice as long.
+
+Contemporary approximate maxima for Mira:
+
+Oct 21-31, 1999
+Sep 21-30, 2000
+Aug 21-31, 2001
+Jul 21-31, 2002
+Jun 21-30, 2003
+May 21–31, 2004
+Apr 11-20, 2005
+Mar 11-20, 2006
+Feb 1-10, 2007
+Jan 21-31, 2008
+Dec 21-31, 2008
+Nov 21-30, 2009
+Oct 21-31, 2010
+Sep 21-30, 2011
+Aug 21-31, 2012
+Jul 21-31, 2013
+Jun 21-30, 2014
+May 21–31, 2015
+From northern temperate latitudes, Mira is generally not visible between late March and June due to its proximity to the Sun. This means that at times several years can pass without it appearing as a naked-eye object.
+
+Ultra-violet studies of Mira by NASA's Galaxy Evolution Explorer (GALEX) space telescope have revealed that it sheds a trail of material from the outer envelope, leaving a tail 13 light-years in length, formed over tens of thousands of years. It is thought that a hot bow-wave of compressed plasma/gas is the cause of the tail; the bow-wave is a result of the interaction of the stellar wind from Mira A with gas in interstellar space, through which Mira is moving at an extremely high speed of 130 kilometres/second (291,000 miles per hour). The tail consists of material stripped from the head of the bow-wave, which is also visible in ultra-violet observations. Mira's bow-shock will eventually evolve into a planetary nebula, the form of which will be considerably affected by the motion through the interstellar medium (ISM).
+The companion star was resolved by the Hubble Space Telescope in 1995, when it was 70 astronomical units from the primary; results were announced in 1997. The HST ultraviolet images and later X-ray images by the Chandra space telescope show a spiral of gas rising off Mira in the direction of Mira B. The companion's orbital period around Mira is approximately 400 years.
+
+In 2007, observations showed a protoplanetary disc around the companion, Mira B. This disc is being accreted from material in the solar wind from Mira and could eventually form new planets. These observations also hinted that the companion was a main sequence star of around 0.7 solar masses and spectral type K, instead of a white dwarf as originally thought. However, in 2010 further research indicated that Mira B is in fact a white dwarf.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Mira in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Mira</link>
+</object>

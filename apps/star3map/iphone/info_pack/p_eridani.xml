@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="p Eridani" type="Star">
+	<images>
+<image title="P Eridani">wiki_logo.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+p Eridani (6 Eri, DUN 5) is a binary star system in the constellation of Eridanus (the River) whose distance is approximately 26 light-years. It was found to be a double star in December 1825 by James Dunlop in Australia at his home at Paramatta, now spelt Parramatta.
+
+The name "p Eridani", according to Nature, p. 589 (19 April 1883) has been:
+"... occasionally miscalled 6 Eridani, which would imply that it was one of Flamsteed's stars. Flamsteed, it is true has a star which he calls 6 Eridani. The designated letter 'p' was attached to a star by Lacaille in the catalogue at the end of his Coelum Australe Stelliferum. The number '6' is merely borrowed from Bode."
+The use of Bode numbers was commonly used in the early 19th century, but this antiquated system has now fallen into disuse for more than a century.
+p Eridani is a southern binary star system that lies about 1.1 degrees north of the brilliant bluish coloured star, the 1st magnitude southern star Achernar. When "p" was first found by James Dunlop, he adequately describes this bright and fairly wide pair as double (both of the small 6th magnitude). He further went on to say of the telescopic appearance of the system:
+A beautiful double star; both stars white; the preceding a little dusky. I cannot say which of the stars is larger; perhaps the following, if there be any difference. The distance is about equal to one diameter of the following star, which I estimate at about 2½ seconds.
+Since Dunlop's discovery, the stars have significantly widened, and now both stars are easily visible in small telescopes.
+We know today it among the stars that are reasonably close to the Sun, which is currently is estimated to lie about 25.5 ± 0.4 light-years from the Sun. The system consists of two visible components that orbit each other in a wide orbit with relatively high eccentricity.
+Our knowledge of p Eridani is presently incomplete. As such, the orbit has been deemed as very poor quality in the Sixth Binary Star Catalog being listed as "5" - an "Intermediate" orbit. Most of the problems remains with the original observations made by James Dunlop in December 1825, being given as an estimated 2.5 arcsec through the near northern position angle of 343o, who unfortunately observed and measured the system after it had passed the moment of its periastron passage in 1813. His positional errors he presents seems to be quite discordant with observations made since 1825, leaving us uncertain of a critical part of the binary star's apparent orbit. There may also be problems with John Herschel's early measures made on 22 February 1835, who found the separation as 3.68 arcsec through position angle 301.7o. If true, this indicates significant positional changes in just under ten years of observation. Herschel then contributed two other micrometrical measures between 1835 and 1838, which seem also flawed against the current orbit. Much debate continues on the validity and importance of these early measures, all being critical to the accuracy of the determined orbit.
+Several orbits have been calculated, including W.C. Jacob (1850), Bernhard Dawson (1919), W.J. Luyten &amp; E.G. Ebbinghausen (1934), and J.G. Gore (1956) The most recent solution being produced by the Dutch astronomer Gale Bruno van Albada (1957), while he was acting as the Director of the Bosscha Observatory in Java, Indonesia. Currently van Albada's own orbital elements remain only temporary at best, whose orbital solution is still just considered as approximate. However, it remains fairly good between the measured and calculated positions roughly between 1950 and 2000. This orbital solution will unlike be improved at least until the mid to late- 21st Century, when the orbital motion will again narrow towards periastron.
+The fainter of the two stars was suspected in the 1960s to have a spectroscopic companion. This information was based on the Yale Bright Star Catalog for the star HR 486, which is the 'B' component. It seems this conclusion was not properly referenced in the Yale catalogue, and such, no information has appeared in either the Washington Double Star Catalog (WDS), nor by Batten A.H., et al. in the “Eighth Spectroscopic Binary Catalogue.”. The spectroscopic companion was also suggested in 1957 by G.B. Aldaba in "Note on the Binary Star p Eridani.", to account for the larger parallax, which made the masses smaller. O.J. Eggen in 1956, earlier stated that both stars were under luminous and were probably not main-sequence stars. He determined the total mass as 0.63±0.19 M⊙. This problem remained until Hipparcos improved the parallax value of 122.75±1.4 mas, making the total masses the more reasonable 1.74±0.08 M⊙. As such, these stars are likely on the main sequence. There is now no need for some unseen companion, and there is no visual or instrumental observations to support this view.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Eridanus</characteristic>
+<characteristic name="Right ascension">01h 39m 47.53953s</characteristic>
+<characteristic name="Declination">−56° 11′ 47.0997″</characteristic>
+<characteristic name="Apparent magnitude (V)">5.87 / 5.76</characteristic>
+<characteristic name="Spectral type">K0V / K5V</characteristic>
+<characteristic name="U−B color index">0.56 / 0.61</characteristic>
+<characteristic name="B−V color index">0.85 / 0.88</characteristic>
+<characteristic name="Variable type">None</characteristic>
+<characteristic name="Radial velocity (Rv)">+19.5 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 282.16 mas/yr, Dec.: 10.56 mas/yr</characteristic>
+<characteristic name="Parallax (π)">127.84 ± 2.19mas</characteristic>
+<characteristic name="Distance">25.5 ± 0.4 ly (7.8 ± 0.1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">6.25 / 6.35</characteristic>
+<characteristic name="Companion">p Eridani B</characteristic>
+<characteristic name="Period (P)">483.66 yr</characteristic>
+<characteristic name="Semi-major axis (a)">7.817&quot;</characteristic>
+<characteristic name="Eccentricity (e)">0.5344</characteristic>
+<characteristic name="Inclination (i)">142.824°</characteristic>
+<characteristic name="Longitude of the node (Ω)">13.116°</characteristic>
+<characteristic name="Periastron epoch (T)">1813.494</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.23 dex</characteristic>
+<characteristic name="Rotation">30 days</characteristic>
+<characteristic name="Age">4.8 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about p Eridani in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/P_Eridani</link>
+</object>

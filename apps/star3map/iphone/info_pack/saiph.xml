@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Saiph" type="Constellation">
+	<images>
+<image title="Saiph">saiph_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Saiph (κ Orionis, 53 Orionis) is the sixth-brightest star in the constellation of Orion. Of the four bright stars that compose Orion's main quadrangle, it is the star at the south-eastern corner. A northern-hemisphere observer facing south would see it at the lower left of Orion, and a southern-hemisphere observer facing north would see it at the upper right. The name Saiph is from the Arabic saif al jabbar, 'سیف الجبّار' literally sword of the giant. This name was originally applied to Eta Orionis.
+In the 17th century catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Rekbah al Jauza al Yemeniat, which was translated into Latin as Genu Dextrum Gigantis "right knee of the giant".
+Parallax measurements yield an estimated distance of 650 light-years (198 parsecs) from Earth, which is about the same as Rigel. However despite being a hotter star, it is smaller and less luminous than Rigel with an apparent visual magnitude of 2.1. The luminosity of this star changes slightly, varying by 0.04 magnitudes.
+Compared to the Sun this is an enormous star, with 14–17 times the mass and over 22 times the radius. It has a stellar classification of B0.5 Iab:. The luminosity class 'Iab' represents a supergiant star that has exhausted the supply of hydrogen at its core and evolved away from the main sequence. However, the ':' indicates some uncertainty in the spectral value. Saiph has a strong stellar wind and is losing mass at the rate of 9.0 × 10^–7 times the mass of the Sun per year, or the equivalent of the Sun's mass every 1.1 million years. Large stars such as Saiph (and many other stars in Orion) are destined to collapse on themselves and explode as Type II supernovae.
+The Wardaman people of northern Australia know Saiph as the Guman digging stick, used to make a canyon by Black-headed Python.
+Coordinates: 05h 47m 45.4s, −09° 40′ 11″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Orion</characteristic>
+<characteristic name="Right ascension">05h 47m 45.38884s</characteristic>
+<characteristic name="Declination">−09° 40′ 10.5777″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.09</characteristic>
+<characteristic name="Spectral type">B0.5 Iab:</characteristic>
+<characteristic name="U−B color index">–1.02</characteristic>
+<characteristic name="B−V color index">–0.18</characteristic>
+<characteristic name="Variable type">Slightly</characteristic>
+<characteristic name="Radial velocity (Rv)">+20.5 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +1.46 mas/yr, Dec.: –1.28 mas/yr</characteristic>
+<characteristic name="Parallax (π)">5.04 ± 0.22mas</characteristic>
+<characteristic name="Distance">650 ± 30 ly (198 ± 9 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–6.1</characteristic>
+<characteristic name="Mass">15.50 ± 1.25 M☉</characteristic>
+<characteristic name="Radius">22.2 R☉</characteristic>
+<characteristic name="Luminosity">56,881 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.9 cgs</characteristic>
+<characteristic name="Temperature">26,500 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">83 km/s</characteristic>
+<characteristic name="Age">11.1 ± 0.5 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Saiph in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Saiph</link>
+</object>

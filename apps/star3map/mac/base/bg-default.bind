@@ -1,0 +1,4 @@
+bind default ` "activateconsole"
+bind default escape "quit"
+bind default f2 "incr r_fov 1 120"
+bind default f3 "decr r_fov 1 10"

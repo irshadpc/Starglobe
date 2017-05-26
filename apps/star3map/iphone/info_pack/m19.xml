@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 19" type="Galaxies">
+	<images>
+		<image title="Messier 19 by Hubble Space Telescope; 2.5′ view">m 19_1.jpg</image>
+		<image title="Messier 19 with amateur telescope">m 19_2.jpg</image>
+	</images>
+	<information>
+Messier 19 or M19 (also designated NGC 6273) is a globular cluster in the constellation Ophiuchus. It was discovered by Charles Messier on June 5, 1764 and added to his catalogue of comet-like objects that same year. It was resolved into individual stars by William Herschel in 1784. His son, John Herschel, described it as "a superb cluster resolvable into countless stars". The cluster is located 4.5° WSW of Theta Ophiuchi and is just visible as a fuzzy point of light using 50 mm (2.0 in) binoculars. Using a telescope with a 25.4 cm (10.0 in) aperture, the cluster shows an oval appearance with a 3′ × 4′ core and a 5′ × 7′ halo.
+M19 is one of the most oblate of the known globular clusters. This flattening may not accurately reflect the physical shape of the cluster because the emitted light is being strongly absorbed along the eastern edge. This is the result of extinction caused by intervening gas and dust. When viewed in the infrared, the cluster shows almost no flattening. It lies at a distance of about 28.7 kly (8.8 kpc) from the Solar System, and is quite near to the Galactic Center at only about 6.5 kly (2.0 kpc) away.
+This cluster contains an estimated 1,100,000 times the mass of the Sun and it is around 11.9 billion years old. The stellar population includes four Cepheids and RV Tauri variables, plus at least one RR Lyrae variable for which a period is known. Observations made during the ROSAT mission failed to reveal any low-intensity X-ray sources.
+	</information>
+	<characteristics>
+		<characteristic name="Class">VIII</characteristic>
+		<characteristic name="Constellation">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">17h 02m 37.69s</characteristic>
+		<characteristic name="Declination">−26° 16′ 04.6″</characteristic>
+		<characteristic name="Distance">28.7 kly (8.8 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.47</characteristic>
+		<characteristic name="Apparent dimensions (V)">17′.0</characteristic>
+		<characteristic name="Mass">1.10×106 M☉</characteristic>
+		<characteristic name="Radius">70 ly</characteristic>
+		<characteristic name="Metallicity">–1.53 dex</characteristic>
+		<characteristic name="Estimated age">11.90 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6273, GCl 52</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 19 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_19</link>
+</object>

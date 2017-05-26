@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ALOS Satellite details 2006-002A NORAD 28931" type="Satellite">
+	<images><image>alos_(daichi).png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+ALOS (Advanced Land Observing Satellite), also known as Daichi, is a Japanese (JAXA) remote sensing craft that was launched by a H-2A rocket from Tanegashima Space Center at 01:33 UT on 24 January 2006. The four-tonne satellite carries three instruments for cartographic and natural resource monitoring.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">28931	</characteristic><characteristic name="Int'l Code">2006-002A</characteristic>
+<characteristic name="Perigee">695.6 km</characteristic>
+<characteristic name="Apogee">698.4 km</characteristic>
+<characteristic name="Inclination">98.0 °</characteristic>
+<characteristic name="Period">98.6 minutes</characteristic>
+<characteristic name="Semi major axis">7067 km</characteristic>
+<characteristic name="Launch date">January 24, 2006</characteristic>
+<characteristic name="Source">Japan (JPN)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

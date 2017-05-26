@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 67" type="Galaxies">
+	<images>
+		<image title="Messier 67 (2MASS near-infrared)">m 67_1.jpg</image>
+		<image title="Hertzsprung-Russell diagram for two M67 and NGC 188, showing color-magnitude data for two of the best-studied old open clusters.">m 67_2.jpg</image>
+	</images>
+	<information>
+Messier 67 (also known as M67 or NGC 2682) is an open cluster in the constellation of Cancer. M67's Trumpler class is variously given as II 2 r, II 2 m, or II 3 r. It was discovered by Johann Gottfried Koehler in 1779. Age estimates for the cluster range between 3.2 and 5 billion years, with the most recent estimate (4 Gyr) implying stars in M67 are younger than the Sun. Distance estimates are likewise varied and typically range between 800–900 pc. Recent estimates of 855, 840, and 815 pc were established via binary star modelling and infrared color-magnitude diagram fitting, accordingly.
+M67 is not the oldest known open cluster, but there are few Galactic clusters known to be older, and none of those are as close as M67. M67 is an important laboratory for studying stellar evolution, since the cluster is well populated, obscured by negligible amounts of soot, and all its stars are at the same distance and age, except for approximately 30 anomalous blue stragglers, whose origins are not fully understood.
+M67 is the nearest old open cluster, and thus has become a standard example for studying stellar evolution. It is probably the second best observed open cluster after the Hyades cluster, which is amongst the nearest open clusters and younger than M67. M67 is one of the most-studied open clusters, yet estimates of its physical parameters such as age, mass, and number of stars of a given type, vary substantially. Richer et al. estimate its age to be 4 Gyr, its mass to be 1080 solar masses, and the number of white dwarfs to be 150. Hurley et al. estimate its current mass to be 1400 solar masses and its initial mass to be approximately 10 times as great.
+M67 has more than 100 stars similar to the Sun, and countless red giants. The total star count has been estimated at well over 500. The ages and prevalence of Sun-like stars contained within the cluster had led astronomers to consider M67 as the possible parent cluster of our own Sun. However, computer simulations have suggested that this is highly unlikely to be the case.
+The cluster contains no main sequence stars bluer than spectral type F, other than perhaps some of the blue stragglers, since the brighter stars of that age have already left the main sequence. In fact, when the stars of the cluster are plotted on the Hertzsprung-Russell diagram, there is a distinct "turn-off" representing the stars which have terminated hydrogen fusion in the core and are destined to become red giants. As the cluster ages, the turn-off moves progressively down the main sequence.
+It appears that M67 does not contain an unbiased sample of stars. One cause of this is mass segregation, the process by which lighter stars (actually, systems) gain speed at the expense of more massive stars during close encounters, which causes the lighter stars to be at a greater average distance from the center of the cluster or to escape altogether
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Cancer</characteristic>
+		<characteristic name="Right ascension">08h 51.4m</characteristic>
+		<characteristic name="Declination">+11° 49′</characteristic>
+		<characteristic name="Distance">~2.61-2.93 kly (800-900 pc)</characteristic>
+		<characteristic name="Type">SAB(s)b</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.1</characteristic>	
+		<characteristic name="Apparent dimensions (V)">30.0′</characteristic>
+		<characteristic name="Radius">10 ly</characteristic>
+        <characteristic name="Estimated age">3.2 to 5 billion years</characteristic>
+		<characteristic name="Other designations">NGC 2682</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 67 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_67</link>
+</object>

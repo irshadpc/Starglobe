@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="SERT 2 Satellite details 1970-009A NORAD 04327" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">4327	</characteristic><characteristic name="Int'l Code">1970-009A</characteristic>
+<characteristic name="Perigee">1,044.7 km</characteristic>
+<characteristic name="Apogee">1,053.1 km</characteristic>
+<characteristic name="Inclination">99.2 °</characteristic>
+<characteristic name="Period">106.0 minutes</characteristic>
+<characteristic name="Semi major axis">7419 km</characteristic>
+<characteristic name="Launch date">February 4, 1970</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

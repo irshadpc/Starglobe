@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Luyten's Star" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Luyten's Star (GJ 273) is a red dwarf in the constellation Canis Minor located at a distance of approximately 12.36 light-years (3.79 parsecs) from the Sun. It has a visual magnitude of 9.9, making it too faint to be viewed with the unaided eye. It is named after Willem Jacob Luyten, who, in collaboration with Edwin G. Ebbighausen, first determined its high proper motion in 1935.
+        
+        This star is approximately a quarter the mass of the Sun and has 35% of the Sun's radius. Luyten's Star is at the maximum mass at which a red dwarf can be fully convective, which means that most if not all of the star forms an extended convection zone. It has a stellar classification of M3.5V, with the V luminosity class indicating this is a main-sequence star that is generating energy through the thermonuclear fusion of hydrogen at its core. The projected rotation rate of this star[11] is too low to be measured, but is no greater than 1 km/s. Measurements of periodic variation in surface activity suggest a leisurely rotation period of roughly 116 days. The effective temperature of the star's outer envelope is a relatively cool 3,150 K, giving the star the characteristic red-orange hue of an M-type star.
+        
+        At present, Luyten's Star is moving away from the Solar System. The closest approach occurred about 13,000 years ago when it came within 3.67 parsecs. The star is currently located 1.2 light years distant from Procyon, and the latter would appear as a visual magnitude −4.5 star in the night sky of a hypothetical planet orbiting Luyten's Star. The closest encounter between the two stars occurred about 600 years ago when Luyten's Star was at its minimal distance of about 1.12 ly from Procyon. The space velocity components of Luyten's Star are U = +16, V = −66 and W = −17 km/s.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Luyten's Star in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Luyten%27s_Star</link>
+</object>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Menkent" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+Theta Centauri (θ Centauri, abbreviated Theta Cen, θ Cen), also named Menkent, is a star in the southern constellation of Centaurus, the centaur. With an apparent visual magnitude of +2.06, it is the fourth brightest member of the constellation. Close enough so that its distance can be measured using the parallax technique, it is 58.8 light-years (18.0 parsecs) from the Sun.
+
+This is an evolved giant star with a stellar classification of K0 III. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 5.46 ± 0.06 mas, which, at its estimated distance, equates to a physical radius of about 10.6 times the radius of the Sun. The outer envelope has an effective temperature of 4,980 K, giving it the orange-hued glow of a cool, K-type star. Soft X-ray emission has been detected from this star, which has an estimated X-ray luminosity of 1.4 × 1027 erg s−1.
+The traditional name Menkent is possibly an abbreviation of the Arabic ألمنكب ألقنتوس al mankib al-qanturis meaning "shoulder of the Centaur". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Menkent for this star.
+
+In Chinese, 庫樓 (Kù Lóu), meaning Arsenal, refers to an asterism consisting of Theta Centauri, Zeta Centauri, Eta Centauri, 2 Centauri, HD 117440, Xi¹ Centauri, Gamma Centauri, Tau Centauri, D Centauri and Sigma Centauri. Consequently, Theta Centauri itself is known as 庫樓三 (Kù Lóu sān, English: the Third Star of Arsenal.)
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Menkent in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Theta_Centauri</link>
+</object>

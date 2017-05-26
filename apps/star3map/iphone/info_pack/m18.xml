@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 18" type="Galaxies">
+	<images>
+		<image title="M18 photo from the 2MASS project.">m 18_1.jpg</image>
+	</images>
+	<information>
+Messier 18 or M18 (also designated NGC 6613) is an open cluster of stars in the constellation Sagittarius. It was discovered by Charles Messier in 1764 and included in his list of comet-like objects. From the perspective of Earth, M18 is situated between the Omega Nebula (M17) and the Sagittarius Star Cloud (M24). Its age is estimated at 32 million years. It is 4,900 light-years away.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 19.9m</characteristic>
+		<characteristic name="Declination">−17° 08′</characteristic>
+		<characteristic name="Distance">4.9 kly (1.5 kPc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">7.5</characteristic>
+		<characteristic name="Apparent dimensions (V)">9.0′</characteristic>
+		<characteristic name="Radius">9 ly</characteristic>
+		<characteristic name="Estimated age">32 million years</characteristic>
+        <characteristic name="Other designations">NGC 6613</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 18 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_18</link>
+</object>

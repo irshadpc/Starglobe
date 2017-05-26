@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 29" type="Galaxies">
+	<images>
+		<image title="M 29 open cluster, by Ole Nielsen">m 29_1.jpg</image>
+	</images>
+	<information>
+Messier 29 (also known as M 29 or NGC 6913) is an open cluster in the Cygnus constellation. It was discovered by Charles Messier in 1764, and can be seen from Earth by using binoculars.
+M29 is situated in the highly crowded area of Milky Way near Gamma Cygni, at a distance of 7,200 (most sources including Mallas/Kreimer and Burnham, and agreeing with early estimates or R.J. Trumpler 1930) or 4,000 light years (the latter from Kenneth Glyn Jones and the Sky Catalogue 2000.0). The Night Sky Observer's Guide by Kepple and Sanner gives a deviating value of 6,000 light years – the uncertainty due to inaccurately known absorption of the cluster's light.
+According to the Sky Catalog 2000, M29 is included in the Cygnus OB1 association, and approaching us at 28 km/s. Its age is estimated at 10 million years, as its five hottest stars are all giants of spectral class B0. The Night Sky Observer's Guide gives the apparent brightness of the brightest star as 8.59 visual magnitudes. The absolute magnitude may be an impressive -8.2 mag, or a luminosity of 160,000 suns. The linear diameter was estimated at only 11 light years. Its Trumpler class is III,3,p,n (as it is associated with nebulosity), although Götz gives, differently, II,3,m, and Kepple/Sanner gives I,2,m,n. The Sky Catalogue 2000.0 lists it with 50 member stars; earlier Becvar gave only the number of 20 members.
+This cluster can be seen in binoculars. In telescopes, lowest powers are best. The brightest stars of M29 form a "stubby dipper", as Mallas says it. The four brightest stars form a quadrilateral, and another three, a triangle north of them. It is often known as the "cooling tower" due to its resemblance to the hyperboloid-shaped structures. A few fainter stars are around them, but the cluster appears quite isolated, especially in smaller telescopes. In photographs, a large number of very faint Milky Way background stars shows up.
+M29 can be found quite easily as it is about 1.7 degrees South and little East of Gamma or 37 Cygni (Sadr). In the vicinity of M29, there is some diffuse nebulosity which can be detected in photographs.
+	</information>
+	<characteristics>
+        <characteristic name="Constellation">Cygnus</characteristic>
+		<characteristic name="Right ascension">20h 23m 56s</characteristic>
+		<characteristic name="Declination">+38° 31.4′</characteristic>
+		<characteristic name="Distance">4.0 kly</characteristic>
+		<characteristic name="Apparent magnitude (V)">7.1</characteristic>
+		<characteristic name="Apparent dimensions (V)">7</characteristic>
+		<characteristic name="Estimated age">10 Myr</characteristic>
+		<characteristic name="Other designations">NGC 6913</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 29 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_29</link>
+</object>

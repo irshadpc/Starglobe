@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Aludra" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Eta Canis Majoris (η Canis Majoris, abbreviated Eta CMa, η CMa), also named Aludra, is a star in the constellation of Canis Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+        
+        Aludra shines brightly in the skies in spite of a large distance from Earth due to being intrinsically many times brighter (absolute magnitude) than the Sun. A blue-white supergiant of spectral type B5Ia, Aludra has a luminosity 176,000 times and a diameter around 80 times that of the Sun. Hohle and colleagues, using the parallax, extinction and analysis of spectrum, came up with a mass 19.19 times that and luminosity 105,442 times that of the Sun. It has only been around a fraction of the time the Sun has, yet is already in the last stages of its life. It is still expanding and may become a red supergiant, or perhaps has already passed that phase, but in either case it will become a supernova within the next few million years.
+        
+        Aludra is classified as an Alpha Cygni type variable star and its brightness varies from magnitude +2.38 to +2.48 over a period of 4.7 days.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Aludra in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Eta_Canis_Majoris</link>
+</object>

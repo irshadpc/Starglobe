@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Denebola" type="Star">
+	<images>
+<image title="Denebola">denebola_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Denebola (β Leo, β Leonis, Beta Leonis) is the third brightest star in the zodiac constellation of Leo. It is an A-type main sequence star with 75% more mass than the Sun and twelve times the Sun's luminosity. Based on parallax measurements from the Hipparcos astrometry satellite, the star is at a distance of about 36 light-years (11 parsecs) from Earth. Its apparent visual magnitude is 2.14, making it readily visible to the naked eye. Denebola is a Delta Scuti type variable star, meaning its luminosity varies very slightly over a period of a few hours.
+
+Its name is shortened from Deneb Alased, from the Arabic phrase ذنب الاسد ðanab al-asad "tail of the lion", as it represents the lion's tail—the star's position in the Leo constellation.Deneb in Cygnus has a similar name origin. In the Alphonsine Tables it was recorded as Denebalezeth. On R. A. Proctor's 1871 star chart of the northern hemisphere it was designated Deneb Aleet. Ancient Chinese astronomers designated it the first star of the five-star asterism "Seat of the Five Emperors", hence its Chinese name 五帝座一 (Wǔdìzuò-yī). In astrology, Denebola was believed to portend misfortune and disgrace.
+In Johann Bayer's Uranometria, published in 1603, the star was designated β Leonis; for the second-brightest star in the constellation of Leo. In 1725, John Flamsteed designated this star 94 Leo. (The Flamsteed designation was assigned on the basis of increasing right ascension within the constellation, rather than luminosity.) Additional designations followed as this star was recorded in subsequent star catalogues.
+15th century astronomer Ulugh Beg, gives the name Al Ṣarfah, the Changer (i.e. of the weather), as the star's individual title.Al-Biruni, a Muslim scholar and polymath of the 11th century, wrote of it: "The heat turns away when it rises, and the cold turns away when it disappears."
+Denebola is a relatively young star with an age estimated at less than 400 million years. Interferometric observations give a radius that is about 173% that of the Sun. However, the high rate of rotation results in an oblate shape with an equatorial bulge. It has 75% more mass than the Sun, which results in a much higher overall luminosity and a shorter life span on the main sequence.
+Based upon the star's spectrum, it has a stellar classification of A3 V, with the luminosity class 'V' indicating this is a normal main sequence star that is generating energy through the nuclear fusion of hydrogen at its core. The effective temperature of Denebola's outer envelope is about 8,500 K, which results in the white hue typical of A-type stars. Denebola has a high projected rotational velocity of 128 km/s, which is of the same order of magnitude as for the very rapidly rotating star Achernar. Compare this to the Sun's more leisurely equatorial rotation velocity of 2 km/s. This star is believed to be a Delta Scuti variable star that exhibits fluctuations in luminosity of 0.025 magnitudes roughly ten times per day.
+Denebola shows a strong infrared excess, which most likely means there is a circumstellar debris disk of cool dust in orbit around it. As our solar system is believed to have formed out of such a disk, Denebola and similar stars such as Vega and Beta Pictoris may be good candidate locations for extrasolar planets. The dust surrounding Denebola has a temperature of about 120 K (−153 °C). Observations with the Herschel Space Observatory have provided resolved images, which show the disk to be located at a radius of 39 Astronomical Units from the star, or 39 times the distance from the Earth to the Sun.
+Kinematic studies have shown that Denebola is part of a stellar association dubbed the IC 2391 supercluster. All the stars of this group share a roughly common motion through space, although they are not gravitationally bound. This suggests that they were born in the same location, and perhaps initially formed an open cluster. Other stars in this association include Alpha Pictoris, Beta Canis Minoris and the open cluster IC 2391. In total more than sixty probable members of the group have been identified.
+Denebola is used for the name of three United States navy ships: USS Denebola (AD-12), USS Denebola (AF-56) and USNS Denebola (T-AKR-289).
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Leo</characteristic>
+<characteristic name="Right ascension">11h 49m 03.57834s</characteristic>
+<characteristic name="Declination">+14° 34′ 19.4090″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.113</characteristic>
+<characteristic name="Spectral type">A3 V</characteristic>
+<characteristic name="U−B color index">+0.153</characteristic>
+<characteristic name="B−V color index">+0.107</characteristic>
+<characteristic name="Variable type">δ Sct</characteristic>
+<characteristic name="Radial velocity (Rv)">–0.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –497.68 mas/yr, Dec.: –114.67 mas/yr</characteristic>
+<characteristic name="Parallax (π)">90.91 ± 0.52mas</characteristic>
+<characteristic name="Distance">35.9 ± 0.2 ly (11.00 ± 0.06 pc)</characteristic>
+<characteristic name="Mass">1.75 M☉</characteristic>
+<characteristic name="Radius">1.728 R☉</characteristic>
+<characteristic name="Luminosity">15 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.0 cgs</characteristic>
+<characteristic name="Temperature">8,500 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">+0.00 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">128 km/s</characteristic>
+<characteristic name="Age">(1–3.8) × 10^8 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Denebola in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Denebola</link>
+</object>

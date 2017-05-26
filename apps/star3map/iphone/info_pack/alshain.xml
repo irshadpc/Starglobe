@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alshain" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+        Beta Aquilae (β Aql, β Aquilae) is a star in the constellation Aquila. It has the traditional name Alshain.
+        
+        Beta Aquilae has magnitude 3.71 and is of spectral class G8IV. It has a very low level of surface magnetic activity and may be in a state similar to a Maunder minimum. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.[8] It is approximately 44.7 light years from Earth. It has a 12th magnitude optical companion, β Aquilae B, which is 13 arcseconds away in the sky.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Alshain in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Aquilae</link>
+</object>

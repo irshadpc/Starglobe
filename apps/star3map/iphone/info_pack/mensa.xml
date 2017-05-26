@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Mensa (constellation)" type="Constellation">
+	<images>
+<image title="Mensa (constellation)">mensa_1.png</image>
+<image title="">mensa__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Mensa is a constellation in the southern sky, created in the 18th century. Its name is Latin for table. It covers a keystone-shaped wedge of sky stretching from approximately 4h to 7.5h of right ascension, and −71 to −85.5 degrees of declination. Other than the south polar constellation of Octans, it is the most southerly of constellations. As a result, it is essentially unobservable from the Northern Hemisphere. Besides those already mentioned, its other neighbouring constellations are Chamaeleon, Dorado, Hydrus, and Volans.
+
+Mensa was created by Nicolas Louis de Lacaille out of dim Southern Hemisphere stars in honor of Table Mountain, a South African mountain. Although the stars of Mensa do not feature in any ancient mythology, the mountain it is named after has a rich mythology. Called "Tafelberg" in Dutch and German, the mesa has two neighboring mountains called "Devil's Peak" and "Lion's Head". Table Mountain features in the mythology of the Cape of Good Hope, notorious for its storms—the explorer Bartolomeu Dias saw the mesa as a mythical anvil for storms. Another myth relating to its dangers comes from Sinbad the Sailor, an Arabic folk hero who saw the mountain as a magnet pulling his ships to the bottom of the sea.
+Mensa contains no bright stars, with Alpha Mensae its brightest star at a barely visible magnitude 5.09, making it the faintest constellation in the entire sky. Alpha Mensae is a solar-type star (class G5 V) 33 light-years from Earth, and is considered a good prospect for harboring an Earth-like planet. Pi Mensae, on the other hand, while also solar-type (G1) and at 59 light-years, has been found to have a large gas giant in an eccentric orbit crossing the habitable zone, which would effectively rule out the existence of any habitable planets.
+Mensa contains part of the Large Magellanic Cloud (the rest being in Dorado).
+The first images taken by the Chandra X-Ray Observatory were of PKS 0637-752, a quasar in Mensa with a large gas jet visible in both optical and x-ray wavelengths.
+Coordinates: 05h 00m 00s, −80° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Men</characteristic>
+<characteristic name="Genitive">Mensae</characteristic>
+<characteristic name="Pronunciation">/ˈmɛnsə/ genitive: /ˈmɛnsiː/</characteristic>
+<characteristic name="Symbolism">the Table Mountain</characteristic>
+<characteristic name="Right ascension">4 ~ 7.5</characteristic>
+<characteristic name="Declination">−71 ~ −85.5</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ1</characteristic>
+<characteristic name="Area">153 sq. deg. (75th)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">16</characteristic>
+<characteristic name="Stars with planets">2</characteristic>
+<characteristic name="Stars brighter than 3.00m">none</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">none</characteristic>
+<characteristic name="Brightest star">α Men (5.09m)</characteristic>
+<characteristic name="Nearest star">α Mensae (33.10 ly, 10.15 pc)</characteristic>
+<characteristic name="Messier objects">none</characteristic>
+<characteristic name="Meteor showers">none</characteristic>
+<characteristic name="Bordering constellations">Chamaeleon, Dorado, Hydrus, Octans, Volans</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +4° and −90°. Best visible at 21:00 (9 p.m.) during the month of January.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Mensa (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Mensa_(constellation)</link>
+</object>

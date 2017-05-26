@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Cih" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Gamma Cassiopeiae (γ Cas, γ Cassiopeiae) is the star at the center of the distinctive "W" asterism in the northern circumpolar constellation of Cassiopeia. Although it is a fairly bright star with an apparent visual magnitude that varies from 1.6 to 3.0, it has no traditional Arabic or Latin name.
+        
+        Gamma Cassiopeiae is a Be star, a variable star, and a binary. Based upon parallax measurements made by the Hipparcos satellite, it is located at a distance of roughly 550 light-years from Earth.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Cih in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Cassiopeiae</link>
+</object>

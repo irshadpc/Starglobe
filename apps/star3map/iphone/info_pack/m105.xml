@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 105" type="Galaxies">
+	<images>
+		<image title="M105, as viewed by the HST; Credit: NASA/ESA">m 105_1.jpg</image>
+	</images>
+	<information>
+Messier 105 (also known as M105 and NGC 3379) is an elliptical galaxy in the constellation Leo.
+Messier 105 was discovered by Pierre Méchain on 24 March 1781, just a few days after he discovered the nearby galaxies Messier 95 and Messier 96. This galaxy is one of several that were not originally included in the original Messier Catalogue compiled by Charles Messier. Messier 105 was included in the catalog only when Helen S. Hogg found a letter by Méchain describing Messier 105 and when the object described by Méchain was identified as a galaxy previously named NGC 3379.
+Messier 105 is known to have a supermassive black hole whose mass is estimated to be between 1.4·108 and 2·108 solar masses. It also contains a few young stars and stellar clusters, suggesting some elliptical galaxies still form new stars, but very slowly.
+Messier 105 is one of several galaxies within the M96 Group, a group of galaxies in the constellation Leo. The group also includes the Messier objects M95 and M96.
+This galaxy, along with its companion the barred lenticular galaxy NGC 3384, is surrounded by a large ring of neutral hydrogen with a radius of 200 kiloparsecs (650,000 light years) and a mass of 1,8*109 times the mass of the Sun where star formation has been detected.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Leo</characteristic>
+		<characteristic name="Right ascension">10h 47m 49.6s</characteristic>
+		<characteristic name="Declination">+12° 34′ 54″</characteristic>
+		<characteristic name="Redshift">911 ± 2 km/s</characteristic>
+        <characteristic name="Distance">32.0 ± 1.6 Mly (9.8 ± 0.5 Mpc)</characteristic>
+		<characteristic name="Type">E1</characteristic>
+		<characteristic name="Apparent dimensions (V)">5′.4 × 4′.8</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.2</characteristic>
+		<characteristic name="Other designations">NGC 3379, UGC 5902, PGC 32256</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 105 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_105</link>
+</object>

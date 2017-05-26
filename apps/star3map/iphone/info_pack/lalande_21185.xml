@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lalande 21185" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Lalande 21185 is a red dwarf in the constellation of Ursa Major. Although relatively close by, it is only magnitude 7 in visible light and thus is too dim to see with the unaided eye. The star is visible through a small telescope.
+        
+        At approximately 8.31 light-years (2.55 parsecs) away it is one of the nearest stars to the Solar System; only the Alpha Centauri system, Barnard's Star, and Wolf 359 and the brown dwarfs Luhman 16 and WISE 0855−0714 are known to be closer. Because of its proximity it is a frequent subject for astronomical surveys and other research and thus is known by numerous other designations. Research papers most commonly use the designations BD+36 2147, Gliese 411, and HD 95735 to refer to this star.
+        
+        In approximately 19,900 years Lalande 21185 will be at its closest distance of about 4.65 ly (1.43 pc) from the Sun.
+        
+        Lalande 21185 is a typical type-M main-sequence star (red dwarf) with about 46% of the mass of the Sun and is much cooler than the Sun at 3,828 K. It is intrinsically dim with an absolute magnitude of 10.48, emitting most of its energy in the infrared. Lalande 21185 is a high-proper-motion star moving at about 5 arcseconds a year in an orbit perpendicular to the plane of the Milky Way. The proportion of elements other than hydrogen and helium is estimated based on the ratio of iron to hydrogen in the star when compared to the Sun. The logarithm of this ratio is –0.20, indicating that the proportion of iron is about 10−0.20, or 63% of the Sun. The surface gravity of this relatively compact star is approximately 65 times greater than the gravity at Earth's surface (log g = 4.8 cgs), which is more than twice the surface gravity of our Sun.
+        
+        Lalande 21185 is listed as a BY Draconis type variable star in the General Catalogue of Variable Stars. It is identified by the variable star designation NSV 18593. Several star catalogs, including SIMBAD, also classify it as a flare star. This conclusion is not supported by the primary reference these catalogs all use. The observations made in this reference show that it is rather quiet in comparison to other stars of its variable type.
+        
+        Lalande 21185 emits X-rays.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Lalande 21185 in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Lalande_21185</link>
+</object>

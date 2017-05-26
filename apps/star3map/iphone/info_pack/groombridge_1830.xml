@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Groombridge 1830" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+        Groombridge 1830 (1830 Groombridge, Argelander's Star) is a star in the constellation Ursa Major.
+        
+        It is a yellow-hued class G8 subdwarf catalogued by Stephen Groombridge with the Groombridge Transit Circle between 1806 and the 1830s and published posthumously in his star catalog, Catalogue of Circumpolar Stars (1838). Its high proper motion was noted by Friedrich Wilhelm Argelander in 1842.
+        
+        It is 29.9 light-years (9.2 parsecs) from the Sun as measured by the Hipparcos astrometry satellite,[1][11] which, as the distance is nearly 10 parsecs, means its absolute magnitude is almost equal to its apparent magnitude. It is a member of the galactic halo; such stars account for only 0.1 to 0.2 percent of the stars near the Sun. Like most halo stars, it has a low abundance of elements other than hydrogen and helium—what astronomers term a metal-poor star.
+        
+        Once suspected of being a binary star with a period of 175 days, current consensus is that it is single. Previous suspected observations of a stellar companion were probably "superflares"—analogous to the Sun's solar flares, but hundreds to millions of times more energetic.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Groombridge 1830 in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Groombridge_1830</link>
+</object>

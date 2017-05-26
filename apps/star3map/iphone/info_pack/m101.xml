@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Pinwheel Galaxy" type="Galaxies">
+	<images>
+		<image title="">m 101_1.jpg</image>
+		<image title="The Pinwheel Galaxy">m 101_2.jpg</image>
+		<image title="Combined infrared, visible, and x-ray images of M101 showing that both young and old stars are evenly distributed along the tightly-wound spiral arms.">m 101_3.jpg</image>
+		<image title="Type Ia supernova SN 2011fe">m 101_4.jpg</image>
+	</images>
+	<information>
+The Pinwheel Galaxy (also known as Messier 101, M101 or NGC 5457) is a face-on spiral galaxy distanced 21 million light-years (six megaparsecs) away in the constellation Ursa Major, first discovered by Pierre Méchain on March 27, 1781, and communicated to Charles Messier who verified its position for inclusion in the Messier Catalogue as one of its final entries.
+On February 28, 2006, NASA and the ESA released a very detailed image of the Pinwheel Galaxy, which was the largest and most detailed image of a galaxy by Hubble Space Telescope at the time. The image was composed from 51 individual exposures, plus some extra ground-based photos.
+On August 24, 2011, a Type Ia supernova, SN 2011fe, was discovered in M101.
+Pierre Méchain, the discoverer of Messier 101, described it as a "nebula without star, very obscure and pretty large, 6' to 7' in diameter, between the left hand of Bootes and the tail of the great Bear. It is difficult to distinguish when one lits the [grating] wires."
+William Herschel noted in 1784 that " in my 7, 10, and 20-feet reflectors shewed a mottled kind of nebulosity, which I shall call resolvable; so that I expect my present telescope will, perhaps, render the stars visible of which I suppose them to be composed."
+Lord Rosse observed M101 in his 72-inch diameter Newtonian reflector during the second half of the 19th century. He was the first to make extensive note of the spiral structure and made several sketches.
+To observe the spiral structure in modern instruments requires a fairly large instrument, very dark skies, and a low power eye piece.
+M101 is a relatively large galaxy compared to the Milky Way. With a diameter of 170,000 light-years it is seventy percent larger than the Milky Way. It has a disk mass on the order of 100 billion solar masses, along with a small central bulge of about 3 billion solar masses.
+M101 is noted for its high population of H II regions, many of which are very large and bright. H II regions usually accompany the enormous clouds of high density molecular hydrogen gas contracting under their own gravitational force where stars form. H II regions are ionized by large numbers of extremely bright and hot young stars; those in M101 are capable of creating hot superbubbles. In a 1990 study, 1264 H II regions were cataloged in the galaxy. Three are prominent enough to receive New General Catalogue numbers - NGC 5461, NGC 5462, and NGC 5471.
+M101 is a asymmetrical due to the tidal forces from interactions with its companion galaxies. These gravitational interactions compress interstellar hydrogen gas, which then triggers strong star formation activity in M101's spiral arms that can be detected in ultraviolet images.
+In 2001, the x-ray source P98, located in M101, was identified as an ultra-luminous X-ray source - a source more powerful than any single star but less powerful than a whole galaxy - using the Chandra X-ray Observatory. It received the designation M101 ULX-1. In 2005, Hubble and XMM-Newton observations showed the presence of an optical counterpart, strongly indicating that M101 ULX-1 is an x-ray binary. Further observations showed that the system deviated from expected models - the black hole is just 20 to 30 solar masses, and consumes material (including captured stellar wind) at a higher rate than theory suggests.
+M101 has five prominent companion galaxies: NGC 5204, NGC 5474, NGC 5477, NGC 5585, and Holmberg IV. As stated above, the gravitational interaction between M101 and its satellites may have triggered the formation of the grand design pattern in M101. M101 has also probably distorted the companion galaxy NGC 5474. M101 and its companion galaxies comprise most or possibly all of the M101 Group.
+On August 24, 2011, a Type Ia supernova, SN 2011fe, initially designated PTF 11kly, was discovered in M101. The supernova was visual magnitude 17.2 at discovery and reached magnitude 9.9 at its peak. This was the fourth supernova recorded in M101. The first, SN 1909A, was discovered by Max Wolf in January 1909 and reached magnitude 12.1. SN 1951H reached magnitude 17.5 in September 1951 and SN 1970G reached magnitude 11.5 in January 1970.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Ursa Major</characteristic>
+		<characteristic name="Right ascension">14h 03m 12.6s</characteristic>
+		<characteristic name="Declination">+54° 20′ 57″</characteristic>
+		<characteristic name="Redshift">0.000804</characteristic>
+		<characteristic name="Helio radial velocity">241 ± 2 km/s</characteristic>
+		<characteristic name="Distance">20.9 ± 1.8 Mly (6.4 ± 0.5 Mpc)</characteristic>
+		<characteristic name="Type">SAB(rs)cd</characteristic>
+		<characteristic name="Apparent dimensions (V)">28′.8 × 26′.9</characteristic>
+		<characteristic name="Apparent magnitude (V)">7.86</characteristic>
+		<characteristic name="Other designations">Messier 101, M101, NGC 5457, UGC 8981, PGC 50063, Arp 26</characteristic>
+	</characteristics>
+	<link title="Get more info about Pinwheel Galaxy in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Pinwheel_Galaxy</link>
+</object>

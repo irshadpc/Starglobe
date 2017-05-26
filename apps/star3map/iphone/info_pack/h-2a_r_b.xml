@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="H-2A R/B Satellite details 2006-002B NORAD 28932" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">28932	</characteristic><characteristic name="Int'l Code">2006-002B</characteristic>
+<characteristic name="Perigee">544.8 km</characteristic>
+<characteristic name="Apogee">680.7 km</characteristic>
+<characteristic name="Inclination">98.3 °</characteristic>
+<characteristic name="Period">96.8 minutes</characteristic>
+<characteristic name="Semi major axis">6983 km</characteristic>
+<characteristic name="Launch date">January 24, 2006</characteristic>
+<characteristic name="Source">Japan (JPN)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

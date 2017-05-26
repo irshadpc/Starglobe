@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Camelopardalis" type="Constellation">
+	<images>
+<image title="Camelopardalis">camelopardalis_1.png</image>
+<image title="">camelopardalis__2.jpg</image>
+<image title="">camelopardalis__3.jpg</image>
+<image title="">camelopardalis__4.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Camelopardalis /kəˌmɛləˈpɑrdəlɨs/ is a large but faint constellation in the northern sky. The constellation was introduced in 1612 (or 1613) by Petrus Plancius. Some older astronomy books give an alternative spelling of the name, Camelopardus.
+
+First attested in English in 1785, the word camelopardalis comes from Latin, and it is the romanisation of the Greek "καμηλοπάρδαλις" meaning "giraffe", from "κάμηλος" (kamēlos), "camel" + "πάρδαλις" (pardalis), "leopard", due to its having a long neck like a camel and spots like a leopard.
+Although Camelopardalis is the 18th largest constellation, it is not a particularly bright constellation, as the brightest stars are only of fourth magnitude. In fact, it only contains four stars above magnitude 5.0.
+Other variable stars are U Camelopardalis, VZ Camelopardalis, and Mira variables T Camelopardalis, X Camelopardalis, and R Camelopardalis.
+In 2011 a supernova was discovered in the constellation.
+Camelopardalis is in the part of the celestial sphere facing away from the galactic plane. Accordingly, many distant galaxies are visible within its borders. NGC 2403 is a galaxy in the M81 group of galaxies, located approximately 12 million light-years from Earth with a redshift of 0.00043. It is classified as being between an elliptical and a spiral galaxy because it has faint arms and a large central bulge. NGC 2403 was first discovered by the 18th century astronomer William Herschel, who was working in England at the time. It has an integrated magnitude of 8.0 and is approximately 0.25° long.
+NGC 1502 is a magnitude 6.9 open cluster about 3,000 light years from Earth. It has about 45 bright members, and features a double star of magnitude 7.0 at its center. NGC 1502 is also associated with Kemble's Cascade, a simple but beautiful asterism appearing in the sky as a chain of stars 2.5° long that is parallel to the Milky Way and is pointed towards Cassiopeia.NGC 1501 is a planetary nebula located roughly 1.4° south of NGC 1502.
+NGC 2655 is a small galaxy. IC 342 is one of the brightest two galaxies in the IC 342/Maffei Group of galaxies. The dwarf irregular galaxy NGC 1569 is a magnitude 11.9 starburst galaxy, about 11 million light years away.
+MS0735.6+7421 is a galaxy cluster with a redshift of 0.216, located 2.6 billion light-years from Earth. It is unique for its intracluster medium, which emits x-rays at a very high rate. This galaxy cluster features two cavities 600,000 light-years in diameter, caused by its central supermassive black hole, which emits jets of matter. MS0735.6+7421 is one of the largest and most distant examples of this phenomenon.
+Tombaugh 5 is a fairly dim open cluster in Camelopardalis. It has an overall magnitude of 8.4 and is located 5,800 light-years from Earth. It is a Shapley class c and Trumpler class III 1 r cluster, meaning that it is irregularly shaped and appears loose. Though it is detached from the star field, it is not concentrated at its center at all. It has more than 100 stars which do not vary widely in brightness, mostly being of the 15th and 16th magnitude.
+NGC 2146 is an 11th magnitude barred spiral starburst galaxy conspicuously warped by interaction with a neighbour.
+MACS0647-JD, one of the possible candidates for the farthest known galaxies in the universe (z= 10.7), is also in Camelopardalis.
+The Space probe Voyager 1 is moving in the direction of this constellation, though it will not be nearing any of the stars in this constellation for many thousands of years, by which time its power source will be long dead.
+Camelopardalis was created by Petrus Plancius in 1613 to represent the animal Rebecca rode to marry Isaac in the Bible. One year later, Jakob Bartsch featured it in his atlas. Johannes Hevelius gave it the official name of "Camelopardus" or "Camelopardalis" because he saw the constellation's many faint stars as the spots of a giraffe.
+
+H. A. Rey has suggested an alternative way to connect the stars of Camelopardalis into a giraffe figure.
+The giraffe's body consists of the quadrangle of stars α Cam, β Cam, BE Cam, and γ Cam: α Cam and β Cam being of the fourth magnitude. The stars HD 42818 (HR 2209) and M Cam form the head of the giraffe, and the stars M Cam and α Cam form the giraffe's long neck. Stars β Cam and 7 Cam form the giraffe's front leg, and variable stars BE Cam and CS Cam form the giraffe's hind leg.
+In Chinese astronomy, the stars of Camelopardalis are located within a group of circumpolar stars called the Purple Forbidden Enclosure (紫微垣 Zǐ Wēi Yuán).
+Coordinates: 06h 00m 00s, +70° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Cam</characteristic>
+<characteristic name="Genitive">Camelopardalis</characteristic>
+<characteristic name="Pronunciation">/kəˌmɛləˈpɑrdəlɨs/, genitive the same</characteristic>
+<characteristic name="Symbolism">the Giraffe</characteristic>
+<characteristic name="Right ascension">03h 15m 36.2232s – 14h 27m 07.8855s</characteristic>
+<characteristic name="Declination">86.0975418° – 52.6655540°</characteristic>
+<characteristic name="Family">Ursa Major</characteristic>
+<characteristic name="Area">757 sq. deg. (18th)</characteristic>
+<characteristic name="Main stars">2, 8</characteristic>
+<characteristic name="Bayer/Flamsteed stars">36</characteristic>
+<characteristic name="Stars with planets">4</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">3</characteristic>
+<characteristic name="Brightest star">β Cam (4.03m)</characteristic>
+<characteristic name="Nearest star">LHS 2459 (17.58 ly, 5.39 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">October Camelopardalids</characteristic>
+<characteristic name="Bordering constellations">DracoUrsa Minor, Cepheus, Cassiopeia, Perseus, Auriga, Lynx, Ursa Major</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −10°. Best visible at 21:00 (9 p.m.) during the month of February.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Camelopardalis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Camelopardalis</link>
+</object>

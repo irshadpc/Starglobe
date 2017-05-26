@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Fomalhaut" type="Star">
+	<images>
+<image title="Fomalhaut">fomalhaut_1.jpg</image>
+<image title="">fomalhaut__2.jpg</image>
+<image title="">fomalhaut__4.jpg</image>
+<image title="">fomalhaut__6.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Fomalhaut (Alpha Piscis Austrini, Alpha PsA, α Piscis Austrini, α PsA) is the brightest star in the constellation Piscis Austrinus and one of the brightest stars in the sky. It is a class A star on the main sequence approximately 25 light-years (7.7 pc) from Earth as measured by the Hipparcos astrometry satellite. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is classified as a Vega-like star that emits excess infrared radiation, indicating it is surrounded by a circumstellar disk. Fomalhaut, K-type star TW Piscis Austrini and M-type star LP 876-10 constitute a trinary system.
+Fomalhaut holds a special significance in extrasolar planet research, as it is the center of the first stellar system with an extrasolar orbiting object (Fomalhaut b) imaged at visible wavelengths. The image was published in Science in November 2008. Fomalhaut is the third brightest star known to have a planetary system, after Pollux and the Sun.
+
+Fomalhaut is a young star, for many years thought to be only 100 to 300 million years old, with a potential lifespan of a billion years. A 2012 study gave a slightly higher age of 440±40 million years. The surface temperature of the star is around 8,590 K (8,320 °C). Fomalhaut's mass is about 1.92 times that of the Sun, its luminosity is about 16.6 times greater, and its diameter is roughly 1.84 times as large.
+Fomalhaut is slightly metal-deficient as compared to the Sun, which means it is composed of a smaller percentage of elements other than hydrogen and helium. The metallicity is typically determined by measuring the abundance of iron in the photosphere relative to the abundance of hydrogen. A 1997 spectroscopic study measured a value equal to 93% of the Sun's abundance of iron.[nb 1] A second 1997 study deduced a value of 78% by assuming Fomalhaut has the same metallicity as the neighboring star TW Piscis Austrini, which has since been argued to be a physical companion. In 2004, a stellar evolutionary model of Fomalhaut yielded a metallicity of 79%. Finally, in 2008, a spectroscopic measurement gave a significantly lower value of 46%.
+Fomalhaut has been claimed to be one of approximately 16 stars belonging to the Castor Moving Group. This is an association of stars that share a common motion through space and have been claimed to be physically associated. Other members of this group include Castor and Vega. The moving group has an estimated age of 200±100 million years and originated from the same location. Unfortunately more recent work that has found that purported members of the Castor Moving Group appear to not only have a wide range of ages, but their velocities are too different to have been possibly associated with one another in the distant past. Hence, "membership" to this dynamical group has no bearing on the age of the Fomalhaut system.
+Fomalhaut is surrounded by several debris disks.
+The inner disk is a high-carbon small-grain (10-300 nm) ash disk clustering at 0.1 AU from the star. Next is a disk of larger particles with inner edge 0.4-1 AU of the star. The innermost disk is unexplained as yet.
+The outermost disk is at a radial distance of 133 AU (1.99×10^10 km; 1.24×10^10 mi), in a toroidal shape with a very sharp inner edge, all inclined 24 degrees from edge-on. The dust is distributed in a belt about 25 AU wide. The geometric center of the disk is offset by about 15 AU (2.2×10^9 km; 1.4×10^9 mi) from Fomalhaut. The disk is sometimes referred to as "Fomalhaut's Kuiper belt". Fomalhaut's dusty disk is believed to be protoplanetary, and emits considerable infrared radiation. Measurements of Fomalhaut's rotation indicate that the disk is located in the star's equatorial plane, as expected from theories of star and planet formation.
+On November 13, 2008, astronomers announced an object, which they assumed to be an extrasolar planet, orbiting just inside the outer debris ring. This was the first extrasolar orbiting object to be seen with visible light, captured by the Hubble Space Telescope. A planet's existence had been previously suspected from the sharp, elliptical inner edge of that disk. The mass of the planet, Fomalhaut b, was estimated to be no more than three times the mass of Jupiter but at least the mass of Neptune. There are indications that the orbit is not apsidally aligned with the dust disk, which may indicate that additional planets may be responsible for the dust disk's structure.
+However M-band images taken from the MMT Observatory put strong limits on the existence of gas giants within 40 AU of the star and Spitzer Space Telescope imaging suggested that the object Fomalhaut b was more likely to be a dust cloud. In 2012, two independent studies confirmed that Fomalhaut b does exist; but it is shrouded by debris, so it may be a gravitationally-bound accumulation of rubble rather than a whole planet.
+Herschel Space Observatory images of Fomalhaut reveal a large amount of fluffy micrometer-sized dust is present in the outer dust belt. Because such dust is expected to be blown out of the system by stellar radiation pressure on short timescales, its presence indicates a constant replenishment by collisions of planetesimals. The fluffy morphology of the grains suggests a cometary origin. The collision rate is estimated to be approximately 2000 kilometre-sized comets per day.
+Observations of the star's outer dust ring by the Atacama Large Millimeter Array point to the existence of two planets in the system, neither one at the orbital radius proposed for the HST-discovered Fomalhaut b.
+If there are additional planets from 4 to 10 AU, they must be under 20 MJ; if from 2.5 outward, then 30 MJ.
+Fomalhaut (Fomalhaut A) forms a binary star with the K4-type star TW Piscis Austrini (TW PsA, Fomalhaut B). TW Piscis Austrini lies 0.28 parsecs (0.91 light years) away from Fomalhaut, and its space velocity agrees with that of Fomalhaut within 0.1±0.5 km/s, consistent with being a bound companion. A recent age estimate for TW PsA (400±70 million years), agrees very well with the isochronal age for Fomalhaut (450±40 million years), further arguing for the two stars forming a physical binary.
+LP 876-10 (Fomalhaut C) is the third gravitationally bound star of the Fomalhaut system, making it a trinary star. In October 2013, Eric Mamajek and collaborators from the RECONS consortium announced that the previously known high proper motion star LP 876-10 had a distance, velocity, and color-magnitude position consistent with being a 3rd member of the Fomalhaut system. LP 876-10 was originally catalogued as a high proper motion star by Willem Luyten in his 1979 NLTT catalogue, however a precise trigonometric parallax and radial velocity was only measured quite recently. LP 876-10 is a red dwarf star of spectral type M4 V, and located even further from Fomalhaut A than TW PsA — about 5.7° away from Fomalhaut A in the sky in the neighbouring constellation Aquarius, whereas both Fomalhaut A and TW PsA are located in constellation Piscis Austrinus. It orbits about 0.77 parsecs (2.5 light years) away from Fomalhaut A and is currently located 0.987 parsecs (3.2 light years) away from TW PsA (Fomalhaut B). LP 876-10 is located well within the tidal radius of the Fomalhaut system, which is 1.9 parsecs (6.2 light years). Although LP 876-10 is itself catalogued as a binary star in the Washington Double Star Catalog (called "WSI 138"), there was no sign of a close-in stellar companion in the imaging, spectral, or astrometric data in the Mamajek et al. study. In December 2013, Kennedy et al. reported the discovery of a cold dusty debris disks associated with Fomalhaut C, using infrared images from the Herschel Space Observatory. Multiple star systems hosting multiple debris disks are exceedingly rare.
+At a declination of −29.6°, Fomalhaut is located south of the celestial equator, and hence is best viewed from the Southern Hemisphere. It passes virtually overhead in places just south of the Tropic of Capricorn, for example Brisbane, Johannesburg and Easter Island. However, its southerly declination is not as great as that of stars such as Acrux, Alpha Centauri and Canopus, meaning that, unlike them, Fomalhaut is visible from a large part of the Northern Hemisphere as well. Its declination is greater than that of Sirius and similar to that of Antares. South of latitude 40˚ north it can be viewed on autumn evenings; further north it is low on the southern horizon. It reaches a maximum altitude of only 9˚ from London, 4˚ from Edinburgh or Copenhagen, and it just barely rises from around latitude 60˚ north; Oslo, Helsinki or southern Alaska. Fomalhaut can be located in these northern latitudes by the fact that the western (right-hand) side of the Square of Pegasus points to it. Continue the line from Beta to Alpha Pegasi towards the southern horizon: Fomalhaut is about 45˚ south of Alpha Pegasi, with no bright stars in between.
+Fomalhaut has had various names ascribed to it through time. Its modern name derives from Arabic fum al-ḥawt, meaning "mouth of the [Southern] Fish" (فُمْ اَلْحَوْتْ), a translation of how the classical astronomer Ptolemy labeled it.
+The star has been recognized by many cultures of the northern hemisphere, including the Arabs, Persians and Chinese. It marked the solstice in 2500 BC. It was also a marker for the worship of Demeter in Eleusis.
+Ptolemy put it in Aquarius as well as Piscis Austrinus. In the 1600s Bayer firmly planted it in the primary position of Piscis Austrinus. Following Ptolemy, Flamsteed in 1725 denoted it 79 Aquarii as well as 24 Piscis Austrini. The current name reflects modern consensus on Bayer's decision, that the star belongs in the Piscis Austrinus.
+Another name in Western use is "the Lonely Star of Autumn", because it is the only first-magnitude star in the autumn sky of mid-northern latitudes.
+Fomalhaut/Earthwork B in Mounds State Park near Anderson, Indiana, lines up with the rising of the star Fomalhaut in the fall months, according to the Indiana Department of Natural Resources.
+The New Scientist magazine termed it the "Great Eye of Sauron" due to its shape and debris ring, when viewed from a distance, bearing similarity to the aforementioned "Eye" in the Peter Jackson Lord of the Rings films.
+In Walter Tevis' novel Steps of the Sun, Fomalhaut is visited by the protagonist and two potentially inhabitable planets are found (and described). Parts of Philip K Dick's novel Lies, Inc (originally titled The Unteleported Man) are set on the fictional planet Fomalhaut IX.
+USS Fomalhaut (AK-22) was a United States navy amphibious cargo ship.
+Coordinates: 22h 57m 39.1s, −29° 37′ 20″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Piscis Austrinus</characteristic>
+<characteristic name="Pronunciation">/ˈfoʊməl.hɔːt/, /ˈfoʊməlɔːt/, /foʊməlˈhɔːt/</characteristic>
+<characteristic name="Right ascension">22h 57m 39.0465s</characteristic>
+<characteristic name="Declination">−29° 37′ 20.050″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.16</characteristic>
+<characteristic name="Spectral type">A3 V</characteristic>
+<characteristic name="U−B color index">0.08</characteristic>
+<characteristic name="B−V color index">0.09</characteristic>
+<characteristic name="Radial velocity (Rv)">+6.5 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +328.95 mas/yr, Dec.: −164.67 mas/yr</characteristic>
+<characteristic name="Parallax (π)">129.81 ± 0.47mas</characteristic>
+<characteristic name="Distance">25.13 ± 0.09 ly (7.70 ± 0.03 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">1.72</characteristic>
+<characteristic name="Mass">1.92±0.02 M☉</characteristic>
+<characteristic name="Radius">1.842±0.019 R☉</characteristic>
+<characteristic name="Luminosity">16.63±0.48 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.21 cgs</characteristic>
+<characteristic name="Temperature">8,590 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">−0.03 to −0.34 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">93 km/s</characteristic>
+<characteristic name="Age">(4.4±0.4)×10^8 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Fomalhaut in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Fomalhaut</link>
+</object>

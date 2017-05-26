@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Coronae Borealis" type="Star">
+	<images>
+<image title="Alphekka">alphekka_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Coronae Borealis (α CrB, α Coronae Borealis) is a binary star in the constellation Corona Borealis. It is located about 75 light years from the Solar System.
+
+The primary component is a white main sequence star that has a stellar classification of A0V and 2.6 times the mass of the Sun. Estimates of the star's radius range from 2.89 to 3.04 times the radius of the Sun. An excess of infrared radiation at 24 μm and 70 μm has been detected about the primary star by the IRAS. This suggests the presence of a large disc of dust and material around Alphecca, prompting speculation of a planetary or proto-planetary system similar to that currently assumed around Vega.
+The secondary component is a yellow main sequence star with an estimated stellar class of G5, 0.92 times the Sun's mass and 0.90 times the Sun's radius. The X-ray luminosity of this star is 6 × 10^28erg s^-1, which is 30 times greater than the peak activity level of the Sun. This higher activity level is expected for a young star of this class. The corona has a temperature of about 5 MK, which is much hotter than the Sun's corona. The upper limit of 14 km/s for the equatorial rotation velocity is equivalent to a rotation period of 3 days. More likely, the rotation period is 7–9 days.
+The stars are orbiting about each other in an eccentric orbit one every 17.36 days. Because the plane of this orbit is inclined at an angle of 88.2° to the line of sight to the Earth, the pair form an eclipsing binary system similar to Algol (β Per). The periodic eclipses result in a magnitude variation of +2.21 to +2.32, which is hardly noticeable to the unaided eye.
+The space velocity components of this star system are U = +14.257, V = +0.915 and W = +3.147 km/s. α CrB is believed to be a member of the Ursa Major Moving Group of stars that have a common motion through space.
+It has the traditional names Alphecca (Alphekka), Gemma, Gnosia (Gnosia Stella Coronae), and Asteroth (Ashtaroth). The name Alphecca is Arabic, short for نير الفكّة nayyir al-fakka "the bright (star) of the broken (ring of stars)". Gemma is Latin for "jewel". Gnosia is also Latin, short for Gnōsia stella corōnæ "star of the crown of Knossos". Asteroth is Hebrew, עשתרות ‘ašterôt "Astarte (idols)". As the brightest star in Corona Borealis, it lent its name to the brightest in Corona Australis, Alphekka Meridiana.
+The term nayyir al-fakka or Nir al Feccah was appeared in Al Achsasi Al Mouakket catalogue.
+In Chinese, 貫索 (Guàn Suǒ), meaning Coiled Thong, refers to an asterism consisting of α Coronae Borealis, π Coronae Borealis, θ Coronae Borealis, β Coronae Borealis, γ Coronae Borealis, δ Coronae Borealis, ε Coronae Borealis, ι Coronae Borealis and ρ Coronae Borealis. Consequently, α Coronae Borealis itself is known as 貫索四 (Guàn Suǒ sì, English: the Fourth Star of Coiled Thong.).
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Corona Borealis</characteristic>
+<characteristic name="Right ascension">15h 34m 41.268s</characteristic>
+<characteristic name="Declination">+26° 42′ 52.89″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.21 (2.24 / 7.1)</characteristic>
+<characteristic name="Spectral type">A0V/G5V</characteristic>
+<characteristic name="U−B color index">–0.03/—</characteristic>
+<characteristic name="B−V color index">–0.02/—</characteristic>
+<characteristic name="Variable type">Eclipsing binary</characteristic>
+<characteristic name="Radial velocity (Rv)">+1.7 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 120.27 ± 0.19 mas/yr, Dec.: -89.58 ± 0.20 mas/yr</characteristic>
+<characteristic name="Parallax (π)">43.46 ± 0.28mas</characteristic>
+<characteristic name="Distance">75.0 ± 0.5 ly (23.0 ± 0.1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">+0.16/+5.05</characteristic>
+<characteristic name="Period (P)">17.3599 d</characteristic>
+<characteristic name="Semi-major axis (a)">2.981 × 10^12 cm</characteristic>
+<characteristic name="Eccentricity (e)">0.370</characteristic>
+<characteristic name="Inclination (i)">88.2 ± 0.1°</characteristic>
+<characteristic name="Argument of periastron (ω)(primary)">311°</characteristic>
+<characteristic name="Mass">2.58/0.92 M☉</characteristic>
+<characteristic name="Radius">2.89–3.04/0.90 R☉</characteristic>
+<characteristic name="Luminosity">74/0.81 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.89/4.50 cgs</characteristic>
+<characteristic name="Temperature">9,700/5,800 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">139 / &lt; 14 km/s</characteristic>
+<characteristic name="Age">3.14 × 10^8 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Coronae Borealis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alphekka</link>
+</object>

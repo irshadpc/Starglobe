@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ALOS-2" type="Satellite">
+	<images>
+		<image>alos-2.png</image>
+	</images>
+	<information>
+		Advanced Land Observing Satellite-2 (ALOS-2), also called Daichi-2, is a 2-ton Japanese satellite launched in 2014. Although the predecessor ALOS satellite had featured 2 optical cameras in addition to 1.2 GHz (L-band) radar, ALOS-2 had optical cameras removed to simplify construction and reduce costs. The PALSAR-2 radar is a significant upgrade of the PALSAR radar, allowing higher-resolution (1x3m per pixel) spotlight modes in addition to the 10m resolution survey mode inherited from the ALOS spacecraft. Also, the SPAISE2 automatic ship identification system and the Compact Infra Red Camera (CIRC) will provide supplementary data about sea-going ships and provide early warnings of missile launches.
+		ALOS-2 was launched from Tanegashima, Japan, on 24 May 2014 by a H-IIA rocket.
+		The satellite contains a 1.2 GHz synthetic-aperture radar sensor that is intended to be used for cartography, monitoring of naval traffic and disaster monitoring of Asia and the Pacific. JAXA initially hoped to be able to launch the successor to ALOS during 2011, but these plans were delayed until 2014 because of budget restrictions.
+	</information>
+	<characteristics>
+		<characteristic name="NORAD ID">39766</characteristic>
+		<characteristic name="Int'l Code">2014-029A</characteristic>
+		<characteristic name="Perigee">636 km</characteristic>
+		<characteristic name="Apogee">639 km</characteristic>
+		<characteristic name="Inclination">97.92 °</characteristic>
+		<characteristic name="Period">97.33 minutes</characteristic>
+		<characteristic name="Semi major axis">7008 km</characteristic>
+		<characteristic name="Launch date">24 May 2014</characteristic>
+		<characteristic name="Source">Japan (JPN)</characteristic>
+	</characteristics>
+	<link title="Get more info about ALOS-2 in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/ALOS-2</link>
+</object>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="OPS 8180 (RADCAT) Satellite details 1972-076A NORAD 06212" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">6212	</characteristic><characteristic name="Int'l Code">1972-076A</characteristic>
+<characteristic name="Launch date">October 2, 1972</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+<characteristic name="Decay date">2012-08-02</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

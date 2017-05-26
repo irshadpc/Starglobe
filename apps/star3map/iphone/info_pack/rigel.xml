@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Rigel" type="Star">
+	<images>
+<image title="Rigel">rigel_1.png</image>
+<image title="">rigel__3.png</image>
+<image title="">rigel__4.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Rigel, also known by its Bayer designation Beta Orionis (β Ori, β Orionis), is the brightest star in the constellation Orion and the seventh brightest star in the night sky, with visual magnitude 0.12. The star as seen from Earth is actually a triple star system, with the primary star (Rigel A) a blue-white supergiant of absolute magnitude −7.84 and around 130,000 times as luminous as the Sun. An Alpha Cygni variable, it pulsates periodically. Visible in small telescopes, Rigel B is itself a spectroscopic binary system, consisting of two main sequence blue-white stars of spectral type B9.
+Although Rigel has the Bayer designation "beta", it is almost always brighter than Alpha Orionis (Betelgeuse). Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+
+The apparent magnitude of Rigel is listed in the astronomical database SIMBAD at 0.12, making it on average the sixth brightest star in the celestial sphere excluding the Sun—just fainter than Vega and ahead of Procyon (It is brighter than each component of the double star Capella, though that binary system is marginally brighter than Rigel when taken as a single point of light.). It is an irregular pulsating variable with a visual range of magnitude 0.05–0.18.
+Rigel is the third most inherently luminous first magnitude star after Deneb and Betelgeuse. Rigel has a color index (B–V) of −0.03, meaning it appears white or lightly blue-white.[citation needed]
+Culminating at midnight on December 12, and at 9 pm on January 24, Rigel is most visible in winter evenings in the northern hemisphere and summer in the southern. In the southern hemisphere, Rigel is the first bright star of Orion visible as the constellation rises.
+Spectroscopic estimates of Rigel's distance place its distance between 700 and 900 light-years (210 and 280 pc), while Hipparcos's measurement of its parallax gives a distance of 860 light-years (260 pc), with a margin of error of about 9%. It is a blue supergiant, at about 18 solar masses, shining with approximately 117,000 times the luminosity of the Sun. The interferometer-measured angular diameter of this star, after correction for limb darkening, is 2.75 ± 0.01 mas. At its estimated distance, this yields a physical size of about 74 times the radius of the Sun. If viewed from a distance of 1 astronomical unit, it would span an angular diameter of 35° and shine at magnitude −38.
+As it is both bright and moving through a region of nebulosity, Rigel lights up several dust clouds in its vicinity, most notably the IC 2118 (the Witch Head Nebula). Rigel is also associated with the Orion Nebula, which—while more or less along the same line of sight as the star—is almost twice as far away from Earth. Despite the difference in distance, projecting Rigel's path through space for its expected age brings it close to the nebula. As a result, Rigel is sometimes classified as an outlying member of the Orion OB1 Association, along with many of the other bright stars in that region of the sky; more specifically, it is a member of the Taurus-Orion R1 Association, with the OB1 Association reserved for stars closer to the nebula and more recently formed.
+Rigel is a variable supergiant, the variability being caused by stellar pulsations similar to those of Deneb, the prototype of the class of Alpha Cygni pulsating stars. The radial velocity variations of Rigel proves that it simultaneously oscillates in at least 19 non-radial modes. The variability periods range broadly from about 1.2 to 74 days. It is a notable star among other blue supergiant stars in the sense that its pulsations are powered by the nuclear reactions in the hydrogen burning shell. The Rigel system is known to be composed of three stars. A fourth star in the system is sometimes proposed, but it is generally considered that this is a misinterpretation of the main star's variability, which may be caused by physical pulsation of the surface.
+Rigel was observed with the Canadian MOST satellite for nearly 28 days in 2009. The light variations in this supergiant star is in milli magnitude level. The gradual changes in the flux highlights the presence of long-period pulsation modes in the star.
+Rigel is surrounded by a shell of expelled gas. This occurs because when a red giant becomes a blue giant, the slow stellar winds of the former red giant are compressed by the faster winds of the blue giant, therefore creating a shell.
+The general spectral type of Rigel as B8 is well established and it has been used as a defining point of the spectral classification sequence for supergiants. However the details of the spectrum vary considerably due to periodic atmospheric eruptions. The spectral lines show emission, absorption, line doubling, P Cygni profiles, and inverse P Cygni profiles, with no obvious periodicity. This has resulted in classification as B8 Iab, B8 Iae, or blendings by different authors.
+Rigel has been a known visual binary since at least 1831, when it was first measured by F. G. W. Struve. Though Rigel B is not particularly faint at magnitude 6.7, its closeness to Rigel A—which is over 500 times brighter—makes it a challenging target for telescopes smaller than 150 mm (5.9 in). However a good 7 cm (2.8 in) telescope will reveal Rigel B at 150× power and good seeing. At Rigel's estimated distance, Rigel B is separated from its primary by over 2200 AU (12 lightdays); not surprisingly, there has been no sign of orbital movement, though they share the same proper motion.
+Rigel B is itself a spectroscopic binary system, consisting of two main sequence stars that orbit their center of gravity every 9.8 days. The stars both belong to the spectral class B9V; Rigel B is the more massive of the pair, at 2.5 versus 1.9 solar masses.
+There was long-running controversy in the late 19th and early 20th century over the possible visible binarity of Rigel B. A number of experienced observers claimed to see it as a double, while others were unable to confirm it; indeed, the proponents themselves were sometimes unable to duplicate their results. Observations since have ruled out the likelihood of a visible companion to Rigel B.
+In his 1899 work Star-Names and Their Meanings, American amateur naturalist Richard Hinckley Allen stated the derivation was from the Rijl Jauzah al Yusrā, "Left Leg of the Jauzah". Paul Kunitzsch, Professor of Arabic Studies at the University of Munich, states the name dates from the 10th century and is one of the oldest extant Arabic star names in Western astronomy.
+Another Arabic name is رجل الجبار riǧl al-ǧabbār, "the foot of the great one" (giant, conqueror, etc.), which is also the source of the rarely used variant names Algebar or Elgebar.
+The Alphonsine Tables saw its name split into "Rigel" and "Algebar", with the note, "et dicitur Algebar. Nominatur etiam Rigel." Alternate spellings from the 17th century include Regel by the Italian astronomer Giovanni Battista Riccioli, Riglon by the German astronomer Wilhelm Schickard, and Rigel Algeuze or Algibbar by English writer and translator Edmund Chilmead.
+Other names include the Greek Ποὺς δὶδυμων "The foot next to the Twins" by Chrysococca, and Hebrew Kesil by Bayer.
+In stellar navigation, Rigel is one of the most important navigation stars, since it is bright, easily located and equatorial, which means it is visible all around the world's oceans.
+In ancient Egypt Rigel's name was Seba-en-Sah Sb3-n-S3ḥ, which means toe star or foot star.
+It is known as 参宿七 (Shēnxiù Qī, "The Seventh of the Three Stars") in Chinese. The name is because the Asterism of Three Stars was originally composed of just three stars, all of them in the girdle of the Orion. Later, four more stars were added to this asterism, but the name remained unchanged.
+In Japan, the Minamoto or Genji clan had chosen Rigel and its white color as its symbol, calling the star Genji-boshi (源氏星), while the Taira or Heike clan adopted Betelgeuse and its red color. The two powerful families fought a legendary war in Japanese history, the stars seen as facing each other off and only kept apart by the Belt. Rigel was also known as Gin-waki, (銀脇), "the Silver (Star) beside (Mitsu-boshi)."
+Among the Hindus, it is known as Mrugasiirsha – Deer's Head. Indian Bengali language, it is known as Vaan Raja.
+Rigel was known as Yerrerdet-kurrk to the Wotjobaluk koori of southeastern Australia, and held to be the mother-in-law of Totyerguil (Altair). The distance between them signified the taboo preventing a man from approaching his mother-in-law.
+The Wardaman people of northern Australia know Rigel as the Red Kangaroo Leader Unumburrgu and chief conductor of ceremonies in a songline when Orion is high in the sky. The river Eridanus marks a line of stars in the sky leading to it, and the other stars of Orion are his ceremonial tools and entourage. Betelgeuse is Ya-jungin "Owl Eyes Flicking", watching the ceremonies.
+The Māori people named Rigel as Puanga and was said to be a daughter of Rehua (Antares), the chief of all stars. Its heliacal rising also presaged the appearance of Matariki (the Pleiades) in the dawn sky which marked the Māori New Year in late May or early June. The Moriori people of the Chatham Islands, as well as some Maori groups in New Zealand marked the start of their New Year with Rigel rather than the Pleiades.Puaka was a local variant used in the South Island.
+The indigenous Boorong people of northwestern Victoria named Rigel as Collowgullouric Warepil.
+The Lacandon people knew it as tunsel "little woodpecker".
+Coordinates: 05h 14m 32.272s, −08° 12′ 05.91″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Orion</characteristic>
+<characteristic name="Pronunciation">/ˈraɪdʒəl/ or /-ɡəl/</characteristic>
+<characteristic name="Right ascension">05h 14m 32.27210s</characteristic>
+<characteristic name="Declination">−08° 12′ 05.8981″</characteristic>
+<characteristic name="Apparent magnitude (V)">0.12</characteristic>
+<characteristic name="Spectral type">B8 Ia</characteristic>
+<characteristic name="U−B color index">−0.66</characteristic>
+<characteristic name="B−V color index">−0.03</characteristic>
+<characteristic name="Variable type">Alpha Cygni</characteristic>
+<characteristic name="Radial velocity (Rv)">20.7 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +1.31 mas/yr, Dec.: +0.50 mas/yr</characteristic>
+<characteristic name="Parallax (π)">3.78 ± 0.34mas</characteristic>
+<characteristic name="Distance">860 ± 80 ly (260 ± 20 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–7.84 ± 0.2</characteristic>
+<characteristic name="Mass">18 M☉</characteristic>
+<characteristic name="Radius">74 R☉</characteristic>
+<characteristic name="Luminosity (bolometric)">1.26+0.37 −0.29×10^5 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.75 ± 0.10 cgs</characteristic>
+<characteristic name="Temperature">12,130 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.06 ± 0.10 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">40 km/s</characteristic>
+<characteristic name="Age">(8 ± 1) × 10^6 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Rigel in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Rigel</link>
+</object>

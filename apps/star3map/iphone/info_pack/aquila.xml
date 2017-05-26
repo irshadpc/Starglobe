@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Aquila (constellation)" type="Constellation">
+	<images>
+<image title="Aquila (constellation)">aquila_1.png</image>
+<image title="">aquila__2.jpg</image>
+<image title="">aquila__3.jpg</image>
+<image title="">aquila__4.jpg</image>
+<image title="">aquila__6.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Aquila is a constellation in the northern sky. Its name is Latin for 'eagle' and it represents the bird who carried Zeus/Jupiter's thunderbolts in Greco-Roman mythology.
+Aquila lies just a few degrees North of the celestial equator. The alpha star, Altair, is a vertex of the Summer Triangle asterism. The constellation is best seen in the summer as it is located along the Milky Way. Because of this location along the line of our galaxy, many clusters and nebulae are found within its borders, but they are dim and there are few galaxies.
+
+Aquila was one of the 48 constellations described by the 2nd century astronomer Ptolemy. It had been earlier mentioned by Eudoxus in the 4th century BC and Aratus in the 3rd century BC. It is now one of the 88 constellations defined by the International Astronomical Union. The constellation was also known as Vultur volans (the flying vulture) to the Romans, not to be confused with Vultur cadens which was their name for Lyra. It is often held to represent the eagle who held Zeus's/Jupiter's thunderbolts in Greco-Roman mythology. Aquila is also associated with the eagle who kidnapped Ganymede, a son of one of the kings of Troy (associated with Aquarius), to Mount Olympus to serve as cup-bearer to the gods.
+Ptolemy catalogued nineteen stars jointly in this constellation and in the now obsolete constellation of Antinous, which was named in the reign of the emperor Hadrian (AD 117–138), but sometimes erroneously attributed to Tycho Brahe, who catalogued twelve stars in Aquila and seven in Antinous. Hevelius determined twenty-three stars in the first and nineteen in the second.
+The Greek Aquila is probably based on the Babylonian constellation of the Eagle (MUL.A.MUSHEN), which is located in the same area as the Greek constellation.
+Aquila, which lies in the Milky Way, contains many rich starfields and has been the location of many novae.
+Two major novae have been observed in Aquila: the first one was in 389 BC and was recorded as being as bright as Venus; the other (Nova Aquilae 1918) briefly shone brighter than Altair, the brightest star in Aquila.
+Three interesting planetary nebulae lie in Aquila:
+More deep-sky objects:
+NASA's Pioneer 11 space probe, which flew by Jupiter and Saturn in the 1970s, is expected to pass near the star Lambda (λ) Aquilae in about 4 million years.
+In illustrations of Aquila that represent it as an eagle, a nearly straight line of three stars symbolizes part of the wings. The center and brightest of these three stars is Altair. The tips of the wings extend further to the southeast and northwest. The head of the eagle stretches off to the southwest.
+According to Gavin White, the Babylonian Eagle carried the constellation called the Dead Man (LU.USH) in its talons. The author also draws a comparison to the Classical stories of Antinous and Ganymede.
+In classical Greek mythology, Aquila was identified as Αετός Δίας (Aetos Dios), the eagle that carried the thunderbolts of Zeus and was sent by him to carry the shepherd boy Ganymede, whom he desired, to Mount Olympus; the constellation of Aquarius is sometimes identified with Ganymede.
+In the Chinese love story of Qi Xi, Niu Lang (Altair) and his two children (β and γ Aquilae) are separated forever from their wife and mother Zhi Nu (Vega) who is on the far side of the river, the Milky Way.
+In Hinduism, the constellation Aquila is identified with the half-eagle half-human deity Garuda.
+In Chinese astronomy, ζ Aql is located within the Heavenly Market Enclosure (天市垣, Tiān Shì Yuán), and the other stars of the constellation are placed within the Black Tortoise of the North (北方玄武, Běi Fāng Xuán Wǔ).
+There were several different Polynesian equivalents to Aquila as a whole. On the island of Futuna, it was called Kau-amonga, meaning "Suspended Burden". Its name references the Futunan name for Orion's belt and sword, Amonga. In Hawaii, Altair was called Humu, after the humu humu fish, and the whole constellation was called Humu-ma, the "Humu cluster". Humu-ma was said to influence the astrologers.Pao-toa was the name for the entire constellation in the Marquesas Islands; the name meant "Fatigued Warrior". There were also Polynesian constellations that incorporated the stars of modern Aquila. The Pukapuka constellation Tolu, meaning "three", was made up of Alpha, Beta, and Gamma Aquilae. Altair was commonly named among Polynesian peoples as well. The people of Hawaii called it Humu, the people of the Tuamotus called it Tukituki ("Pound with a hammer") - they named Beta Aquilae Nga Tangata ("The Men") - and the people of Pukapuka called Altair Turu and used it as a navigational star. The Maori people named Altair Poutu-te-rangi, "Pillar of the Sky", because of its important position in their cosmology. It was used differently in different Maori calendars, being the star of February and March in one version and March and April in the other. Altair was also the star that ruled the annual sweet potato harvest.
+Two United States Navy ships, USS Aquila (AK-47) and USS Aquila (PHM-4), are named after the constellation.
+Coordinates: 20h 00m 00s, +05° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Aql</characteristic>
+<characteristic name="Genitive">Aquilae</characteristic>
+<characteristic name="Pronunciation">/ˈækwɨlə/ Áquila, occasionally /əˈkwɪlə/; genitive /ˈækwɨliː/</characteristic>
+<characteristic name="Symbolism">the Eagle</characteristic>
+<characteristic name="Right ascension">18h 41m 18.2958s – 20h 38m 23.7231s</characteristic>
+<characteristic name="Declination">18.6882229° – −11.8664360°</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Area">652 sq. deg. (22nd)</characteristic>
+<characteristic name="Main stars">10</characteristic>
+<characteristic name="Bayer/Flamsteed stars">65</characteristic>
+<characteristic name="Stars with planets">9</characteristic>
+<characteristic name="Stars brighter than 3.00m">3</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">2</characteristic>
+<characteristic name="Brightest star">Altair (α Aql) (0.76m)</characteristic>
+<characteristic name="Nearest star">Altair (α Aql) (16.77 ly, 5.13 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">June Aquilids, Epsilon Aquilids</characteristic>
+<characteristic name="Bordering constellations">Sagitta, Hercules, Ophiuchus, Serpens Cauda, Scutum, Sagittarius, Capricornus, Aquarius, Delphinus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −75°. Best visible at 21:00 (9 p.m.) during the month of August.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Aquila (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Aquila_(constellation)</link>
+</object>

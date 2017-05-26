@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lambda Scorpii" type="Star">
+	<images>
+<image title="Shaula">shaula_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Lambda Scorpii (λ Sco, λ Scorpii) is a blue star and the second brightest star system in the constellation Scorpius, and one of the brightest stars in the nighttime sky. It has the Bayer designation λ despite being the second brightest in its constellation. It has the traditional name Shaula, which comes from the Arabic الشولاء al-šawlā´ meaning the raised [tail], as it is found in the tail of the scorpion (Scorpius). It is known as Wei Xiu Ba 尾宿八 (the Eighth Star of the Tail) in Chinese.
+Lambda Scorpii is located some 570 light years away from Earth. Spectroscopic and interferometric observations have shown that A is actually a triple system consisting of two B-type stars and a pre–main sequence star. The primary star is also a beta Cephei variable star. The pre–main sequence star has an orbital period of 6 days and the B companion has a period of 1053 days. The three stars lie in the same orbital plane, strongly suggesting that they were formed at the same time. The masses of the primary, pre–main sequence star and the B companion are 10.4±1.3, 1.8±0.2 and 8.1±1.0 solar masses, respectively. The age of the system is estimated to be in the range 10–13 million years.
+A 15th magnitude star has a separation of 42 arcseconds, while a 12th magnitude star is 95 arcseconds away. It is not known whether or not these components are physically associated with Lambda Scorpii. If they both were, the first would have a projected linear separation of approximately 7500 Astronomical Units and the second approximately 17,000 AU (0.27 light years) away.
+Coordinates: 17h 33m 36.520s, −37° 06′ 13.76″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Scorpius</characteristic>
+<characteristic name="Right ascension">17h 33m 36.520s</characteristic>
+<characteristic name="Declination">−37° 06′ 13.76″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.62 / 14.9 / 12.0</characteristic>
+<characteristic name="Spectral type">B1.5-2 IV+ (A)</characteristic>
+<characteristic name="U−B color index">−0.91 (A)</characteristic>
+<characteristic name="B−V color index">−0.23 (A)</characteristic>
+<characteristic name="Variable type">Beta Cephei (A)</characteristic>
+<characteristic name="Radial velocity (Rv)">−3 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −8.90 mas/yr, Dec.: −29.95 mas/yr</characteristic>
+<characteristic name="Parallax (π)">5.71 ± 0.90 mas</characteristic>
+<characteristic name="Distance">approx. 570 ly (approx. 180 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−5</characteristic>
+<characteristic name="Mass">10.4 ± 1.3 M☉</characteristic>
+<characteristic name="Radius">6.5 R☉</characteristic>
+<characteristic name="Temperature">26,292 ± 408 K</characteristic>
+<characteristic name="Mass">8.1 ± 1.0 M☉</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Lambda Scorpii in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Shaula</link>
+</object>

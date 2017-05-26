@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Peacock" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+Alpha Pavonis (α Pavonis, abbreviated Alpha Pav, α Pav), also named Peacock, is a binary star in the southern constellation of Pavo, near the shared border with the Telescopium constellation.
+α Pavonis (Latinised to Alpha Pavonis) is the star's Bayer designation.
+
+The historical name Peacock was assigned by Her Majesty's Nautical Almanac Office in the late 1930s during the creation of the Air Almanac, a navigational almanac for the Royal Air Force. Of the fifty-seven stars included in the new almanac, two had no classical names: Alpha Pavonis and Epsilon Carinae. The RAF insisted that all of the stars must have names, so new names were invented. Alpha Pavonis was named "Peacock" ('pavo' is Latin for 'peacock') whilst Epsilon Carinae was called "Avior". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Peacock for this star and Avior for Epsilon Carinae.
+At an apparent magnitude of 1.94, this is the brightest star in Pavo. Based upon parallax measurements, this star is about 179 light-years (55 parsecs) distant from the Earth. It has an estimated six times the Sun's mass and 5–6 times the Sun's radius, but 2,200 times the luminosity of the Sun. However, Tetzlaff et al. (2011) suggest a much higher mass of 9 times the mass of the Sun. The effective temperature of the photosphere is 18,000 K, which gives the star a blue-white hue. A stellar classification of B2 IV suggests it is a subgiant star that has begun to evolve from the main sequence with the exhaustion of the hydrogen at its core.
+
+Stars with the mass of Alpha Pavonis are believed not to have a convection zone near their surface. Hence the material found in the outer atmosphere is not processed by the nuclear fusion occurring at the core. This means that the surface abundance of elements should be representative of the material out of which it originally formed. In particular, the surface abundance of deuterium should not change during the star's main sequence lifetime. The measured ratio of deuterium to hydrogen in this star amounts to less than 5 × 10−6, which suggests this star may have formed in a region with an unusually low abundance of deuterium, or else the deuterium was consumed by some means. A possible scenario for the latter is that the deuterium was burned through while Alpha Pavonis was a pre-main-sequence star.
+
+Alpha Pavonis is a spectroscopic binary consisting of a pair of stars that orbit around each other with a period of 11.753 days. However, in part because the two stars have not been individually resolved, little is known about the companion.
+
+The system may be a member of the Tucana-Horologium association of stars that share a common motion through space. The estimated age of this association is 30 million years, which, as the members share a common origin, suggests a similar age for Alpha Pavonis. However, Tetzlaff et al. (2011) suggest an age for this star of only 200,000 years. This star has a peculiar velocity of 13 km s−1 relative to its neighbors.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Peacock in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Alpha_Pavonis</link>
+</object>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Megrez" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Delta Ursae Majoris (δ Ursae Majoris, abbreviated Delta UMa, δ UMa), also named Megrez, is a star in the northern circumpolar constellation of Ursa Major. With an apparent magnitude of +3.3, it is the dimmest of the seven stars in the Big Dipper asterism. Parallax measurements yield a distance estimate of 58.4 light-years (17.9 parsecs) from the Sun.
+Megrez has 63% more mass then the Sun and is about 1.4 times its radius. It has a stellar classification of A3 V, which means it is an A-type main sequence star that is generating energy at its core through the nuclear fusion of hydrogen. It shines at 14 times the luminosity of the Sun, with this energy being emitted from its outer envelope at an effective temperature of 9,480 K. This gives it the white hue typical of an A-type star.
+
+This star has an excess emission of infrared radiation, indicating the presence of circumstellar matter. This forms a debris disk around an orbital radius of 16 Astronomical Units from the star. This radius is unusually small for the estimated age of the disk, which may be explained by drag from the Poynting–Robertson effect causing the dust to spiral inward.
+
+It has two faint companions, a 10th magnitude star and an 11th magnitude star, both at an angular separation of two arcminutes from the primary.
+
+Megrez is a marginally outlying member of the Ursa Major moving group, an association of stars that share a common motion through space and likely formed in the same molecular cloud. The space velocity components of Delta Ursae Majoris in the galactic coordinate system are [U, V, W] = [+15.35, +1.17, –11.52] km s−1.
+It bore the traditional name Megrez /ˈmɛɡrɛz/ and the historical name Kaffa. Megrez comes from the Arabic: المغرز‎‎ al-maghriz 'the base [of the bear's tail]'. Professor Paul Kunitzch has been unable to find any clues as to the origin of the name Kaffa, which appeared in a 1951 publication, Atlas Coeli (Skalnate Pleso Atlas of the Heavens) by Czech astronomer Antonín Bečvář.
+
+The Hindus knew this star as Atri, one of the Seven Rishis.
+
+In Chinese, 北斗 (Běi Dǒu), meaning Northern Dipper, refers to an asterism consisting of Delta Ursae Majoris, Alpha Ursae Majoris, Beta Ursae Majoris, Gamma Ursae Majoris, Epsilon Ursae Majoris, Zeta Ursae Majoris and Eta Ursae Majoris. Consequently, Delta Ursae Majoris itself is known as 北斗四 (Běi Dǒu sì, English: the Fourth Star of Northern Dipper) and 天權 (Tiān Quán, English: Star of Celestial Balance).
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Megrez in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Ursae_Majoris</link>
+</object>

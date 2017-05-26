@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Titan" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Titan_1.jpg</image>
+        <image title="">Titan_2.jpg</image>
+        <image title="">Titan_3.png</image>
+	</images>
+	<information>
+        Titan (or Saturn VI) is the largest moon of Saturn. It is the only natural satellite known to have a dense atmosphere, and the only object other than Earth where clear evidence of stable bodies of surface liquid has been found.
+
+        Titan is the sixth ellipsoidal moon from Saturn. Frequently described as a planet-like moon, Titan's diameter is 50% larger than Earth's natural satellite, the Moon, and it is 80% more massive. It is the second-largest moon in the Solar System, after Jupiter's moon Ganymede, and is larger than the smallest planet, Mercury, although only 40% as massive. Discovered in 1655 by the Dutch astronomer Christiaan Huygens, Titan was the first known moon of Saturn, and the sixth known planetary satellite. Titan orbits Saturn at 20 Saturn radii. From Titan's surface Saturn subtends an arc of 5.7 degrees and would appear 11.4 times the size our moon does to us.
+
+        Titan is primarily composed of water ice and rocky material. Much as with Venus before the Space Age, the dense opaque atmosphere prevented understanding of Titan's surface until new information accumulated when the Cassini–Huygens mission arrived in 2004, including the discovery of liquid hydrocarbon lakes in Titan's polar regions. The geologically young surface is generally smooth, with few impact craters, although mountains and several possible cryovolcanoes have been found.
+
+        The atmosphere of Titan is largely nitrogen; minor components lead to the formation of methane and ethane clouds and nitrogen-rich organic smog. The climate—including wind and rain—creates surface features similar to those of Earth, such as dunes, rivers, lakes, seas (probably of liquid methane and ethane), and deltas, and is dominated by seasonal weather patterns as on Earth. With its liquids (both surface and subsurface) and robust nitrogen atmosphere, Titan's methane cycle is analogous to Earth's water cycle, although at the much lower temperature of about 94 K (−179.2 °C).
+
+    Titan is 5,151 kilometres (3,201 mi) in diameter, 1.06 times that of the planet Mercury, 1.48 that of the Moon, and 0.40 that of Earth. Before the arrival of Voyager 1 in 1980, Titan was thought to be slightly larger than Ganymede (diameter 5,262 kilometres (3,270 mi)) and thus the largest moon in the Solar System; this was an overestimation caused by Titan's dense, opaque atmosphere, which extends many kilometres above its surface and increases its apparent diameter. Titan's diameter and mass (and thus its density) are similar to those of the Jovian moons Ganymede and Callisto. Based on its bulk density of 1.88 g/cm3, Titan's bulk composition is half water ice and half rocky material. Though similar in composition to Dione and Enceladus, it is denser due to gravitational compression. It has a mass equal to 1/4226 of Saturn, making it the largest moon of the gas giants relative to the mass of its primary, although at 1/22.609 of Saturn's diameter, Triton is larger relative in diameter to Neptune at 1/18.092 of Neptune's diameter.
+
+    Titan is likely differentiated into several layers with a 3,400-kilometre (2,100 mi) rocky center surrounded by several layers composed of different crystalline forms of ice. Its interior may still be hot enough for a liquid layer consisting of a "magma" composed of water and ammonia between the ice Ih crust and deeper ice layers made of high-pressure forms of ice. The presence of ammonia allows water to remain liquid even at a temperature as low as 176 K (−97 °C) (for eutectic mixture with water). Cassini probe discovered the evidence for the layered structure in the form of natural extremely-low-frequency radio waves in Titan's atmosphere. Titan's surface is thought to be a poor reflector of extremely-low-frequency radio waves, so they may instead be reflecting off the liquid–ice boundary of a subsurface ocean. Surface features were observed by the Cassini spacecraft to systematically shift by up to 30 kilometres (19 mi) between October 2005 and May 2007, which suggests that the crust is decoupled from the interior, and provides additional evidence for an interior liquid layer. Further supporting evidence for a liquid layer and ice shell decoupled from the solid core comes from the way the gravity field varies as Titan orbits Saturn. Comparison of the gravity field with the RADAR-based topography observations also suggests that the ice shell may be substantially rigid.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Titan in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Titan_(moon)</link>
+</object>

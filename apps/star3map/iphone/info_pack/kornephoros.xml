@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Kornephoros" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+        Beta Herculis (Beta Her, β Herculis, β Her), which has the traditional name Kornephoros, is the brightest star in the northern constellation of Hercules at a base apparent visual magnitude of 2.81. This is a suspected variable star with an apparent magnitude that may rise as high as 2.76. Based upon parallax measurements, it is located at a distance of 139 light-years (43 parsecs) from Earth.
+        
+        Although β Herculis appears to the naked eye to be a single star, in July 1899 the American astronomer W. W. Campbell discovered from spectroscopic measurements that its radial velocity varies, and concluded that it is a binary system. An orbit for the binary was computed in 1908 based upon additional spectroscopic measurements.
+        
+        At Palomar Observatory, Antoine Labeyrie and others used speckle interferometry with the Hale Telescope to resolve the system in 1977. The Hipparcos satellite observed the orbital motion of the primary relative to other stars, and an orbit was computed in 2005 using spectroscopic data together with these measurements. The period of the system is around 410 days. They have a high orbital eccentricity of 0.55 and the orbital plane is inclined 53.8° to the line of sight from the Earth.
+        
+        The primary star in this binary system has a stellar classification of G7 IIIa, indicating that it is a giant star that has exhausted the hydrogen at its core and evolved away from the main sequence. It has a mass nearly three times the mass of the Sun, and has expanded to 17 times the Sun's radius. The effective temperature of the star's outer envelope is about 4,887 K, which gives it the yellow hue of a G-type star. The secondary star has a mass only 90% that of the Sun.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Kornephoros in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Herculis</link>
+</object>

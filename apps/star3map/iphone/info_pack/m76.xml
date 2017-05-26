@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Little Dumbbell Nebula" type="Galaxies">
+	<images>
+		<image title="">m 76_1.jpg</image>
+	</images>
+	<information>
+The Little Dumbbell Nebula, also known as Messier 76, NGC 650/651, the Barbell Nebula, or the Cork Nebula, is a planetary nebula in the constellation Perseus. It was discovered by Pierre Méchain in 1780 and included in Charles Messier's catalog of comet-like objects as number 76. It was first recognised as a planetary nebula in 1918 by the astronomer Heber Doust Curtis. However, there is some contention to this claim, as Isaac Roberts in 1891 did suggest that M76 might be similar to the Ring Nebula (M57), being instead as seen from the side view. The structure is now classed as a bipolar planetary nebula (BPNe).
+Distance to M76 is currently estimated as 780 parsecs or 2,500 light years, making the average dimensions about 0.378 pc. (1.23 ly.) across.
+The total nebula shines at the apparent magnitude of +10.1 with its central star or planetary nebula nucleus (PNN) at +15.9v (16.1B) magnitude. The UV-light from the PNN is expanding outer layers that form the present nebula, and has the surface temperature of about 88,400 K. The whole planetary nebula is approaching us at −19.1 km.s−1.
+The Little Dumbbell Nebula derives its common name from its resemblance to the Dumbbell Nebula (M27) in Vulpecula. It was originally thought to consist of two separate emission nebulae and was thus given two catalog numbers in the NGC 650 and 651. Some consider this object to be one of the faintest and hardest to see objects in Messier's list.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">01h 42.4m</characteristic>
+		<characteristic name="Declination">+51° 34′ 31″</characteristic>
+		<characteristic name="Distance">780 pc or 2,500 ly</characteristic>
+		<characteristic name="Apparent magnitude (V)">+10.1</characteristic>
+		<characteristic name="Apparent dimensions (V)">2.7 × 1.8 arcmin</characteristic>
+		<characteristic name="Constellation">Perseus</characteristic>
+		<characteristic name="Radius">0.617 ly</characteristic>
+		<characteristic name="Absolute magnitude (V)">+10.1</characteristic>
+		<characteristic name="Other designations">M76, NGC 650/651</characteristic>
+	</characteristics>
+	<link title="Get more info about Little Dumbbell Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Little_Dumbbell_Nebula</link>
+</object>

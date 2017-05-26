@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 108" type="Galaxies">
+	<images>
+		<image title="A Hubble Space Telescope image of M108.">m 108_1.jpg</image>
+		<image title="Amateur image of M108">m 108_2.jpg</image>
+	</images>
+	<information>
+Messier 108 (also known as NGC 3556) is a barred spiral galaxy in the constellation Ursa Major. It was discovered by Pierre Méchain in 1781 or 1782. From the perspective of the Earth, this galaxy is seen almost edge-on.
+This galaxy is an isolated member of the Ursa Major Cluster of galaxies in the Virgo supercluster. It has a morphological classification of type SBbc in the de Vaucouleurs system, which means it is a barred spiral galaxy with somewhat loosely wound arms. The maximum angular size of the galaxy in the optical band is 11′.1 × 4′.6, and it is inclined 75° to the line of sight.
+This galaxy has an estimated mass of 125 billion times the mass of the Sun and includes about 290 ± 80 globular clusters. Examination of the distribution of neutral hydrogen in this galaxy shows shells of expanding gas extending for several kiloparsecs, known as H1 supershells. These may be driven by bursts of star formation activity, resulting in supernovae explosions. Alternatively they may result from an infall of gas from outside the galaxy or by radio jets.
+Observations with the Chandra X-ray Observatory have identified 83 X-ray sources, including a source located at the nucleus. The brightest of these sources may be an intermediate-mass black hole that is accreting matter. The galaxy is also emitting a diffuse soft X-ray radiation within 10 kpc of the optical galaxy. The spectrum of the X-ray source at the core is consistent with an active galactic nucleus, but an examination with the Spitzer Space Telescope shows no indication of activity. The supermassive black hole at the core has an estimated mass equal to 24 million times the mass of the Sun.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Ursa Major</characteristic>
+		<characteristic name="Right ascension">11h 11m 31.0s</characteristic>
+		<characteristic name="Declination">+55° 40′ 27″</characteristic>
+		<characteristic name="Redshift">699 ± 9 km/s</characteristic>
+        <characteristic name="Distance">14.1 Mpc</characteristic>
+		<characteristic name="Type">SB(s)cd</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.7 × 2′.2</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.7</characteristic>
+		<characteristic name="Other designations">NGC 3556, PGC 34030, UGC 6225</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 108 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_108</link>
+</object>

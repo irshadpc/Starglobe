@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Epsilon Boötis" type="Star">
+	<images>
+<image title="Epsilon Boötis">izar_1.png</image>
+<image title="">izar__3.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Epsilon Boötis (ε Boo, ε Boötis) is a double star in the northern constellation of Boötes. It has the traditional names Izar and Pulcherrima. The star system can be viewed with the unaided eye at night, but resolving the pair with a small telescope is challenging; an aperture of 76 mm (3.0 in) or greater is required.
+
+Epsilon Boötis consists of a pair of stars with an angular separation of 2.852 ± 0.014 arcseconds at a position angle of 342.°9 ± 0.°3. The brighter component (A) has an apparent visual magnitude of 2.37, making it readily visible to the naked eye at night. The fainter component (B) is at magnitude 5.12, which by itself would also be visible to the naked eye. Parallax measurements from the Hipparcos astrometry satellite put the system at a distance of about 203 light-years (62 parsecs) from the Earth. This means the pair has a projected separation of 185 Astronomical Units and they orbit each other with a period of at least 1,000 years.
+The brighter member has a stellar classification of K0 II-III, which means it is a fairly late-stage star well into its stellar evolution, having already exhausted its supply of hydrogen fuel at the core. With more than four times the mass of the Sun, it has expanded to about 33 times the Sun's radius and is emitting 501 times the luminosity of the Sun. This energy is being radiated from its outer envelope at an effective temperature of 4,550 K, giving it the orange hue of a K-type star.
+The companion star has a classification of A2 V, so it is a main sequence star that is generating energy through the thermonuclear fusion of hydrogen at its core. This star is rotating rapidly, with a projected rotational velocity of 123 km s–1 By the time the smaller main sequence star reaches the current point of the primary in its evolution, the larger star will have lost much of its mass in a planetary nebula and will have evolved into a white dwarf. The pair will have essentially changed roles: the brighter star becoming the dim dwarf, while the lesser companion will shine as a giant star.
+The name Izar is derived from the Arabic إزار ’izār "veil", and Pulcherrima is Latin for "loveliest". Other historical names are Mirak, from Arabic المراق al-maraqq "the loins", and Mizar. In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Mintek al Aoua (منتقة ألعوع - minṭáqa al awwa), which was translated into Latin as Cingulum Latratoris, meaning belt of barker.
+In Chinese, 梗河 (Gěng Hé), meaning Celestial Lance, refers to an asterism consisting of ε Boötis, σ Boötis and ρ Boötis. Consequently, ε Boötis itself is known as 梗河一 (Gěng Hé yī, English: the First Star of Celestial Lance.)
+In 1973, the Scottish astronomer and science fiction writer Duncan Lunan claimed to have managed to interpret a message caught in the 1920s by two Norwegian physicists that, according to his theory, came from a probe orbiting the Moon and sent there by the inhabitants of a planet orbiting Epsilon Boötis. The story was even reported in Time magazine. Lunan later withdrew his Epsilon Boötis theory, presenting proofs against it and clarifying why he was brought to formulate it in the first place.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Boötes</characteristic>
+<characteristic name="Right ascension">14h 44m 59.21746s</characteristic>
+<characteristic name="Declination">+27° 04′ 27.2099″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.37 / 5.12</characteristic>
+<characteristic name="Spectral type">K0 II-III + A2 V</characteristic>
+<characteristic name="U−B color index">+0.73</characteristic>
+<characteristic name="B−V color index">+0.97</characteristic>
+<characteristic name="Radial velocity (Rv)">-16.31 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: -50.95 mas/yr, Dec.: +21.07 mas/yr</characteristic>
+<characteristic name="Parallax (π)">16.10 ± 0.66mas</characteristic>
+<characteristic name="Distance">203 ± 8 ly (62 ± 3 pc)</characteristic>
+<characteristic name="Mass">4.6 M☉</characteristic>
+<characteristic name="Radius">33 R☉</characteristic>
+<characteristic name="Luminosity">501 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.2 cgs</characteristic>
+<characteristic name="Temperature">4,550 K</characteristic>
+<characteristic name="Metallicity">–0.13</characteristic>
+<characteristic name="Rotational velocity (v sin i)">10.9 km/s</characteristic>
+<characteristic name="Age">37.4 ± 4.2 Myr</characteristic>
+<characteristic name="Rotational velocity (v sin i)">123 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Epsilon Boötis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Epsilon_Boötis</link>
+</object>

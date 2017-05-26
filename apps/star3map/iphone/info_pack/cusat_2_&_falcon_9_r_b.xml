@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="CUSAT 2 &amp; FALCON 9 R/B Satellite details" type="Satellite">
+	<images>
+		<image>garbage.png</image>
+	</images>
+	<information>
+	</information>
+	<characteristics>
+		<characteristic name="NORAD ID">39271U</characteristic>
+		<characteristic name="Int'l Code">13055G</characteristic>
+		<characteristic name="Launch">2013 (55° from year, payload G)</characteristic>
+		<characteristic name="Period">102.1 minutes</characteristic>
+		<characteristic name="Revs/day">14.1</characteristic>
+		<characteristic name="Inclination">81 degrees</characteristic>
+		<characteristic name="Apogee">1396 km</characteristic>
+		<characteristic name="Perigee">319 km</characteristic>
+		<characteristic name="Semi-major axis">7236 km</characteristic>
+		<characteristic name="Note">This is a ROCKET BODY</characteristic>
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

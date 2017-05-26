@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 90" type="Galaxies">
+	<images>
+		<image title="">m90_1.jpg</image>
+	</images>
+	<information>
+Messier 90 (also known as M90 and NGC 4569) is a spiral galaxy about 60 million light-years away in the constellation Virgo. It was discovered by Charles Messier in 1781.
+Messier 90 is a member of the Virgo Cluster. and one of its largest and brightest spiral galaxies, with an absolute magnitude of around -22 (brighter than the Andromeda Galaxy). The galaxy is located approximately 1°.5 away from the subgroup centered on Messier 87. As a consequence of the galaxy's interaction with the intracluster medium in the Virgo Cluster, the galaxy has lost much of its interstellar medium. As a result of this process, which is referred to as ram-pressure stripping, the galaxy's interstellar medium and star formation regions appear severely truncated compared to similar galaxies outside the Virgo Cluster and there're even H II regions outside the galactic plane.
+As stated above, the star formation in Messier 90 appears truncated. Consequently, the galaxy's spiral arms appear to be smooth and featureless, rather than knotted like galaxies with extended star formation., which justifies why this galaxy, along with NGC 4921 in the Coma Cluster has been classified as the prototype of an anemic galaxy. Some authors go even further and consider it's a passive spiral galaxy, similar to those found on galaxy clusters with high redshift.
+However, the center of Messier 90 appears to be a site of significant star formation activity, where around 5*104 stars of spectral types O and B that formed around 5-6 million years ago are surrounded by a large amount of A-type supergiants that were born in other starburst that took place before the former, between 15 and 30 million years ago.
+Multiple supernovae (up to 105) in the nucleus have produced 'superwinds' that are blowing the galaxy's interstellar medium outward into the intracluster medium. collimated in two jets, one of which is being disturbed by interaction with Virgo's intracluster medium as the galaxy moves through it.
+The spectrum of Messier 90 is blueshifted, which indicates that it is moving towards the Earth. In contrast, the spectra of most other galaxies are redshifted. The blueshift was originally used to argue that Messier 90 was actually an object in the foreground of the Virgo Cluster. However, since the phenomenon was limited mostly to galaxies in the same part of the sky as the Virgo Cluster, it appeared that this inference based on the blueshift was incorrect. Instead, the blueshift is thought to be evidence for the large range in velocities of objects within the Virgo Cluster itself.
+Low levels of H I gas prevents using the Tully-Fisher relation to estimate the distance to Messier 90.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 36m 49.8s</characteristic>
+		<characteristic name="Declination">+13° 09′ 46″</characteristic>
+		<characteristic name="Apparent dimensions (V)">9.5 × 4.4 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.26</characteristic>
+        <characteristic name="Type">SAB(rs)ab, LINER, Sy</characteristic>
+		<characteristic name="Heliocentric radial velocity">−235 ± 4km/s</characteristic>
+		<characteristic name="Redshift">-0.000784 ± 0.000013</characteristic>
+		<characteristic name="Galactocentric velocity">−282 ± 4 km/s</characteristic>
+		<characteristic name="Distance">58.7 ± 2.8 Mly (18.00 ± 0.86 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 4569, UGC 7786, PGC 42089, Arp 76</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 90 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_90</link>
+</object>

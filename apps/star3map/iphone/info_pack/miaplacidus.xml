@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Miaplacidus" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+Beta Carinae (β Carinae, abbreviated Beta Car, β Car), also named Miaplacidus, is the second brightest star in the constellation of Carina and one of the brightest stars in the night sky, with apparent magnitude 1.68. It is the brightest star in the south polar asterism known as the Diamond Cross, marking the southwestern end of the asterism. It lies near the planetary nebula IC 2448. Parallax measurements place it at a distance of 113.2 light-years (34.7 parsecs) from the Sun.
+The star's historical name Miaplacidus made its debut on star maps in 1856 when the star atlas Geography of the Heavens, composed by Elijah Hinsdale Burritt, was published. The meaning and linguistic origin of the name remained an enigma for many decades, until William Higgins, a great scholar and expert on star names, surmised that the name Miaplacidus is apparently a bilingual combination of Arabic مياه miyāh for 'waters' and Latin placidus for 'placid'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Miaplacidus for this star.
+
+In Chinese, 南船 (Nán Chuán), meaning Southern Boat, refers to an asterism consisting of β Carinae, V337 Carinae, PP Carinae, Theta Carinae and Omega Carinae . Consequently, β Carinae itself is known as 南船五 (Nán Chuán wǔ, English: the Fifth Star of Southern Boat.)
+The stellar classification of A1 III– suggests this is an evolved giant star, although Malagnini and Morossi (1990) rated it as an A2 IV subgiant star. It has an estimated age of 260 million years. This star does not show an excess emission of infrared radiation that might otherwise suggest the presence of a debris disk. It has about 3.5 times the Sun's mass and has expanded to almost seven times the radius of the Sun. Presently is it radiating 288 times as much luminosity as the Sun from its outer envelope at an effective temperature of 8,866 K. Despite its enlarged girth, this star still shows a rapid rotation rate, with a projected rotational velocity of 146 km s−1.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Miaplacidus in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Carinae</link>
+</object>

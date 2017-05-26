@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Trifid Nebula" type="Galaxies">
+	<images>
+		<image title="Trifid Nebula by the Hubble Space Telescope">m 20_1.jpg</image>
+		<image title="M20 with amateur telescope">m 20_2.jpg</image>
+		<image title="Hubble image, a closer detail of last. Credit: NASA/ESA.">m 20_3.jpg</image>
+		<image title="The Trifid Nebula in infrared as seen by the Spitzer Space Telescope. These visible colors show 3.6, 8.0, and 24 micron light">m 20_4.png</image>
+		<image title="The Trifid Nebula is a rare combination of three nebulae types that reveal the fury of freshly formed stars and point to more star birth in the future. Credit: ESO">m 20_5.png</image>
+	</images>
+	<information>
+The Trifid Nebula (catalogued as Messier 20 or M20 and as NGC 6514) is an H II region located in Sagittarius. It was discovered by Charles Messier on June 5, 1764. Its name means 'divided into three lobes'. The object is an unusual combination of an open cluster of stars; an emission nebula (the lower, red portion), a reflection nebula (the upper, blue portion) and a dark nebula (the apparent 'gaps' within the emission nebula that cause the trifurcated appearance; these are also designated Barnard 85). Viewed through a small telescope, the Trifid Nebula is a bright and peculiar object, and is thus a perennial favorite of amateur astronomers.
+The Trifid Nebula was the subject of an investigation by astronomers using the Hubble Space Telescope in 1997, using filters that isolate emission from hydrogen atoms, ionized sulfur atoms, and doubly ionized oxygen atom. The images were combined into a false-color composite picture to suggest how the nebula might look to the eye.
+The close-up images show a dense cloud of dust and gas, which is a stellar nursery full of embryonic stars. This cloud is about 8 light-years away from the nebula's central star. A stellar jet protrudes from the head of the cloud and is about 0.75 ly long. The jet's source is a young stellar object deep within the cloud. Jets are the exhaust gasses of star formation. Radiation from the nebula's central star makes the jet glow.
+The images also showed a finger-like stalk to the right of the jet. It points from the head of the dense cloud directly toward the star that powers the Trifid nebula. This stalk is a prominent example of evaporating gaseous globules, or 'EGGs'. The stalk has survived because its tip is a knot of gas that is dense enough to resist being eaten away by the powerful radiation from the star.
+In January 2005, NASA's Spitzer Space Telescope discovered 30 embryonic stars and 120 newborn stars not seen in visible light images.
+It is approximately 5000 ly away from Earth. Its apparent magnitude is 6.3.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 02m 23s</characteristic>
+		<characteristic name="Declination">−23° 01′ 48″</characteristic>
+		<characteristic name="Distance">5200 ly   (1,600 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.3</characteristic>
+		<characteristic name="Apparent dimensions (V)">28 arcmins</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Designations">M20, NGC 6514,[1] Sharpless 30, RCW 147, Gum 76</characteristic>
+	</characteristics>
+	<link title="Get more info about Trifid Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Trifid_Nebula</link>
+</object>

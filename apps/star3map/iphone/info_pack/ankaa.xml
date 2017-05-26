@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Phoenicis" type="Star">
+	<images>
+<image title="Ankaa">ankaa_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Phoenicis (α Phe, α Phoenicis) is the brightest star in the constellation Phoenix. It has been given name Ankaa, from the Arabic العنقاء al-‘anqā’ "the phoenix", sometime after 1800 for the name of the constellation. Medieval Arab astronomers formed the constellation of the dhow (small boat) where Phoenix is, so another popular name for the star is Nair al-Zaurak. from النائر الزورق an-na’ir az-zawraq "the bright (star) of the skiff". The Latin translation is Cymbae, from lūcida cumbæ.
+This is a spectroscopic binary star system with components that orbit each other every 3848.8 days (10.5 years). The combined stellar classification of the system is K0.5 IIIb, which matches the spectrum of a lower luminosity giant star. It has an apparent visual magnitude of 2.4, so it is somewhat outshone by its first magnitude neighbors Achernar (α Eridani) and Fomalhaut (α Piscis Australis). Based upon parallax measurements, this system is at a distance of about 85 light-years (26 parsecs) from the Earth. The interferometry-measured angular diameter of the primary component, after correcting for limb darkening, is 5.25 ± 0.06 mas, which, at its estimated distance, equates to a physical radius of about 15 times the radius of the Sun.
+Ankaa is similar to many of the visible stars of the night sky, being an orange giant of relatively average stellar size. It is currently thought to be in the midst of a short but stable helium burning phase of its stellar evolution, although it probably won't be long in astronomical terms before it sheds its outer layers in a planetary nebula and ends its life quietly as a white dwarf. Ankaa has a small stellar companion, about which little is known.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Phoenix</characteristic>
+<characteristic name="Right ascension">00h 26m 17.05140s</characteristic>
+<characteristic name="Declination">–42° 18′ 21.5539″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.377</characteristic>
+<characteristic name="Spectral type">K0.5 IIIb</characteristic>
+<characteristic name="U−B color index">+0.903</characteristic>
+<characteristic name="B−V color index">+1.092</characteristic>
+<characteristic name="Radial velocity (Rv)">+74.6 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +233.05 mas/yr, Dec.: –356.30 mas/yr</characteristic>
+<characteristic name="Parallax (π)">38.50 ± 0.73mas</characteristic>
+<characteristic name="Distance">85 ± 2 ly (26.0 ± 0.5 pc)</characteristic>
+<characteristic name="Period (P)">3848.8 days</characteristic>
+<characteristic name="Semi-major axis (a)">103.5 m</characteristic>
+<characteristic name="Eccentricity (e)">0.34</characteristic>
+<characteristic name="Inclination (i)">128.0 ± 5.4°</characteristic>
+<characteristic name="Longitude of the node (Ω)">242.8 ± 3.9°</characteristic>
+<characteristic name="Periastron epoch (T)">2416201.8 HJD</characteristic>
+<characteristic name="Argument of periastron (ω)(primary)">19.8°</characteristic>
+<characteristic name="Radius">15 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.53 cgs</characteristic>
+<characteristic name="Temperature">4,436 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.73 dex</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Phoenicis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Ankaa</link>
+</object>

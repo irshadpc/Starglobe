@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 75" type="Galaxies">
+	<images>
+		<image title="">m 75_1.png</image>
+	</images>
+	<information>
+Messier 75 (also known as M75 or NGC 6864) is a globular cluster in the constellation Sagittarius. It was discovered by Pierre Méchain in 1780 and included in Charles Messier's catalog of comet-like objects that same year.
+M75 is at a distance of about 67,500 light years away from Earth and its apparent size on the sky translates to a true radius of some 67 light years. It is classified as class I, meaning it is one of the more densely concentrated globular clusters known. The absolute magnitude of M75 is about −8.5 or some 180,000 times more luminous than the Sun.
+	</information>
+	<characteristics>
+		<characteristic name="Class">I</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">20h 06m 04.75s</characteristic>
+		<characteristic name="Declination">−21° 55′ 16.2″</characteristic>
+		<characteristic name="Distance">67.5 kly (20.7 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+9.18</characteristic>
+		<characteristic name="Apparent dimensions (V)">6′.8</characteristic>
+		<characteristic name="Radius">67 ly</characteristic>
+		<characteristic name="Other designations">M75, NGC 6864, GCl 116</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 75 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_75</link>
+</object>

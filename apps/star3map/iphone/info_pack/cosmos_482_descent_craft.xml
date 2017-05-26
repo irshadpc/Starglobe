@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 482 DESCENT CRAFT Satellite details 1972-023E NORAD 06073" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">6073	</characteristic><characteristic name="Int'l Code">1972-023E</characteristic>
+<characteristic name="Perigee">213.6 km</characteristic>
+<characteristic name="Apogee">3,199.4 km</characteristic>
+<characteristic name="Inclination">52.1 °</characteristic>
+<characteristic name="Period">120.4 minutes</characteristic>
+<characteristic name="Semi major axis">8077 km</characteristic>
+<characteristic name="Launch date">March 31, 1972</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

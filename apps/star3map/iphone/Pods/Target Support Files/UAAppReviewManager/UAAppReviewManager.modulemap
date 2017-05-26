@@ -1,0 +1,6 @@
+framework module UAAppReviewManager {
+  umbrella header "UAAppReviewManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

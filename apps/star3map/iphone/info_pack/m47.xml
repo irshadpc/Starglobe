@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 47" type="Galaxies">
+	<images>
+		<image title="">m47_1.jpg</image>
+	</images>
+	<information>
+Open Cluster M47 (also known as Messier Object 47 or NGC 2422) is an open cluster in the constellation Puppis. It was discovered by Giovanni Batista Hodierna before 1654 and independently discovered by Charles Messier on February 19, 1771.
+There is actually no cluster in the position indicated by Messier, which he expressed in terms of its right ascension and declination with respect to the star 2 Puppis. However, if the signs of Messier's coordinate differences are changed, the position matches that of NGC 2422.
+M47 is at a distance of about 1,600 light-years from Earth with an estimated age of about 78 million years. There are about 50 stars in this cluster, the brightest one being of magnitude +5.7.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">07h 36.6m</characteristic>
+		<characteristic name="Declination">-14° 30′</characteristic>
+		<characteristic name="Distance">1.6 kly (490 Pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">4.2</characteristic>
+		<characteristic name="Apparent dimensions (V)">30.0′</characteristic>
+		<characteristic name="Radius">6</characteristic>
+		<characteristic name="Estimated age">78 million years</characteristic>
+		<characteristic name="Other designations">NGC 2422</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 47 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_47</link>
+</object>

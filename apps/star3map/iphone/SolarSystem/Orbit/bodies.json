@@ -1,0 +1,455 @@
+[
+    {
+        "id": "mercury",
+        "name": "Mercury",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.000071,
+        "tilt": 0.00936,
+        "texture": "mercury.jpg"
+    },
+    {
+        "id": "venus",
+        "name": "Venus",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.000017,
+        "tilt": 177.4,
+        "texture": "venus.jpg",
+        "glow": {
+            "inner": [0.5, 0.25, 0.2],
+            "outer": [0.2, 0.125, 0.0625]
+        }
+    },
+    {
+        "id": "earth",
+        "name": "Earth",
+        "package": "base",
+        "type": "planet",
+        "radius": 1,
+        "enabled": true,
+        "parent": null,
+        "spin": 0.0042,
+        "tilt": 23.4,
+        "texture": ["earth-map-day.jpg", "earth-map-night.jpg"],
+        "glow": {
+            "inner": [0.4, 0.4, 1.0],
+            "outer": [0.9, 0.9, 1.0]
+        },
+        "clouds": {
+            "texture": "earth-clouds-map.png",
+            "spin": 0.001
+        }
+    },
+    {
+        "id": "moon",
+        "name": "Moon",
+        "package": "base",
+        "type": "moon",
+        "enabled": true,
+        "parent": "earth",
+        "radius": 0.2724,
+        "distance": 60.335,
+        "spin": 0,
+        "tilt": 6.669,
+        "period": 2548800,
+        "texture": "moon.jpg"
+    },
+    {
+        "id": "mars",
+        "name": "Mars",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.004055,
+        "tilt": 25.038,
+        "texture": "mars.jpg",
+        "glow": {
+            "inner": [0.35, 0.15, 0.15],
+            "outer": [0.25, 0.25, 0.25]
+        },
+        "clouds": {
+            "texture": "mars-clouds.png",
+            "spin": 0.005
+        }
+    },
+    {
+        "id": "phobos",
+        "name": "Phobos",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "mars",
+        "radius": 0.00328,
+        "scale": [1.29, 1.18, 0.93],
+        "distance": 2.01,
+        "spin": 0,
+        "tilt": 0,
+        "period": 27576,
+        "texture": "phobos.jpg"
+    },
+    {
+        "id": "deimos",
+        "name": "Deimos",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "mars",
+        "radius": 0.0018,
+        "scale": [2.35, 1.77, 1.68],
+        "distance": 6.9,
+        "spin": 0,
+        "tilt": 0,
+        "period": 109123,
+        "texture": "deimos.jpg"
+    },
+    {
+        "id": "jupiter",
+        "name": "Jupiter",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.0111,
+        "tilt": 3.1356,
+        "texture": "jupiter.jpg",
+        "glow": {
+            "inner": [0.3, 0.1, 0.0],
+            "outer": [0.5, 0.4, 0.3]
+        },
+        "clouds": {
+            "texture": "jupiter-clouds.png",
+            "spin": 0
+        }
+    },
+    {
+        "id": "io",
+        "name": "Io",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "jupiter",
+        "radius": 0.0183,
+        "distance": 6.031,
+        "spin": 0,
+        "tilt": 0,
+        "period": 152854,
+        "texture": "io.jpg"
+    },
+    {
+        "id": "europa",
+        "name": "Europa",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "jupiter",
+        "radius": 0.0223,
+        "distance": 9.596,
+        "spin": 0,
+        "tilt": 0,
+        "period": 306822,
+        "texture": "europa.jpg"
+    },
+    {
+        "id": "ganymede",
+        "name": "Ganymede",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "jupiter",
+        "radius": 0.0376,
+        "distance": 15.31,
+        "spin": 0,
+        "tilt": 0,
+        "period": 618153,
+        "texture": "ganymede.jpg"
+    },
+    {
+        "id": "callisto",
+        "name": "Callisto",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "jupiter",
+        "radius": 0.0345,
+        "distance": 26.93,
+        "spin": 0,
+        "tilt": 0,
+        "period": 1441931,
+        "texture": "callisto.jpg"
+    },
+    {
+        "id": "saturn",
+        "name": "Saturn",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.0093838,
+        "tilt": 26.7,
+        "texture": "saturnmap.jpg",
+        "glow": {
+            "inner": [0.3, 0.2, 0.0],
+            "outer": [0.6, 0.5, 0.4]
+        },
+        "rings": {
+            "radius0": 1,
+            "radius1": 2.5,
+            "color": [1, 1, 1],
+            "texture": "saturn-rings.png"
+        }
+    },
+    {
+        "id": "mimas",
+        "name": "Mimas",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.0034,
+        "distance": 3.18,
+        "spin": 0,
+        "tilt": 0,
+        "period": 81388.8,
+        "texture": "mimas.jpg"
+    },
+    {
+        "id": "enceladus",
+        "name": "Enceladus",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.004,
+        "distance": 4.087,
+        "spin": 0,
+        "tilt": 0,
+        "period": 112320,
+        "texture": "enceladus.jpg"
+    },
+    {
+        "id": "tethys",
+        "name": "Tethys",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.0092,
+        "distance": 5.06,
+        "spin": 0,
+        "tilt": 0,
+        "period": 163037,
+        "texture": "tethys.jpg"
+    },
+    {
+        "id": "dione",
+        "name": "Dione",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.0096,
+        "distance": 6.48,
+        "spin": 0,
+        "tilt": 0,
+        "period": 236468,
+        "texture": "dione.jpg"
+    },
+    {
+        "id": "rhea",
+        "name": "Rhea",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.013,
+        "distance": 9.05,
+        "spin": 0,
+        "tilt": 0,
+        "period": 388800,
+        "texture": "rhea.jpg"
+    },
+    {
+        "id": "titan",
+        "name": "Titan",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.044,
+        "distance": 20.98,
+        "spin": 0,
+        "tilt": 0,
+        "period": 1377648,
+        "texture": "titan.jpg",
+        "clouds": {
+            "texture": "titan-clouds.png",
+            "spin": 0.006
+        },
+        "glow": {
+            "inner": [0.15, 0.909, 0.78],
+            "outer": [0.0, 0.39, 0.839]
+        }
+    },
+    {
+        "id": "iapetus",
+        "name": "Iapetus",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "saturn",
+        "radius": 0.0126,
+        "distance": 61.13,
+        "spin": 0,
+        "tilt": 0,
+        "period": 6825600,
+        "texture": "iapetus.jpg"
+    },
+    {
+        "id": "uranus",
+        "name": "Uranus",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.0058,
+        "tilt": 98,
+        "texture": "uranus.jpg",
+        "glow": {
+            "inner": [0.2, 0.4, 0.8],
+            "outer": [0.6, 0.8, 0.9]
+        },
+        "rings": {
+            "radius0": 1.1,
+            "radius1": 2,
+            "color": [0.7, 0.7, 0.8],
+            "texture": "uranus-rings.png"
+        }
+    },
+    {
+        "id": "miranda",
+        "name": "Miranda",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "uranus",
+        "radius": 0.0093,
+        "distance": 5.102,
+        "spin": 0,
+        "tilt": 0,
+        "period": 122125,
+        "texture": "miranda.jpg"
+    },
+    {
+        "id": "ariel",
+        "name": "Ariel",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "uranus",
+        "radius": 0.0228,
+        "distance": 7.53,
+        "spin": 0,
+        "tilt": 0,
+        "period": 217728,
+        "texture": "ariel.jpg"
+    },
+    {
+        "id": "umbriel",
+        "name": "Umbriel",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "uranus",
+        "radius": 0.023,
+        "distance": 10.488,
+        "spin": 0,
+        "tilt": 0,
+        "period": 356400,
+        "texture": "umbriel.jpg"
+    },
+    {
+        "id": "titania",
+        "name": "Titania",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "uranus",
+        "radius": 0.031,
+        "distance": 17.1875,
+        "spin": 0,
+        "tilt": 0,
+        "period": 752198,
+        "texture": "titania.jpg"
+    },
+    {
+        "id": "oberon",
+        "name": "Oberon",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "uranus",
+        "radius": 0.03,
+        "distance": 23.007,
+        "spin": 0,
+        "tilt": 0,
+        "period": 1163203,
+        "texture": "oberon.jpg"
+    },
+    {
+        "id": "neptune",
+        "name": "Neptune",
+        "package": "base",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.006207,
+        "tilt": 28.32,
+        "texture": "neptune.jpg",
+        "glow": {
+            "inner": [0.3, 0.3, 1.0],
+            "outer": [0.6, 0.5, 0.65]
+        }
+    },
+    {
+        "id": "triton",
+        "name": "Triton",
+        "package": "moons",
+        "type": "moon",
+        "enabled": true,
+        "parent": "neptune",
+        "radius": 0.05497,
+        "distance": 14.408,
+        "spin": 0,
+        "tilt": 0,
+        "period": -507760,
+        "texture": "triton.jpg"
+    },
+    {
+        "id": "pluto",
+        "name": "Pluto",
+        "package": "dwarf-planets",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.000652,
+        "tilt": 119.61,
+        "texture": "pluto.jpg"
+    },
+    {
+        "id": "ceres",
+        "name": "Ceres",
+        "package": "dwarf-planets",
+        "type": "planet",
+        "enabled": true,
+        "parent": null,
+        "spin": 0.011,
+        "tilt": 3,
+        "texture": "ceres.jpg"
+    }
+]

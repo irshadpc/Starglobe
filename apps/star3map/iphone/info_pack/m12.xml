@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 12" type="Galaxies">
+	<images>
+		<image title="M12 core by HST, 3.18′ view">m 12_1.jpg</image>
+		<image title="Messier 12, from 2MASS">m 12_2.jpg</image>
+		<image title="M12 with amateur telescope">m 12_3.jpg</image>
+		<image title="The Central Part of Messier 12. Credit: ESO">m 12_4.jpg</image>
+	</images>
+	<information>
+Messier 12 or M 12 (also designated NGC 6218) is a globular cluster in the constellation of Ophiuchus. It was discovered by the French astronomer Charles Messier on May 30, 1764, who described it as a "nebula without stars". In dark conditions this cluster can be faintly seen with a pair of binoculars. Resolving the stellar components requires a telescope with an aperture of 8 in (20 cm) or greater. In a 10 in (25 cm) scope, the granular core shows a diameter of 3′ (arcminutes) surrounded by a 10′ halo of stars.
+Located roughly 3° in the sky from the cluster M10 and 5.6° from the star Lambda Ophiuchi, M12 is about 15,700 light-years (4,800 parsecs) from Earth and has a spatial diameter of about 75 light-years. The brightest stars of M12 are of 12th magnitude. With a Shapley-Sawyer rating of IX, it is rather loosely packed for a globular and was once thought to be a tightly concentrated open cluster. Thirteen variable stars have been recorded in this cluster.
+A study published in 2006 concluded that this cluster has an unusually low number of low mass stars. The authors surmise that they were stripped from the cluster by the gravitational influence of the Milky Way.
+	</information>
+	<characteristics>
+		<characteristic name="Class">IX</characteristic>
+		<characteristic name="Constellation">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">16h 47m 14.18s</characteristic>
+		<characteristic name="Declination">–01° 56′ 54.7″</characteristic>
+		<characteristic name="Distance">15.7 kly (4.8 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.68</characteristic>
+		<characteristic name="Apparent dimensions (V)">16′.0</characteristic>
+		<characteristic name="Mass">8.7×104 M☉</characteristic>
+		<characteristic name="Radius">37.2 ly</characteristic>
+		<characteristic name="Metallicity">37.2 ly</characteristic>
+		<characteristic name="Estimated age">12.67 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6218</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 12 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_12</link>
+</object>

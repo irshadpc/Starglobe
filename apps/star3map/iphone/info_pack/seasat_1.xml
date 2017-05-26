@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="SEASAT 1 Satellite details 1978-064A NORAD 10967" type="Satellite">
+	<images><image>seasat_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+The Ocean Dynamics Satellite (Seasat 1) was designed to provide measurements of sea-surface winds, sea-surface temperatures, wave heights, internal waves, atmospheric liquid water content, sea ice features, ocean features, ocean topography, and the marine geoid.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">10967	</characteristic><characteristic name="Int'l Code">1978-064A</characteristic>
+<characteristic name="Perigee">755.1 km</characteristic>
+<characteristic name="Apogee">756.6 km</characteristic>
+<characteristic name="Inclination">108.0 °</characteristic>
+<characteristic name="Period">99.8 minutes</characteristic>
+<characteristic name="Semi major axis">7126 km</characteristic>
+<characteristic name="Launch date">June 27, 1978</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

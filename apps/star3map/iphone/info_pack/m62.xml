@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 62" type="Galaxies">
+	<images>
+		<image title="Messier 62 by Hubble Space Telescope; 1.65′ view Credit: NASA/STScI/WikiSky">m 62_1.jpg</image>
+		<image title="Globular Cluster Messier 62 with amateur telescope">m 62_2.jpg</image>
+	</images>
+	<information>
+Messier 62 (also known as M62 or NGC 6266) is a globular cluster in the constellation Ophiuchus. It was discovered in 1771 by Charles Messier.
+M62 is at a distance of about 22,500 light-years from Earth and measures some 100 light-years across. From studies conducted in the 1970s it is known that M62 contains the high number of 89 variable stars, many of them of the RR Lyrae type. It also contains several X-ray sources, thought to be close binary star systems, as well as millisecond pulsars in binary systems.
+	</information>
+	<characteristics>
+		<characteristic name="Class">IV</characteristic>
+		<characteristic name="Constellation">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">17h 01m 12.60s</characteristic>
+		<characteristic name="Declination">–30° 06′ 44.5″</characteristic>
+		<characteristic name="Distance">22.2 kly (6.8 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.39</characteristic>
+		<characteristic name="Apparent dimensions (V)">15′.0</characteristic>
+		<characteristic name="Mass">1.22×106 M☉</characteristic>
+		<characteristic name="Radius">49 ly</characteristic>
+		<characteristic name="Metallicity">–1.02 dex</characteristic>
+		<characteristic name="Estimated age">11.78 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6266, GCl 51</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 62 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_62</link>
+</object>

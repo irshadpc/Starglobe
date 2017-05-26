@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Cor Caroli" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+        Cor Caroli is the traditional name for the binary star also designated Alpha Canum Venaticorum (α Canum Venaticorum, abbreviated Alpha CVn, α CVn), although the International Astronomical Union now regards the name as only applying to the brightest component.[1] Alpha CVn is the brightest point of light in the northern constellation of Canes Venatici.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Cor Caroli in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Cor_Caroli</link>
+</object>

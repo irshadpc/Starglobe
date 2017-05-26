@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Umbriel" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Umbriel_1.jpg</image>
+        <image title="">Umbriel_2.jpg</image>
+	</images>
+	<information>
+        Umbriel is a moon of Uranus discovered on October 24, 1851, by William Lassell. It was discovered at the same time as Ariel and named after a character in Alexander Pope's poem The Rape of the Lock. Umbriel consists mainly of ice with a substantial fraction of rock, and may be differentiated into a rocky core and an icy mantle. The surface is the darkest among Uranian moons, and appears to have been shaped primarily by impacts. However, the presence of canyons suggests early endogenic processes, and the moon may have undergone an early endogenically driven resurfacing event that obliterated its older surface.
+
+        Covered by numerous impact craters reaching 210 km (130 mi) in diameter, Umbriel is the second most heavily cratered satellite of Uranus after Oberon. The most prominent surface feature is a ring of bright material on the floor of Wunda crater. This moon, like all moons of Uranus, probably formed from an accretion disk that surrounded the planet just after its formation. The Uranian system has been studied up close only once, by the spacecraft Voyager 2 in January 1986. It took several images of Umbriel, which allowed mapping of about 40% of the moon’s surface.
+
+    Umbriel is the third largest and fourth most massive of Uranian moons. The moon's density is 1.39 g/cm3, which indicates that it mainly consists of water ice, with a dense non-ice component constituting around 40% of its mass. The latter could be made of rock and carbonaceous material including heavy organic compounds known as tholins. The presence of water ice is supported by infrared spectroscopic observations, which have revealed crystalline water ice on the surface of the moon. Water ice absorption bands are stronger on Umbriel's leading hemisphere than on the trailing hemisphere. The cause of this asymmetry is not known, but it may be related to the bombardment by charged particles from the magnetosphere of Uranus, which is stronger on the trailing hemisphere (due to the plasma's co-rotation). The energetic particles tend to sputter water ice, decompose methane trapped in ice as clathrate hydrate and darken other organics, leaving a dark, carbon-rich residue behind.
+
+    Except for water, the only other compound identified on the surface of Umbriel by the infrared spectroscopy is carbon dioxide, which is concentrated mainly on the trailing hemisphere. The origin of the carbon dioxide is not completely clear. It might be produced locally from carbonates or organic materials under the influence of the energetic charged particles coming from the magnetosphere of Uranus or the solar ultraviolet radiation. This hypothesis would explain the asymmetry in its distribution, as the trailing hemisphere is subject to a more intense magnetospheric influence than the leading hemisphere. Another possible source is the outgassing of the primordial CO2 trapped by water ice in Umbriel's interior. The escape of CO2 from the interior may be a result of past geological activity on this moon.
+
+    Umbriel may be differentiated into a rocky core surrounded by an icy mantle. If this is the case, the radius of the core (317 km) is about 54% of the radius of the moon, and its mass is around 40% of the moon’s mass—the parameters are dictated by the moon's composition. The pressure in the center of Umbriel is about 0.24 GPa (2.4 kbar). The current state of the icy mantle is unclear, although the existence of a subsurface ocean is considered unlikely.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Umbriel in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Umbriel_(moon)</link>
+</object>

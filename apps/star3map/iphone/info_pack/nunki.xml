@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sigma Sagittarii" type="Star">
+	<images>
+<image title="Sigma Sagittarii">nunki_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Sigma Sagittarii (Sigma Sgr, σ Sagittarii, σ Sgr) is the second brightest star in the constellation Sagittarius. Its modern name Nunki is an Assyrian or Babylonian name recovered by archaeologists and made public by R. H. Allen. Nunki has an apparent magnitude of +2.05, making it readily visible to the naked eye. The distance to this star, determined using parallax measurements from the Hipparcos astrometry satellite, yields an estimated value of 228 light-years (70 parsecs) from Earth.
+Nunki has a spectrum matching a stellar classification of B2.5 V, which indicates this is a B-type main sequence star. The total luminosity of σ Sgr is 3300 times that of the Sun while it has a surface temperature of 18,890 K. X-ray emission has been detected from this star, which has an estimated X-ray luminosity of 1.2 × 10^28 erg s–1. Sigma Sgr has a magnitude +9.5 optical companion located 5.2 arcminutes away.
+Because it is close to the ecliptic, Nunki can be occulted by the Moon and very rarely by planets. The last occultation of Nunki by a planet took place on November 17, 1981, when it was occulted by Venus. Furthermore, Nunki is the brightest star that can be principally occulted by an exterior planet. However, only Mars can do this, and only rarely; the last time was on September 3, 423.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Sagittarius</characteristic>
+<characteristic name="Right ascension">18h 55m 15.92650s</characteristic>
+<characteristic name="Declination">–26° 17′ 48.2068″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.05</characteristic>
+<characteristic name="Spectral type">B2.5 V</characteristic>
+<characteristic name="U−B color index">–0.761</characteristic>
+<characteristic name="B−V color index">–0.204</characteristic>
+<characteristic name="Radial velocity (Rv)">–11.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +15.14 mas/yr, Dec.: –53.43 mas/yr</characteristic>
+<characteristic name="Parallax (π)">14.32 ± 0.29mas</characteristic>
+<characteristic name="Distance">228 ± 5 ly (70 ± 1 pc)</characteristic>
+<characteristic name="Mass">7.8 ± 0.2 M☉</characteristic>
+<characteristic name="Radius">4.5 R☉</characteristic>
+<characteristic name="Luminosity">3,300 L☉</characteristic>
+<characteristic name="Temperature">18,890 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">165 km/s</characteristic>
+<characteristic name="Age">31.4 ± 0.4 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Sigma Sagittarii in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Sigma_Sagittarii</link>
+</object>

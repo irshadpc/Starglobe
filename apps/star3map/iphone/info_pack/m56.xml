@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 56" type="Galaxies">
+	<images>
+		<image title="Messier 56 by Hubble Space Telescope. 3.6′ view Credit: NASA/STScI/WikiSky">m 56_1jpg</image>
+		<image title="Messier 56 with amateur telescope">m 56_2.jpg</image>
+	</images>
+	<information>
+Messier 56 (also known as M56 or NGC 6779) is a globular cluster in the constellation Lyra. It was discovered by Charles Messier on January 19, 1779. The cluster is located almost midway along an imaginary line between Albireo (β Cygni) and Sulafat (γ Lyrae). It is a challenge to find with large (50–80 mm) binoculars, appearing as a slightly fuzzy star. The cluster can be resolved using a telescope with an aperture of 8 in (20 cm) or larger.
+M56 is at a distance of about 32,900 light-years from Earth and measures roughly 84 light-years across, with a combined mass some 230,000 times that of the Sun. It is about 31–32 kly (9.5–9.8 kpc) from the Galactic Center and 4.8 kly (1.5 kpc) above the galactic plane. This cluster has an estimated age of 13.70 billion years and is following a retrograde orbit through the Milky Way. The properties of this cluster suggest that it may have been acquired during the merger of a dwarf galaxy, of which Omega Centauri forms the surviving nucleus. For Messier 56, the abundance of elements other than hydrogen and helium, what astronomers term the metallicity, has a very low value of [Fe/H] = –2.00 dex. This is equivalent to 1% of the abundance in the Sun.
+The brightest stars in M56 are of 13th magnitude, while it contains only about a dozen known variable stars, such as V6 (RV Tauri star; period: 90 days) or V1 (Cepheid: 1.510 days); other variable stars are V2 (irregular) and V3 (semiregular). In 2000, a diffuse X-ray emission was tentatively identified coming from the vicinity of the cluster. This is most likely interstellar medium that has been heated by the passage of the cluster through the galactic halo. The relative velocity of the cluster is about 177 km s−1, which is sufficient to heat the medium in its wake to a temperature of 940,000 K.
+	</information>
+	<characteristics>
+		<characteristic name="Class">X</characteristic>
+		<characteristic name="Constellation">Lyra</characteristic>
+		<characteristic name="Right ascension">19h 16m 35.57s[</characteristic>
+		<characteristic name="Declination">+30° 11′ 00.5″</characteristic>
+		<characteristic name="Distance">32.9 kly (10.1 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+8.3</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.8</characteristic>
+		<characteristic name="Mass">2.30×105 M☉</characteristic>
+		<characteristic name="Radius">42 ly</characteristic>
+        <characteristic name="Metallicity">–2.00 dex</characteristic>
+		<characteristic name="Estimated age">13.70 Gyr</characteristic>
+		<characteristic name="Other designations">M56, NGC 6779, GCl 110, C 1914+300</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 56 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_56</link>
+</object>

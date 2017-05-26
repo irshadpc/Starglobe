@@ -1,0 +1,6 @@
+framework module SCPStoreKitManager {
+  umbrella header "SCPStoreKitManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

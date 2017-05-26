@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sheliak" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+Beta Lyrae (β Lyr, β Lyrae) is a binary star system approximately 960 light-years (290 parsecs) away in the constellation Lyra.
+The Bayer designation for this star, Beta Lyrae, is due to Johann Bayer's Uranometria of 1603. It was given the Flamsteed designation 10 Lyrae by John Flamsteed in 1712 with the first publication of his star catalogue.
+
+Beta Lyrae has the alternative name Sheliak (occasionally Shelyak or Shiliak), derived from الشلياق šiliyāq or Al Shilyāk, one of the Arabic names of the constellation of Lyra.
+
+In Chinese astronomy, Tsan Tae (漸台 (Jiāntāi), meaning Clepsydra Terrace, refers to an asterism consisting of this star, δ2 Lyrae, γ Lyrae and ι Lyrae. Consequently, β Lyrae itself is known as 漸台二 (Jiāntāièr, English: the Second Star of Clepsydra Terrace.)
+Beta Lyrae is a semidetached binary system made up of a stellar class B7 main sequence primary star and a secondary that is probably also a B-type star. The fainter, less massive star in the system was once the more massive member of the pair, which caused it to evolve away from the main sequence first and become a giant star. Because the pair are in a close orbit, as this star expanded into a giant it filled its Roche lobe and transferred most of its mass over to its companion. The secondary, now more massive star is surrounded by an accretion disk from this mass transfer, with bipolar, jet-like features projecting perpendicular to the disk. This accretion disk blocks humans' view of the secondary star, lowering its apparent luminosity and making it difficult for astronomers to pinpoint what its stellar type is. The amount of mass being transferred between the two stars is about 2 × 10−5 solar masses per year, or the equivalent of the Sun's mass every 50,000 years, which results in an increase in orbital period of about 19 seconds each year. The spectrum of Beta Lyrae shows emission lines produced by the accretion disc. The disc produces around 20% of the brightness of the system.
+The variable luminosity of this system was discovered in 1784 by the British amateur astronomer John Goodricke. The orbital plane of this system is nearly aligned with the line of sight from the Earth, so the two stars periodically eclipse each other. This causes Beta Lyrae to regularly change its apparent magnitude from +3.2 to +4.4 over an orbital period of 12.9414 days. The two components are so close together that they cannot be resolved with optical telescopes, forming a spectroscopic binary. In 2008, the primary star and the accretion disk of the secondary star were resolved and imaged using the CHARA Array interferometer and the Michigan InfraRed Combiner (MIRC) in the near infrared H band (see video below), allowing the orbital elements to be computed for the first time.
+
+In addition to the regular eclipses, the system shows smaller and slower variations in brightness. These are thought to be caused by changes in the accretion disc and are accompanied by variation in the profile and strength of spectral lines, particularly the emission lines. The variations are not regular but have been characterised with a period of 282 days.
+In addition to the spectroscopic pair, several other companions to Beta Lyrae have been catalogued. β Lyr B, at an angular distance of 45.7", is of spectral type B7 V, has an apparent magnitude of +7.2, and can easily be seen with binoculars. It is about 80 times as luminous as the Sun and is also a spectroscopic binary with a period of 4.34 days.[citation needed] β Lyr C is magnitude 9.9v separation 86" and with a luminosity 7 times that of the Sun.[citation needed] The Washington Double Star Catalog lists three more faint companions at one to two arc minutes separation.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Sheliak in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Lyrae</link>
+</object>

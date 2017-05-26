@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 110" type="Galaxies">
+	<images>
+		<image title="M 110 credit: Atlas Image 2MASS/UMass/IPAC-Caltech/NASA/NSF.">m 110_1.jpg</image>
+	</images>
+	<information>
+Messier 110 (also known as The Edward Young Star and NGC 205) is a dwarf elliptical galaxy that is a satellite of the Andromeda Galaxy. M110 contains some dust and hints of recent star formation, which is unusual for dwarf elliptical galaxies in general.
+Although Charles Messier never included the galaxy in his famous list, it was depicted by him, together with M32, on a drawing of the Andromeda galaxy; a label on the drawing indicates that Messier first observed NGC 205 on August 10, 1773. The galaxy was independently discovered by Caroline Herschel on August 27, 1783; her brother William Herschel described her discovery in 1785. The suggestion to assign the galaxy a Messier number was made by Kenneth Glyn Jones in 1967.
+In 1999, Johnson and Modjaz discovered a nova in M110.
+Unlike M32, NGC205 does not show evidence for a supermassive black hole at its center.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Andromeda</characteristic>
+		<characteristic name="Right ascension">00h 40m 22.1s</characteristic>
+		<characteristic name="Declination">+41° 41′ 07″</characteristic>
+        <characteristic name="Apparent dimensions (V)">21.9 × 11.0 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">8.92</characteristic>
+        <characteristic name="Type">E5 pec</characteristic>
+        <characteristic name="Heliocentric radial velocity">-241 ± 3km/s</characteristic>
+		<characteristic name="Redshift">-0.000804 ± 0.000010</characteristic>
+		<characteristic name="Galactocentric velocity">-62 ± 8 km/s</characteristic>
+        <characteristic name="Distance">2,690 ± 90 kly (824.76 ± 27.59 kpc)</characteristic>
+		<characteristic name="Other designations">NGC 0205, PGC 002429, MCG +07-02-014, IRAS 00376+4124, LEDA 2429</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 110 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_110</link>
+</object>

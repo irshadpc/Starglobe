@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lupus (constellation)" type="Constellation">
+	<images>
+<image title="Lupus (constellation)">lupus_1.png</image>
+<image title="">lupus__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Lupus /ˈljuːpəs/ is a constellation in the southern sky. Its name is Latin for wolf. Lupus was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations. It lies between Centaurus and Scorpius.
+
+Lupus has around 30 stars of 2nd and 3rd magnitude and 70 of greater than 6th, including a number of binary or multiple stars. In his catalogue, Patrick Moore gives the names Men for α Lupi, the brightest star in Lupus, and KeKouan for the blue giant β Lupi. They also have the Chinese names （南）門 and 騎官.
+Most of the brightest stars in Lupus are massive members of the nearest OB association, Scorpius-Centaurus.
+Towards the north of the constellation are globular clusters NGC 5824 and NGC 5986, and close by the dark nebula B 228. To the south are two open clusters, NGC 5822 and NGC 5749, as well as globular cluster NGC 5927 on the eastern border with Norma. On the western border are two spiral galaxies and the Wolf-Rayet planetary nebula IC 4406, containing some of the hottest stars in existence. IC 4406, also called the Retina Nebula, is a cylindrical nebula at a distance of 5,000 light-years. It has dust lanes throughout its center. Another planetary nebula, NGC 5882, is towards the centre of the constellation. The transiting exoplanet Lupus-TR-3b lies in this constellation. The historic supernova SN 1006 is described by various sources as appearing on April 30 to May 1, 1006, in the constellation of Lupus.
+ESO 274-1 is a spiral galaxy seen from edge-on that requires an amateur telescope with at least 12 inches of aperture to view. It can be found by using Lambda Lupi and Mu Lupi as markers, and can only be seen under very dark skies. It is 9 arcminutes by 0.7 arcminutes with a small, elliptical nucleus.
+In ancient times, the constellation was considered an asterism within Centaurus, and was considered to have been an arbitrary animal, killed, or about to be killed, on behalf of, or for, Centaurus. An alternative visualization, attested by Eratosthenes, saw this constellation as a wineskin held by Centaurus. It was not separated from Centaurus until Hipparchus of Bithynia named it Therion (meaning beast) in the 200s BC. No particular animal was associated with it until the Latin translation of Ptolemy's work identified it with the wolf.
+The Greek constellation is probably based on the Babylonian figure known as the Mad Dog (UR.IDIM). This was a strange hybrid creature that combined the head and torso of a man with the legs and tail of a lion (the cuneiform sign 'UR' simply refers to a large carnivore; lions, wolves and dogs are all included). It is often found in association with the sun god and another mythical being called the Bison-man, which is supposedly related to the Greek constellation of Centaurus.
+Coordinates: 15h 18m 00s, −45° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Lup</characteristic>
+<characteristic name="Genitive">Lupi</characteristic>
+<characteristic name="Pronunciation">/ˈljuːpəs/, genitive /ˈljuːpaɪ/</characteristic>
+<characteristic name="Symbolism">the Wolf</characteristic>
+<characteristic name="Right ascension">15.3</characteristic>
+<characteristic name="Declination">−45</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Quadrant">SQ3</characteristic>
+<characteristic name="Area">334 sq. deg. (46th)</characteristic>
+<characteristic name="Main stars">9</characteristic>
+<characteristic name="Bayer/Flamsteed stars">41</characteristic>
+<characteristic name="Stars with planets">5</characteristic>
+<characteristic name="Stars brighter than 3.00m">3</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">α Lup (Men) (2.30m)</characteristic>
+<characteristic name="Nearest star">LHS 397 (19.35 ly, 5.93 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Bordering constellations">Norma, Scorpius, Circinus, Centaurus, Libra, Hydra (corner)</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +35° and −90°. Best visible at 21:00 (9 p.m.) during the month of June.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Lupus (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Lupus_(constellation)</link>
+</object>

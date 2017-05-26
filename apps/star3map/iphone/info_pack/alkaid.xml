@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Eta Ursae Majoris" type="Star">
+	<images>
+<image title="Eta Ursae Majoris">alkaid_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+Eta Ursae Majoris (Eta UMa, η Ursae Majoris, η UMa) is a star in the constellation Ursa Major. It has the traditional names Alkaid (or Elkeid) and Benetnash (Benetnasch). Alkaid is the most eastern (leftmost) star in the Big Dipper (Plough) asterism. However, unlike most stars of the Big Dipper, it is not a member of the Ursa Major moving group. With an apparent visual magnitude of +1.84, it is the third brightest star in the constellation and one of the brightest stars in the night sky.
+This is a 10 million year oldB-type main sequence star with a stellar classification of B3 V. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It has six times the mass of the Sun and 3.4 times the Sun's radius. Eta Ursae Majoris is radiating around 1,350 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of about 16,823 K, giving it the blue-white hue of a B-type star. This star is an X-ray emitter with a luminosity of 9.3 × 10^28 erg s^–1.
+Coordinates: 13h 47m 32.4s, +49° 18′ 47.8″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ursa Major</characteristic>
+<characteristic name="Right ascension">13h 47m 32.43776s</characteristic>
+<characteristic name="Declination">+49° 18′ 47.7602″</characteristic>
+<characteristic name="Apparent magnitude (V)">+1.84</characteristic>
+<characteristic name="Spectral type">B3 V</characteristic>
+<characteristic name="U−B color index">–0.68</characteristic>
+<characteristic name="B−V color index">–0.18</characteristic>
+<characteristic name="Radial velocity (Rv)">–10.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –121.17 mas/yr, Dec.: –14.91 mas/yr</characteristic>
+<characteristic name="Parallax (π)">31.38 ± 0.24mas</characteristic>
+<characteristic name="Distance">103.9 ± 0.8 ly (31.9 ± 0.2 pc)</characteristic>
+<characteristic name="Mass">6.1 ± 0.1 M☉</characteristic>
+<characteristic name="Radius">3.4 R☉</characteristic>
+<characteristic name="Luminosity">1,350 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.27 cgs</characteristic>
+<characteristic name="Temperature">16,823 ± 177 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">150 km/s</characteristic>
+<characteristic name="Age">10.0 ± 2.6 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Eta Ursae Majoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Eta_Ursae_Majoris</link>
+</object>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ARIANE 5 R/B Satellite details 2004-049H NORAD 28499" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">28499	</characteristic><characteristic name="Int'l Code">2004-049H</characteristic>
+<characteristic name="Perigee">574.3 km</characteristic>
+<characteristic name="Apogee">706.7 km</characteristic>
+<characteristic name="Inclination">98.2 °</characteristic>
+<characteristic name="Period">97.4 minutes</characteristic>
+<characteristic name="Semi major axis">7011 km</characteristic>
+<characteristic name="Launch date">December 18, 2004</characteristic>
+<characteristic name="Source">France (FR)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

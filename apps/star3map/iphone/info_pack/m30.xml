@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 30" type="Galaxies">
+	<images>
+		<image title="M30 by Hubble Space Telescope; 3.5′ view">m 30_1.jpg</image>
+	</images>
+	<information>
+Messier 30 (also known as M30 or NGC 7099) is a globular cluster of stars in the southern constellation of Capricornus. It was discovered by the French astronomer Charles Messier in 1764, who described it as a circular nebula without a star. In the New General Catalogue, compiled during the 1880s, it was described as a "remarkable globular, bright, large, slightly oval." This cluster can be easily viewed with a pair of 10×50 binoculars, forming a patch of hazy light some 4 arcminutes wide that is slightly elongated along the east-west axis. With a larger instrument, individual stars can be resolved and the cluster will cover an angle of up to 12 arcminutes across with a compressed core one arcminute wide. It is best observed around August.
+M30 is located at a distance of about 27,100 light-years from Earth, and is about 93 light-years across. The estimated age is roughly 12.93 billion years and it has a combined mass of about 160,000 times the mass of the Sun. The cluster is following a retrograde orbit through the inner galactic halo, suggesting that it was acquired from a satellite galaxy rather than forming within the Milky Way. It is currently located at a distance of about 22.2 kly (6.8 kpc) from the center of the galaxy, compared to an estimated 26 kly (8.0 kpc) for the Sun.
+The M30 cluster has passed through a dynamic process called core collapse and now has a concentration of mass at its core of about a million times the Sun's mass per cubic parsec. This makes it one of the highest density regions in the Milky Way galaxy. Stars in such close proximity will experience a high rate of interactions that can create binary star systems, as well as a type of star called a blue straggler that is formed by mass transfer. A process of mass segregation may have caused the central region to gain a greater proportion of higher mass stars, creating a color gradient with increasing blueness toward the middle of the cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Class">V</characteristic>
+		<characteristic name="Constellation">Capricornus</characteristic>
+		<characteristic name="Right ascension">21h 40m 22.12s</characteristic>
+		<characteristic name="Declination">–23° 10′ 47.5″</characteristic>
+		<characteristic name="Distance">27.14 ± 0.65 kly (8.3 ± 0.20 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.7</characteristic>
+		<characteristic name="Mass">1.6×105 M☉</characteristic>
+		<characteristic name="Metallicity">–2.27 dex</characteristic>
+		<characteristic name="Estimated age">12.93 Gyr</characteristic>
+		<characteristic name="Other designations">M30, NGC 7099, GCl 122</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 30 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_30</link>
+</object>

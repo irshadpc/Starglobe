@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Pegasi" type="Star">
+	<images>
+<image title="Scheat">scheat_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Pegasi (β Peg, β Pegasi) is a star in the constellation Pegasus. The apparent visual magnitude of this star averages 2.42, making it the second brightest star in the constellation after Epsilon Pegasi. Its traditional name is Scheat, a name that has also been used for Delta Aquarii. According to Richard H. Allen, this name comes from the Arabic Al Sā'id for 'the upper arm', or from Sa'd. Arabian astronomers named it Mankib al Faras, meaning the "Horse's shoulder". It forms the upper right corner of the Great Square of Pegasus, a prominent rectangular asterism.
+Based upon parallax measurements, Beta Pegasi is located about 196 light-years (60 parsecs) from the Earth. It is unusual among bright stars in having a relatively cool surface temperature compared to stars like the Sun. This star has a stellar classification of M2.3 II-III, which indicates the spectrum has characteristics partway between a bright giant and a giant star. It has expanded until it is some 95 times as large, and has a total luminosity of 1500 times that of the Sun. The effective temperature of the star's outer envelope is about 3,700 K, giving the star the characteristic orange-red hue of an M-type star. The photosphere is sufficiently cool for molecules of titanium oxide to form.
+Beta Pegasi is a semi-regular variable with a period of 43.3 days and a brightness that varies from magnitude +2.31 to +2.74. It is losing mass at a rate at or below 10–8 times the Sun's mass per year, which is creating an expanding shell of gas and dust with a radius of about 3,500 times the Sun's radius (16 Astronomical Units).
+Coordinates: 23h 03m 46.458s, +28° 04′ 58.04″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Pegasus</characteristic>
+<characteristic name="Right ascension">23h 03m 46.45746s</characteristic>
+<characteristic name="Declination">+28° 04′ 58.0336″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.42</characteristic>
+<characteristic name="Spectral type">M2.3 II-III</characteristic>
+<characteristic name="U−B color index">+1.96</characteristic>
+<characteristic name="B−V color index">+1.67</characteristic>
+<characteristic name="Variable type">Semi-regular</characteristic>
+<characteristic name="Radial velocity (Rv)">+8.7 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +187.65 mas/yr, Dec.: +136.93 mas/yr</characteristic>
+<characteristic name="Parallax (π)">16.64 ± 0.15mas</characteristic>
+<characteristic name="Distance">196 ± 2 ly (60.1 ± 0.5 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">-1.49</characteristic>
+<characteristic name="Mass">2.1 M☉</characteristic>
+<characteristic name="Radius">95 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.20 cgs</characteristic>
+<characteristic name="Temperature">3,689 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.11 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">9.7 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Pegasi in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Scheat</link>
+</object>

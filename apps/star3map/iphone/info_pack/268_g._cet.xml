@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gliese 105" type="Star">
+	<images>
+<image title="HR 753">wiki_logo.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gliese 105 (also known as 268 G. Ceti) is a triple star system in the constellation of Cetus. It is located relatively near the Sun at an estimated distance of less than 24 light years, but even the brightest component is too faint to see directly with the unaided eye. No planets have yet been detected around any of the stars in this system.
+The companion star B has a common proper motion with A, and the two have an estimated separation of 1,200 AUs. It is a BY Draconis variable star that has been given the designation "BX Ceti".
+The third companion C lies much closer to A, at a distance of approximately 24 AU. The pair A-C have an estimated orbital period of 61 years. Component C is a relatively minuscule star that lies at the low end of the mass range needed to achieve nuclear fusion.
+
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cetus</characteristic>
+<characteristic name="Right ascension">A: 02h 36m 04.89s, B: 02h 36m 15.0s, C: 02h 35m 58.8s</characteristic>
+<characteristic name="Declination">A: +06° 53′ 12.7″, B: +06° 52′ 18″, C: +06° 52′ 00″</characteristic>
+<characteristic name="Apparent magnitude (V)">5.82/11.66/16.9</characteristic>
+<characteristic name="Spectral type">K3 V/M3.5 Vn/M7 V</characteristic>
+<characteristic name="U−B color index">0.81/1.12</characteristic>
+<characteristic name="B−V color index">0.97/1.60</characteristic>
+<characteristic name="Variable type">None/BY Draconis</characteristic>
+<characteristic name="Radial velocity (Rv)">25.7 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 1807.78 ± 0.89 mas/yr, Dec.: 1444.02 ± 0.40 mas/yr</characteristic>
+<characteristic name="Parallax (π)">139.27 ± 0.45mas</characteristic>
+<characteristic name="Distance">23.42 ± 0.08 ly (7.18 ± 0.02 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">6.49/12.34/17.58</characteristic>
+<characteristic name="Mass">0.81/0.21/0.08 M☉</characteristic>
+<characteristic name="Radius">0.650 ± 0.053/0.28 R☉</characteristic>
+<characteristic name="Luminosity">0.21/0.0001/0.0000075 L☉</characteristic>
+<characteristic name="Temperature">4,841 K</characteristic>
+<characteristic name="Metallicity">85.11%/ ? Z☉</characteristic>
+<characteristic name="Rotation">?</characteristic>
+<characteristic name="Age">4.8-6.6 (Sun=4.6) ×10^9 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gliese 105 in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/HR_753</link>
+</object>

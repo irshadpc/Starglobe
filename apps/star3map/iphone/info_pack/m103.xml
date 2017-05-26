@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 103" type="Galaxies">
+	<images>
+		<image title="">m 103_1.jpg</image>
+	</images>
+	<information>
+Messier 103 (also known as M103, or NGC 581) is an open cluster where a few thousand stars formed in the constellation Cassiopeia. This open cluster was discovered in 1781 by Charles Messier’s friend and collaborator Pierre Méchain. It is one of the most distant open clusters known, with distances of 8,000 to 9,500 light years from the earth and ranging about 15 light years apart. There are about 40 member stars within M103,[2] two of which have magnitudes 10.5, and a 10.8 red giant, which is the brightest within the cluster. Observation of M103 is generally dominated by the appearance of Struve 131, though the star is not a member of the 172-star cluster. M103 is about 25 million years old.
+After the discovery of Messier 101, 102 and 103 in 1781, Messier himself had no occasion to carry out more detailed observations of these clusters and included them as a last-minute addition to his catalogue using the data of Méchain. In 1783, William Herschel observed M103 and described the region as 14 to 16 pL (pretty large stars) and with great many eS or extremely faint ones. Åke Wallenquist then identified 40 stars in M103 while Antonín Bečvář raised the number to 60. Subsequently Archinal and Hynes determined that the cluster had 172 stars. Admiral William Henry Smyth was the first to see the 10.8-magnitude red giant, citing the double star on Cassiopeia’s knee, about a degree to nf of Delta.
+Messier 103 has been rated by the Astronomical League as an easy object to find and the cluster is visible even with the use of binoculars. M103 can be seen as a nebulous fan-shaped patch, and optically is about a 6 arcminute circle, or about a fifth the diameter of the full moon. In order to find M103, it is suggested that the observer center their binoculars on Ruchbah or the bottom left star of the visible “W” in Cassiopeia. The cluster will appear as a hazy patch about 1/3 of a field toward 45 Epsilon Cassiopeia.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">01h 33.2m</characteristic>
+		<characteristic name="Declination">+60° 42′</characteristic>
+		<characteristic name="Distance">10 kly (3 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">7.4</characteristic>
+		<characteristic name="Apparent dimensions (V)">6.0'</characteristic>
+		<characteristic name="Other designations">M103</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 103 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_103</link>
+</object>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Avior" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Epsilon Carinae (ε Carinae, abbreviated Epsilon Car, ε Car), also named Avior, is a binary star in the southern constellation of Carina. At apparent magnitude +1.86 it is one of the brightest stars in the night sky, but is not visible from the northern hemisphere. The False Cross is an asterism formed of Delta Velorum, Kappa Velorum, Iota Carinae and ε Carinae. It is so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.
+        
+        Epsilon Carinae is located roughly 560–660 light-years (170–200 parsecs) from the Sun.[1] Measurements during the Hipparcos mission give the pair an angular separation of 0.46 arcseconds with a difference in magnitude of 2.0.[5] At their estimated distance, this angle is equivalent to a physical separation of around 4 Astronomical Units. This pair may form an eclipsing binary system with a period of 785 days (2.15 years), resulting in a magnitude change of 0.12 during each eclipse.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Avior in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Epsilon_Carinae</link>
+</object>

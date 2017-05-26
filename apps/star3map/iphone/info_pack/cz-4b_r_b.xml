@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="CZ-4 R/B Satellite details 2006-046C NORAD 29507" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">29507	</characteristic><characteristic name="Int'l Code">2006-046C</characteristic>
+<characteristic name="Perigee">557.1 km</characteristic>
+<characteristic name="Apogee">612.2 km</characteristic>
+<characteristic name="Inclination">97.7 °</characteristic>
+<characteristic name="Period">96.2 minutes</characteristic>
+<characteristic name="Semi major axis">6955 km</characteristic>
+<characteristic name="Launch date">October 23, 2006</characteristic>
+<characteristic name="Source">People's Republic of China (PRC)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

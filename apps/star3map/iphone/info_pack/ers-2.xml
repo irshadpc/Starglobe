@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ERS 2 Satellite details 1995-021A NORAD 23560" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Earth resources spacecraft; measure ocean surface and waves, temperatures; monitor ozone and ozone-destroying gases; ocean currents and changes in Arctic and Antarctic ice.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">23560	</characteristic><characteristic name="Int'l Code">1995-021A</characteristic>
+<characteristic name="Perigee">542.5 km</characteristic>
+<characteristic name="Apogee">547.4 km</characteristic>
+<characteristic name="Inclination">98.6 °</characteristic>
+<characteristic name="Period">95.4 minutes</characteristic>
+<characteristic name="Semi major axis">6915 km</characteristic>
+<characteristic name="Launch date">April 21, 1995</characteristic>
+<characteristic name="Source">European Space Agency (ESA)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

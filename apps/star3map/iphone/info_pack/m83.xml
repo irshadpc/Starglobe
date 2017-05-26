@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 83" type="Galaxies">
+	<images>
+		<image title="Hubble view of barred spiral galaxy Messier 83">m 83_1.jpg</image>
+		<image title="An ESO image of Messier 83.">m 83_2.jpg</image>
+		<image title="Portion of M83 by Hubble">m 83_3.jpg</image>
+		<image title="Image taken in the infrared part of the spectrum with the HAWK-I instrument on ESO’s Very Large Telescope. Credit: ESO/M. Gieles. Acknowledgement: Mischa Schirmer">m 83_4.jpg</image>
+		<image title="An Infrared Portrait of the Barred Spiral Galaxy Messier 83. Credits: ESO">m 83_5.jpg</image>
+		<image title="Spiral Galaxy Messier 83. Credit: ESO">m 83_6.jpg</image>
+	</images>
+	<information>
+Messier 83 (also known as the Southern Pinwheel Galaxy, M83 or NGC 5236) is a barred spiral galaxy approximately 15 million light-years away in the constellation Hydra. It is one of the closest and brightest barred spiral galaxies in the sky, making it visible with binoculars. Six supernovae (SN 1923A, SN 1945B, SN 1950B, SN 1957D, SN 1968L and SN 1983N) have been observed in M83.
+Nicolas Louis de Lacaille discovered M83 on February 23, 1752 at the Cape of Good Hope. Charles Messier added it to his catalogue of nebulous objects (now known as the Messier Catalogue) in March 1781.
+On 16 June 2008 NASA's Galaxy Evolution Explorer project reported finding large numbers of new stars in the outer reaches of the galaxy. It had hitherto been thought that these areas lacked the materials necessary for star formation.
+M83 is at the center of one of two subgroups within the Centaurus A/M83 Group, a nearby galaxy group. Centaurus A is at the center of the other subgroup. These two groups are sometimes identified as one group and sometimes identified as two groups. However, the galaxies around Centaurus A and the galaxies around M83 are physically close to each other, and both subgroups appear not to be moving relative to each other.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Hydra</characteristic>
+		<characteristic name="Right ascension">13h 37m 00.9s</characteristic>
+		<characteristic name="Declination">13h 37m 00.9s</characteristic>
+		<characteristic name="Redshift">513 ± 2 km/s</characteristic>
+		<characteristic name="Distance">15.21 Mly (4.61 Mpc)</characteristic>
+		<characteristic name="Type">SAB(s)c</characteristic>
+		<characteristic name="Apparent dimensions (V)">12′.9 × 11′.5</characteristic>
+		<characteristic name="Apparent magnitude (V)">7.54</characteristic>
+		<characteristic name="Other designations">NGC 5236, UGCA 366, PGC 48082, Southern Pinwheel Galaxy</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 83 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_83</link>
+</object>

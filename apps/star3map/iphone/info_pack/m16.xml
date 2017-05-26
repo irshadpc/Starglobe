@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Eagle Nebula" type="Galaxies">
+	<images>
+		<image title="Overview of some famous sights in the Eagle Nebula">m 16_1.jpg</image>
+		<image title="A view of the stellar spire within M16, the Eagle Nebula.">m 16_2.jpg</image>
+		<image title="The Pillars of Creation within the Eagle Nebula">m 16_3.jpeg</image>
+		<image title="Detail of Hubble image.">m 16_4.jpg</image>
+		<image title="An infrared view of the pillars reveals different structures.">m 16_5.jpg</image>
+		<image title="Head of Column in the Eagle Nebula.">m 16_6.jpg</image>
+		<image title="Northwestern part of the region, well away from the centre.">m 16_7.jpg</image>
+		<image title="Three-colour composite mosaic image of the Eagle Nebula.">m 16_8.jpg</image>
+	</images>
+	<information>
+The Eagle Nebula (catalogued as Messier 16 or M16, and as NGC 6611, and also known as the Star Queen Nebula) is a young open cluster of stars in the constellation Serpens, discovered by Jean-Philippe de Cheseaux in 1745-46. Its name derives from its shape that is thought to resemble an eagle. It contains several active star-forming gas and dust regions, including the famous "Pillars of Creation", photographed by the Hubble Space Telescope.
+The Eagle Nebula is part of a diffuse emission nebula, or H II region, which is catalogued as IC 4703. This region of active current star formation is about 7000 light-years distant. The tower of gas that can be seen coming off the nebula is approximately 9.5 light-years or about 90 trillion kilometers long.
+The brightest star in the nebula (HD 168076) has an apparent magnitude of +8.24, easily visible with good binoculars. It is actually a binary star formed of an O3.5V star plus an O7.5V companion.
+The cluster associated with the nebula has approximately 460 stars, the brightest of spectral class O, a mass of roughly 80 solar masses, and a luminosity up to 1 million times that of the Sun. Its age has been estimated to be 1–2 million years.
+The descriptive names reflect impressions of the shape of the central pillar rising from the southeast into the central luminous area. The name "Star Queen Nebula" was introduced by Robert Burnham, Jr., reflecting his characterization of the central pillar as the Star Queen shown in silhouette.
+Images taken by Jeff Hester and Paul Scowen using the Hubble Space Telescope in 1995 greatly improved scientific understanding of processes inside the nebula. One of these photographs became famous as the "Pillars of Creation", depicting a large region of star formation. The small dark areas in the photograph are believed to be protostars. The pillar structure of the region resembles that of a much larger star formation region in the Soul Nebula of Cassiopeia, imaged with the Spitzer Space Telescope in 2005 and characterized as "Pillars of Star Creation". or "Pillars of Star Formation". These columns – which resemble stalagmites protruding from the floor of a cavern – are composed of interstellar hydrogen gas and dust, which act as incubators for new stars. Inside the columns and on their surface astronomers have found knots or globules of denser gas, called EGGs ("Evaporating Gaseous Globules"). Stars are being formed inside some of these EGGs.
+X-ray images from the Chandra observatory compared with Hubble's "Pillars" image have shown that X-ray sources (from young stars) do not coincide with the pillars, but instead randomly dot the area. Any protostars in the pillars' EGGs are not yet hot enough to emit X-rays.[citation needed.
+Evidence from the Spitzer Telescope suggests that the pillars in M16 may already have been destroyed by a supernova explosion. Hot gas observed by Spitzer in 2007 suggests that the area was disturbed by a supernova that exploded some 8000 to 9000 years ago. Due to the distance of the nebula, the light from the supernova would have reached Earth between 1000 and 2000 years ago. The more slowly moving shock wave from the supernova would have taken a few thousand years to move through the nebula, and would blow away the delicate pillars – but the light showing us the destruction will not reach the Earth for another millennium.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 18m 48s</characteristic>
+		<characteristic name="Declination">−13° 49′</characteristic>
+		<characteristic name="Distance">7,000 ly</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.0</characteristic>
+		<characteristic name="Apparent dimensions (V)">7.0 arcmins</characteristic>
+		<characteristic name="Constellation">Serpens</characteristic>
+		<characteristic name="Radius">70×55 ly (cluster 15 ly) ly</characteristic>
+		<characteristic name="Absolute magnitude (V)">-8.21</characteristic>
+		<characteristic name="Notable features">5.5 million years old</characteristic>
+		<characteristic name="Designations">Messier 16, NGC 6611,[1] Sharpless 49, RCW 165, Gum 83, Star Queen Nebula</characteristic>
+	</characteristics>
+	<link title="Get more info about Eagle Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Eagle_Nebula</link>
+</object>

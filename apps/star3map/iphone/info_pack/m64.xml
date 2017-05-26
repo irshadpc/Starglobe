@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Black Eye Galaxy" type="Galaxies">
+	<images>
+		<image title="The Black Eye Galaxy (M64)">m 64_1.jpg</image>
+		<image title="Amateur image of Black Eye Galaxy (M64)">m 64_2.jpg</image>
+	</images>
+	<information>
+The Black Eye Galaxy (also called Evil Eye Galaxy; designated Messier 64, M64, or NGC 4826) was discovered by Edward Pigott in March 1779, and independently by Johann Elert Bode in April of the same year, as well as by Charles Messier in 1780. It has a spectacular dark band of absorbing dust in front of the galaxy's bright nucleus, giving rise to its nicknames of the "Black Eye" or "Evil Eye" galaxy. M64 is well known among amateur astronomers because of its appearance in small telescopes. It is a spiral galaxy in the Coma Berenices constellation.
+The interstellar medium of Messier 64 comprises two counter-rotating disks which are approximately equal in mass. The inner disk contains the prominent dust lanes of the galaxy. The stellar population of the galaxy exhibits no measurable counter-rotation. Possible formation scenarios include a merger with a gas-rich satellite galaxy in a retrograde orbit or the continued accretion of gas clouds from the intergalactic medium.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenices</characteristic>
+		<characteristic name="Right ascension">12h 56m 43.7s</characteristic>
+		<characteristic name="Declination">+21° 40′ 58″</characteristic>
+		<characteristic name="Apparent dimensions (V)">10.71 × 5.128 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.36</characteristic>
+        <characteristic name="Type">(R)SA(rs)ab, HIISy2</characteristic>
+        <characteristic name="Heliocentric radial velocity">408 ± 4km/s</characteristic>
+		<characteristic name="Redshift">0.001361 ± 0.000013</characteristic>
+		<characteristic name="Galactocentric velocity">400 ± 4 km/s</characteristic>
+		<characteristic name="Distance">24 ± 2 Mly (7.36 ± 0.61 Mpc)</characteristic>
+		<characteristic name="Other designations">M64, NGC 4826, UGC 8062, PGC 44182, Evil Eye Galaxy</characteristic>
+	</characteristics>
+	<link title="Get more info about Black Eye Galaxy in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Black_Eye_Galaxy</link>
+</object>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gamma Pegasi" type="Constellation">
+	<images>
+<image title="Gamma Pegasi">algenib_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gamma Pegasi (γ Peg) is a star in the constellation of Pegasus, located at the lower left-hand corner of the asterism known as the Great Square. It also has the traditional name Algenib; confusingly however, this name is also used for Alpha Persei. The average apparent visual magnitude of +2.84 puts this at fourth place among the brightest stars in the constellation. The distance to this star has been measured using the parallax technique, yielding a value of roughly 390 light-years (120 parsecs) with a margin of error of 5%.
+The asterism of γ Pegasi and α Andromedae, in Hindu astronomy, is called Uttara Bhādrapadā (उत्तरभाद्रपदा) or Uttṛṭṭāti. It is the 26th nakshatra. In Chinese, 壁宿 (Bìxiù), meaning Wall (asterism) refers to an asterism consisting of γ Pegasi and α Andromedae . Consequently, γ Pegasi itself is known as 壁宿一 (Bìxiù yī, English: the First Star of Wall.)
+In 1911, American astronomer Keivin Burns discovered that the radial velocity of this star varied slightly. This was confirmed in 1953 by American astronomer D. Harold McNamara, who identified it as a Beta Cephei variable. (At the time he actually identified is as a Beta Canis Majoris star, which was subsequently designated a Beta Cephei variable.) It has a radial pulsation period of 0.15175 days (3.642 hours), but also shows the behavior of a slowing pulsating B star (SPB) with three additional pulsational frequencies. Its magnitude varies between +2.78 and +2.89 over the course of each pulsation cycle.
+This is a large star with almost nine times the mass of the Sun and close to five times the Sun's radius. The stellar classification of B2 IV suggests this is a subgiant star that is exhausting the hydrogen at its core and is in the process of evolving away from the main sequence. It is either rotating very slowly with no measurable rotational velocity or else it is being viewed from nearly pole-on. Gamma Pegasi has a total luminosity of 5,840 times that of the Sun, which is being radiated from its outer atmosphere at an effective temperature of more than 21,000 K. At this temperature, the star glows with a blue-white hue.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Pegasus</characteristic>
+<characteristic name="Right ascension">00h 13m 14.15123s</characteristic>
+<characteristic name="Declination">+15° 11′ 00.9368″</characteristic>
+<characteristic name="Apparent magnitude (V)">+2.84</characteristic>
+<characteristic name="Spectral type">B2 IV</characteristic>
+<characteristic name="U−B color index">–0.85</characteristic>
+<characteristic name="B−V color index">–0.23</characteristic>
+<characteristic name="Variable type">β Cep</characteristic>
+<characteristic name="Radial velocity (Rv)">+4.1 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +1.98 mas/yr, Dec.: –9.28 mas/yr</characteristic>
+<characteristic name="Parallax (π)">8.33 ± 0.53mas</characteristic>
+<characteristic name="Distance">390 ± 20 ly (120 ± 8 pc)</characteristic>
+<characteristic name="Mass">8.9 ± 0.1 M☉</characteristic>
+<characteristic name="Radius">4.80 ± 0.39 R☉</characteristic>
+<characteristic name="Luminosity">5,840 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.98 ± 0.06 cgs</characteristic>
+<characteristic name="Temperature">21,179 ± 237 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.34 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">0 km/s</characteristic>
+<characteristic name="Age">18.7 ± 3.2 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gamma Pegasi in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Gamma_Pegasi</link>
+</object>

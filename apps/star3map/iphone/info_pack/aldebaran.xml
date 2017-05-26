@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Aldebaran" type="Star">
+	<images>
+<image title="Aldebaran">aldebaran_1.png</image>
+<image title="">aldebaran__2.png</image>
+<image title="">aldebaran__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Aldebaran /ælˈdɛbərən/ (α Tau, α Tauri, Alpha Tauri) is an orange giant star located about 65 light years away in the zodiac constellation of Taurus. With an average apparent magnitude of 0.87 it is the brightest star in the constellation and is one of the brightest stars in the nighttime sky. The name Aldebaran is Arabic (الدبران al-dabarān) and translates literally as "the follower", presumably because this bright star appears to follow the Pleiades, or "Seven Sisters" star cluster in the night sky.
+In 1997 a substellar companion was reported but subsequent observations have not confirmed this claim.
+
+Aldebaran is classified as a type K5III star. It is an orange giant star that has moved off the main sequence line of the Hertzsprung–Russell diagram. It has exhausted the hydrogen fuel in its core and hydrogen fusion has ceased there. Although not yet hot enough for fusing helium, the core temperature of the star has greatly increased due to gravitational pressure and the star has expanded to a diameter of 44.2 times the diameter of the Sun, approximately 61 million kilometres (see 10 gigametres for similar sizes). The Hipparcos satellite has measured it as 65.1 light years (20.0 pc) away, and it shines with 425 times the Sun's luminosity.
+Aldebaran is a slightly variable star, of the slow irregular variable type LB. It varies by about 0.2 in apparent magnitude from 0.75 to 0.95. With a near-infrared J band magnitude of -2.1, only Betelgeuse (-2.9), R Doradus (-2.6), and Arcturus (-2.2) are brighter.
+Aldebaran is one of the easiest stars to find in the night sky, partly due to its brightness and partly due to its spatial relation to one of the more noticeable asterisms in the sky. If one follows the three stars of Orion's belt from left to right (in the Northern Hemisphere) or right to left (in the Southern), the first bright star found by continuing that line is Aldebaran.
+Since the star is located (by chance) in the line of sight between the Earth and the Hyades, it has the appearance of being the brightest member of the more scattered Hyades open star cluster that makes up the bull's-head-shaped asterism; however, the star cluster is actually more than twice as far away, at about 150 light years.
+Aldebaran is close enough to the ecliptic to be occulted by the Moon. Such occultations occur when the Moon's ascending node is near the autumnal equinox. This event will next occur around 2015. A reasonably accurate estimate for the diameter of Aldebaran was obtained during the September 22, 1978 occultation. Aldebaran is in conjunction with the Sun around June 1 of each year.
+Five faint stars appear close enough to Aldebaran in its visual field for astronomers to consider it a double star association. These stars were given alphabetic secondary star designations more or less in the order of their discovery, with the letter A reserved for the primary star. The better known characteristics of these optical double stars are listed in the table below with the primary star, Aldebaran (Alpha Tauri A), shown for reference.
+Some surveys have indicated that Alpha Tauri B may have about the same proper motion and parallax as Aldebaran and thus may be a physical binary system. However these measurements are difficult to make because the dim B component appears so close to the bright primary star. The resulting margin of error is too large to positively establish (or exclude) a physical relationship between the two stars. So far neither the B component, nor anything else, has been unambiguously shown to be physically associated with Aldebaran.
+Alpha Tauri CD is a binary system with the C and D component stars gravitationally bound to and co-orbiting each other. These co-orbiting stars have been shown to be located far beyond Aldebaran and are members of the Hyades star cluster. As with the rest of the stars in the cluster they do not physically interact with Aldebaran in any way.
+In 1993, radial velocity measurements of Aldebaran, Arcturus and Pollux showed that Aldebaran exhibited a long-period radial velocity oscillation, which could be interpreted as a substellar companion. The measurements for Aldebaran implied a companion with a minimum mass 11.4 times that of Jupiter in a 643-day orbit at a separation of 2.0 AU (300 Gm) in a mildly eccentric orbit. However, all three stars surveyed showed similar oscillations yielding similar companion masses, and the authors concluded that the variation was likely to be intrinsic to the star rather than due to the gravitational effect of a companion. Subsequent observations have not confirmed any substellar companions in orbit around Aldebaran.
+From Arabic الدبران (al-dabarān), meaning "the follower" (of the Pleiades)
+In Persia it was known as Tascheter.
+The Romans called it Palilicium.
+In the Middle Ages it was sometimes called Cor Tauri (the Heart of the Bull/Taurus).
+In Chinese it is known as 畢宿五 (Bìxiùwŭ, the Fifth Star of the Net).
+In Hindu astronomy it is identified as the lunar mansion Rohini ("the red one") and as one of the twenty-seven daughters of Daksha and the wife of the god Chandra.
+This easily seen and striking star in its suggestive asterism is a popular subject for ancient and modern myths.
+Coordinates: 04h 35m 55.2s, +16° 30′ 33″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Taurus</characteristic>
+<characteristic name="Right ascension">04h 35m 55.239s</characteristic>
+<characteristic name="Declination">+16° 30′ 33.49″</characteristic>
+<characteristic name="Apparent magnitude (V)">0.75-0.95</characteristic>
+<characteristic name="Spectral type">K5III</characteristic>
+<characteristic name="Apparent magnitude (J)">-2.10</characteristic>
+<characteristic name="U−B color index">1.90</characteristic>
+<characteristic name="B−V color index">1.54</characteristic>
+<characteristic name="Variable type">LB</characteristic>
+<characteristic name="Radial velocity (Rv)">+54.26 ±0.03 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 62.78 ±0.89 mas/yr, Dec.: −189.35 ±0.58 mas/yr</characteristic>
+<characteristic name="Parallax (π)">50.09 ± 0.95 mas</characteristic>
+<characteristic name="Distance">65 ± 1 ly (20.0 ± 0.4 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−0.63</characteristic>
+<characteristic name="Mass">1.7 M☉</characteristic>
+<characteristic name="Radius">44.2 ± 0.9 R☉</characteristic>
+<characteristic name="Luminosity">518 ± 32 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.59 cgs</characteristic>
+<characteristic name="Temperature">3,910 K</characteristic>
+<characteristic name="Metallicity">70% Sun</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.34 dex</characteristic>
+<characteristic name="Rotation">643 days</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Aldebaran in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Aldebaran</link>
+</object>

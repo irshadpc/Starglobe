@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1500 Satellite details 1983-099A NORAD 14372" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+The Cosmos 1500 spacecraft was a precursor to the operational Russian Okean (&quot;Ocean&quot;) series of oceanographic remote sensing missions. The satellite tested a new sensors and methods of data collection and processing. Cosmos 1500 had the capability of overlapping and processing images from its sensors. Data from satellite were sent directly to ships or automated data receiving stations and was applied in navigation in northern oceans.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">14372	</characteristic><characteristic name="Int'l Code">1983-099A</characteristic>
+<characteristic name="Perigee">528.5 km</characteristic>
+<characteristic name="Apogee">554.0 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">95.3 minutes</characteristic>
+<characteristic name="Semi major axis">6912 km</characteristic>
+<characteristic name="Launch date">September 28, 1983</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

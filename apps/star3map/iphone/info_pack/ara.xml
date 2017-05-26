@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Ara (constellation)" type="Constellation">
+	<images>
+<image title="Ara (constellation)">ara_1.png</image>
+<image title="">ara__2.jpg</image>
+<image title="">ara__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Ara is a southern constellation situated between Scorpius and Triangulum Australe. Its name is Latin for "altar". Ara was one of the 48 Greek constellations described by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations defined by the International Astronomical Union.
+
+Ara contains part of the Milky Way to the south of Scorpius and thus has rich star fields.
+The constellation's stars have no names in Western culture, but the Chinese call α Arae "Choo" ("club" or "staff"), and ε Arae "Tso Kang", meaning 'left guard'.[citation needed]
+The northwest corner of Ara is crossed by the Milky Way and contains several open clusters (notably NGC 6200) and diffuse nebulae (including the bright cluster/nebula pair NGC 6188 and NGC 6193). The brightest of the globular clusters, sixth magnitude NGC 6397, lies at a distance of just 6,500 light-years (6.1×10^16 km), making it one of the closest globular cluster to the solar system.
+Although Ara lies close to the heart of the Milky Way, two spiral galaxies (NGC 6215 and NGC 6221) are visible near star η Arae.
+The Stingray Nebula (Hen 3-1357), the youngest known planetary nebula as of 2010, formed in Ara; the light from its formation was first observable around 1987.
+Last, but not least; there is also NGC 6326. A planetary nebula that might have a binary system at its center.
+In illustrations, Ara is usually depicted as an altar with its smoke 'rising' southward. However, depictions of Ara often vary in their details. In the early days of printing, a 1482 woodcut of Gaius Julius Hyginus's classic Poeticon Astronomicon depicts the altar as surrounded by demons.Johann Bayer in 1603 depicted Ara as an altar with burning incense; the flames rise southward as in most atlases. Hyginus also depicted Ara as an altar with burning incense, though his Ara featured devils on either side of the flames. However, Willem Blaeu, a Dutch uranographer active in the 16th and 17th centuries, drew Ara as an altar designed for sacrifice, with a burning animal offering. Unlike most depictions, the smoke from Blaeu's Ara rises northward, represented by Alpha Arae. A more unusual depiction of Ara comes from Aratus, a Greek uranographer, in 270 BCE. He drew Ara as a lighthouse, where Alpha. Beta, Epsilon, and Zeta Arae represent the base, and Eta Arae represents the flames at the lighthouse's light.
+In ancient Greek mythology, Ara was identified as the altar where the gods first made offerings and formed an alliance before defeating the Titans. The nearby Milky Way represents the smoke rising from the offerings on the altar.
+In Chinese astronomy, the stars of the constellation Ara lie within The Azure Dragon of the East (東方青龍, Dōng Fāng Qīng Lóng).
+USS Ara (AK-136) was a United States Navy Crater class cargo ship named after the constellation.
+Coordinates: 17h 23m 24s, −53° 34′ 48″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Ara</characteristic>
+<characteristic name="Genitive">Arae</characteristic>
+<characteristic name="Pronunciation">/ˈɛərə/, genitive /ˈɛəriː/</characteristic>
+<characteristic name="Symbolism">the Altar</characteristic>
+<characteristic name="Right ascension">16h 34m 16.9497s – 18h 10m 41.3407s</characteristic>
+<characteristic name="Declination">−45.4859734° – −67.6905823°</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Area">237 sq. deg. (63rd)</characteristic>
+<characteristic name="Main stars">8</characteristic>
+<characteristic name="Bayer/Flamsteed stars">17</characteristic>
+<characteristic name="Stars with planets">7</characteristic>
+<characteristic name="Stars brighter than 3.00m">2</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">3</characteristic>
+<characteristic name="Brightest star">β Ara (2.84m)</characteristic>
+<characteristic name="Nearest star">Gliese 674 (14.80 ly, 4.54 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">None</characteristic>
+<characteristic name="Bordering constellations">Corona Australis, Scorpius, Norma, Triangulum Australe, Apus, Pavo, Telescopium</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +25° and −90°. Best visible at 21:00 (9 p.m.) during the month of July.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Ara (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Ara_(constellation)</link>
+</object>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Castor (star)" type="Star">
+	<images>
+<image title="Castor (star)">castor_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Castor (α Gem, α Geminorum, Alpha Geminorum) is the second brightest star in the constellation Gemini and one of the brightest stars in the night sky. Although it has the Bayer designation "alpha", it is actually fainter than Beta Geminorum (Pollux). Castor is 49.8 light years away from Earth.
+
+Castor was discovered to be a visual binary in 1678, with the magnitude of its components being 2.0 and 2.9 (the combined magnitude is 1.58). The separation of the components is about 6", and the period of revolution is around 467 years. Each of the components of Castor is itself a spectroscopic binary, making Castor a quadruple star system. Castor has a faint companion separated from it by about 72" but having the same parallax and proper motion; this companion is an eclipsing binary system with a period slightly less than 1 day, and it is one of only a few known eclipsing binary systems where both companions are class M dwarf stars. Castor can thus be considered to be a sextuple star system, with six individual stars gravitationally bound together. Component C has the variable star designation YY Geminorum.
+Castor and Pollux are the two "heavenly twin" stars that give the constellation Gemini (meaning twins in Latin) its name. The name Castor refers specifically to Castor, one of the twin sons of Zeus and Leda. The star was annotated by the Arabic description Al-Ras al-Taum al-Muqadim, which translates as the head of the foremost twin. In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Aoul al Dzira, which was translated into Latin as Prima Brachii, meaning the first in the paw.
+In Chinese, 北河 (Běi Hé), meaning North River, refers to an asterism consisting of Castor, ρ Geminorum, and Pollux. Consequently, Castor itself is known as 北河二 (Běi Hé èr, English: the Second Star of North River.) The Chinese recognized Castor as Yin, which is, according to the Chinese, one of the two fundamental principles upon which all things depend.
+Coordinates: 07h 34m 36s, +31° 53′ 18″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Gemini</characteristic>
+<characteristic name="Right ascension">07h 34m 35.87319s</characteristic>
+<characteristic name="Declination">+31° 53′ 17.8160″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.93 / 2.97</characteristic>
+<characteristic name="Spectral type">A1 V + A2 Vm</characteristic>
+<characteristic name="U−B color index">0.02</characteristic>
+<characteristic name="B−V color index">0.04</characteristic>
+<characteristic name="Radial velocity (Rv)">+6.0 / –1.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –191.45 mas/yr, Dec.: –145.19 mas/yr</characteristic>
+<characteristic name="Parallax (π)">64.12 ± 3.75mas</characteristic>
+<characteristic name="Distance">51 ± 3 ly (15.6 ± 0.9 pc)</characteristic>
+<characteristic name="Mass">2.76 M☉</characteristic>
+<characteristic name="Radius">2.4 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.2 cgs</characteristic>
+<characteristic name="Temperature">10,286 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">0.98 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">18 km/s</characteristic>
+<characteristic name="Mass">2.98 M☉</characteristic>
+<characteristic name="Radius">3.3 R☉</characteristic>
+<characteristic name="Surface gravity (log g)">4.0 cgs</characteristic>
+<characteristic name="Temperature">8,842 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">33 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Castor (star) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Castor_(star)</link>
+</object>

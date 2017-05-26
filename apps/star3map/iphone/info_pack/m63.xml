@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sunflower Galaxy" type="Galaxies">
+	<images>
+		<image title="M63 from GALEX sky survey">m 63_1.jpg</image>
+		<image title="Messier 63, 24 inch telescope on Mt. Lemmon, AZ.">m 63_2.jpg</image>
+	</images>
+	<information>
+Messier 63 (also known as M63, NGC 5055, or the Sunflower Galaxy) is a spiral galaxy in the constellation Canes Venatici consisting of a central disc surrounded by many short spiral arm segments. M63 is part of the M51 Group, a group of galaxies that also includes M51 (the 'Whirlpool Galaxy').
+M63 was discovered by Pierre Méchain on June 14, 1779. The galaxy was then listed by Charles Messier as object 63 in the Messier Catalogue.
+In the mid-19th century, Lord Rosse identified spiral structures within the galaxy, making this one of the first galaxies in which such structure was identified.
+In 1971, a supernova with a magnitude of 11.8 appeared in one of the arms of M63.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Canes Venatici</characteristic>
+		<characteristic name="Right ascension">13h 15m 49.3s</characteristic>
+		<characteristic name="Declination">+42° 01′ 45″</characteristic>
+        <characteristic name="Redshift">484 km/s</characteristic>
+        <characteristic name="Distance">37 Mly</characteristic>	
+        <characteristic name="Type">SA(rs)bc</characteristic>		
+		<characteristic name="Apparent dimensions (V)">12′.6 × 7′.2</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.3</characteristic>
+		<characteristic name="Other designations">M63, NGC 5055, UGC 8334, PGC 46153</characteristic>
+	</characteristics>
+	<link title="Get more info about Sunflower Galaxy in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Sunflower_Galaxy</link>
+</object>

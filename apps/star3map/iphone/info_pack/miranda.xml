@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Miranda" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Miranda_1.jpg</image>
+        <image title="">Miranda_2.jpg</image>
+	</images>
+	<information>
+        Miranda or Uranus V is the smallest and innermost of Uranus's five round satellites. Like the other large moons of Uranus, Miranda orbits close to its planet's equatorial plane. Because Uranus orbits the Sun on its side, Miranda's orbit is perpendicular to the ecliptic and shares Uranus's extreme seasonal cycle. At just 470 km in diameter, Miranda is one of the smallest objects in the Solar System known to be spherical under its own gravity. Of the bodies that are known to be in hydrostatic equilibrium, only Saturn's moon Mimas is smaller.
+
+        Miranda has one of the most extreme and varied topographies of any object in the Solar System, including Verona Rupes, a 5- to 10-kilometer-high scarp that is the tallest cliff in the Solar System, and chevron-shaped tectonic features called coronae. The origin and evolution of this varied geology, the most of any Uranian satellite, are still not fully understood, and multiple hypotheses exist regarding Miranda's formation.
+
+        Miranda was discovered by Gerard Kuiper on 16 February 1948 at McDonald Observatory, and named after Miranda from William Shakespeare's play The Tempest.
+
+        The only close-up images of Miranda are from the Voyager 2 probe, which made observations of Miranda during its Uranus flyby in January 1986. During the flyby Miranda's southern hemisphere pointed towards the Sun, so only that part was studied.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Miranda in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Miranda_(moon)</link>
+</object>

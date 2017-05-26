@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 89" type="Galaxies">
+	<images>
+		<image title="Messier 89 by Hubble Space Telescope.">m 89_1.jpg</image>
+	</images>
+	<information>
+Messier 89 (M89 for short, also known as NGC 4552) is an elliptical galaxy in the constellation Virgo. It was discovered by Charles Messier on March 18, 1781. M89 is a member of the Virgo Cluster of galaxies.
+Current observations indicate that M89 may be nearly perfectly spherical in shape. This is unusual, since all other known elliptic galaxies are relatively elongated ellipsoids. However, it is possible that the galaxy is oriented in such a way that it appears spherical to an observer on Earth but is in fact elliptical.
+The galaxy also features a surrounding structure of gas and dust extending up to 150,000 light-years from the galaxy and jets of heated particles that extend 100,000 light-years outwards. This indicates that it may have once been an active quasar or radio galaxy. It also has an extensive and complex system of shells and plumes surrounding it originated in one or several mergers.
+Chandra studies in the wavelength of the X-Rays show two ring-like structures of hot gas in M89's nucleus, suggesting an outburst there 1-2 million years ago as well as ram-pressure stripping acting on the galaxy as it moves through Virgo's intracluster medium.
+M89 also has a large population of globular clusters. A 2006 survey estimates that there are 2,000 ± 700 globulars within 25′ of M89, compared to the estimated 150-200 thought to surround the Milky Way.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 35m 39.8s</characteristic>
+		<characteristic name="Declination">+12° 33′ 23″</characteristic>
+		<characteristic name="Apparent dimensions (V)">5.1 × 4.7 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.73</characteristic>
+        <characteristic name="Type">E, LINER, HIISy2</characteristic>
+		<characteristic name="Heliocentric radial velocity">340 ± 4km/s</characteristic>
+		<characteristic name="Redshift">0.001134 ± 0.000014</characteristic>
+		<characteristic name="Galactocentric velocity">290 ± 5 km/s</characteristic>
+		<characteristic name="Distance">50 ± 3 Mly (15.33 ± 0.92 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 4552, UGC 7760, PGC 41968</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 89 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_89</link>
+</object>

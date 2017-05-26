@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Regulus" type="Star">
+	<images>
+<image title="Regulus">regulus_1.png</image>
+<image title="">regulus__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Regulus (α Leo, α Leonis, Alpha Leonis) is the brightest star in the constellation Leo and one of the brightest stars in the night sky, lying approximately 79 light years from Earth. Regulus is a multiple star system composed of four stars that are organized into two pairs. The spectroscopic binary Regulus A consists of a blue-white main-sequence star and its companion, which has not yet been directly observed, but is probably a white dwarf star. Located farther away is the pair Regulus B and Regulus C, which are dim main-sequence stars.
+Of the brightest stars in the sky, Regulus is closest to the ecliptic, and is regularly occulted by the Moon. Occultations by the planets Mercury and Venus are also possible but rare, as are occultations by asteroids. The last occultation of Regulus by a planet was on July 7, 1959, by Venus. The next will occur on October 1, 2044, also by Venus. Other planets will not occult Regulus over the next few millennia because of their node positions. Regulus was occulted by the asteroid 163 Erigone in the early morning of March 20, 2014. The center of the shadow path passed through New York and eastern Ontario. Few saw it, due to weather.
+An occultation of Regulus by the asteroid 166 Rhodope was observed by 12 observers from Portugal, Spain, Italy, and Greece on 2005-10-19. Details are at http://www.euraster.net/results/2005/index.html#1019-166
+Although best seen in the evening in northern hemisphere in late winter and spring, Regulus can be found at some time of night throughout the year except for about a month on either side of August 22, when the sun is too near. Regulus passes through SOHO's LASCO C3 every August. For most Earth observers, the heliacal rising of Regulus occurs in the first week of September. Every 8 years, Venus passes Regulus around the time of the star's heliacal rising, most recently in 2006.
+The primary of Regulus A has about 3.5 times the Sun’s mass and is a young star of only a few hundred million years. It is spinning extremely rapidly, with a rotation period of only 15.9 hours, which causes it to have a highly oblate shape. This results in so-called gravity darkening: the photosphere at Regulus' poles is considerably hotter, and five times brighter per unit surface area, than its equatorial region. If it were rotating only 16% faster, the star's gravity would provide insufficient centripetal force to hold it together, and it would tear itself apart.
+Regulus is a multiple star system consisting of four stars. Regulus A is a binary star consisting of a blue-white main sequence star of spectral type B7V, which is orbited by a star of at least 0.3 solar masses, which is probably a white dwarf. The two stars take approximately 40 days to complete an orbit around their common centre of mass. Given the extremely distorted shape of the primary, the relative orbital motion may be notably altered with respect to the two-body purely Keplerian scenario because of non-negligible long-term orbital perturbations affecting, for example, its orbital period. In other words, the third Kepler law, which holds exactly only for two pointlike masses, would be no longer valid because of the highly distorted shape of the primary.
+At a distance of around 4,200 AU from Regulus A is a binary star system that shares a common proper motion. Designated Regulus B and Regulus C, the Henry Draper Catalogue number for this pair is HD 87884. The first is a K2V star, while the companion is approximately M4V. The companion pair has an orbital period of 2,000 years and is separated by about 100 AU.
+The Regulus system as a whole is the twenty-first brightest star in the night sky with an apparent magnitude of +1.35. The light output is dominated by Regulus A. Regulus B, if seen in isolation, would be a binocular object of magnitude +8.1, and its companion, Regulus C, the faintest of the three stars that has been directly observed, would require a substantial telescope to be seen, at magnitude +13.5. Regulus A is itself a spectroscopic binary: the secondary star has not yet been directly observed as it is much fainter than the primary. The BC pair lies at an angular distance of 177 arc-seconds from Regulus A, making them visible in amateur telescopes.
+Regulus is on the ecliptic, which means that solar system residue is in its visibility path from Earth. On March 20 of 2014, from the vantage point of Bermuda, Manhattan, and Kingston Ontario, Regulus will disappear for 14 seconds due to being occulted behind asteroid 163-Erigone.
+Rēgulus is Latin for 'prince' or 'little king'. The Greek variant Basiliscus is also used. It is known as Qalb al-Asad, from the Arabic قلب الأسد, meaning 'the heart of the lion'. This phrase is sometimes approximated as Kabelaced and translates into Latin as Cor Leōnis. It is known in Chinese as 轩辕十四, the Fourteenth Star of Xuanyuan, the Yellow Emperor. In Hindu astronomy, Regulus corresponds to the Nakshatra Magha ("the bountiful").
+Persian astrologers around 3000 BC knew Regulus as Magh ("the great"), and as Venant, one of the four 'royal stars'. It was one of the fifteen Behenian stars known to medieval astrologers, associated with granite, mugwort, and the kabbalistic symbol.
+In MUL.APIN, Regulus listed as LUGAL, meaning "the star that stands in the breast of the Lion:the King.".
+Coordinates: 10h 08m 22.3s, +11° 58′ 02″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Leo</characteristic>
+<characteristic name="Right ascension">A: 10h 08m 22.311s, BC: 10h 08m 12.8/14s</characteristic>
+<characteristic name="Declination">A: +11° 58′ 01.95″, BC: +11° 59′ 48″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.35/8.14/13.5</characteristic>
+<characteristic name="Spectral type">B7 V + K1-2 V + M5 V</characteristic>
+<characteristic name="U−B color index">–0.36/+0.54</characteristic>
+<characteristic name="B−V color index">–0.11/+0.87</characteristic>
+<characteristic name="Variable type">Slightly</characteristic>
+<characteristic name="Radial velocity (Rv)">+5.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: -248.73 ± 0.35 mas/yr, Dec.: 5.59 ± 0.21 mas/yr</characteristic>
+<characteristic name="Parallax (π)">41.13 ± 0.35mas</characteristic>
+<characteristic name="Distance">79.3 ± 0.7 ly (24.3 ± 0.2 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–0.52/6.3/11.6</characteristic>
+<characteristic name="Mass">3.8 M☉</characteristic>
+<characteristic name="Radius">3.092 ± 0.147 R☉</characteristic>
+<characteristic name="Luminosity">288 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.54 ± 0.09 cgs</characteristic>
+<characteristic name="Temperature">12,460 ± 200 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">347 km/s</characteristic>
+<characteristic name="Age">≳1 Gyr</characteristic>
+<characteristic name="Mass">0.8/0.2 M☉</characteristic>
+<characteristic name="Radius">0.5/? R☉</characteristic>
+<characteristic name="Luminosity">0.31 L☉</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Regulus in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Regulus</link>
+</object>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Ras Elased Australis" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+Epsilon Leonis (ε Leo, ε Leonis) is the fifth brightest star in the constellation Leo, consistent with its Bayer designation Epsilon. The star has the traditional names Ras Elased (Australis), Asad Australis and Algenubi, all of which derive from the Arabic رأس الأسد الجنوبي rās al-’asad al-janūbī, which means "the southern (star) of the lion's head"; australis is Latin for "southern".
+Epsilon Leonis has a stellar classification of G1 II, with the luminosity class of II indicating that, at an age of 162 million years, it has evolved into a bright giant. It is much larger and brighter than the Sun with a luminosity 288 times and a radius 21 times solar. Consequently, its absolute magnitude is actually –1.49, making it one of the more luminous stars in the constellation, significantly more than its alpha star, Regulus. Algenubi's apparent brightness, though, is only 2.98. Given its distance of about 247 light-years (76 parsecs), the star is more than 3 times the distance from the Sun than Regulus. At this distance, the visual magnitude of Epsilon Leonis is reduced by 0.03 as a result of extinction caused by intervening gas and dust.
+
+Algenubi exhibits the characteristics of a Cepheid-like variable, changing by an amplitude of 0.3 magnitude every few days. It has around four times the mass of the Sun and a projected rotational velocity of 8.1 km s−1. Based upon its iron abundance, the metallicity of this star's outer atmosphere is only around 52% of the Sun's. That is, the abundance of elements other than hydrogen and helium is about half that in the Sun.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Ras Elased Australis in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Epsilon_Leonis</link>
+</object>

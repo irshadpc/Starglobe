@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 92" type="Galaxies">
+	<images>
+		<image title="Center of M92 by HST; 1.44′ view">m 92_1.jpg</image>
+		<image title="Messier 92 with amateur telescope">m 92_2.jpg</image>
+		<image title="Messier 92 from the Isaac Newton Group of Telescopes">m 92_3.jpg</image>
+	</images>
+	<information>
+Messier 92 (also known as M92 or NGC 6341) is a globular cluster of stars in the northern constellation of Hercules. It was discovered by Johann Elert Bode in 1777, then published in the Jahrbuch during 1779. The cluster was independently rediscovered by Charles Messier on March 18, 1781 and added as the 92nd entry in his catalogue. M92 is at a distance of about 26,700 light-years away from Earth.
+M92 is one of the brighter globular clusters in the northern hemisphere, but it is often overlooked by amateur astronomers because of its proximity to the even more spectacular Messier 13. It is visible to the naked eye under very good conditions.
+Among the Milky Way population of globular clusters, Messier 92 is among the brighter clusters in terms of absolute magnitude. It is also one of the oldest clusters. Messier 92 is located around 16 kly (4.9 kpc) above the galactic plane and 33 kly (10 kpc) from the Galactic Center. The heliocentric distance of Messier 92 is 26.7 kly (8.2 kpc). The half-light radius, or radius containing half of the light emission from the cluster, is 1.09 arcminutes, while the tidal radius is 15.17 arcminutes. It appears only slightly flattened, with the minor axis being about 89% ± 3% as large as the major axis.
+Characteristic of other globulars, Messier 92 has a very low abundance of elements other than hydrogen and helium; what astronomers term its metallicity. Relative to the Sun, the abundance of iron in the cluster is given by [Fe/H] = –2.29 dex, which equates to only 0.5% of the solar abundance. This puts the estimated age range for the cluster at 14.2 ± 1.2 billion years, or roughly the age of the Universe.
+The cluster is not currently in a state of core collapse and the core radius is about 2 arcseconds. It is an Oosterhoff type II (OoII) globular cluster, which means it belongs to the group of metal poor clusters with longer period RR Lyrae variable stars. The 1997 Catalogue of Variable Stars in Globular Clusters listed 28 candidate variable stars in the cluster, although only 20 have been confirmed. As of 2001, there are 17 known RR Lyrae variables in Messier 92. 10 X-ray sources have been detected within the 1.02 arcminute half-mass radius of the cluster, of which half are candidate cataclysmic variable stars.
+	</information>
+	<characteristics>
+		<characteristic name="Class">IV</characteristic>
+		<characteristic name="Constellation">Hercules</characteristic>
+		<characteristic name="Right ascension">17h 17m 07.39s</characteristic>
+		<characteristic name="Declination">+43° 08′ 09.4″</characteristic>
+		<characteristic name="Distance">26.7 kly (8.2 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.3</characteristic>
+		<characteristic name="Apparent dimensions (V)">14' arc minutes</characteristic>
+		<characteristic name="Mass">2.0×105 M☉</characteristic>
+		<characteristic name="Metallicity">–2.16 dex</characteristic>
+		<characteristic name="Estimated age">14.2 ± 1.2 Gyr</characteristic>
+		<characteristic name="Other designations">M92, NGC 6341, GCl 59</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 92 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_92</link>
+</object>

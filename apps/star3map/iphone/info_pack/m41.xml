@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 41" type="Galaxies">
+	<images>
+		<image title="Credit: 2MASS/NASA">m 41_1.jpg</image>
+	</images>
+	<information>
+Messier 41 (also known as M41 or NGC 2287) is an open cluster in the Canis Major constellation. It was discovered by Giovanni Batista Hodierna before 1654 and was perhaps known to Aristotle about 325 BC. M41 lies about four degrees almost exactly south of Sirius, and forms a triangle with it and Nu2 Canis Majoris—all three can be seen in the same field in binoculars. The cluster itself covers an area around the size of the full moon. It contains about 100 stars including several red giants, the brightest being a spectral type K3 giant of apparent magnitude 6.3 near the cluster's center, and a number of white dwarfs. The cluster is estimated to be moving away from us at 23.3 km/s. The diameter of the cluster is between 25 and 26 light years. Its age is estimated at between 190 and 240 million years old. M41 is also referred to as NGC 2287.
+Walter Scott Houston describes the appearance of the cluster in small telescopes:
+    Many visual observers speak of seeing curved lines of stars in M41. Although they seem inconspicuous on photographs, the curves stand out strongly in my 10-inch [reflecting telescope], and the bright red star near the center of the cluster is prominent.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Canis Major</characteristic>
+		<characteristic name="Right ascension">06h 46.0m</characteristic>
+		<characteristic name="Declination">−20° 46′</characteristic>
+		<characteristic name="Distance">2,300 ly (710 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">4.5</characteristic>
+		<characteristic name="Apparent dimensions (V)">38 arcmin</characteristic>
+		<characteristic name="Radius">12.5 ly</characteristic>
+		<characteristic name="Estimated age">190-240 million yrs</characteristic>
+		<characteristic name="Other designations">M41, NGC 2287</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 41 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_41</link>
+</object>

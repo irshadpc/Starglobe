@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 2151 Satellite details 1991-042A NORAD 21422" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">21422	</characteristic><characteristic name="Int'l Code">1991-042A</characteristic>
+<characteristic name="Perigee">595.6 km</characteristic>
+<characteristic name="Apogee">615.0 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">96.6 minutes</characteristic>
+<characteristic name="Semi major axis">6976 km</characteristic>
+<characteristic name="Launch date">June 13, 1991</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

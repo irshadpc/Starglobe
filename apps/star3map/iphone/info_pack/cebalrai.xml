@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Cebalrai" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Beta Ophiuchi (β Oph, β Ophiuchi) is a star in the equatorial constellation of Ophiuchus. It has the traditional names Celbalrai, which comes from the Arabic كلب الراعي kalb al-rā‘ī meaning "shepherd's dog". It is also called Cheleb,[11] Kelb Alrai, or sometimes just Alrai. The apparent visual magnitude of this star is 2.7,[2] which is readily visible to the naked eye even from urban skies. The distance to this star can be estimated using parallax measurements, yielding a value of 81.8 light-years (25.1 parsecs).
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Cebalrai in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Ophiuchi</link>
+</object>

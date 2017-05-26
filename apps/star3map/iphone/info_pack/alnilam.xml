@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alnilam" type="Star">
+	<images>
+<image title="Alnilam">alnilam_1.jpg</image>
+<image title="">alnilam__2.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alnilam is a large blue supergiant star in the constellation of Orion. It has a Bayer designation of Epsilon Orionis (ε Ori). Its Flamsteed designation is 46 Orionis.
+It is the 30th brightest star in the sky (the 4th brightest in Orion) and is a blue-white supergiant. Together with Mintaka and Alnitak, the three stars make up the belt of Orion, known by many names across many ancient cultures. Alnilam is the middle star.
+Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is also one of the 57 stars used in celestial navigation. It is at its highest point in the sky around midnight on December 15.
+Alnilam's relatively simple spectrum has made it useful for studying the interstellar medium. Within the next million years, this star may turn into a red supergiant and explode as a supernova. It is surrounded by a molecular cloud, NGC 1990, which it brightens to make a reflection nebula. Its stellar winds may reach up to 2000 km/s, causing it to lose mass about 20 million times more rapidly than the Sun.
+
+The name Alnilam derives from the Arabic النظام an-niżām, related to the word نظم nażm "string of pearls". Related spellings are Alnihan and Alnitam: all three variants are evidently mistakes in transliteration or copy errors.[citation needed]
+The three belt stars were collectively known by many names in many cultures. Arabic terms include Al Nijād 'the Belt', Al Nasak 'the Line', Al Alkāt 'the Golden Grains or Nuts' and, in modern Arabic, Al Mīzān al H•akk 'the Accurate Scale Beam'. In Chinese mythology they were also known as The Weighing Beam. The belt was also the Three Stars mansion (simplified Chinese: 参宿; traditional Chinese: 參宿; pinyin: Shēn Xiù), one of the Twenty-eight mansions of the Chinese constellations. It is one of the western mansions of the White Tiger.
+In pre-Christian Scandinavia, the belt was known as Frigg's Distaff (Friggerock) or Freyja's distaff. Similarly Jacob's Staff and Peter's Staff were European biblical derived terms, as were the Three Magi, or the Three Kings. Väinämöinen's Scythe (Kalevala) and Kalevan Sword are terms from Finnish mythology.
+The Seri people of northwestern Mexico call the three belt stars Hapj (a name denoting a hunter) which consists of three stars: Hap (mule deer), Haamoja (pronghorn), and Mojet (bighorn sheep). Hap is in the middle and has been shot by the hunter; its blood has dripped onto Tiburón Island.
+Coordinates: 05h 36m 12.8s, −01° 12′ 06.9″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Orion</characteristic>
+<characteristic name="Right ascension">05h 36m 12.8s</characteristic>
+<characteristic name="Declination">−01° 12′ 06.9″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.70</characteristic>
+<characteristic name="Spectral type">B0 Ia</characteristic>
+<characteristic name="U−B color index">−1.03</characteristic>
+<characteristic name="B−V color index">−0.19</characteristic>
+<characteristic name="Variable type">Alp Cyg</characteristic>
+<characteristic name="Radial velocity (Rv)">25.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 1.49 mas/yr, Dec.: −1.06 mas/yr</characteristic>
+<characteristic name="Parallax (π)">2.43 ± 0.91 mas</characteristic>
+<characteristic name="Distance">approx. 1,300 ly (approx. 400 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−6.37</characteristic>
+<characteristic name="Radius">30 R☉</characteristic>
+<characteristic name="Luminosity">375,000 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.9 cgs</characteristic>
+<characteristic name="Temperature">26,200 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">91 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alnilam in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alnilam</link>
+</object>

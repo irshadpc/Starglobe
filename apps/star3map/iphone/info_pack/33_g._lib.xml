@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gliese 570" type="Star">
+	<images>
+<image title="Gliese 570">33 g. lib_1.jpg</image>
+<image title="">33_g._lib__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gliese 570, also known as 33 G. Librae, is a ternary star system approximately 19 light-years away. The primary star is an orange dwarf star (much dimmer and smaller than the Sun). The other secondary stars are themselves a binary system, two red dwarfs that orbit one another. A brown dwarf has been confirmed to be orbiting in the system. In 1998, an extrasolar planet was thought to orbit the primary star, but it was discounted in 2000.
+
+In the night sky, the Gliese 570 system lies in the southwestern part of Libra. The system is southwest of Alpha Librae and northwest of Sigma Librae. In the early 1990s, the European Hipparcos mission measured the parallax of components B and C, suggesting that the system was at a distance of 24.4 light-years from the Sun. This, however, was a relatively large error as Earth-based parallax and orbit observations suggest that the two stars are actually part of a system with Gliese 570 A, and must actually lie at the same distance.
+The primary star of the system (component A) is an orange dwarf star that may just have over three fourths the mass of the Sun, about 77 percent of its radius, and only 15.6 percent of its visual luminosity. It has a separation of 190 astronomical units from the binary components B and C, moving in an eccentric orbit that takes at least 2130 years to complete. Gliese 570 A is spectral type K4V and emits X-rays.
+A binary system in their own right, components B and C are both rather dim red dwarf stars that have less mass, radius, and luminosity than the Sun. Component B is spectral type M1V, component C is spectral type M3V, and both emit X-rays.
+On January 15, 2000, astronomers announced that they had found one of the coolest brown dwarfs then known. Catalogued as Gliese 570 D (or rarely Gliese 570 d), it was observed at a wide separation of more than 1,500 astronomical unit from the triple star system. It has an estimated mass of 50 times that of Jupiter.
+The status of Gliese 570 D as a brown dwarf was confirmed by Doppler spectroscopy at the Cerro Tololo Interamerican Observatory in Chile. The surface temperature of this substellar object was found to be a relatively cool 500 degrees Celsius, making it cooler and less luminous than any other known brown dwarf (including the prototype "T" dwarf), and classifying the object as a T7-8V brown dwarf. No X-rays have been reported from this brown dwarf.
+In 1998, an extrasolar planet was announced to orbit the primary star within the Gliese 570 system. The planet, identified as "Gliese 570 Ab", was considered doubtful and the claim was retracted in 2000. No extrasolar planets have been confirmed to exist in this multiple star system thus far.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Libra</characteristic>
+<characteristic name="Right ascension">14h 57m 28.00144s</characteristic>
+<characteristic name="Declination">−21° 24′ 55.7131″</characteristic>
+<characteristic name="Apparent magnitude (V)">5.64 / ? / 9.90</characteristic>
+<characteristic name="Spectral type">K4V / M1V / M3V / T7V</characteristic>
+<characteristic name="U−B color index">1.06 /1.22</characteristic>
+<characteristic name="B−V color index">1.11 / 1.51</characteristic>
+<characteristic name="Variable type">None</characteristic>
+<characteristic name="Radial velocity (Rv)">+27.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 1037.06 mas/yr, Dec.: -1725.87 mas/yr</characteristic>
+<characteristic name="Parallax (π)">171.22 ± 0.94mas</characteristic>
+<characteristic name="Distance">19.0 ± 0.1 ly (5.84 ± 0.03 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">6.79 / ? / 11.05</characteristic>
+<characteristic name="Mass">0.802 ± 0.040 / 0.55 / 0.35 / 0.05 M☉</characteristic>
+<characteristic name="Radius">0.739 ± 0.019 / 0.65 R☉</characteristic>
+<characteristic name="Luminosity (bolometric)">0.22 / 0.04 / ? / 3•10-6 L☉</characteristic>
+<characteristic name="Luminosity (visual, LV)">0.16 / 0.02 / 0.003 / ? L☉</characteristic>
+<characteristic name="Temperature">4597 ± 101 / 2700 K</characteristic>
+<characteristic name="Metallicity"></characteristic>
+<characteristic name="Rotation">48.3 days</characteristic>
+<characteristic name="Rotational velocity (v sin i)">1.50 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gliese 570 in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Gliese_570</link>
+</object>

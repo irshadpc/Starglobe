@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Ceti" type="Star">
+	<images>
+<image title="Diphda">diphda_1.png</image>
+<image title="">diphda__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Ceti (β Cet, β Ceti) is the brightest star in the constellation Cetus. Although it has the Bayer designation "beta", it is actually brighter than Alpha Ceti. It has the traditional names Deneb Kaitos and Diphda. This orange giant is easy to identify due to its location in an otherwise dark section of the celestial sphere. Based on parallax measurements, it lies at an estimated distance of 96.3 light-years (29.5 parsecs) from Earth.
+
+Deneb Kaitos has an apparent visual magnitude of 2.02, making it the brightest star in Cetus. The stellar classification of this star is K0 III, although some sources list a classification of G9.5 III indicating that it lies along the dividing line separating G-type from K-type stars. The luminosity class of 'III' means that it is a giant star that has consumed the hydrogen at its core and evolved away from an A-type main sequence star. After passing through the red giant stage, it underwent the helium flash event and is presently generating energy through the thermonuclear fusion of helium at its core. Beta Ceti will remain in this mode for over 100 million years.
+The effective temperature of the star's outer envelope is about 4,797 K, giving it the characteristic orange hue of a K-type star. In spite of its cooler temperature, Deneb Kaitos is much brighter than the Sun with a bolometric luminosity of about 145 times the luminosity of the Sun, resulting from a radius 18 times as large as the Sun and a mass that is 2.8 times the Sun's mass.
+This star displays flaring activity that results in random outbursts that increase the luminosity of the star over intervals lasting several days. This is a much longer duration than for comparable solar flare activity on the Sun, which typically last for periods measured in hours. In 2005, a relatively high rate of X-ray emission was detected with the XMM-Newton space observatory. It is emitting about 2,000 times the X-ray luminosity of the Sun, allowing the star to be imaged with the Chandra X-ray Observatory.
+The traditional name Deneb Kaitos is Arabic ألضنب ألقيتوس ألجنوب - Al Dhanab al Ḳaiṭos al Janūbīyy for "southern tail of Cetus"; it is also known as Diphda, "frog", from the Arabic الضفدع الثاني aḍ-ḍafdaʿ aṯ-ṯānī "the second frog" ("the first frog" is Fomalhaut).
+In Chinese astronomy, Deneb Kaitos is called 土司空, Pinyin: Tǔsīkōng, meaning Master of Constructions, because this star is marking itself and stand alone in Master of Constructions asterism, Legs mansion (see : Chinese constellation). 土司空 (Tǔsīkōng), westernized into Too Sze Kung by R.H. Allen and the meaning is "Superintendent of Earthworks." 
+USS Diphda (AKA-59) was a U.S. Navy ship.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Cetus</characteristic>
+<characteristic name="Right ascension">00h 43m 35.37090s</characteristic>
+<characteristic name="Declination">–17° 59′ 11.7827″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.02</characteristic>
+<characteristic name="Spectral type">K0 III</characteristic>
+<characteristic name="U−B color index">+0.88</characteristic>
+<characteristic name="B−V color index">+1.01</characteristic>
+<characteristic name="Variable type">Rotationally</characteristic>
+<characteristic name="Radial velocity (Rv)">+12.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +232.55 mas/yr, Dec.: +31.99 mas/yr</characteristic>
+<characteristic name="Parallax (π)">33.86 ± 0.16mas</characteristic>
+<characteristic name="Distance">96.3 ± 0.5 ly (29.5 ± 0.1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–0.13</characteristic>
+<characteristic name="Mass">2.8 M☉</characteristic>
+<characteristic name="Radius">16.78 ± 0.25 R☉</characteristic>
+<characteristic name="Luminosity">139.1 ± 7.0 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.7 cgs</characteristic>
+<characteristic name="Temperature">4,797 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.09 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">18 km/s</characteristic>
+<characteristic name="Age">&gt; 1 Gyr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Ceti in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Diphda</link>
+</object>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Algorab" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassAStar.png</image>
+	</images>
+	<information>
+        Delta Corvi (δ Corvi, abbreviated Delta Crv, δ Crv), also named Algorab,[9] is a third magnitude star at a distance of 86.9 light-years (26.6 parsecs) from the Sun[1] in the southern constellation of Corvus.
+        
+        Delta Corvi has more than 2.7 times the mass of the Sun, which is causing it to radiate a much higher energy output—roughly 69 times the Sun's luminosity. The effective temperature of the outer atmosphere is 10400 K,[6] giving it the white hue of an A-type star.[14] The spectrum matches a stellar classification of A0 IV(n) kB9.[3] However it is more luminous—65-70 times that of the Sun—than it would be if it were on the main sequence. Hence it is either a subgiant star around 260 million years old that has nearly exhausted the supply of hydrogen at its core and is in the process of evolving away from the main sequence of stars like the Sun, or a pre main sequence star around 3.2 million years old that has not completely condensed and settled on the main sequence.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Algorab in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Delta_Corvi</link>
+</object>

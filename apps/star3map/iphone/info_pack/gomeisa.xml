@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gomeisa" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Beta Canis Minoris, also named Gomeisa, is a star in the constellation of Canis Minor. In the night sky it is notable for its proximity to the prominent star Procyon.
+        
+        From parallax measurements, the distance to this star is about 162 light-years (50 parsecs). It has an apparent visual magnitude of 2.89, making it easily visible to the naked eye. Beta Canis Minoris has about 3.5 times the Sun's mass and is rotating rapidly with a projected rotational velocity of 210 km s−1, which gives a lower bound on the azimuthal rotational velocity along the star's equator. The actual rotation rate may be about once per day.
+        
+        The stellar classification of this star is B8 Ve. A luminosity class V star belongs on the main sequence, which means it is generating energy through the thermonuclear fusion of hydrogen at its core. The star is radiating this energy from its outer envelope at an effective temperature of 12,050 K, giving it a blue-white hue typical of B-type stars. An 'e' classification indicates that the spectrum contains emission lines, which means this is a Be star that is surrounded by a thin, circumstellar disk made of gaseous material ejected from the star. This hot, gaseous disk is about three times the radius of the star.
+        
+        Beta Canis Minoris shows little variation in brightness, but it does display changes in the hydrogen emission coming from the gaseous disk. Examination with the Canadian MOST space telescope reveals low amplitude changes in luminosity from the star. This variation has a cyclic pattern formed from multiple overlapping frequencies, with the dominant frequencies being 3.257 and 3.282 cycles per day. As such, it belongs to a class called slowly pulsating B-type stars, or SPBe.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Gomeisa in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Canis_Minoris</link>
+</object>

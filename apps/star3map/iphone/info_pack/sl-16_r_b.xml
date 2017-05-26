@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="SL-16 R/B Satellite details 2007-029B NORAD 31793" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">31793	</characteristic><characteristic name="Int'l Code">2007-029B</characteristic>
+<characteristic name="Perigee">850.8 km</characteristic>
+<characteristic name="Apogee">853.2 km</characteristic>
+<characteristic name="Inclination">71.0 °</characteristic>
+<characteristic name="Period">101.8 minutes</characteristic>
+<characteristic name="Semi major axis">7222 km</characteristic>
+<characteristic name="Launch date">June 29, 2007</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Tauri" type="Star">
+	<images>
+<image title="Alnath">alnath_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Tauri (β Tau, β Tauri) is the second brightest star in the constellation Taurus, with an apparent magnitude of 1.68.Ptolemy considered Beta Tauri to be shared by Auriga, and Bayer assigned it a designation in both constellations: Beta Tauri (β Tau) and Gamma Aurigae (γ Aur). When the modern constellation boundaries were fixed in 1930, the latter designation dropped from use. The star has the traditional name Elnath—a reference to "the butting" of the bull's horns.
+
+Elnath's absolute magnitude is -1.34, similar to another Taurean star, Maia in the Pleiadian star cluster. Like Maia, Elnath is a B class giant with a luminosity 700 times solar. However being approximately 130 light years distant compared to Maia's estimated 360 light years, Elnath ranks as the second brightest star in the constellation.
+Uniquely positioned along the plane of our Milky Way Galaxy a few degrees west of the galactic anticenter, Elnath heralds a rich collection of nebulae and star clusters. Relative to our Sun, β Tauri is notable for a high abundance of manganese, but little calcium and magnesium. This star has begun to evolve away from the main sequence.
+This star can be occulted by the moon. Such occultations occur when the moon's ascending node is near the vernal equinox, as is the case in 2007. Most occultations are visible only in parts of the Southern Hemisphere, because the star lies at the northern edge of the lunar occultation zone. Rarely, it may be occulted as far north as southern California.
+There is a faint star that appears close enough to Elnath for astronomers to consider it a double star. Its visual companion, known as BD+28 795B, has a PA of 239 degrees and is separated from the main star by 33.4 arcseconds.
+Beta Tauri has the traditional name Elnath, El Nath, or Alnath, which comes from the Arabic word النطح an-naţħ, meaning "the butting" (i.e. the bull's horns). As in many other (but not all) Arabic star names, the article ال is transliterated literally as el, despite the fact that in Arabic pronunciation it is assimilated to the following n; it can also be omitted: Nath.
+In Chinese, 五車 (Wǔ Ju), meaning Five Chariots, refers to an asterism consisting of β Tauri, ι Aurigae, Capella, β Aurigae and θ Aurigae. Consequently, β Tauri itself is known as 五車五 (Wǔ Ju wǔ; English: Fifth of the Five Chariots.)
+Coordinates: 05h 26m 17.5134s, +28° 36′ 27.494″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Taurus</characteristic>
+<characteristic name="Right ascension">05h 26m 17.5134s</characteristic>
+<characteristic name="Declination">28° 36′ 27.494″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.68</characteristic>
+<characteristic name="Spectral type">B7III</characteristic>
+<characteristic name="U−B color index">-0.49</characteristic>
+<characteristic name="B−V color index">-0.13</characteristic>
+<characteristic name="Variable type">None</characteristic>
+<characteristic name="Radial velocity (Rv)">9.2 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 23.28 mas/yr, Dec.: -174.22 mas/yr</characteristic>
+<characteristic name="Parallax (π)">24.89 ± 0.88mas</characteristic>
+<characteristic name="Distance">131 ± 5 ly (40 ± 1 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">-1.34</characteristic>
+<characteristic name="Mass">5.0 ± 0.1 M☉</characteristic>
+<characteristic name="Radius">4.2 R☉</characteristic>
+<characteristic name="Luminosity">700 L☉</characteristic>
+<characteristic name="Temperature">13,824 ± 475 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">-0.10 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">82 km/s</characteristic>
+<characteristic name="Age">100 ± 10 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Tauri in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alnath</link>
+</object>

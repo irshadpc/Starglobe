@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Albireo" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassKStar.png</image>
+	</images>
+	<information>
+        Albireo is the traditional name for the double star also designated Beta Cygni (β Cygni, abbreviated Beta Cyg, β Cyg), although the International Astronomical Union now regards the name as only applying to the brightest component.
+        
+        Despite being designated 'beta', it is fainter than Gamma Cygni, Delta Cygni, and Epsilon Cygni and is the fifth brightest point of light in the constellation of Cygnus. Appearing to the naked eye to be a single star of magnitude 3, viewing through even a low magnification telescope resolves it into its two components. The brighter yellow star (actually itself a very close binary system) makes a striking colour contrast with its fainter blue companion.
+        
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Albireo in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Albireo</link>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="OAO 3 (COPERNICUS) Satellite details 1972-065A NORAD 06153" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+This mission was the third in the OAO program and its second successful spacecraft to observe the celestial sphere from above the Earth's atmosphere. A UV telescope with a spectrometer measured high-resolution spectra of stars, galaxies, and planets with the main emphasis on the determination of interstellar absorption lines. Three X-ray telescopes and a collimated proportional counter provided measurements of celestial X-ray sources and interstellar absorption between 1 and 100 A.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">6153	</characteristic><characteristic name="Int'l Code">1972-065A</characteristic>
+<characteristic name="Perigee">703.6 km</characteristic>
+<characteristic name="Apogee">714.4 km</characteristic>
+<characteristic name="Inclination">35.0 °</characteristic>
+<characteristic name="Period">98.8 minutes</characteristic>
+<characteristic name="Semi major axis">7080 km</characteristic>
+<characteristic name="Launch date">August 21, 1972</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

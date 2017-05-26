@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Epsilon Virginis" type="Star">
+	<images>
+<image title="Vindemiatrix">vindemiatrix_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Epsilon Virginis (ε Vir, ε Virginis) is the Bayer designation for a star in the zodiac constellation of Virgo. It has the traditional name Vindemiatrix, which comes from Greek through Latin and means Grape Gatherer. The apparent visual magnitude of this star is +2.8, making it the third brightest member of Virgo. Based upon parallax measurements made during the Hipparcos mission, Vindemiatrix lies at a distance of about 109.6 light-years (33.6 parsecs) from Earth, give or take a half light year.
+Vindemiatrix is a giant star with a stellar classification of G8 III. With 2.6 times the mass of the Sun, it has reached a stage in its evolution where the hydrogen fuel in its core is exhausted. As a result, it has expanded to over ten times the Sun's girth and is now radiating around 77 times as much luminosity as the Sun. This energy is being emitted from its outer atmosphere at an effective temperature of 5,086 K, which gives it the yellow-hued glow of a G-type star. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+This star is following an orbit through the Milky Way with an eccentricity of 0.11. This will carry it as close as 7.25 kpc (23.6 kly) to the Galactic Center, and take it as far as 8.95 kpc (29.2 kly). It is a likely member of the thin disk population and the orbit departs by no more than 60 pc (200 ly) from the galactic plane.
+The traditional names Vindemiatrix and Vindemiator are from Latin vindēmiātrix, vindēmitor "the grape-harvestress". Additional medieval names are Almuredin, Alaraph, Provindemiator, Protrigetrix, and Protrygetor. This star, along with β Vir(Zavijava), γ Vir (Porrima), η Vir (Zaniah) and δ Vir, (Auva), were Al ʽAwwāʼ, the Barker.
+In Chinese, 太微左垣 (Tài Wēi Zuǒ Yuán), meaning Left Wall of Supreme Palace Enclosure, refers to an asterism consisting of ε Virginis, η Virginis, γ Virginis, δ Virginis and α Comae Berenices. Consequently, ε Virginis itself is known as 太微左垣四 (Tài Wēi Zuǒ Yuán sì, English: the Fourth Star of Left Wall of Supreme Palace Enclosure.), representing 東次將 (Dōngcìjiāng), meaning The Second Eastern General. 東次將 (Dōngcìjiāng), westernized into Tsze Tseang by R.H. Allen and the meaning is "the Second General"
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Virgo</characteristic>
+<characteristic name="Right ascension">13h 02m 10.59785s</characteristic>
+<characteristic name="Declination">+10° 57′ 32.9415″</characteristic>
+<characteristic name="Apparent magnitude (V)">+2.826</characteristic>
+<characteristic name="Spectral type">G8 III</characteristic>
+<characteristic name="U−B color index">+0.718</characteristic>
+<characteristic name="B−V color index">+0.940</characteristic>
+<characteristic name="Radial velocity (Rv)">-14.6 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: -273.80 mas/yr Dec.: +19.96 mas/yr</characteristic>
+<characteristic name="Parallax (π)">29.76 ± 0.14mas</characteristic>
+<characteristic name="Distance">109.6 ± 0.5 ly (33.6 ± 0.2 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">0.37 ± 0.06</characteristic>
+<characteristic name="Mass">2.64 ± 0.11 M☉</characteristic>
+<characteristic name="Radius">10.6 ± 0.3 R☉</characteristic>
+<characteristic name="Luminosity">77 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.71 ± 0.04 cgs</characteristic>
+<characteristic name="Temperature">5,086 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">+0.09 dex</characteristic>
+<characteristic name="Rotation">173 days</characteristic>
+<characteristic name="Rotational velocity (v sin i)">2.3 km/s</characteristic>
+<characteristic name="Age">560 ± 90 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Epsilon Virginis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Vindemiatrix</link>
+</object>

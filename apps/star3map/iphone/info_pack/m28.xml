@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 28" type="Galaxies">
+	<images>
+		<image title="Messier 28 by Hubble Space Telescope; 2.5′ view">m28_1.jpg</image>
+	</images>
+	<information>
+Messier 28 (also known as M28 or NGC 6626) is a globular cluster in the constellation Sagittarius. It was discovered by French astronomer Charles Messier on July 27, 1764. He briefly described it as a "nebula containing no star... round, seen with difficulty in 3½-foot telescope; Diam 2′." The 2′ at the end indicates an angle of two arcminutes.
+In the sky it is less than a degree to the northwest of the 3rd magnitude star Kaus Borealis. This cluster is faintly visible as a hazy patch with a pair of binoculars and can be readily found in a small telescope with a 8 cm (3.1 in) aperture, showing as a nebulous feature spanning 11.2 arcminutes. At 15 cm (5.9 in), the core becomes visible and a few individual stars can be resolved along the periphery. Larger telescopes will provide greater resolution, with a 25 cm (9.8 in) telescope revealing a 2′ core.
+M28 is at a distance of about 17,900 light-years away from Earth. It has a combined 551,000 times the mass of the Sun and is 12 billion years old. 18 RR Lyrae type variable stars have been observed in this cluster. In 1986, M28 became the first globular cluster where a millisecond pulsar, PSR B1821–24, was discovered with the Lovell Telescope at Jodrell Bank Observatory. A total of 11 additional millisecond pulsars have since been detected in the cluster with the Green Bank Telescope. As of 2011, this is the third largest known population of pulsars in a cluster following Terzan 5 and 47 Tucanae.
+	</information>
+	<characteristics>
+		<characteristic name="Class">IV</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">18h 24m 32.89s</characteristic>
+		<characteristic name="Declination">–24° 52′ 11.4″/</characteristic>
+		<characteristic name="Distance">17.9 kly (5.5 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.66</characteristic>
+		<characteristic name="Apparent dimensions (V)">11′.2</characteristic>
+		<characteristic name="Mass">5.51×105 M☉</characteristic>
+		<characteristic name="Radius">30 ly</characteristic>
+		<characteristic name="VHB">15.55 ± 0.10</characteristic>
+		<characteristic name="Metallicity">–1.32 dex</characteristic>
+		<characteristic name="Estimated age">12.0 Gyr</characteristic>
+		<characteristic name="Notable features">Contains first pulsar discovered in a globular</characteristic>
+		<characteristic name="Other designations">M 28, NGC 6626, GCl 94</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 28 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_28</link>
+</object>

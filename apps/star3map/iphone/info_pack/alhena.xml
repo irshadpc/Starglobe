@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Gamma Geminorum" type="Star">
+	<images>
+<image title="Alhena">alhena_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Gamma Geminorum (γ Gem, γ Geminorum) is the third brightest star in the constellation Gemini. It has the traditional names Alhena and Almeisan. This star has an apparent visual magnitude of 1.9, making it easily visible to the naked eye even in urban regions. Based upon parallax measurements with the Hipparcos satellite, it is located at a distance of roughly 109 light-years (33 parsecs) from Earth.
+
+Alhena is an evolving star that is exhausting the supply of hydrogen at its core and has entered the subgiant stage. The spectrum matches a stellar classification of A0 IV. Compared to the Sun it has 2.8 times the mass and 3.3 times the radius. It is radiating around 123 times the luminosity of the Sun from its outer envelope at an effective temperature of 9,260 K. This gives it a white hue typical of an A-class star.
+This is a spectroscopic binary system with a period of 12.6 years (4,614.51 days) in a highly eccentric Keplerian orbit.
+The term Alhena is derived from the Arabic الهنعه Al Han'ah, "the brand" (on the neck of the camel), whilst the alternate name Almeisan is from the Arabic المیسان Al Maisan, "the shining one." Al Hanʽah was the name of star association consisting this star, along with μ Gem (Tejat Posterior), ν Gem, η Gem (Tejat Prior) and ξ Gem (Alzirr). They also were associated in Al Nuḥātai, the dual form of Al Nuḥāt, "a Camel's Hump".
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Nir al Henat, which was translated into Latin as Prima του al Henat, meaning the brightest of Al Henat.
+In Chinese, 井宿 (Jǐng Su), meaning Well (asterism), refers to an asterism consisting of γ Geminorum, μ Geminorum, ν Geminorum, ξ Geminorum, ε Geminorum, 36 Geminorum, ζ Geminorum and λ Geminorum. Consequently, γ Geminorum itself is known as 井宿三 (Jǐng Su sān, English: the Third Star of Well.)
+Alhena was the name of a Dutch ship that rescued many people from an Italian cruise liner, the Principessa Mafalda, in October 1927. In addition, the American attack cargo ship USS Alhena was named after the star.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Gemini</characteristic>
+<characteristic name="Right ascension">06h 37m 42.71050s</characteristic>
+<characteristic name="Declination">+16° 23′ 57.4095″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.915</characteristic>
+<characteristic name="Spectral type">A1 IV</characteristic>
+<characteristic name="U−B color index">+0.137</characteristic>
+<characteristic name="B−V color index">+0.005</characteristic>
+<characteristic name="Radial velocity (Rv)">-12.5 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +13.81 mas/yr, Dec.: -54.96 mas/yr</characteristic>
+<characteristic name="Parallax (π)">29.84 ± 2.23mas</characteristic>
+<characteristic name="Distance">109 ± 8 ly (34 ± 3 pc)</characteristic>
+<characteristic name="Period (P)">4,614.51 days</characteristic>
+<characteristic name="Eccentricity (e)">0.8933 ± 0.0013</characteristic>
+<characteristic name="Periastron epoch (T)">244399.13 ± 0.77</characteristic>
+<characteristic name="Argument of periastron (ω)(secondary)">312.60 ± 0.60°</characteristic>
+<characteristic name="Semi-amplitude (K1)(primary)">11.881 ± 0.068 km/s</characteristic>
+<characteristic name="Mass">2.81 M☉</characteristic>
+<characteristic name="Radius">3.3 R☉</characteristic>
+<characteristic name="Luminosity">123 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.60 cgs</characteristic>
+<characteristic name="Temperature">9,260 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.12 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">15 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Gamma Geminorum in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alhena</link>
+</object>

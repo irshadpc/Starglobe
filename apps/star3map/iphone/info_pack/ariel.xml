@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Ariel" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Ariel_1.jpg</image>
+        <image title="">Ariel_2.jpg</image>
+        <image title="">Ariel_3.png</image>
+        <image title="">Ariel_4.jpg</image>
+	</images>
+	<information>
+        Ariel is the fourth-largest of the 27 known moons of Uranus. Ariel orbits and rotates in the equatorial plane of Uranus, which is almost perpendicular to the orbit of Uranus, and so has an extreme seasonal cycle.
+
+        It was discovered in October 1851 by William Lassell, and named for a character in two different pieces of literature. As of 2012, much of the detailed knowledge of Ariel derives from a single flyby of Uranus performed by the spacecraft Voyager 2 in 1986, which managed to image around 35% of the moon's surface. There are no active plans at present to return to study the moon in more detail, although various concepts such as a Uranus orbiter and probe are proposed from time to time.
+
+        After Miranda, Ariel is the second-smallest of Uranus' five major rounded satellites, and the second-closest to its planet. Among the smallest of the Solar System's 19 known spherical moons (it ranks 14th among them in diameter), it is believed to be composed of roughly equal parts ice and rocky material. Like all of Uranus' moons, Ariel probably formed from an accretion disc that surrounded the planet shortly after its formation, and, like other large moons, it is likely differentiated, with an inner core of rock surrounded by a mantle of ice. Ariel has a complex surface consisting of extensive cratered terrain cross-cut by a system of scarps, canyons, and ridges. The surface shows signs of more recent geological activity than other Uranian moons, most likely due to tidal heating.	</information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Ariel in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Ariel_(moon)</link>
+</object>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Centauri" type="Star">
+	<images>
+<image title="Beta Centauri">hadar_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Centauri (β Cen, β Centauri) is a star system in the southern constellation of Centaurus. With an apparent visual magnitude of 0.60, it is the second brightest star in the constellation Centaurus and the tenth brightest star in the night sky. It has the traditional names Hadar and Agena. The name Hadar comes from the Arabic حضار (the meaning of the root is "to be present" or "settled, civilized area"), while the name Agena comes from Latin words for "the knee". The Chinese name for the star is 马腹一 (Mandarin: mǎ fù yī, the First Star of the Horse's Abdomen).
+
+Based upon parallax measurements from the astrometric Hipparcos satellite, the distance to this system is about 350 light-years (110 parsecs). The spectrum matches a star with a stellar classification of B1 III, with the luminosity class of III indicating this is a giant star that has exhausted the hydrogen at its core and evolved away from the main sequence. It is a Beta Cephei variable star with a pulsation period of 0.157 days.
+In 1935, Joan Voûte identified Beta Centauri as a double star, giving it the identifier VOU 31. The companion is separated from the primary by 1.3 seconds of arc, and has remained so since the discovery, although the position angle has changed slightly. This would indicate that the orbital period is very long, if the pair are actually gravitationally associated.
+Based on the variable radial velocity of this star, in 1967 it was suggested that the primary is a double-lined spectroscopic binary. This was confirmed in 1999. The primary consists of a pair of stars with nearly identical mass that orbit each other over a period of 357 days with a large eccentricity of about 0.81. The pair are separated by a mean distance of roughly 4 astronomical units.
+Beta Centauri is well known in the Southern Hemisphere as the inner of the two "Pointers" to the Southern Cross. A line made from the other pointer, Alpha Centauri, through Beta Centauri leads to within a few degrees of Gacrux, the star at the top of the cross. Using Gacrux, a navigator can draw a line with Acrux to effectively determine south.
+The indigenous Boorong people of northwestern Victoria named it as Bermbermgle (together with α Cen), two brothers who were noted for their courage and destructiveness, and who spear and kill Tchingal, "The Emu" (Coalsack Nebula). The two brothers in Wotjobaluk people is Bram-bram-bult.
+Coordinates: 14h 03m 49.4s, −60° 22′ 23″
+
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Centaurus</characteristic>
+<characteristic name="Right ascension">14h 03m 49.40535s</characteristic>
+<characteristic name="Declination">–60° 22′ 22.9266″</characteristic>
+<characteristic name="Apparent magnitude (V)">0.60</characteristic>
+<characteristic name="Radial velocity (Rv)">+5.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –33.27 mas/yr, Dec.: –23.16 mas/yr</characteristic>
+<characteristic name="Parallax (π)">9.35 ± 0.50mas</characteristic>
+<characteristic name="Distance">350 ± 20 ly (107 ± 6 pc)</characteristic>
+<characteristic name="Spectral type">B1 III</characteristic>
+<characteristic name="U−B color index">–0.98</characteristic>
+<characteristic name="B−V color index">–0.22</characteristic>
+<characteristic name="Variable type">β Cep</characteristic>
+<characteristic name="Mass">10.7 ± 0.1 / 10.3 ± 0.1 M☉</characteristic>
+<characteristic name="Luminosity">41,700 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.5 ± 0.4 cgs</characteristic>
+<characteristic name="Temperature">25,000 ± 2,000 K</characteristic>
+<characteristic name="Age">(14.1 ± 0.6) × 10^6 years</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Centauri in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Beta_Centauri</link>
+</object>

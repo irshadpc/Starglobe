@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 22" type="Galaxies">
+	<images>
+		<image title="Core of Messier 22">m 22_1.jpg</image>
+		<image title="Globular Cluster Messier 22 with amateur telescope">m 22_2.jpg</image>
+	</images>
+	<information>
+Messier 22 (also known as M22 or NGC 6656) is an elliptical globular cluster in the constellation Sagittarius, near the Galactic bulge region. It is one of the brightest globulars that is visible in the night sky.
+M22 was one of the first globulars to be discovered in 1665 by Abraham Ihle and it was included in Charles Messier's catalog of comet-like objects on June 5, 1764.
+It was one of the first globular clusters to be carefully studied first by Harlow Shapley in 1930. He discovered roughly 70,000 stars and found it had a dense core. Then Halton Arp and William G. Melbourne continued studies in 1959. Because of the large color spread of its red giant branch (RGB) sequence, which is similar to that observed in Omega Centauri, it became the object of intense scrutiny starting in 1977 with James E. Hesser et al.
+M22 is one of the nearer globular clusters to Earth at a distance of about 10,600 light-years away. It spans 32' on the sky which translates to a spatial diameter of 99 ± 9 light-years. 32 variable stars have been recorded in M22. It is projected in front of the galactic bulge and is therefore useful for its microlensing effect on the background stars in the bulge.
+Despite its relative proximity to us, this metal-poor cluster's light is limited by dust extinction, giving it an apparent magnitude of 5.5 making it the brightest globular cluster visible from mid-northern latitudes (e.g. Europe and most of North America). However, due to its southerly declination, M22 never rises high in the sky and so appears less impressive to northern hemisphere observers than other summer sky globulars such as M13 and M5.
+M22 is very unusual in that it is one of only four globulars (the others being M15, NGC 6441 and Palomar 6) that are known to contain a planetary nebula. It was discovered using the IRAS satellite by Fred Gillett et al.,in 1986 as a pointlike source (IRAS 18333-2357) and subsequently identified as a planetary nebula in 1989 by Gillett et al. The planetary nebula's central star is a blue star. The planetary nebula (designated GJJC1) is estimated to be a mere ~6,000 years old.
+Two black holes of between 10 and 20 solar masses each have been discovered, initially with the Very Large Array radio telescope in New Mexico, and corroborated by the Chandra X-ray telescope, in 2012. Their detection implies that gravitational ejection of black holes from clusters is not as efficient as was previously thought, and leads to estimates of a total 5 to 100 black holes within M22. Interactions between stars and black holes could explain the unusually large core of the cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Class">VII</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">18h 36m 23.94s</characteristic>
+		<characteristic name="Declination">–23° 54′ 17.1″</characteristic>
+		<characteristic name="Distance">10.6 ± 1.0 kly (3 ± 0.3 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+5.1</characteristic>
+		<characteristic name="Apparent dimensions (V)">32 arcmins</characteristic>
+		<characteristic name="Mass">2.9×105 M☉</characteristic>
+		<characteristic name="Radius">50 ± 5 ly</characteristic>
+		<characteristic name="VHB">14.2</characteristic>
+		<characteristic name="Metallicity">–1.49 dex</characteristic>
+		<characteristic name="Estimated age">12 Gyr</characteristic>
+		<characteristic name="Notable features">One of four globulars known to contain a planetary nebula.</characteristic>
+		<characteristic name="Other designations">NGC 6656, GCl 99</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 22 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_22</link>
+</object>

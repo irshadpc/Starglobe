@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Herculis" type="Star">
+	<images>
+<image title="Rasalgethi">rasalgethi_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Herculis (α Her, α Herculis) is a multiple star system in the constellation Hercules. It has the traditional name Rasalgethi or Ras Algethi (Arabic: رأس الجاثي ra's al-jaθiyy‎ Head of the Kneeler), and the Flamsteed designation 64 Herculis. The traditional name "Head" comes from the fact that in antiquity Hercules was depicted upside down on the constellation maps.
+The term ra's al-jaθiyy or Ras al Djathi was appeared in the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, which was translated into Latin as Caput Ingeniculi.
+In Chinese astronomy, Rasalgethi is called 帝座, Pinyin: Dìzuò, meaning Emperor's Seat, because this star is marking itself and stand alone in Emperor's Seat asterism, Heavenly Market enclosure (see : Chinese constellation). 帝座 (Dìzuò) was westernized into Ti Tso by R.H. Allen, with the same meaning 
+The angular diameter of the red giant, α1 Her, has been measured with an interferometer as 34 ± 0.8 mas, or 0.034 arcseconds. At an estimated distance of 110 parsecs from Hipparcos, this corresponds to a radius of about 280 million kilometers (or 170 million miles), which is roughly 400R☉ or 1.87 AU. If Rasalgheti were at the center of our Solar System its radius would extend past the orbit of Mars at 1.5 AU but not quite as far as the asteroid belt. The red giant is estimated to have started its life with about 7-8 solar masses. Like most type M stars near the end of their lives, Rasalgethi is experiencing a high degree of stellar mass loss creating a sparse, gaseous envelope that extends at least 90 astronomical units.
+When viewed through a telescope, this system is resolved into two components designated α1 and α2. These two components are more than 500 astronomical units apart, with an estimated orbital period of approximately 3600 years. α1 is a relatively massive red bright giant. α2 is actually a double star system with a primary yellow giant star and a secondary, yellow-white dwarf star. (These components are sometimes designated α Herculis A, Ba and Bb, respectively.)
+Coordinates: 17h 14m 38.858s, +14° 23′ 25.20″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Hercules</characteristic>
+<characteristic name="Right ascension">17h 14m 38.80s</characteristic>
+<characteristic name="Declination">+14° 23′ 25.0″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.9137 / 5.4</characteristic>
+<characteristic name="Spectral type">M5IIvar / (G5III+F2V)</characteristic>
+<characteristic name="U−B color index">1.01</characteristic>
+<characteristic name="B−V color index">1.45</characteristic>
+<characteristic name="Variable type">Semiregular</characteristic>
+<characteristic name="Proper motion (μ)">RA: -6.71 mas/yr, Dec.: 32.78 mas/yr</characteristic>
+<characteristic name="Parallax (π)">9.07 ± 1.32mas</characteristic>
+<characteristic name="Distance">approx. 360 ly (approx. 110 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">-2.30</characteristic>
+<characteristic name="Mass">2.15 ± 0.22 M☉</characteristic>
+<characteristic name="Radius">387 R☉</characteristic>
+<characteristic name="Luminosity">8,300 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">−0.41 ± 0.19 cgs</characteristic>
+<characteristic name="Temperature">2,800 K</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Herculis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Rasalgethi</link>
+</object>

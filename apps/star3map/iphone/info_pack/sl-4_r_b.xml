@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="SL-4 R/B Satellite details" type="Satellite">
+	<images>
+		<image>garbage.png</image>
+	</images>
+	<information>
+	</information>
+	<characteristics>
+		<characteristic name="NORAD ID">40096U</characteristic>
+		<characteristic name="Int'l Code">14041B</characteristic>
+		<characteristic name="Launch">2014 (41° from year, payload B)</characteristic>
+		<characteristic name="Period">91.2 minutes</characteristic>
+		<characteristic name="Revs/day">15.8</characteristic>
+		<characteristic name="Inclination">64.9 degrees</characteristic>
+		<characteristic name="Apogee">434 km</characteristic>
+		<characteristic name="Perigee">232 km</characteristic>
+		<characteristic name="Semi-major axis">6711 km</characteristic>
+		<characteristic name="Note">This is a ROCKET BODY</characteristic>
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

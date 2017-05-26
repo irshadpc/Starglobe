@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sadr" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+	</images>
+	<information>
+Gamma Cygni (γ Cyg, γ Cygni) is the Bayer designation for a star in the northern constellation Cygnus, forming the intersection of an asterism of five stars called the Northern Cross. It has the traditional name Sadr (also spelled Sadir or Sador), which name comes from the Arabic word صدر ṣadr, "chest", the same word which gave rise to the star Schedar (Alpha Cassiopeiae). In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Sadr al Dedjadjet, (صدر الدجاجة / ṣadr al-dajājati), which was translated into Latin as Pectus Gallinǣ, meaning the hen's chest.
+
+In Chinese, 天津 (Tiān Jīn), meaning Celestial Ford, refers to an asterism consisting of γ Cygni, δ Cygni, 30 Cygni, α Cygni, ν Cygni, τ Cygni, υ Cygni, ζ Cygni and ε Cygni. Consequently, γ Cygni itself is known as 天津一 (Tiān Jīn yī, English: the First Star of Celestial Ford.).
+With an apparent visual magnitude of 2.23, this is among the brighter stars visible in the night sky. Parallax measurements give a distance estimate of 1,800 light years (560 parsecs), with a 15% margin of error. The stellar classification of this star is F8 Iab, indicating that it has reached the supergiant stage of its stellar evolution. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+Compared to the Sun this is an enormous star, with 12 times the Sun's mass and about 150 times the Sun's radius. It is emitting over 33,000 times as much energy as the Sun, at an effective temperature of 6,100 K in its outer envelope. This temperature is what gives the star the characteristic yellow-white hue of an F-type star. Massive stars such as this consume their nuclear fuel much more rapidly than the Sun, so the estimated age of this star is only about 12 million years old
+
+The spectrum of this star shows some unusual dynamic features, including variations in radial velocity of up to 2 km/s, occurring on a time scale of 100 days or more. Indeed, on the Hertzsprung–Russell diagram, Gamma Cygni lies close to the instability strip and its spectrum is markedly like that of a Cepheid variable. This star is surrounded by a diffuse nebula called IC1318, or the Gamma Cygni region.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Sadr in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Cygni</link>
+</object>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 77" type="Galaxies">
+	<images>
+		<image title="Hubble Space Telescope image of M77">m 77_1.jpg</image>
+		<image title="M77 with amateur telescope.">m 77_2.jpg</image>
+	</images>
+	<information>
+Messier 77 (also known as NGC 1068) is a barred spiral galaxy about 47 million light-years away in the constellation Cetus. Messier 77 is an active galaxy with an Active Galactic Nucleus (AGN), which is obscured from view by astronomical dust at visible wavelengths. The diameter of the molecular disk and hot plasma associated with the obscuring material was first measured at radio wavelengths by the VLBA and VLA. The hot dust around the nucleus was subsequently measured in the mid-infrared by the MIDI instrument at the VLTI. It is the brightest[3] Seyfert galaxy and is of type 2.
+Messier 77's diameter is 170,000 light-years.
+Messier 77 was discovered by Pierre Méchain in 1780, who originally described it as a nebula. Méchain then communicated his discovery to Charles Messier, who subsequently listed the object in his catalog. Both Messier and William Herschel described this galaxy as a star cluster. Today, however, the object is known to be a galaxy.
+X-ray source 1H 0244+001 in Cetus has been identified as Messier 77 (NGC 1068, M77).
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Cetus</characteristic>
+		<characteristic name="Right ascension">2h 42m 40.7s</characteristic>
+		<characteristic name="Declination">−00° 00′ 48″</characteristic>
+		<characteristic name="Redshift">1137 ± 3 km/s</characteristic>
+		<characteristic name="Distance">47.0 Mly (14.4 Mpc)</characteristic>
+		<characteristic name="Type">(R)SA(rs)b</characteristic>
+		<characteristic name="Apparent dimensions (V)">7′.1 × 6′.0</characteristic>
+		<characteristic name="Apparent magnitude (V)">9.6</characteristic>
+		<characteristic name="Notable features">One of the biggest galaxies of Messier's catalog. Inclination estimated to be 40°.</characteristic>
+		<characteristic name="Other designations">Cetus A, M77, NGC 1068, UGC 2188, PGC 10266, Arp 37</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 77 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_77</link>
+</object>

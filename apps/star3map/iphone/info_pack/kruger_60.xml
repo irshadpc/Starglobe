@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Kruger 60" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Kruger 60 (DO Cephei) is a binary star system located 13.15 light-years from the Sun. These red dwarf stars orbit each other every 44.6 years.
+        
+        The larger, primary star is designated component A, while the secondary, smaller star is labeled component B. Component A has about 27% of the Sun's mass and 35% of the Sun's radius. Component B has about 18% of the Sun's mass and 24% of the Sun's radius. Component B is a flare star and has been given the variable star designation "DO Cephei". It is an irregular flare that typically doubles in brightness and then returns to normal over an 8-minute period.
+        
+        On average, the two stars are separated by 9.5 AUs, which is roughly the average distance of Saturn from the Sun. However, their eccentric mutual orbit causes their distance to vary between 5.5 AUs at periastron, to 13.5 at apastron.
+        
+        This system is orbiting through the Milky Way at a distance from the core that varies from 7–9 kpc with an orbital eccentricity of 0.126–0.130. The closest approach to the Sun will occur in about 88,600 years when this system will come within 1.95 parsecs.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Kruger 60 in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Kruger_60</link>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 2428 Satellite details 2007-029A NORAD 31792" type="Satellite">
+	<images><image>cosmos_2428.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cosmos-2428 is a defense satellite.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">31792	</characteristic><characteristic name="Int'l Code">2007-029A</characteristic>
+<characteristic name="Perigee">850.0 km</characteristic>
+<characteristic name="Apogee">867.3 km</characteristic>
+<characteristic name="Inclination">70.9 °</characteristic>
+<characteristic name="Period">102.0 minutes</characteristic>
+<characteristic name="Semi major axis">7229 km</characteristic>
+<characteristic name="Launch date">June 29, 2007</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1536 Satellite details 1984-013A NORAD 14699" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">14699	</characteristic><characteristic name="Int'l Code">1984-013A</characteristic>
+<characteristic name="Perigee">557.8 km</characteristic>
+<characteristic name="Apogee">578.8 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">95.9 minutes</characteristic>
+<characteristic name="Semi major axis">6939 km</characteristic>
+<characteristic name="Launch date">February 8, 1984</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

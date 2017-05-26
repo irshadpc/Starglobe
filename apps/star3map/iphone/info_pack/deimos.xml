@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Deimos" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Deimos_1.jpg</image>
+        <image title="">Deimos_2.jpg</image>
+        <image title="">Deimos_3.png</image>
+	</images>
+	<information>
+        Deimos (systematic designation: Mars II) is the smaller and outer of the two natural satellites of the planet Mars, the other being Phobos. Deimos has a mean radius of 6.2 km (3.9 mi) and takes 30.3 hours[1] to orbit Mars. The name Deimos is pronounced /ˈdaɪmɒs/ dy-mos, or sometimes /ˈdiːməs/ dee-məs or like the Greek Δείμος. In Greek mythology, Deimos was the twin brother of Phobos and personified terror.
+
+        Deimos is 23,460 km (14,580 mi) from Mars, much further than Mars's other moon, Phobos.
+
+    Deimos was discovered by Asaph Hall, Sr. at the United States Naval Observatory in Washington, D.C on 12 August 1877, at about 07:48 UTC (given in contemporary sources as "11 August 14:40" Washington mean time, using an astronomical convention of beginning a day at noon, so 12 hours must be added to get the actual local mean time). Hall also discovered Phobos on 18 August 1877, at about 09:14 GMT, after deliberately searching for Martian moons.
+
+    It is named after Deimos, a figure representing dread in Greek Mythology. The names, at first spelled Phobus and Deimus, were suggested by Henry Madan (1838–1901), Science Master of Eton, from Book XV of the Iliad, where Ares (the Roman god Mars) summons Dread (Deimos) and Fear (Phobos).
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Deimos in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Deimos_(moon)</link>
+</object>

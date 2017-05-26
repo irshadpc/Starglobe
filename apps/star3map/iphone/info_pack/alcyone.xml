@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alcyone (star)" type="Star">
+	<images>
+<image title="Alcyone (star)">alcyone_1.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alcyone (η Tau, η Tauri, Eta Tauri) is a star system in the constellation Taurus. It is the brightest star in the Pleiades open cluster, which is a young cluster, aged at less than 50 million years. Alcyone is approximately 400 light years from Earth. It is named after the mythological figure Alcyone, one of the mythological Pleiades. It is known as 昴宿六 (the Sixth Star of the Hairy Head) in Chinese.
+
+The main star, known as Alcyone A, is a blue-white B-type giant similar to many of the other B-type stars in the Pleiades cluster. It has an apparent magnitude of +2.87 (absolute magnitude = −2.39), and a radius almost 10 times that of the Sun. Its temperature is approximately 13,000 K giving it a total luminosity that is 2,400 times solar. The spectral type of B7IIIe indicates that emission lines are present in its spectrum. Like many Be stars, Alcyone A has a high rotational velocity of 215 km/s, which has created a gaseous disk flung into orbit around the star from its equator.
+Alcyone is an eclipsing binary, and the two components have a separation of 0.031 arcseconds, or about the distance from the Sun to Jupiter.
+The binary star is orbited by three companions. Alcyone B and Alcyone C are both 8th magnitude white A-type dwarfs and are separated from A by 117 and 181 arcseconds respectively. Alcyone D is a yellow-white F-type dwarf, 191 arcseconds from the primary. It has an apparent magnitude of +8.7. Alcyone C is classified as a Delta Scuti type variable star and its brightness varies from magnitude +8.25 to +8.30 over 1.13 hours.
+Coordinates: 03h 47m 29.0765s, +24° 06′ 18.494″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Taurus</characteristic>
+<characteristic name="Right ascension">03h 47m 29.077s</characteristic>
+<characteristic name="Declination">24° 06′ 18.49″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.873</characteristic>
+<characteristic name="Spectral type">B7IIIe</characteristic>
+<characteristic name="U−B color index">-0.35</characteristic>
+<characteristic name="B−V color index">-0.09</characteristic>
+<characteristic name="Variable type">suspected</characteristic>
+<characteristic name="Radial velocity (Rv)">10.1 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 19.34 ± 0.39 mas/yr, Dec.: -43.67 ± 0.33 mas/yr</characteristic>
+<characteristic name="Parallax (π)">8.09 ± 0.42mas</characteristic>
+<characteristic name="Distance">400 ± 20 ly (124 ± 6 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">-2.39</characteristic>
+<characteristic name="Mass">6 M☉</characteristic>
+<characteristic name="Radius">8.2 R☉</characteristic>
+<characteristic name="Luminosity">2,400 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.5 cgs</characteristic>
+<characteristic name="Temperature">12,753 ± 147 K</characteristic>
+<characteristic name="Rotation">215 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alcyone (star) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Alcyone_(star)</link>
+</object>

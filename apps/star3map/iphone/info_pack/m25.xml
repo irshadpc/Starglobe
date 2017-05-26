@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 25" type="Galaxies">
+	<images>
+		<image title="Sketch of the cluster">m 25_1.jpg</image>
+	</images>
+	<information>
+Open Cluster M25 (also known as Messier Object 25 or IC 4725) is an open cluster in the constellation Sagittarius. It was discovered by Philippe Loys de Chéseaux in 1745 and included in Charles Messier's list in 1764.
+M25 is at a distance of about 2,000 light-years away from Earth. The spatial dimension of this cluster is about 19 light years across. A Delta Cephei type variable star designated U Sagittarii is a member of this cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 31.6m</characteristic>
+		<characteristic name="Declination">−19° 15′</characteristic>
+		<characteristic name="Distance">2.0 kly (613 Pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">4.6</characteristic>
+		<characteristic name="Apparent dimensions (V)">32.0′</characteristic>
+		<characteristic name="Radius">10</characteristic>
+		<characteristic name="Estimated age">90 million years</characteristic>
+		<characteristic name="Other designations">IC 4725</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 25 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_25</link>
+</object>

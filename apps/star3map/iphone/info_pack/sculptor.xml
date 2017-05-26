@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sculptor (constellation)" type="Constellation">
+	<images>
+<image title="Sculptor (constellation)">sculptor_1.png</image>
+<image title="">sculptor__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Sculptor is a small and faint constellation in the southern sky. It represents a sculptor. It was introduced by Nicolas Louis de Lacaille in the 18th century. He originally named it Apparatus Sculptoris (the sculptor's studio), but the name was later shortened.
+Sculptor is a small constellation bordered by Aquarius and Cetus to the north, Fornax to the east, Phoenix to the south, Grus to the southwest, and Piscis Austrinus to the west. The bright star Fomalhaut is nearby. The three-letter abbreviation for the constellation, as adopted by the International Astronomical Union in 1922, is 'Scl'. The official constellation boundaries, as set by Eugène Delporte in 1930, are defined by a polygon of 6 segments. In the equatorial coordinate system, the right ascension coordinates of these borders lie between 23h 06.4m and 01h 45.5m, while the declination coordinates are between −24.80° and −39.37°.
+No stars brighter than 3rd magnitude are located in Sculptor. This is explained by the fact that Sculptor contains the south galactic pole where stellar density is very low.
+The brightest star is Alpha Sculptoris, an SX Arietis-type variable star with a spectral type B7IIIp and an apparent magnitude of 4.3.R Sculptoris is a red giant that has been found to be surrounded by spirals of matter likely ejected around 1800 years ago.
+The constellation also contains the Sculptor Dwarf, a dwarf galaxy which is a member of the Local Group, as well as the Sculptor Group, the group of galaxies closest to the Local Group. The Sculptor Galaxy (NGC 253), a barred spiral galaxy and the largest member of the group, lies near the border between Sculptor and Cetus. Another prominent member of the group is the irregular galaxy NGC 55.
+One unique galaxy in Sculptor is the Cartwheel Galaxy, at a distance of 500 million light-years. The result of a merger around 300 million years ago, the Cartwheel Galaxy has a core of older, yellow stars, and an outer ring of younger, blue stars, which has a diameter of 100,000 light-years. The smaller galaxy in the collision is now incorporated into the core, after moving from a distance of 250,000 light-years. The shock waves from the collision sparked extensive star formation in the outer ring.
+USS Sculptor (AK-103) was a United States Navy Crater class cargo ship named after the constellation.
+Coordinates: 00h 00m 00s, −30° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Scl</characteristic>
+<characteristic name="Genitive">Sculptoris</characteristic>
+<characteristic name="Pronunciation">/ˈskʌlptər/, genitive /skəlpˈtɒrɨs/</characteristic>
+<characteristic name="Symbolism">the Sculptor</characteristic>
+<characteristic name="Right ascension">0</characteristic>
+<characteristic name="Declination">−30</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ1</characteristic>
+<characteristic name="Area">475 sq. deg. (36th)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">18</characteristic>
+<characteristic name="Stars with planets">6</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">2</characteristic>
+<characteristic name="Brightest star">α Scl (4.30m)</characteristic>
+<characteristic name="Nearest star">Gliese 1 (14.22 ly, 4.36 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Bordering constellations">Cetus, Aquarius, Piscis Austrinus, Grus, Phoenix, Fornax</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +50° and −90°. Best visible at 21:00 (9 p.m.) during the month of November.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Sculptor (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Sculptor_(constellation)</link>
+</object>

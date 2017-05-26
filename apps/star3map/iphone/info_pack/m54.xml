@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 54" type="Galaxies">
+	<images>
+		<image title="M54 by Hubble Space Telescope; 3.4′ view Credit: ESA/Hubble &amp; NASA">m 54_1.jpg</image>
+	</images>
+	<information>
+Messier 54 (also known as M54 or NGC 6715) is a globular cluster in the constellation Sagittarius. It was discovered by Charles Messier in 1778 and subsequently included in his catalog of comet-like objects.
+Previously thought to belong to our Galaxy at a distance from Earth of about 50,000 light-years, it was discovered in 1994 that M54 most likely belongs to the Sagittarius Dwarf Elliptical Galaxy (SagDEG), making it the first globular cluster formerly thought to be part of our galaxy reassigned to extragalactic status, even if not recognized as such for nearly two and a quarter centuries.
+Modern estimates now place M54 at a distance of some 87,000 light-years, translating into a true radius of 150 light-years across. It is one of the denser of the globulars, being of class III (I being densest and XII being the least dense). It shines with the luminosity of roughly 850,000 times that of the Sun and has an absolute magnitude of −10.0.
+As it is located on SagDEG's center, some authors think it actually may be its core; however others have proposed that it is a real globular cluster that fell to the center of this galaxy due to decay of its orbit caused by dynamical friction
+M54 is easily found in the sky, being close to the star ζ Sagittarii. It is, however, not resolvable into individual stars even with larger amateur telescopes.
+In July 2009, a team of astronomers reported that they had found evidence of an intermediate-mass black hole in the core of M54.
+	</information>
+	<characteristics>
+		<characteristic name="Class">III</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">18h 55m 03.33s</characteristic>
+		<characteristic name="Declination">−30° 28′ 47.5″</characteristic>
+		<characteristic name="Distance">87.4 kly (26.8 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">8.37</characteristic>
+		<characteristic name="Apparent dimensions (V)">12′.0</characteristic>
+		<characteristic name="Radius">153 ly</characteristic>
+		<characteristic name="Estimated age">13 Gyr</characteristic>
+		<characteristic name="Notable features">Probably extragalactic</characteristic>
+		<characteristic name="Other designations">M54, NGC 6715, GCl 104, C 1851-305</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 54 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_54</link>
+</object>

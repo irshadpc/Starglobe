@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Albaldah" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassFStar.png</image>
+	</images>
+	<information>
+        Pi Sagittarii (Pi Sgr, π Sagittarii, π Sgr) is a triple star system in the zodiac constellation Sagittarius. It has the traditional name Albaldah.
+        
+        Albaldah has an apparent visual magnitude of +2.89,[2] which is sufficiently bright to be readily seen with the naked eye. Based upon parallax measurements, this star is located at a distance of roughly 510 light-years (160 parsecs) from Earth.[1] Because it is close to the ecliptic, Albaldah can sometimes be occulted by the Moon, and, very rarely, planets of the Solar System. The next occultation by a planet takes place on February 17, 2035, when it will be occulted by Venus.
+        
+        The spectrum of this star matches a stellar classification of F2 II. The 'II' luminosity class is for a bright giant star that has exhausted the hydrogen at its core and has followed an evolutionary track away from the main sequence of stars like the Sun. Because it has nearly six times the mass of the Sun,[2] it reached this stage in a mere 67 million years. The outer envelope is radiating energy at an effective temperature of about 6,590 K,[2] giving it the yellow-white hue of an F-type star.
+        
+        Pi Sagittarii has two nearby companions. The first is located at an angular separation of 0.1 arcseconds from Albaldah, or at least 13 Astronomical Units (AU). The second is 0.4 arcseconds away, which is 40 AU or more. Nothing is known about the orbits of these stars.    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Albaldah in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Pi_Sagittarii</link>
+</object>

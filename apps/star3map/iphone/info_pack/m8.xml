@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Lagoon Nebula" type="Galaxies">
+	<images>
+		<image title="M8, the Lagoon Nebula">m 8_1.jpg</image>
+		<image title="Image taken by the Wide Field Channel of the Advanced Camera for Surveys on Hubble.">m 8_2.jpg</image>
+		<image title="Infrared Lagoon Nebula.">m 8_3.jpg</image>
+		<image title="Central region of the Lagoon Nebula, showing the Hourglass Nebula to the right.">m 8_4.jpg</image>
+		<image title="The Lagoon Nebula
+Credit: ESO/S.Guisard.">m 8_5.jpg</image>
+		<image title="Three images from the ESO GigaGalaxy Zoom project.">m 8_6.jpg</image>
+	</images>
+	<information>
+The Lagoon Nebula (catalogued as Messier 8 or M8, and as NGC 6523) is a giant interstellar cloud in the constellation Sagittarius. It is classified as an emission nebula and as a H II region.
+The Lagoon Nebula was discovered by Giovanni Hodierna before 1654[4] and is one of only two star-forming nebulae faintly visible to the naked eye from mid-northern latitudes. Seen with binoculars, it appears as a distinct oval cloudlike patch with a definite core. A fragile star cluster appears superimposed on it.
+The Lagoon Nebula is estimated to be between 4,000-6,000 light years from the Earth. In the sky of Earth, it spans 90' by 40', translates to an actual dimension of 110 by 50 light years. Like many nebulas, it appears pink in time-exposure color photos but is gray to the eye peering through binoculars or a telescope, human vision having poor color sensitivity at low light levels. The nebula contains a number of Bok globules (dark, collapsing clouds of protostellar material), the most prominent of which have been catalogued by E. E. Barnard as B88, B89 and B296. It also includes a funnel-like or tornado-like structure caused by a hot O-type star that emanates ultraviolet light, heating and ionizing gases on the surface of the nebula. The Lagoon Nebula also contains at its centre a structure known as the Hourglass Nebula (so named by John Herschel), which should not be confused with the better known Hourglass Nebula in the constellation of Musca. In 2006 the first four Herbig–Haro objects were detected within the Hourglass, also including HH 870. This provides the first direct evidence of active star formation by accretion within it.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">18h 03m 37s</characteristic>
+		<characteristic name="Declination">−24° 23′ 12″</characteristic>
+		<characteristic name="Distance">4,100 ly   (1,250 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.0</characteristic>
+		<characteristic name="Apparent dimensions (V)">90 × 40 arcmins</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Radius">55 × 20 ly</characteristic>
+		<characteristic name="Designations">Sharpless 25, RCW 146, Gum 72 M8 contains: NGC 6523, NGC 6530, Hourglass nebula</characteristic>
+	</characteristics>
+	<link title="Get more info about Lagoon Nebula in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Lagoon_Nebula</link>
+</object>

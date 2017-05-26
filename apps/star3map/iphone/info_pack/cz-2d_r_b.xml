@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="CZ-2D R/B Satellite details 2005-024B NORAD 28738" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">28738	</characteristic><characteristic name="Int'l Code">2005-024B</characteristic>
+<characteristic name="Perigee">544.8 km</characteristic>
+<characteristic name="Apogee">565.2 km</characteristic>
+<characteristic name="Inclination">97.6 °</characteristic>
+<characteristic name="Period">95.6 minutes</characteristic>
+<characteristic name="Semi major axis">6925 km</characteristic>
+<characteristic name="Launch date">July 5, 2005</characteristic>
+<characteristic name="Source">People's Republic of China (PRC)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

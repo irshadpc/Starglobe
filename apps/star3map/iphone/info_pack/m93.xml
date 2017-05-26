@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 93" type="Galaxies">
+	<images>
+		<image title="">m93_1.jpg</image>
+	</images>
+	<information>
+Messier 93 (also known as M93 or NGC 2447) is an open cluster in the constellation Puppis. It was discovered by Charles Messier in 1781.
+M93 is at a distance of about 3,600 light years from Earth and has a spatial radius of some 10 to 12 light years. Its age is estimated at some 100 million years.
+Walter Scott Houston described its appearance as follows:
+    Some observers mention the cluster as having the shape of a starfish. With a fair-sized telescope, this is its appearance on a dull night, but shows it as a typical star-studded galactic cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">07h 44.6m</characteristic>
+		<characteristic name="Declination">−23° 52′</characteristic>
+		<characteristic name="Distance">3.6 kly (1.1 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.0</characteristic>
+		<characteristic name="Apparent dimensions (V)">22.0'</characteristic>
+		<characteristic name="Radius">10</characteristic>
+		<characteristic name="Estimated age">100 million years</characteristic>
+		<characteristic name="Other designations">NGC 2447</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 93 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_93</link>
+</object>

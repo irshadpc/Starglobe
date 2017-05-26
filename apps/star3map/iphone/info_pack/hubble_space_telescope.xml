@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="HST Satellite details 1990-037B NORAD 20580" type="Satellite">
+	<images>
+		<image>hubble.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+The Hubble Space Telescope (HST) is a space telescope that was carried into orbit by a Space Shuttle in 1990 and remains in operation. A 2.4-meter (7.9 ft) aperture telescope in low Earth orbit, Hubble's four main instruments observe in the near ultraviolet, visible, and near infrared spectra. The telescope is named after the astronomer Edwin Hubble.
+
+Hubble's orbit outside the distortion of Earth's atmosphere allows it to take extremely high-resolution images with almost no background light. Hubble's Deep Field has recorded some of the most detailed visible-light images ever, allowing a deep view into space and time. Many Hubble observations have led to breakthroughs in astrophysics, such as accurately determining the rate of expansion of the universe.
+
+Although not the first space telescope, Hubble is one of the largest and most versatile, and is well known as both a vital research tool and a public relations boon for astronomy. The HST was built by the United States space agency NASA, with contributions from the European Space Agency, and is operated by the Space Telescope Science Institute. The HST is one of NASA's Great Observatories, along with the Compton Gamma Ray Observatory, the Chandra X-ray Observatory, and the Spitzer Space Telescope.
+
+Space telescopes were proposed as early as 1923. Hubble was funded in the 1970s, with a proposed launch in 1983, but the project was beset by technical delays, budget problems, and the Challenger disaster. When finally launched in 1990, Hubble's main mirror was found to have been ground incorrectly, compromising the telescope's capabilities. The optics were corrected to their intended quality by a servicing mission in 1993.
+
+Hubble is the only telescope designed to be serviced in space by astronauts. Between 1993 and 2002, four Space Shuttle missions repaired, upgraded, and replaced systems on the telescope; a fifth mission was canceled on safety grounds following the Columbia disaster. However, after spirited public discussion, NASA administrator Mike Griffin approved one final servicing mission, completed in 2009. The telescope is now expected to function until at least 2014, and possibly 2020. Its scientific successor, the James Webb Space Telescope (JWST), is currently scheduled to be launched in 2018.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">20580</characteristic>
+<characteristic name="Int'l Code">1990-037B</characteristic>
+<characteristic name="Perigee">556.3 km</characteristic>
+<characteristic name="Apogee">560.4 km</characteristic>
+<characteristic name="Inclination">28.5 °</characteristic>
+<characteristic name="Period">95.7 minutes</characteristic>
+<characteristic name="Semi major axis">6929 km</characteristic>
+<characteristic name="Launch date">April 24, 1990</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about HST in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Hubble_Space_Telescope</link>
+</object>

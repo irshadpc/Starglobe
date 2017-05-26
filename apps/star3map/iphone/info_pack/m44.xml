@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beehive Cluster" type="Galaxies">
+	<images>
+		<image title="The Beehive Cluster is an open cluster in Cancer just visible to the naked eye.">m 44_1.jpg</image>
+	</images>
+	<information>
+The Beehive Cluster, also known as Praesepe (Latin for "manger"), M44, NGC 2632, or Cr 189, is an open cluster in the constellation Cancer. It is one of the nearest open clusters to the Solar System, and it contains a larger star population than most other nearby clusters. Under dark skies the Beehive Cluster looks like a nebulous object to the naked eye; thus it has been known since ancient times. The classical astronomer Ptolemy called it "the nebulous mass in the breast of Cancer," and it was among the first objects that Galileo studied with his telescope.
+The cluster's age and proper motion coincide with those of the Hyades open cluster, suggesting that both share a similar origin. Both clusters also contain red giants and white dwarfs, which represent later stages of stellar evolution, along with main sequence stars of spectral classes A, F, G, K, and M.
+The cluster's distance is often cited to lie between 160 to 187 parsecs (520-610 light years). The 2009 catalog of revised Hipparcos parallaxes for Praesepe members and the latest iteration of color-magnitude diagram fitting in the infrared favor an analogous distance near 182 pc.There is better agreement on its age, at about 600 million years. This is equivalent to the age of the Hyades (~625 million years). The bright central core of the cluster has a diameter of about 7 parsecs (22.8 light years).
+The Beehive is most easily observed when Cancer is high in the sky; in northern latitudes this occurs during the evening from February to May. At 95 arcminutes across, the cluster fits well in the field of view of a pair of binoculars or a telescope of low power.
+Galileo was the first to observe the Beehive in a telescope, in 1609, and was able to resolve it into 40 stars. Charles Messier added it to his famous catalog in 1769 after precisely measuring its position in the sky. Along with the Orion Nebula and the Pleiades cluster, Messier's inclusion of the Beehive has been noted as curious, as most of Messier's objects were much fainter and more easily confused with comets. One possibility is that Messier simply wanted to have a larger catalog than his scientific rival Lacaille, whose 1755 catalog contained 42 objects, and so he added some bright, well-known objects to boost his list.
+Ancient Greeks and Romans saw this object as a manger from which two donkeys, the adjacent stars Asellus Borealis and Asellus Australis, are eating; these are the donkeys that Dionysos and Silenus rode into battle against the Titans.
+Hipparchus (c.130 BC) refers to the cluster as Nephelion ("Little Cloud") in his star catalog. Claudius Ptolemy's Almagest includes the Beehive Cluster as one of seven "nebulae" (four of which are real), describing it as "The Nebulous Mass in the Breast (of Cancer)". Aratus (c.260-270 BC) calls the cluster Achlus or "Little Mist" in his poem Phainomaina.
+This perceived nebulous object is in the Ghost (Gui Xiu), the 23rd lunar mansion of ancient Chinese astrology. Ancient Chinese skywatchers saw this as a ghost or demon riding in a carriage and likened its appearance to a "cloud of pollen blown from willow catkins." It was also known by the somewhat less romantic name of Jishi qi (積屍氣, also transliterated Tseih She Ke), the "Exhalation of Piled-up Corpses". It is also known simply as Jishi (積屍), "cumulative corpses."
+Like many star clusters of all kinds, Praesepe has experienced mass segregation. This means that bright, massive stars are concentrated in the cluster's core, while dimmer, less massive stars populate its halo (sometimes called the corona). The cluster's core radius is estimated at 3.5 parsecs (11.4 light years); its half-mass radius is about 3.9 parsecs (12.7 light years); and its tidal radius is about 12 parsecs (39 light years). However, the tidal radius also includes many stars that are merely "passing through" and not bona fide cluster members.
+Altogether, the cluster contains at least 1000 gravitationally bound stars, for a total mass of about 500-600 Solar masses. A recent survey counts 1010 high-probability members, of which 68% are M dwarfs, 30% are Sun-like stars of spectral classes F, G, and K, and about 2% are bright stars of spectral class A. Also present are five giant stars, four of which have spectral class K0 III and the fifth G0 III.
+So far, eleven white dwarfs have been identified, representing the final evolutionary phase of the cluster's most massive stars, which originally belonged to spectral type B. Brown dwarfs, however, are extremely rare in this cluster, probably because they have been lost by tidal stripping from the halo.
+The cluster has a visual brightness of magnitude 3.7. Its brightest stars are blue-white and of magnitude 6 to 6.5. 42 Cancri is a confirmed member.
+In September, 2012 two planets which orbit separate stars were discovered in the Beehive Cluster. The finding was significant for being the first planets detected orbiting stars like Earth's Sun that were situated in stellar clusters. Planets had previously been detected in such clusters, but not orbiting stars like the Sun.
+The planets have been designated Pr0201b and Pr0211b. The 'b' at the end of their names indicates that the bodies are planets. The discoveries are what have been termed Hot Jupiters, massive gas giants that, unlike the planet Jupiter, orbit very close to their parent stars.
+The announcement describing the planetary finds, written by Sam Quinn as the lead author, was published in the Astrophysical Journal Letters. Quinn's team worked with David Latham of the Harvard-Smithsonian Center for Astrophysics, utilizing the Smithsonian Astrophysical Observatory's Fred Lawrence Whipple Observatory.
+	</information>
+	<characteristics>
+	    <characteristic name="Constellation">Cancer</characteristic>
+		<characteristic name="Right ascension">08h 40.4m</characteristic>
+		<characteristic name="Declination">19° 59′</characteristic>
+		<characteristic name="Distance">577 ly (177 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">3.7</characteristic>
+		<characteristic name="Apparent dimensions (V)">95′</characteristic>
+		<characteristic name="Mass">~500-600 M☉</characteristic>
+		<characteristic name="Estimated age">~600-700 million years</characteristic>
+		<characteristic name="Other designations">M44, Praesepe, NGC 2632</characteristic>
+	</characteristics>
+	<link title="Get more info about Beehive Cluster in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Beehive_Cluster</link>
+</object>

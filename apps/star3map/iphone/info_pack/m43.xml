@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 43" type="Galaxies">
+	<images>
+		<image title="De Mairan's Nebula (M43) taken by the Wide Field Channel of Hubble’s Advanced Camera for Surveys.">m 43_1.jpg</image>
+	</images>
+	<information>
+Messier 43 (also known as M43, De Mairan's Nebula, and NGC 1982) is an H II region in the Orion constellation. It was discovered by Jean-Jacques Dortous de Mairan before 1731. The De Mairan's Nebula is part of the Orion Nebula, separated from the main nebula by a lane of dust. It is part of the much larger Orion Molecular Cloud Complex.
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">05h 35.6m</characteristic>
+		<characteristic name="Declination">−05° 16′</characteristic>
+		<characteristic name="Distance">1600 ly</characteristic>
+		<characteristic name="Apparent magnitude (V)">+9.0</characteristic>
+		<characteristic name="Apparent dimensions (V)">20′x15′</characteristic>
+		<characteristic name="Constellation">Orion</characteristic>
+		<characteristic name="Notable features">Trapezium cluster</characteristic>
+		<characteristic name="Designations">M43, NGC 1982, De Mairan's Nebula</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 43 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_43</link>
+</object>

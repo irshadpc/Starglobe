@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Chamaeleon" type="Constellation">
+	<images>
+<image title="Chamaeleon">chamaeleon_1.png</image>
+<image title="">chamaeleon__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Chamaeleon (/kəˈmiːliən/) is a small constellation in the southern sky. It is named after the chameleon, a kind of lizard. It was first defined in the 16th century.
+
+Chamaeleon was one of twelve constellations created by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman. It first appeared on a 35-cm diameter celestial globe published in 1597 (or 1598) in Amsterdam by Plancius and Jodocus Hondius. Johann Bayer was the first uranographer to put Chamaeleon in a celestial atlas. It was one of many constellations created by European explorers in the 15th and 16th centuries out of unfamiliar Southern Hemisphere stars.
+There are four bright stars in Chamaeleon. Alpha Chamaeleontis is a white-hued star of magnitude 4.1, 63 light-years from Earth. Beta Chamaeleontis is a blue-white hued star of magnitude 4.2, 27 light-years from Earth. Gamma Chamaeleontis is a red-hued giant star of magnitude 4.1, 413 light-years from Earth. The other bright star in Chamaeleon is Delta Chamaeleontis, a wide double star. The brighter star is Delta2 Chamaeleontis, a blue-hued star of magnitude 4.4, 364 light-years from Earth. Delta1 Chamaeleontis, the dimmer component, is an orange-hued giant star of magnitude 5.5, 354 light-years away.
+Chamaeleon is also the location of Cha 110913, a unique dwarf star or proto solar system.
+In 1999, a nearby open cluster was discovered centered on the star η Chamaeleontis. The cluster, known as either the Eta Chamaeleontis cluster or Mamajek 1, is 8 million years old, and lies 316 light years from Earth.
+The constellation contains a number of molecular clouds (the Chamaeleon dark clouds) that are forming low-mass T Tauri stars. The cloud complex lies some 400 to 600 light years from Earth, and contains tens of thousands of solar masses of gas and dust. The most prominent cluster of T Tauri stars and young B-type stars are in the Chamaeleon I cloud, and are associated with the reflection nebula IC 2631.
+Chamaeleon contains one planetary nebula, NGC 3195, which is fairly faint. It appears in a telescope at about the same apparent size as Jupiter.
+In Chinese astronomy, the stars that form Chamaeleon were classified as the Little Dipper (小斗, Xiǎodǒu) among the Southern Asterisms (近南極星區, Jìnnánjíxīngōu) by Xu Guangqi.
+Coordinates: 11h 00m 00s, −80° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Cha</characteristic>
+<characteristic name="Genitive">Chamaeleontis</characteristic>
+<characteristic name="Pronunciation">/kəˈmiːliən/, genitive /kəˌmiːliˈɒntɨs/</characteristic>
+<characteristic name="Symbolism">the Chameleon</characteristic>
+<characteristic name="Right ascension">07h 26m 36.5075s – 13h 56m 26.6661s</characteristic>
+<characteristic name="Declination">−75.2899170° – −83.1200714°</characteristic>
+<characteristic name="Family">Bayer</characteristic>
+<characteristic name="Area">132 sq. deg. (79th)</characteristic>
+<characteristic name="Main stars">3</characteristic>
+<characteristic name="Bayer/Flamsteed stars">16</characteristic>
+<characteristic name="Stars with planets">1</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">0</characteristic>
+<characteristic name="Brightest star">α Cha (4.05m)</characteristic>
+<characteristic name="Nearest star">α Cha (63.45 ly, 19.45 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">None</characteristic>
+<characteristic name="Bordering constellations">Musca, Carina, Volans, Mensa, Octans, Apus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +0° and −90°. Best visible at 21:00 (9 p.m.) during the month of April.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Chamaeleon in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Chamaeleon</link>
+</object>

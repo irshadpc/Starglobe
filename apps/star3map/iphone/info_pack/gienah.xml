@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Geinah" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+	</images>
+	<information>
+        Gamma Corvi (γ Crv, γ Corvi) is the brightest star in the southern constellation of Corvus, having an apparent visual magnitude of 2.6. Its traditional name is Gienah, which it shares with Epsilon Cygni. The name "Gienah Corvi", or "Gienah Ghurab", may be used to distinguish it from this star in Cygnus. The distance to this star has been measured directly using the parallax technique, yielding an estimated 154 light-years (47 parsecs) from Earth.
+        
+        Also called Gienah, Gamma Corvi is the brightest star in Corvus at magnitude 2.59. It is a giant star with a stellar classification of B8 III.[3] It has around 4.2[5] times the mass of the Sun. It has a blue-white hue.[10] The spectrum of this star displays an anomalously higher than normal abundance of the elements mercury and manganese, making this a Mercury-manganese star. However, there are other elements that show large over or under abundances.[12] This chemical peculiarity in an otherwise stable stellar atmosphere is most likely caused by separation of the elements through diffusion and gravitational settling.
+        
+        Gamma Corvi has a confirmed stellar companion with a mass of about 0.8 times the Sun's, which may be orbiting at a separation of around 50 AU over a 158 year period. The photometry for this star suggests a stellar classification in the range K5–M5 V.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Geinah in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Gamma_Corvi</link>
+</object>

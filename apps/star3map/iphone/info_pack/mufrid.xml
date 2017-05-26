@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name=" Mufrid" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+Eta Boötis (η Boo, η Boötis) is a star in the constellation Boötes. It has the traditional names Muphrid and Saak, and the Flamsteed designation 8 Boötis. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+
+The name Muphrid is from the Arabic مفرد الرامح mufrid ar-rāmiħ "the (single) one of the lancer". In Chinese, 右攝提 (Yòu Niè Dī), meaning "the Right Conductor", refers to an asterism consisting of Eta Boötis, Tau Boötis and Upsilon Boötis. Consequently, Eta Boötis itself is known as 右攝提一 (Yòu Niè Dī yī, English: "the First Star of the Right Conductor"). In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Ramih al Ramih (رمح الرامح—rumḥ al rāmiḥ), which was translated into Latin as Lancea Lanceator, possibly meaning the lance of the lancer.
+
+This star is a subgiant that has begun the process of evolving from a main sequence star into a red giant. It has about 1.7 times the mass of the Sun and 2.7 times the Sun's radius. The estimated age of this star is about 2.7 billion years. Based on its spectra, Eta Boötis has a significant excess of elements heavier than helium. In fact the ratio of iron to hydrogen is considered close to the upper limit for dwarf stars in the galactic disk. The star is a suspected spectroscopic binary with a reported period of 494 days, but the companion was not confirmed through speckle interferometry. This measurement does not rule out a low mass stellar companion of spectral class M7.
+
+Eta Boötis appears close to the prominent star Arcturus (Alpha Bootis) in Earth's sky, and Arcturus is in fact its closest stellar neighbor, as both stars are nearly identical in distance from the Sun. The two stars are about 3.24 light years apart, and each would appear bright in the other's sky. Arcturus would appear as roughly magnitude -5.2 (about 120 times brighter than it appears from Earth, or close to twice the brightness of Venus) in the night sky of a hypothetical planet orbiting Eta Boötis, while Eta Boötis would appear at about magnitude −2.4 (absolute magnitude −2.41 at 0.99 parsec) in the sky of a hypothetical planet orbiting Arcturus, or over twice the brightness of Sirius in the night sky.
+
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about  Mufrid in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Eta_Boötis</link>
+</object>

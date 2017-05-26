@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Mirzam" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassBStar.png</image>
+		<image title="">mirzam2.png</image>
+	</images>
+	<information>
+Beta Canis Majoris (β Canis Majoris, abbreviated Beta CMa, β CMa), also named Mirzam, is a star in the southern constellation of Canis Major (Latin for 'greater dog'), and is located at a distance of about 500 light-years (150 parsecs) from the Sun. In the modern constellation it lies at the position of the dog's front leg.
+Beta Canis Majoris is the star's Bayer designation. The traditional names Mirzam, Al-Murzim or Murzim, derive from the Arabic (مرزم) for 'The Herald', and probably refers to its position, heralding (i.e., rising before) Sirius in the night sky. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mirzam for this star.
+
+In Chinese, 軍市 (Jūn Shì), meaning 'Market for Soldiers', refers to an asterism consisting of β Canis Majoris, Nu3 Canis Majoris, 15 Canis Majoris, Pi Canis Majoris, Omicron1 Canis Majoris and Xi1 Canis Majoris. Consequently, β Canis Majoris itself is known as 軍市一 (Jūn Shì yī, English: the First Star of Market for Soldiers). From this Chinese name arose the name Kuen She.
+
+The Dunhuang Star Chart noted β Canis Majoris as Yeji "Pheasant Cock", though was located about 10 degrees too far north of its correct position.
+
+Beta Canis Majoris was called Oupo by the people of the Tuamotus.
+Mirzam is a Beta Cephei variable that varies in apparent magnitude between +1.97 and +2.01 over a six-hour period, a change in brightness that is too small to be discerned with the naked eye. It exhibits this variation in luminosity because of periodic pulsations in its outer envelope, which follow a complex pattern with three different cycles; all about six hours in length. The two dominant pulsation frequencies have a combined beat period of roughly 50 days. The strongest pulsation mode is a radial first overtone, while the second is non-radial.
+
+This star has a mass of about 13–14 times the mass of the Sun[8] with 8–11 times the Sun's radius. The effective temperature of the star's outer envelope is about 23,150 K, which is much higher than the Sun's at 5,778 K. The energy emitted at the high temperature of the former is what gives this star a blue-white hue characteristic of a B-type star. The estimated age of Mirzam is 12–13 million years, which is long enough for a star of this mass to have evolved into a giant star. The stellar classification of B1 II-III indicates that the spectrum matches a star part way between a giant star and a bright giant.
+
+Beta Canis Majoris is located near the far end of the Local Bubble,[citation needed] a cavity in the local interstellar medium through which the Sun is traveling.
+Mirzam appears on the flag of Brazil, symbolising the state of Amapá.
+
+USS Murzim (AK-95) was a United States Navy Crater class cargo ship named after one of the star's alternative traditional names.
+
+A small Dutch lamp company used the star in one of their commercials.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Mirzam in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Canis_Majoris</link>
+</object>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 3" type="Galaxies">
+	<images>
+		<image title="">m3_1.jpg</image>
+		<image title="Arcturus can be used to help locate M3">m3_2.png</image>
+		<image title="Messier 3 with amateur telescope">m3_3.jpg</image>
+	</images>
+	<information>
+Messier 3 (also known as M3 or NGC 5272) is a globular cluster of stars in the northern constellation of Canes Venatici. It was discovered by Charles Messier on May 3, 1764, and resolved into stars by William Herschel around 1784. Since then, it has become one of the best-studied globular clusters. Identification of the cluster's unusually large variable star population was begun in 1913 by American astronomer Solon Irving Bailey and new variable members continue to be identified up through 2004.
+Many amateur astronomers consider it one of the finest northern globular clusters, following only Messier 13. M3 has an apparent magnitude of 6.2, making it a difficult naked eye target even with dark conditions. With a moderate-sized telescope, the cluster is fully defined. It can be a challenge to locate through the technique of star hopping, but can be found by looking almost exactly halfway along an imaginary line connecting the bright star Arcturus to Cor Caroli. Using a telescope with a 25 cm (9.8 in) aperture, the cluster has a bright core with a diameter of about 6 arcminutes and spans a total of 12 arcminutes.
+This cluster is one of the largest and brightest, and is made up of around 500,000 stars. It is estimated to be 8 billion years old. It is located at a distance of about 33,900 light-years away from Earth.[citation needed]
+Messier 3 is located 31.6 kly (9.7 kpc) above the Galactic plane and roughly 38.8 kly (11.9 kpc) from the center of the Milky Way. It contains 274 known variable stars; by far the highest number found in any globular cluster. These include 133 RR Lyrae variables, of which about a third display the Blazhko effect of long-period modulation. The overall abundance of elements other than hydrogen and helium, what astronomers term the metallicity, is in the range of –1.34 to –1.50 dex. This value gives the logarithm of the abundance relative to the Sun; the actual proportion is 3.2–4.6% of the solar abundance. Messier 3 is the prototype for the Oosterhoff type I cluster, which is considered "metal-rich". That is, for a globular cluster, Messier 3 has a relatively high abundance of heavier elements.
+	</information>
+	<characteristics>
+		<characteristic name="Class">VI</characteristic>
+		<characteristic name="Constellation">Canes Venatici</characteristic>
+		<characteristic name="Right ascension">13h 42m 11.62s</characteristic>
+		<characteristic name="Declination">+28° 22′ 38.2″</characteristic>
+		<characteristic name="Distance">33.9 kly (10.4 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.2</characteristic>
+		<characteristic name="Apparent dimensions (V)">18′.0</characteristic>
+		<characteristic name="Mass">4.5×105 M☉</characteristic>
+		<characteristic name="Radius">90 ly</characteristic>
+		<characteristic name="Metallicity">–1.34 dex</characteristic>
+		<characteristic name="Estimated age">11.39 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 5272</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 3 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_3</link>
+</object>

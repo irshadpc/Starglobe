@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Pollux (star)" type="Star">
+	<images>
+<image title="Pollux (star)">pollux_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Pollux (β Gem, β Geminorum, Beta Geminorum) is a star in the northern constellation of Gemini, the Twins. It is an evolved giant star with an orange hue. At an apparent visual magnitude of 1.1, Pollux is the brightest star in the constellation; brighter even than its neighbor Castor (Alpha Geminorum). Parallax measurements made with the Hipparcos astrometry satellite place it at a distance of about 33.78 light-years (10.36 parsecs) from Earth. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. In 2006, Pollux was confirmed to have an extrasolar planet orbiting it.
+This star is larger than the Sun, with about two times its mass and almost nine times its radius. Once an A-type main sequence star, Pollux has exhausted the hydrogen at its core and evolved into a giant star with a stellar classification of K0 III. The effective temperature of this star's outer envelope is about 4,666 K, which lies in the range that produces the characteristic orange hue of K-type stars. Pollux appears to be rotating at a leisurely rate, with a projected rotational velocity of 2.8 km s–1. The abundance of elements other than hydrogen and helium, what astronomers term the star's metallicity, is somewhat uncertain, with estimates ranging from 85% to 155% of the Sun's abundance.
+Evidence for a low level of magnetic activity came from the detection of weak X-ray emission using the ROSAT orbiting telescope. The X-ray emission from this star is about 1027 erg s−1, which is roughly the same as the X-ray emission from the Sun. A magnetic field with a strength below 1 Gauss has since been confirmed on the surface of Pollux; one of the weakest fields ever detected on a star. The presence of this field suggests that Pollux was once an Ap star with a much stronger magnetic field.
+The name Pollux refers specifically to Castor and Pollux, the sons of Leda. The star also bears Arabic name Al-Ras al-Tau'am al-Mu'akhar,(الرأس التؤام المؤخر), literally, 'The Head of the Second Twin.' Castor and Pollux together correspond to the Nakshatra Punarvasu in Hindu astronomy. The star is named Punartham in Malayalam.
+Castor and Pollux are the two 'heavenly twin' stars giving the constellation Gemini (Latin, 'the twins') its name. The stars, however, are quite different in detail. Castor is a complex sextuple system of hot, bluish-white A-type stars and dim red dwarfs, while Pollux is a single, cooler yellow-orange giant. In Percy Shelley's 1818 poem Homer's Hymn To Castor And Pollux, the star is referred to as "..mild Pollux, void of blame."
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Muekher al Dzira, which was translated into Latin as Posterior Brachii, meaning the end in the paw.
+In Chinese, 北河 (Běi Hé), meaning North River, refers to an asterism consisting of Pollux, ρ Geminorum and Castor. Consequently, Pollux itself is known as 北河三 (Běi Hé sān, English: the Third Star of North River.)
+An extrasolar planet was suspected orbiting Pollux since 1993, from measured radial velocity oscillations. The existence of the planet, Pollux b, was confirmed and announced on June 16, 2006. Pollux b is calculated to have a mass at least 2.3 times that of Jupiter. It is orbiting Pollux with a period of about 590 days.
+Coordinates: 07h 45m 19.4s, +28° 01′ 35″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Gemini</characteristic>
+<characteristic name="Right ascension">07h 45m 18.94987s</characteristic>
+<characteristic name="Declination">+28° 01′ 34.3160″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.14</characteristic>
+<characteristic name="Spectral type">K0 III</characteristic>
+<characteristic name="U−B color index">+0.86</characteristic>
+<characteristic name="B−V color index">+1.00</characteristic>
+<characteristic name="Variable type">Suspected</characteristic>
+<characteristic name="Radial velocity (Rv)">+3.23 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –626.55 mas/yr, Dec.: –45.80 mas/yr</characteristic>
+<characteristic name="Parallax (π)">96.54 ± 0.27mas</characteristic>
+<characteristic name="Distance">33.78 ± 0.09 ly (10.36 ± 0.03 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">+1.08 ± 0.02</characteristic>
+<characteristic name="Mass">2.04 ± 0.3 M☉</characteristic>
+<characteristic name="Radius">8.8 ± 0.1 R☉</characteristic>
+<characteristic name="Luminosity">43 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">2.685 ± 0.09 cgs</characteristic>
+<characteristic name="Temperature">4,666 ± 95 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.07 to +0.19 dex</characteristic>
+<characteristic name="Rotation">558 days</characteristic>
+<characteristic name="Rotational velocity (v sin i)">2.8 km/s</characteristic>
+<characteristic name="Age">724 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Pollux (star) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Pollux_(star)</link>
+</object>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Spica" type="Star">
+	<images>
+<image title="Spica">spica_1.png</image>
+<image title="">spica__3.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Spica (α Vir, α Virginis, Alpha Virginis, pronounced /ˈspaɪkə/) is the brightest star in the constellation Virgo, and the 15th brightest star in the night sky. It is a blue giant and a variable star of the Beta Cephei type located 260 light years from Earth.
+
+Spica is believed to be the star that provided Hipparchus with the data that enabled him to discover the precession of the equinoxes. A temple to Menat (an early Hathor) at Thebes was oriented with reference to Spica when it had been constructed in 3200 BC, and, over time, precession resulted in a slow but noticeable change in the location of Spica relative to the temple.Nicolaus Copernicus made many observations of Spica with his home-made triquetrum for his researches on precession.
+As one of the nearest massive binary star systems to the Sun, Spica has been the subject of many observational studies.
+Spica is a close binary star whose components orbit about each other every four days. They remain sufficiently close together that they cannot be resolved as individual stars through a telescope. The changes in the orbital motion of this pair results in a Doppler shift in the absorption lines of their respective spectra, making them a double-lined spectroscopic binary. Initially, the orbital parameters for this system were inferred using spectroscopic measurements. Between 1966 and 1970, the Narrabri Stellar Intensity Interferometer was used to observe the pair and to directly measure the orbital characteristics and the angular diameter of the primary. The latter was determined to be (0.90 ± 0.04) × 10^−3 arcseconds, while the angular size of the semi-major axis of the orbit was found to be only slightly larger at (1.54 ± 0.05) × 10^−3 arcseconds.
+The primary star has a stellar classification of B1 III-IV. The luminosity class matches the spectrum of a star that is midway between a subgiant and a giant star, and it is no longer a B-type main-sequence star. This is a massive star with more than 10 times the mass of the Sun and seven times the Sun's radius. The total luminosity of this star is about 12,100 times that of the Sun, and eight times the luminosity of its companion. The primary is one of the nearest stars to the Sun that has sufficient mass to end its life in a Type II supernova explosion.
+The primary is classified as a Beta Cephei-type variable star that varies in brightness over a 0.1738-day period. The spectrum shows a radial velocity variation with the same period, indicating that the surface of the star is regularly pulsating outward and then contracting. This star is rotating rapidly, with a rotational velocity of 199 km/s along the equator.
+The secondary member of this system is one of the few stars to display the Struve–Sahade effect. This is an anomalous change in the strength of the spectral lines over the course of an orbit, where the lines become weaker as the star is moving away from the observer. It may be caused by a strong stellar wind from the primary scattering the light from secondary when it is receding. This star is smaller than the primary, with about 7 times the mass of the Sun and 3.6 times the Sun's radius. Its stellar classification is B2 V, making this a main-sequence star.
+Spica is a rotating ellipsoidal variable, which is a non-eclipsing close binary star system where the stars are mutually distorted through their gravitational interaction. This effect causes the apparent magnitude of the star system to vary by 0.03 over a time interval that matches the orbital period. This slight dip in magnitude is barely noticeable visually. The rotation rates of both stars are faster than their mutual orbital period. This lack of synchronization and the high ellipticity of their orbit may indicate that this is a young star system. Over time, the mutual tidal interaction of the pair may lead to rotational synchronization and orbit circularization.
+Located close to the ecliptic, Spica can be occulted by the Moon and sometimes by the planets. The last planetary occultation of Spica occurred when Venus passed in front of the star (as seen from Earth) on November 10, 1783. The next occultation will occur on September 2, 2197, when Venus again passes in front of Spica. The Sun passes a little more than 2° north of Spica around October 16 every year, and the star's heliacal rising occurs about two weeks later. Every 8 years, Venus passes Spica around the time of the star's heliacal rising, as in 2009 when it passed 3.5° north of the star on November 3.
+A method of finding Spica is to follow the arc of the handle of the Big Dipper to Arcturus, and then continue on the same angular distance to Spica. This can be recalled by the mnemonic phrase, "follow the arc to Arcturus and speed on to Spica."
+The name Spica derives from Latin spīca virginis "Virgo's ear of grain" (usually wheat). In Chinese astronomy, the star is known as Jiao Xiu 1 (角宿一) in Jiao Xiu, one of the Chinese constellations. In Hindu astronomy, Spica corresponds to the Nakshatra Chitra. The 17th century German astronomer Bayer and others referred to the star as Arista.
+Medieval names include Azimech, from Arabic السماك الأعزل al-simāk al-a‘zal 'the Undefended', and Alarph, Arabic for 'the Grape Gatherer'. Other titles include Sumbalet ("the corn ear", Arabic name for Virgo), Sombalet, Sembalet Eleandri, Shibbōleth, Citrā, Sa-Sha-Shirū, Kió, Repā.
+In medieval astrology, it was a Behenian fixed star, associated with the emerald and sage. In his Three Books of Occult Philosophy, Cornelius Agrippa attributes its kabbalistic symbol  to Hermes Trismegistus.
+A blue star represents Spica on the flag of the Brazilian state of Pará. Spica is also the star representing Pará on the Brazilian flag.
+Both USS Spica (AK-16) and USNS Spica (T-AFS-9) were named after this star whilst USS Azimech (AK-124), a Crater-class cargo ship, was given one of the star's medieval names.
+Coordinates: 13h 25m 11.5793s, −11° 09′ 40.759″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Virgo</characteristic>
+<characteristic name="Pronunciation">/ˈspaɪkə/</characteristic>
+<characteristic name="Right ascension">13h 25m 11.5793s</characteristic>
+<characteristic name="Declination">−11° 09′ 40.759″</characteristic>
+<characteristic name="Apparent magnitude (V)">+1.04</characteristic>
+<characteristic name="Spectral type">B1 III-IV/B2 V</characteristic>
+<characteristic name="U−B color index">−0.94</characteristic>
+<characteristic name="B−V color index">−0.24</characteristic>
+<characteristic name="Variable type">β Cep, Rotating ellipsoid</characteristic>
+<characteristic name="Radial velocity (Rv)">+1.0 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −42.50 mas/yr, Dec.: −31.73 mas/yr</characteristic>
+<characteristic name="Parallax (π)">12.44 ± 0.86mas</characteristic>
+<characteristic name="Distance">260 ± 20 ly (80 ± 6 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−3.55 (−3.5/−1.5)</characteristic>
+<characteristic name="Period (P)">4.0145898 d</characteristic>
+<characteristic name="Eccentricity (e)">0.067 ± 0.014</characteristic>
+<characteristic name="Inclination (i)">54 ± 6°</characteristic>
+<characteristic name="Periastron epoch (T)">2440678.09</characteristic>
+<characteristic name="Argument of periastron (ω)(secondary)">140 ± 10°</characteristic>
+<characteristic name="Mass">10.25 ± 0.68 M☉</characteristic>
+<characteristic name="Radius">7.40 ± 0.57 R☉</characteristic>
+<characteristic name="Luminosity">12,100 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.7 ± 0.1 cgs</characteristic>
+<characteristic name="Temperature">22,400 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">199 ± 5 km/s</characteristic>
+<characteristic name="Mass">6.97 ± 0.4 M☉</characteristic>
+<characteristic name="Radius">3.64 ± 0.28 R☉</characteristic>
+<characteristic name="Luminosity">1,500 L☉</characteristic>
+<characteristic name="Temperature">18,500 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">87 ± 6 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Spica in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Spica</link>
+</object>

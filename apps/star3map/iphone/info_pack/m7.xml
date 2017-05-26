@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 7" type="Galaxies">
+	<images>
+		<image title="">m7_1.jpg</image>
+		<image title="Broader view of M7, the cluster is at the center of this photograph.">m7_2.jpeg</image>
+		<image title="The star cluster Messier 7">m 7_3.jpg</image>
+	</images>
+	<information>
+Messier 7 or M7, also designated NGC 6475 and sometimes known as the Ptolemy Cluster, is an open cluster of stars in the constellation of Scorpius. The cluster is easily detectable with the naked eye, close to the "stinger" of Scorpius (also called Scorpion). With a declination of -34.8°, it is the southernmost Messier object.
+M7 has been known since antiquity; it was first recorded by the 1st-century Greek-Roman astronomer Ptolemy, who described it as a nebula in 130 AD. Italian astronomer Giovanni Batista Hodierna observed it before 1654 and counted 30 stars in it. In 1764, French astronomer Charles Messier catalogued the cluster as the seventh member in his list of comet-like objects. English astronomer John Herschel described it as "coarsely scattered clusters of stars".
+Broader view of M7, the cluster is at the center of this photograph.
+The star cluster Messier 7
+Telescopic observations of the cluster reveal about 80 stars within a field of view of 1.3° across. At the cluster's estimated distance of 980 light years this corresponds to an actual diameter of 25 light years. The tidal radius of the cluster is 40.1 ly (12.3 pc) and it has a combined mass of about 735 times the mass of the Sun. The age of the cluster is around 200 million years while the brightest member star is of magnitude 5.6. In terms of composition, the cluster contains a similar abundance of elements other than hydrogen and helium as the Sun.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Scorpius</characteristic>
+		<characteristic name="Right ascension">17h 53m 51.2s</characteristic>
+		<characteristic name="Declination">–34° 47′ 34″</characteristic>
+		<characteristic name="Distance">980 ± 33 ly (300 ± 10 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">3.3</characteristic>
+		<characteristic name="Apparent dimensions (V)">80.0′</characteristic>
+		<characteristic name="Mass">735 M☉</characteristic>
+		<characteristic name="Radius">25 ly</characteristic>
+		<characteristic name="Estimated age">200 Myr</characteristic>
+		<characteristic name="Other designations">M7, NGC 6475, Ptolemy Cluster</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 7 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Ptolemy_Cluster</link>
+</object>

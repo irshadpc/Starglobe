@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Antares" type="Star">
+	<images>
+<image title="Antares">antares_1.png</image>
+<image title="">antares__3.jpg</image>
+<image title="">antares__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Antares (α Scorpii, α Sco, Alpha Scorpii) is a red supergiant star in the Milky Way Galaxy and the sixteenth brightest star in the nighttime sky. It is sometimes listed as 15th brightest, if the two brighter components of the Capella quadruple star system are counted as one star. Along with Aldebaran, Regulus, and Fomalhaut, Antares comprises the group known as the 'Royal stars of Persia'. It is one of the four brightest stars near the ecliptic. It is the brightest star in the constellation Scorpius, and is often referred to as "the heart of the scorpion". Antares is a slow irregular variable star with an average magnitude of +1.09. Antares is the brightest, most massive, and most evolved stellar member of the nearest OB association (the Scorpius-Centaurus Association). Antares is a member of the Upper Scorpius subgroup of the Scorpius-Centaurus Association, which contains thousands of stars with mean age 11 million years at a distance of approximately 145 parsecs (470 light years).
+
+Antares is a supergiant star with a stellar classification of M1.5Iab-b. It has a radius of approximately 883 times that of the Sun; if it were placed in the center of our solar system, its outer surface would lie between the orbits of Mars and Jupiter. Based upon parallax measurements, Antares is approximately 550 light-years (170 parsecs) from the Earth. Its visual luminosity is about 10,000 times that of the Sun, but because the star radiates a considerable part of its energy in the infrared part of the spectrum, the bolometric luminosity equals roughly 65,000 times that of the Sun. The mass of the star has been calculated to be in the range of 15 to 18 solar masses. A recent analysis comparing the effective temperature and luminosity of Antares to theoretical evolutionary tracks for massive stars which include rotation and mass loss yielded a mass of approximately 17 solar masses and age of 12 million years old.
+The size of Antares may be calculated using its parallax and angular diameter. The parallax angle is given in the box to the right, and the angular diameter is known from lunar occultation measurements (41.3 ± 0.1 mas). This implies a radius of 755 solar radii at 170pc.
+Antares is a type LC slow irregular variable star, whose apparent magnitude slowly varies from +0.88 to +1.16.
+Antares is visible in the sky all night around May 31 of each year, when the star is at opposition to the Sun. At this time, Antares rises at dusk and sets at dawn as seen at the equator. For approximately two to three weeks on either side of November 30, Antares is not visible in the night sky, because it is near conjunction with the Sun; this period of invisibility is longer in the Northern Hemisphere than in the Southern Hemisphere, since the star's declination is significantly south of the celestial equator.
+Antares has a secondary, or companion star, Antares B, that changed from an angular separation (from its primary, Antares A) of 3.3 arcseconds in 1854 to 2.86 arcseconds in 1990. The last is equal to a projected separation of about 529 Astronomical Units (AU) at the estimated distance of Antares, giving a minimum value for the separation of the pair. Spectroscopic examination of the energy states in the outflow of matter from the companion star suggests that it is about 224 AU beyond the primary, giving a combined separation of about 574 AU. The stellar classification of this star is B2.5, with numerous spectral lines suggesting it has been polluted by matter ejected by Antares A. At magnitude 5.5, it is only 1/370th as bright visually as Antares A, although it shines with 170 times the Sun's luminosity.
+The companion star is normally difficult to see in small telescopes due to glare from Antares A, but can sometimes be seen in apertures over 150 mm (5.9 in). The companion is often described as green, but this is probably either a contrast effect or the result of the mixing of light from the two stars when they are seen together through a telescope and are too close to be completely resolved. Antares B can sometimes be observed with a small telescope for a few seconds during lunar occultations while Antares A is hidden by the Moon. It was discovered by Johann Tobias Bürg during one such occultation on April 13, 1819, but until its existence was confirmed in 1846 it was thought by some to be merely the light of Antares viewed through the Moon's atmosphere (which at the time was theorized to exist). When observed by itself during such an occultation, the companion appears a profound blue or bluish-green color.
+The orbit of the companion star is poorly known, with an estimated period of 1,200 - 2,562 years.
+Antares is one of the 4 first magnitude stars that lies within 5° of the ecliptic (like Spica, Regulus and Aldebaran) and therefore can be occulted by the Moon and, though rarely, by Venus. The last occultation of Antares by Venus took place on September 17, 525 BC; the next one will take place on November 17, 2400. Other planets did not occult Antares in the last millennium nor will they do so in the next millennium, as they pass as a result of their actual node position and inclination always northward of Antares. On 31 July 2009, Antares was occulted by the Moon. The event was visible in much of southern Asia and the Middle East. Every year around December 2 the Sun passes 5° north of Antares.
+Antares, the proper name of this star, derives from the Ancient Greek Άντάρης, meaning "anti-Ares" ("anti-Mars"), due to the similarity of its reddish hue to the appearance of the planet Mars. The comparison of Antares with Mars may have originated with early Mesopotamian astronomers. However, some scholars have speculated that the star may have been named after Antar, or Antarah ibn Shaddad, the Arab warrior-hero celebrated in the Golden Mu'allaqat.
+Coordinates: 16h 29m 24s, −26° 25′ 55″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Scorpius</characteristic>
+<characteristic name="Right ascension">16h 29m 24s</characteristic>
+<characteristic name="Declination">−26° 25′ 55″</characteristic>
+<characteristic name="Apparent magnitude (V)">+0.96</characteristic>
+<characteristic name="Spectral type">M1.5Iab-b + B2.5V</characteristic>
+<characteristic name="U−B color index">+1.34</characteristic>
+<characteristic name="B−V color index">+1.83</characteristic>
+<characteristic name="Variable type">LC</characteristic>
+<characteristic name="Radial velocity (Rv)">−3.4 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: −12.11 mas/yr, Dec.: −23.30 mas/yr</characteristic>
+<characteristic name="Parallax (π)">5.89 ± 1.00mas</characteristic>
+<characteristic name="Distance">approx. 550 ly (approx. 170 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−5.28</characteristic>
+<characteristic name="Mass">12.4 M☉</characteristic>
+<characteristic name="Radius">883 R☉</characteristic>
+<characteristic name="Luminosity">57,500 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">0.1 cgs</characteristic>
+<characteristic name="Temperature">3400 ± 200 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">20 km/s</characteristic>
+<characteristic name="Mass">10 M☉</characteristic>
+<characteristic name="Radius">4 R☉</characteristic>
+<characteristic name="Temperature">18,500 K</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Antares in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Antares</link>
+</object>

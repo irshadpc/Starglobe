@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1844 Satellite details 1987-041A NORAD 17973" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">17973	</characteristic><characteristic name="Int'l Code">1987-041A</characteristic>
+<characteristic name="Perigee">832.4 km</characteristic>
+<characteristic name="Apogee">874.0 km</characteristic>
+<characteristic name="Inclination">70.9 °</characteristic>
+<characteristic name="Period">101.8 minutes</characteristic>
+<characteristic name="Semi major axis">7224 km</characteristic>
+<characteristic name="Launch date">May 13, 1987</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

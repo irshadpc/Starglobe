@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Kapteyn's Star" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassMStar.png</image>
+	</images>
+	<information>
+        Kapteyn's Star is a class M1 red subdwarf about 12.76 light years from Earth in the southern constellation Pictor, and the closest halo star to the Solar System. With a magnitude of nearly 9 it is visible through binoculars or a telescope.
+
+        Its diameter is 30% of the Sun's, but its luminosity just 1.2% that of the Sun's. It may have once been part of the globular cluster Omega Centauri, itself a likely dwarf galaxy swallowed up by the Milky Way in the distant past. The discovery of two planets—Kapteyn b and Kapteyn c—was announced in 2014.
+
+        Based upon parallax measurements with the Hipparcos astrometry satellite, Kapteyn's Star is at a distance of 12.76 light-years (3.91 parsecs) from the Earth. It came within 7.00 light-years (2.15 parsecs) of the Sun about 10,800 years ago and has been moving away since that time. The star is between one quarter and one third the size and mass of the Sun and a much cooler effective temperature at about 3500 K, with some disagreement in the exact measurements between different observers. The stellar classification is sdM1, which indicates that it is a subdwarf with a luminosity lower than that of a main-sequence star at the same spectral type of M1. The abundance of elements other than hydrogen and helium, what astronomers term the metallicity, is about 14% of the abundance in the Sun. It is a variable star of the BY Draconis type with the identifier VZ Pictoris. This means that the luminosity of the star changes because of magnetic activity in the chromosphere coupled with rotation moving the resulting star spots into and out of the line of sight with respect to the Earth.
+
+        Kapteyn's Star is distinctive in a number of other regards: it has a high radial velocity, orbits the Milky Way retrograde, and is the nearest known halo star to the Sun. It is a member of a moving group of stars that share a common trajectory through space, named the Kapteyn moving group. Based upon their element abundances, these stars may once have been members of Omega Centauri, a globular cluster that is thought to be the remnant of a dwarf galaxy that merged with the Milky Way. During this process, the stars in the group, including Kapteyn's Star, may have been stripped away as tidal debris.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Kapteyn's Star in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Kapteyn%27s_Star</link>
+</object>

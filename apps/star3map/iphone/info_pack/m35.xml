@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 35" type="Galaxies">
+	<images>
+		<image title="Credit: 2MASS/NASA.">m 35_1.jpg</image>
+	</images>
+	<information>
+Messier 35 (also known as M35, or NGC 2168) is an open cluster in the constellation Gemini. It was discovered by Philippe Loys de Chéseaux in 1745 and independently discovered by John Bevis before 1750. The cluster is scattered over an area of the sky almost the size of the full moon and is located 850 parsecs (2,800 light-years) from Earth.
+The mass of M35 has been computed using a statistical technique based on proper motion velocities of its stars.[3] The mass within the central 3.75 parsecs was found to be between 1600 and 3200 solar masses (95 percent confidence), consistent with the mass of a realistic stellar population within the same radius.
+The compact open cluster NGC 2158 lies directly southwest of M35.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Gemini</characteristic>
+		<characteristic name="Right ascension">06h 09.1m</characteristic>
+		<characteristic name="Declination">+24° 21</characteristic>
+		<characteristic name="Distance">2800 ly (850 pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">5.30</characteristic>
+		<characteristic name="Apparent dimensions (V)">28 arcmins</characteristic>
+		<characteristic name="Radius">11 ly</characteristic>
+		<characteristic name="Other designations">NGC 2168</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 35 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_35</link>
+</object>

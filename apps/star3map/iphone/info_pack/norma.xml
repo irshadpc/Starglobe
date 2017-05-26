@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Norma (constellation)" type="Constellation">
+	<images>
+<image title="Norma (constellation)">norma_1.png</image>
+<image title="">norma__2.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Norma is a small and inconspicuous constellation in the southern hemisphere between Scorpius and Centaurus. Its name is Latin for normal, referring to a right angle, and is variously considered to represent a rule, a carpenter's square, a set square or a level.
+
+Norma, originally named l’Equerre et la Regle in French, was one of the constellations invented by Abbé de Lacaille in the middle of the 1750s, when he was measuring about 10,000 stars at the Cape of Good Hope. Norma represents a carpenter's square, used in the Age of Exploration by carpenters on exploratory vessels.
+The Milky Way passes through Norma.
+Norma has no α or β star. These are now officially part of Scorpius - N Sco and H Sco respectively. Norma's brightest star, γ2 Normae, is only of magnitude 4.0. Among the constellation's principal stars are the following:
+Due to its location on the Milky Way, this constellation contains many deep-sky objects, the most notable of which is NGC 6087.
+Coordinates: 16h 03m 00s, −52° 00′ 36″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Nor</characteristic>
+<characteristic name="Genitive">Normae</characteristic>
+<characteristic name="Pronunciation">/ˈnɔrmə/, genitive /ˈnɔrmiː/</characteristic>
+<characteristic name="Symbolism">the carpenter's square</characteristic>
+<characteristic name="Right ascension">16.05</characteristic>
+<characteristic name="Declination">−52.01</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ3</characteristic>
+<characteristic name="Area">165 sq. deg. (74th)</characteristic>
+<characteristic name="Main stars">2</characteristic>
+<characteristic name="Bayer/Flamsteed stars">13</characteristic>
+<characteristic name="Stars with planets">4</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">0</characteristic>
+<characteristic name="Brightest star">γ2 Nor (4.01m)</characteristic>
+<characteristic name="Nearest star">HD 145417 (44.83 ly, 13.75 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">Gamma Normids</characteristic>
+<characteristic name="Bordering constellations">Scorpius, Lupus, Circinus, Triangulum Australe, Ara</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +30° and −90°. Best visible at 21:00 (9 p.m.) during the month of July.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Norma (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Norma_(constellation)</link>
+</object>

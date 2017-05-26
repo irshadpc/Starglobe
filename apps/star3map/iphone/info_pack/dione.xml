@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Dione" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Dione_1.jpg</image>
+        <image title="">Dione_2.jpg</image>
+        <image title="">Dione_3.jpg</image>
+        <image title="">Dione_4.jpg</image>
+	</images>
+	<information>
+Dione is a moon of Saturn. It was discovered by Italian astronomer Giovanni Domenico Cassini in 1684. It is named after the Titaness Dione of Greek mythology. It is also designated Saturn IV.
+
+Dione orbits Saturn with a semimajor axis about 2% less than that of the Moon. However, reflecting Saturn's greater mass, Dione's orbital period is one tenth that of the Moon. Dione is currently in a 1:2 mean-motion orbital resonance with moon Enceladus, completing one orbit of Saturn for every two orbits completed by Enceladus. This resonance maintains Enceladus's orbital eccentricity (0.0047), providing a source of heat for Enceladus's extensive geological activity, which shows up most dramatically in its cryovolcanic geyser-like jets.
+
+Dione has two co-orbital, or trojan, moons, Helene and Polydeuces. They are located within Dione's Lagrangian points L4 and L5, 60 degrees ahead of and behind Dione respectively.
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Dione in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Dione_(moon)</link>
+</object>

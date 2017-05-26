@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="ERBS Satellite details 1984-108B NORAD 15354" type="Satellite">
+	<images><image>erbs.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+The Earth Radiation Budget Satellite (ERBS) was designed to be a 2-year mission to gather required radiation budget data, aerosol data, and ozone data to assess climate change and ozone depletion. The two experiments conducted were the Earth Radiation Budget Experiment (ERBE) and the Stratospheric Aerosol and Gas Experiment II (SAGE II).
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">15354	</characteristic><characteristic name="Int'l Code">1984-108B</characteristic>
+<characteristic name="Perigee">475.4 km</characteristic>
+<characteristic name="Apogee">506.4 km</characteristic>
+<characteristic name="Inclination">57.0 °</characteristic>
+<characteristic name="Period">94.3 minutes</characteristic>
+<characteristic name="Semi major axis">6861 km</characteristic>
+<characteristic name="Launch date">October 5, 1984</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 95" type="Galaxies">
+	<images>
+		<image title="M95. Credit: NASA">m 95_1.jpg</image>
+		<image title="This photo from Messier 95 was taken up by an amateur astronomer from Austria.">m 95_2.jpg</image>
+		<image title="In the Leo I group, Messier 95 is outshone by its brother Messier 96.">m 95_3.jpg</image>
+		<image title="Messier 95, 24 inch telescope on Mt. Lemmon, AZ. Courtesy of Joseph D. Schulman">m 95_4.jpg</image>
+	</images>
+	<information>
+Messier 95 (also known as M95 or NGC 3351) is a barred spiral galaxy about 38 million light-years away in the constellation Leo. It was discovered by Pierre Méchain in 1781, and catalogued by Charles Messier four days later. On 16 March 2012, a supernova was discovered in M95.
+The center of the galaxy contains a ring-shaped circumnuclear star-forming region with a diameter of approximately 2000 ly (600 pc).
+M95 is one of several galaxies within the M96 Group, a group of galaxies in the constellation Leo. The group also includes the Messier objects M96 and M105.
+A Type II supernova, designated as SN 2012aw, was discovered in M95 on 16 March 2012.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Leo</characteristic>
+		<characteristic name="Right ascension">10h 43m 57.7s</characteristic>
+		<characteristic name="Declination">+11° 42′ 14″</characteristic>
+		<characteristic name="Redshift">778 ± 4 km/s</characteristic>
+		<characteristic name="Distance">32.6 ± 1.4 Mly (10.0 ± 0.4 Mpc)</characteristic>
+		<characteristic name="Type">SB(r)b</characteristic>
+		<characteristic name="Apparent dimensions (V)">3′.1 × 2′.9</characteristic>
+		<characteristic name="Apparent magnitude (V)">11.4</characteristic>
+		<characteristic name="Other designations">NGC 3351, UGC 5850, PGC 32007</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 95 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_95</link>
+</object>

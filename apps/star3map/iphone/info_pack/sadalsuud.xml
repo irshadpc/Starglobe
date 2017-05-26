@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sadalsuud" type="Star">
+	<images>
+		<!-- Just save all images you want to use with names like starname_number.png/.jpg -->
+		<image title="">ClassGStar.png</image>
+	</images>
+	<information>
+Beta Aquarii (β Aqr, β Aquarii) is a double star in the constellation Aquarius. It has the traditional name Sadalsuud, from an Arabic expression سعد السعود sa‘d al-su‘ūd, the "luck of lucks". Other spellings that are sometimes encountered are Sad es Saud, Sadalsund, and Saad el Sund.
+
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Nir Saad al Saaoud, which was translated into Latin as Lucida Fortunæ Fortunarum (rather identic with R.H. Allen), meaning the brightest of luck of lucks.
+Sadalsuud is the brightest star in Aquarius with an apparent magnitude of 2.87 and a stellar classification of G0 Ib. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Based upon parallax measurements, it is located at a distance of about 540 light-years (160 parsecs) from the Earth. The mass of this star is about 6.0 to 6.5 times the mass of the Sun, but it is emitting roughly 2,300 times the Sun's luminosity implying a radius that is 50 times that of the Sun. It has an estimated age of 60 million years;[9] old enough for a star of this mass to evolve into a supergiant. The estimated effective temperature of the star's outer envelope is about 5,700 K, giving it the characteristic yellow hue of G-type stars.
+
+X-ray emissions from the corona of this star have been detected using the Chandra X-ray Observatory; among the first such detections of X-rays for a G-type supergiant. A secondary X-ray source discovered near Beta Aquarii probably has an extragalactic origin. This star belongs to a group of three intermediate mass stars with a space velocity that is carrying them perpendicular to the plane of the galaxy. The other members of this grouping are Alpha Aquarii and Eta Pegasi.
+Sadalsuud, when translated, means the "Luckiest of the Lucky" or the "luck of lucks". In the context of older worldviews (i.e.Egyptian, Persian and Islamic mythology), Sadalsuud relates to the rising of the Sun when winter has passed (March) and the season of gentle, continuous rain has begun. Hence the myth of "luck" or "good fortune" was seen as closely aligned with the essence of spring itself, the burgeoning of new life, and by extension agriculture, which in all societies is the very foundation of prosperity or "good fortune". This mythological view of "the luck of the lucks" also belongs to the 22d Manzil (Arabic Lunar Mansion), which included the two stars Bunda (ξ Aqr) and c Cap.
+β and ξ Aquarii also constitute the Persian lunar mansion Bunda and the similar Coptic mansion Upuineuti, the meaning of which is "the Foundation".
+
+In Chinese mythology, β Aqr alone marks the sieu (Chinese Lunar Mansion) Heu, Hiu, or Hü, "the Void", anciently Ko, the central one of the seven sieu which, taken together, were known as Heung Wu, the Black Warrior, in the northern quarter of the sky. As such, Sadalsuud is an expression of the feminine archetype, the Yin or "Void" (Cosmic Mother), from which, many cultures have believed, creation itself (birth) emanates.
+
+In Chinese, 虚宿 (Xū Sù), meaning Emptiness (asterism), refers to an asterism consisting of β Aquarii and α Equulei. Consequently, β Aquarii itself is known as 虛宿一 (Xū Sù yī, English: the First Star of Emptiness.)
+
+Sadalsuud is found in Hindu texts as Kalpeny and in the context of the ancient Indian system of astronomy, Jyotisha Veda, is located in the 23rd Nakshatra Shravishthā, a lunar mansion which is ruled by Eight vasus - the "deities of earthly abundance" . On the Euphrates, Sadalsuud was known as Kakkab Nammax, the Star of Mighty Destiny; that may have given origin to the title of the manzil, as well as to the astrologers' name for it — Fortuna Fortunarum.
+"Sadalsuud" appears to be a single star to the naked eye, but when viewed with a telescope is seen to have two faint optical companions. The first has an apparent magnitude of 11.0. In 1947, the position angle was observed at 321 degrees with a separation from the Beta Aquarii of 35.4 arcseconds. The second star has a magnitude of 11.6. Its position angle is 186 degrees with a separation from Beta Aquarii of 57.2 arcseconds. As of 2008, there is no definitive evidence that the three stars form a ternary star system.
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Sadalsuud in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Beta_Aquarii</link>
+</object>

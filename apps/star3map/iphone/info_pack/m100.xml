@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 100" type="Galaxies">
+	<images>
+		<image title="">m 100_1.jpg</image>
+		<image title="Image from the FORS instrument on the Very Large Telescope">m 100_2.jpg</image>
+		<image title="Core of Messier 100 taken with the high resolution channel of Hubble's Advanced Camera for Surveys">m 100_3.jpg</image>
+		<image title="Infrared light with the HAWK-I camera on ESO's Very Large Telescope.">m 100_4.jpg</image>
+		<image title="Central region by HST. Credit: NASA">m 100_5.jpg</image>
+		<image title="Before and after HST repair mission. Credit: NASA">m 100_6.jpg</image>
+		<image title="SN 2006X in Messier 100. Credit: ESO">m 100_7.jpg</image>
+		<image title="">m 100_8.jpg</image>
+		<image title="">m 100_9.jpg</image>
+		<image title="24 inch telescope on Mt. Lemmon, AZ. Image courtesy of Joseph D. Schulman">m 100_10.jpg</image>
+	</images>
+	<information>
+Messier 100 (also known as NGC 4321) is an example of a grand design spiral galaxy located within the southern part of constellation Coma Berenices. It is one of the brightest and largest galaxies in the Virgo cluster, located approximately 55 million light-years distant from Earth and has a diameter of 107,000 light years. It was discovered by Pierre Méchain on March 15, 1781 and was subsequently entered in Messier’s catalogue of nebulae and star clusters after Charles Messier made observations of his own on April 13, 1781. The galaxy was one of the first spirals to be discovered, and was listed as 1 of 14 spiral nebulae by Lord William Parsons of Rosse in 1850. Two satellite galaxies named NGC 4323 -connected with M100 by a bridge of luminous matter- and NGC 4328 are present within this galaxy.
+After the discovery of M100 by Méchain, Charles Messier made observations of the galaxy depicting it as a nebula without a star. He pointed out that it was difficult to recognize the nebula because of its faintness. William Herschel was able to identify a bright cluster of stars within the nebula during observations he did before John Herschel expanded the findings in 1833. With the advent of better telescopes, John Herschel was able to see a round, brighter galaxy; however, he also mentioned that it was barely visible through clouds but he still indicated that it was faint. William Henry Smyth extended the studies of M100, detailing it as a pearly white nebula and pointing out diffuse spots.
+Messier 100 is considered a starburst galaxy with the strongest star formation activity concentrated in its center, within a ring - actually two tightly wound spiral arms attached to a small nuclear bar with a radius of 1 kilo-parsec - where star formation has been taking place since at least 500 million years ago in separate bursts.
+As usual on spiral galaxies of the Virgo Cluster, in the rest of the disk both star formation and neutral hydrogen, of which M100 is deficient compared to isolated spirals of similar Hubble type, are truncated within the galaxy's disk, which is caused by interactions with the intracluster medium of Virgo.
+Five supernovae have been identified in the M100 galaxy. In March 1901 the first supernova of M100 was found, SN 1901B, a type I supernova found when magnitude 15.6 at a distance from its nucleus. SN 1914A was then discovered in February to March 1914; its type was undeterminable but was found when magnitude 15.7 at some distance from the center. Observations of M100 from February 21, 1960 to June 17, 1960 led to the discovery of SN 1959E, another type I supernova, with the faintest magnitude, 17.5, among the five found, at 58"E and 21"S from its nucleus. On April 15, 1979, the first type II supernova found in the M100 galaxy was discovered; however the star SN 1979C faded quickly; later observations from x-ray to radio wavelengths revealed its remnant. The latest supernova was discovered February 7, 2006; the star SN 2006X had a magnitude of 15.3 when discovered two weeks before fading to magnitude +17.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenicesi</characteristic>
+		<characteristic name="Right ascension">12h 22m 54.9s</characteristic>
+		<characteristic name="Declination">+15° 49′ 21″</characteristic>
+		<characteristic name="Redshift">1571 ± 1 km/s</characteristic>
+		<characteristic name="Distance">55 Mly</characteristic>
+		<characteristic name="Type">SAB(s)bc</characteristic>
+		<characteristic name="Apparent dimensions (V)">7′.4 × 6′.3</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.1</characteristic>
+		<characteristic name="Other designations">NGC 4321</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 100 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_100</link>
+</object>

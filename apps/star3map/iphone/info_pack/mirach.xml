@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Beta Andromedae" type="Star">
+	<images>
+<image title="Mirach">mirach_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Beta Andromedae (Beta And, β And, β Andromedae) is the Bayer designation for a prominent star in the northern constellation of Andromeda. It has the traditional name Mirach, which is also spelled Merach, Mirac, Mirak. β Andromedae is located northeast of the Great Square of Pegasus and is theoretically visible to all observers north of 54° S. The galaxy NGC 404, also known as Mirach's Ghost, is visible seven arc-minutes away.
+This star has an average apparent visual magnitude of 2.05, which makes it the brightest star in the constellation. However, the luminosity varies slightly from magnitude +2.01 to +2.10. Based upon parallax measurements, it is located at a distance of roughly 197 light-years (60 parsecs) from Earth. The apparent magnitude of this star is reduced by 0.06 from extinction caused by the gas and dust along the line of sight.
+
+Beta Andromedae is a red giant with a stellar classification of M0 III. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is suspected of being a semiregular variable star whose apparent visual magnitude varies from +2.01 to +2.10. At this stage of the star's evolution, the outer envelope has expanded to around 100 times the size of the Sun. It is radiating 1,995 times the luminosity of the Sun at an effective temperature of 3,842 K.
+Coordinates: 01h 09m 43.9236s, +35° 37′ 14.008″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Andromeda</characteristic>
+<characteristic name="Right ascension">01h 09m 43.92388s</characteristic>
+<characteristic name="Declination">+35° 37′ 14.0075″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.05 (2.01 to 2.10)</characteristic>
+<characteristic name="Spectral type">M0 III</characteristic>
+<characteristic name="U−B color index">+1.96</characteristic>
+<characteristic name="B−V color index">+1.57</characteristic>
+<characteristic name="V−R color index">0.9</characteristic>
+<characteristic name="R−I color index">+1.00</characteristic>
+<characteristic name="Variable type">Semiregular</characteristic>
+<characteristic name="Radial velocity (Rv)">0.06 ± 0.13 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 175.90 mas/yr, Dec.: −112.20 mas/yr</characteristic>
+<characteristic name="Parallax (π)">16.52 ± 0.56mas</characteristic>
+<characteristic name="Distance">197 ± 7 ly (61 ± 2 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–1.76</characteristic>
+<characteristic name="Mass">3–4 M☉</characteristic>
+<characteristic name="Radius">100 R☉</characteristic>
+<characteristic name="Luminosity">1,995 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.52 cgs</characteristic>
+<characteristic name="Temperature">3,842 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.05 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">7.2 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Beta Andromedae in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Mirach</link>
+</object>

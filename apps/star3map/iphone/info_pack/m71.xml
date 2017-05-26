@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 71" type="Galaxies">
+	<images>
+		<image title="M71 from Hubble Space Telescope; 3.35′ view Credit: NASA/STScI/WikiSky">m 71_1.jpg</image>
+	</images>
+	<information>
+Messier 71 (also known as M71 or NGC 6838) is a globular cluster in the constellation Sagitta. It was discovered by Philippe Loys de Chéseaux in 1746 and included by Charles Messier in his catalog of comet-like objects in 1780. It was also noted by Koehler at Dresden around 1775.
+M71 is at a distance of about 12,000 light years away from Earth and spans some 27 light years across. The irregular variable star Z Sagittae is a member of this cluster.
+M71 was long thought (until the 1970s) to be a densely packed open cluster and was classified as such by leading astronomers in the field of star cluster research due to its lacking a dense central compression, and to its stars having more "metals" than is usual for an ancient globular cluster; furthermore, it lacks the RR Lyrae "cluster" variable stars that are common in most globulars. However, modern photometric photometry has detected a short "horizontal branch" in the H-R diagram of M71, which is characteristic of a globular cluster. The shortness of the branch explains the lacking of the RR Lyrae variables and is due to the globular's relatively young age of 9-10 billion years. The relative youth of this globular also explains the abundance of "metals" in its stars. Hence today M71 is designated as a very loosely concentrated globular cluster, much like M68 in Hydra. M71 has a luminosity of around 13,200 suns.
+	</information>
+	<characteristics>
+		<characteristic name="Class">X-XI</characteristic>
+		<characteristic name="Constellation">Sagitta</characteristic>
+		<characteristic name="Right ascension">19h 53m 46.49s</characteristic>
+		<characteristic name="Declination">+18° 46′ 45.1″</characteristic>
+		<characteristic name="Distance">13.0 kly (4.0 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.1</characteristic>
+		<characteristic name="Apparent dimensions (V)">7′.2</characteristic>
+		<characteristic name="Mass">1.7×104 M☉</characteristic>
+		<characteristic name="Radius">13 ly</characteristic>
+		<characteristic name="Metallicity">–0.78 dex</characteristic>
+		<characteristic name="Estimated age">9-10 Gyr</characteristic>
+		<characteristic name="Other designations">M71, NGC 6838, GCl 115</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 71 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_71</link>
+</object>

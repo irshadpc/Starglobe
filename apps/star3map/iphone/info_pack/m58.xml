@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 58" type="Galaxies">
+	<images>
+		<image title="An infrared image of M58 taken by the Spitzer Space Telescope (SST). Credit: SST/NASA/JPL.">m 58_1.jpg</image>
+<image title="Spiral Galaxy M58 taken at the Mount Lemmon SkyCenter (Tucson, AZ) using the 0.8m Schulman Telescope. Image courtesy Adam Block.">m 58_2.jpg</image>
+	</images>
+	<information>
+Messier 58 (also known as M58 and NGC 4579) is a barred spiral galaxy located within the constellation Virgo, approximately 68 million light-years away from Earth. It was discovered by Charles Messier on April 15, 1779 and is one of four barred spiral galaxies that appear in Messier's catalogue. M58 is one of the brightest galaxies in the Virgo Cluster. From 1779 it was arguably (though unknown at that time) the farthest known astronomical object until the release of the New General Catalogue in the 1880s and even more so the publishing of redshift values in the 1920s.
+Charles Messier discovered Messier 58, along with the elliptical galaxies Messier 59 and Messier 60, on April 15, 1779. M58 was reported on the chart of the Comet of 1779 as it was almost on the same parallel as the star Epsilon Virginis. Messier described M58 as a very faint nebula in Virgo which would disappear in the slightest amount of light he used to illuminate the micrometer wires. This description was later contradicted by John Herschel’s observations in 1833 where he described it as a very bright galaxy, especially towards the middle. Herschel’s observations were also similar to the descriptions of both John Dreyer and William Henry Smyth who said that M58 was a bright galaxy, mottled, irregularly round and very much brighter toward the middle.
+Like many other spiral galaxies of the Virgo Cluster (e.g. Messier 90), Messier 58 is an anemic galaxy with low star formation activity concentrated within the galaxy's optical disk, and relatively little neutral hydrogen, also located inside its disk, concentrated in clumps, compared with other galaxies of similar morphological type. This deficiency of gas is believed to be caused by interactions with Virgo's intracluster medium.
+Messier 58 has a low-luminosity active galactic nucleus, where a starburst may be present as well as a supermassive black hole with a mass of around 70 million solar masses. It's also one of the very few galaxies known to possess a UCNR (Ultra-Compact Nuclear Ring), a series of star-forming regions located in a very small ring around the center of the galaxy.
+Two supernovae have been studied in the M58 galaxy. A type II supernova dubbed as SN 1988A was discovered by Kaoru Ikeya on January 18, 1988. It had an apparent magnitude of 13.5 from its center. A Type I supernova dubbed as SN 1989M was then found on June 28, 1989 by Kimeridze. This one had an apparent magnitude of 12.2 from its nucleus.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 37m 43.5s</characteristic>
+		<characteristic name="Declination">+11° 49′ 05″</characteristic>
+		<characteristic name="Redshift">0.00506</characteristic>
+		<characteristic name="Helio radial velocity">1517 ± 1 km/s</characteristic>		
+		<characteristic name="Distance">62 Mly (19.1 Mpc) (NED) 68 Mly</characteristic>
+        <characteristic name="Type">SAB(rs)b; LINER Sy1.9</characteristic>
+        <characteristic name="Apparent dimensions (V)">5′.9 × 4′.7</characteristic>
+		<characteristic name="Apparent magnitude (V)">+10.5</characteristic>
+		<characteristic name="Other designations">NGC 4579, UGC 7796, PGC 42168, VCC 1727, GC 3121</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 58 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_58</link>
+</object>

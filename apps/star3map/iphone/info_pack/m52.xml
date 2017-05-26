@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 52" type="Galaxies">
+	<images>
+		<image title="Credit: 2MASS/NASA">m 52_1.jpg</image>
+	</images>
+	<information>
+Messier 52 (also known as M 52 or NGC 7654) is an open cluster in the Cassiopeia constellation. It was discovered by Charles Messier in 1774. M52 can be seen from Earth with binoculars.
+Due to interstellar absorption of light, the distance to M 52 is uncertain, with estimates ranging between 3,000 and 7,000 light years. One study identified 193 probable members of the cluster, with the brightest member being magnitude 11. 
+Messier 52 is evaluated at about 35 million years old.
+Messier 52 has the Trumpler classification of I,2,r
+	</information>
+	<characteristics>
+		<characteristic name="Right ascension">23h 24.2m</characteristic>
+		<characteristic name="Declination">+61° 35′</characteristic>
+		<characteristic name="Distance">25.0 kly</characteristic>
+		<characteristic name="Apparent magnitude (V)">5.0</characteristic>
+		<characteristic name="Apparent dimensions (V)">13.0'</characteristic>
+		<characteristic name="Other designations">M 52, NGC 7654</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 52 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_52</link>
+</object>

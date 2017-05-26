@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 32" type="Galaxies">
+	<images>
+		<image title="Picture of the Andromeda Galaxy, showing M32 (above left of centre)">m 32_1.jpg</image>
+	</images>
+	<information>
+Messier 32 (also known as NGC 221 and Le Gentil) is a dwarf elliptical galaxy about 2.65 million light-years away in the constellation Andromeda. M32 is a satellite galaxy of the famous Andromeda Galaxy (M31) and was discovered by Le Gentil in 1749. M32 measures only 6.5 ± 0.2 kly in diameter at the widest point. Like most elliptical galaxies, M32 contains mostly older faint red and yellow stars with practically no dust or gas and consequently no current star formation. It does, however, show hints of star formation in the relatively recent past. 
+The structure and stellar content of M32 is difficult to explain by traditional galaxy formation models. Recent simulations suggest a new scenario in which the strong tidal field of M31 can transform a spiral galaxy into a compact elliptical. As a small spiral galaxy falls into the central parts of M31, most of the outer layers of the smaller spiral are stripped away. The central bulge of the galaxy is much less affected and retains its morphology. Tidal effects trigger a massive star burst in the core, resulting in the high density of M32 we observe today. There is also evidence that M32 has an outer disk. Although usually M32 is thought to be a satellite galaxy as mentioned above, recently a report suggested the possibility that M32 is actually a normal galaxy instead of a dwarf with triple distance compare to data stated above, and actually located outside local group with only their position on the sky overlapped.
+At least two techniques have been used to measure distances to M32. The infrared surface brightness fluctuations distance measurement technique estimates distances to spiral galaxies based on the graininess of the appearance of their bulges. The distance measured to M32 using this technique is 2.46 ± 0.09 Mly (755 ± 28 kpc). However, M32 is close enough that the tip of the red giant branch (TRGB) method may be used to estimate its distance. The estimated distance to M32 using this technique is 2.51 ± 0.13 Mly (770 ± 40 kpc). Averaged together, these distance measurements give a distance estimate of 2.49 ± 0.08 Mly (763 ± 24 kpc).
+M32 contains a supermassive black hole. Its mass has been estimated to lie between 1.5 and 5 million solar masses.
+^ average(755 ± 28, 770 ± 40) = ((755 + 770) / 2) ± ((282 + 402)0.5 / 2) = 763 ± 24
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Andromeda</characteristic>
+		<characteristic name="Right ascension">00h 42m 41.8s</characteristic>
+		<characteristic name="Declination">+40° 51′ 55″</characteristic>
+		<characteristic name="Redshift">-200 ± 6 km/s</characteristic>
+		<characteristic name="Distance">2.49 ± 0.08 Mly (763 ± 24 kpc)</characteristic>
+		<characteristic name="Type">cE2</characteristic>
+		<characteristic name="Apparent dimensions (V)">8′.7 × 6′.5</characteristic>
+		<characteristic name="Apparent magnitude (V)">8.08</characteristic>
+		<characteristic name="Notable features">satellite galaxy of the Andromeda Galaxy</characteristic>
+		<characteristic name="Other designations">M 32, NGC 221, UGC 452, PGC 2555, Arp 168, LEDA 2555</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 32 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_32</link>
+</object>

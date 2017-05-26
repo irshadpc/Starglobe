@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 81" type="Galaxies">
+	<images>
+		<image title="A Hubble Space Telescope (HST) image of Messier 81">m 81_1.jpg</image>
+		<image title="An infrared image of Messier 81 taken by the Spitzer Space Telescope. The blue colors represent stellar emission observed at 3.6 μm. The green colors represent 8 μm emission originating primarily from polycyclic aromatic hydrocarbons in the interstellar medium. The red colors represent 24 μm emission originating from heated dust in the interstellar medium.">m 81_2.jpg</image>
+		<image title="M81 (left) and M82 (right). M82 is one of two galaxies strongly influenced gravitationally by M81. The other, NGC 3077, is located off the top edge of this image.">m 81_3.jpg</image>
+	</images>
+	<information>
+Messier 81 (also known as NGC 3031 or Bode's Galaxy) is a spiral galaxy about 12 million light-years away in the constellation Ursa Major. Due to its proximity to Earth, large size and active galactic nucleus (which harbors a 70 million M☉ supermassive black hole), Messier 81 has been studied extensively by professional astronomers. The galaxy's large size and relatively high brightness also make it a popular target for amateur astronomers.
+Messier 81 was first discovered by Johann Elert Bode in 1774. Consequently, the galaxy is sometimes referred to as "Bode's Galaxy". In 1779, Pierre Méchain and Charles Messier reidentified Bode's object, which was subsequently listed in the Messier Catalogue.
+Most of the emission at infrared wavelengths originates from interstellar dust. This interstellar dust is found primarily within the galaxy's spiral arms, and it has been shown to be associated with star formation regions. The general explanation is that the hot, short-lived blue stars that are found within star formation regions are very effective at heating the dust and hence enhancing the infrared dust emission from these regions.
+Only one supernova has been detected in Messier 81. The supernova, named SN 1993J, was discovered on 28 March 1993 by F. Garcia in Spain. At the time, it was the second brightest supernova observed in the 20th century. The spectral characteristics of the supernova changed over time. Initially, it looked more like a type II supernova (a supernova formed by the explosion of a giant star) with strong hydrogen spectral line emission, but later the hydrogen lines faded and strong helium spectral lines appeared, making the supernova look more like a type Ib. Moreover, the variations in SN 1993J's luminosity over time were not like the variations observed in other type II supernovae but did resemble the variations observed in type Ib supernovae. Hence, the supernova has been classified as a type IIb, a transitory class between type II and type Ib. The scientific results from this supernova suggested that type Ib and Ic supernovae were actually formed through the explosions of giant stars through processes similar to those taking place in type II supernovae. The supernova was also used to estimate a distance of 8.5 ± 1.3 Mly (2.6 ± 0.4 Mpc) to Messier 81. As a local galaxy, the Central Bureau for Astronomical Telegrams (CBAT) tracks novae in M81 along with M31 and M33.
+Messier 81 is the largest galaxy in the M81 Group, a group of 34 galaxies located in the constellation Ursa Major. At approximately 11.7 Mly (3.6 Mpc) from the Earth, it makes this group and the Local Group, containing the Milky Way, relative neighbors in the Virgo Supercluster.
+Gravitational interactions of M81 with M82 and NGC 3077 have stripped hydrogen gas away from all three galaxies, forming gaseous filamentary structures in the group. Moreover, these interactions have allowed interstellar gas to fall into the centers of M82 and NGC 3077, leading to vigorous star formation or starburst activity there.
+Messier 81 is located approximately 10° northwest of Alpha Ursae Majoris along with several other galaxies in the Messier 81 Group. Messier 81 and Messier 82 can both be viewed easily using binoculars and small telescopes. The two objects are generally not observable to the unaided eye, although highly experienced amateur astronomers may be able to see Messier 81 under exceptional observing conditions. Telescopes with apertures of 8 inches (20 cm) or larger are needed to distinguish structures in the galaxy.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Ursa Major</characteristic>
+		<characteristic name="Right ascension">09h 55m 33.2s</characteristic>
+		<characteristic name="Declination">+69° 3′ 55″</characteristic>
+		<characteristic name="Apparent dimensions (V)">26.9 × 14.1 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.94</characteristic>
+        <characteristic name="Type">SA(s)ab, LINER</characteristic>
+		<characteristic name="Heliocentric radial velocity">−34 ± 4km/s</characteristic>
+		<characteristic name="Redshift">−0.000113 ± 0.000013</characteristic>
+		<characteristic name="Galactocentric velocity">73 ± 6[4] km/s</characteristic>
+		<characteristic name="Distance">11.8 ± 0.4 Mly (3.62 ± 0.12 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 3031, UGC 5318, PGC 28630, Bode's Galaxy</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 81 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_81</link>
+</object>

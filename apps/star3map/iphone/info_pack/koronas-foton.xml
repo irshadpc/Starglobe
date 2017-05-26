@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="KORONAS-FOTON Satellite details 2009-003A NORAD 33504" type="Satellite">
+	<images><image>koronas-foton.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+The Coronas Photon spacecraft will spend the next three years circling Earth with a suite of instruments designed to measure energetic particles produced by solar flares, the solar atmosphere, and solar activity's relationship with magnetic storms around Earth. Coronas Photon carries about 1,190 pounds [540 kg] of scientific equipment to measure solar radiation from ultraviolet to gamma ray wavelengths. The broad spectrum, which includes X-rays, will allow scientists to study the energy produced by solar flares, sudden violent explosions that unleash magnetic energy and accelerate charged particles to nearly the speed of light. The observatory's instruments, provided by Russian, Indian and Ukrainian scientists, will analyze the mysterious causes of solar flares. The sensors will also capture high-resolution images of the sun at least every few minutes, giving scientists a detailed view of solar flare development.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">33504	</characteristic><characteristic name="Int'l Code">2009-003A</characteristic>
+<characteristic name="Perigee">527.6 km</characteristic>
+<characteristic name="Apogee">557.4 km</characteristic>
+<characteristic name="Inclination">82.4 °</characteristic>
+<characteristic name="Period">95.3 minutes</characteristic>
+<characteristic name="Semi major axis">6913 km</characteristic>
+<characteristic name="Launch date">January 30, 2009</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

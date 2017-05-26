@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 2" type="Galaxies">
+	<images>
+		<image title="Messier 2 by Hubble Space Telescope; 3.5′ view">m2_1.jpg</image>
+		<image title="M2 from 2MASS sky survey">m2.2.jpg</image>
+	</images>
+	<information>
+Messier 2 or M2 (also designated NGC 7089) is a globular cluster in the constellation Aquarius, five degrees north of the star Beta Aquarii. It was discovered by Jean-Dominique Maraldi in 1746, and is one of the largest known globular clusters.
+M2 was discovered by the French astronomer Jean-Dominique Maraldi in 1746 while observing a comet with Jacques Cassini. Charles Messier rediscovered it in 1760, but thought it a nebula without any stars associated with it. William Herschel, in 1783, was the first to resolve individual stars in the cluster.
+M2 is, under extremely good conditions, just visible to the naked eye. Binoculars or a small telescope will identify this cluster as non-stellar, while larger telescopes will resolve individual stars, of which the brightest are of apparent magnitude 13.1.
+M2 is about 37,500 light-years distant from Earth. At 175 light-years in diameter, it is one of the larger globular clusters known. The cluster is rich, compact, and significantly elliptical. It is 13 billion years old and one of the older globulars associated with the Milky Way Galaxy.
+M2 contains about 150,000 stars, including 21 known variable stars. Its brightest stars are red and yellow giant stars. The overall spectral type is F4.
+	</information>
+	<characteristics>
+		<characteristic name="Class">XI</characteristic>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">19h 39m 59.71s</characteristic>
+		<characteristic name="Declination">−30° 57′ 53.1″</characteristic>
+		<characteristic name="Distance">17.6 kly (5.4 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+7.42</characteristic>
+		<characteristic name="Apparent dimensions (V)">19′.0</characteristic>
+		<characteristic name="Mass">2.69×105 M☉</characteristic>
+		<characteristic name="Radius">48 ly</characteristic>
+		<characteristic name="Metallicity">–1.94 dex</characteristic>
+		<characteristic name="Estimated age">12.3 Gyr</characteristic>
+		<characteristic name="Other designations">M55, NGC 6809, GCl 113, C 1936-310</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 2 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_2</link>
+</object>

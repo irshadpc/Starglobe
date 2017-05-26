@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 9" type="Galaxies">
+	<images>
+		<image title="Messier 9 by HST">m 9_1.jpg</image>
+	</images>
+	<information>
+Messier 9 or M9 (also designated NGC 6333) is a globular cluster in the constellation of Ophiuchus. It was discovered by Charles Messier in 1764.
+M9 is one of the nearer globular clusters to the center of the Milky Way Galaxy with a distance of around 5,500 light-years. Its distance from Earth is 25,800 light-years.
+The total luminosity of this cluster is around 120,000 times that of the Sun, the absolute magnitude being -8.04. The brightest individual stars in M9 are of apparent magnitude 13.5, making them visible in moderately sized telescopes. There have been 13 variable stars found in M9.
+Nearby, at about 80' to the northeast of M9 is the dimmer globular cluster NGC 6356, while at about 80' to the southeast is the globular NGC 6342.
+	</information>
+	<characteristics>
+		<characteristic name="Class">VIII</characteristic>
+		<characteristic name="Constellation">Ophiuchus</characteristic>
+		<characteristic name="Right ascension">17h 19m 11.78s</characteristic>
+		<characteristic name="Declination">–18° 30′ 58.5″</characteristic>
+		<characteristic name="Distance">25.8 kly (7.9 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+8.42</characteristic>
+		<characteristic name="Apparent dimensions (V)">12′.0</characteristic>
+		<characteristic name="Mass">4.22×105 M☉</characteristic>
+		<characteristic name="Radius">45 ly</characteristic>
+		<characteristic name="Metallicity">–1.77 dex</characteristic>
+		<characteristic name="Estimated age">12.0 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 6333</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 9 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_9</link>
+</object>

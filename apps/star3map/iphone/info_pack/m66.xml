@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 66" type="Galaxies">
+	<images>
+		<image title="M66 as observed with the Spitzer Space Telescope as part of the SINGS. The image is a four-channel false-color composite, where blue indicates emission at 3.6 micrometers, green corresponds to 4.5 micrometers, and red to 5.8 and 8.0 micrometers. The contribution from starlight (measured at 3.6 micrometers) in this picture has been subtracted from the 5.8 and 8 micrometer images to enhance the visibility of the polycyclic aromatic hydrocarbon emissions.">m 66_1.jpg</image>
+		<image title="The colour-composite image of the Spiral galaxy M 66 (or NGC 3627)">m 66_2.jpg</image>
+	</images>
+	<information>
+Messier 66 (also known as NGC 3627) is an intermediate spiral galaxy about 36 million light-years away in the constellation Leo. It was discovered by Charles Messier in 1780. M66 is about 95 thousand light-years across with striking dust lanes and bright star clusters along sweeping spiral arms. M66 is part of the famous Leo Triplet, a small group of galaxies that also includes M65 and NGC 3628.
+Gravitational interaction from its past encounter with neighboring NGC 3628 has resulted in:
+    An extremely high central mass concentration;
+    A high molecular to atomic mass ratio;
+    A resolved noncorotating clump of H I material apparently removed from one of the spiral arms.
+This third result shows up visually as an extremely prominent and unusual spiral arm and dust lane structures as originally noted in the Atlas of Peculiar Galaxies.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Leo</characteristic>
+		<characteristic name="Right ascension">11h 20m 15.0s</characteristic>
+		<characteristic name="Declination">+12° 59′ 30″</characteristic>
+		<characteristic name="Redshift">0.002425 (727 ± 3 km/s)</characteristic>
+		<characteristic name="Distance">36 +/- 5.0 Mly (11.0 +/- 1.5 Mpc)</characteristic>
+		<characteristic name="Type">SAB(s)b</characteristic>	
+		<characteristic name="Apparent dimensions (V)">9.1′ × 4.2′</characteristic>
+		<characteristic name="Apparent magnitude (V)">8.9</characteristic>
+        <characteristic name="Notable features">Galaxy in the Leo Triplet</characteristic>
+		<characteristic name="Other designations">NGC 3627, UGC 6346, PGC 34695, Arp 16</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 66 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_66</link>
+</object>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Ursae Majoris" type="Star">
+	<images>
+<image title="Dubhe">dubhe_1.png</image>
+<image title="Dubhe A &amp; B">dubhe__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Ursae Majoris (Alpha UMa, α Ursae Majoris, α UMa) is the second-brightest star in the constellation of Ursa Major (despite its Bayer designation of "alpha"). It has the traditional name Dubhe, and a rarer name Ak.
+This star forms part of the Big Dipper (also known as the Plough or the Great Bear), and is the northern of the 'pointers' (or 'guards'), the two stars of Ursa Major which point towards Polaris, the North Star. Dubhe is about 123 light years away and is a giant star that has evolved away from the main sequence after consuming the hydrogen at its core. It is a spectroscopic binary with a main sequence companion α UMa B that has a stellar classification of K0V. The companion star orbits at a mean separation of about 23 astronomical units (AU) and completes an orbit every 44.4 years. More than 8,000 AU distant from this pair is a second binary system that includes an F-type star, making this a four star system.
+Although it is part of the constellation of Ursa Major, it does not form part of the Ursa Major Moving Group of stars that have a common motion through space.
+
+Dubhe is the official star of the State of Utah. USS Dubhe (ID-2562) was a ship in the United States navy. The Danish National Home Guard Navy ship MHV 806 is named Dubhe.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ursa Major</characteristic>
+<characteristic name="Right ascension">11h 03m 43.67152s</characteristic>
+<characteristic name="Declination">+61° 45′ 03.7249″</characteristic>
+<characteristic name="Apparent magnitude (V)">1.79</characteristic>
+<characteristic name="Spectral type">K1 II-III / K0 V</characteristic>
+<characteristic name="U−B color index">+0.93</characteristic>
+<characteristic name="B−V color index">+1.07</characteristic>
+<characteristic name="Variable type">Pulsating</characteristic>
+<characteristic name="Radial velocity (Rv)">–9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: –134.11 mas/yr, Dec.: –34.70 mas/yr</characteristic>
+<characteristic name="Parallax (π)">26.54 ± 0.48mas</characteristic>
+<characteristic name="Distance">123 ± 2 ly (37.7 ± 0.7 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">–1.10 ± 0.04</characteristic>
+<characteristic name="Companion">α UMa B</characteristic>
+<characteristic name="Period (P)">44.4 yr</characteristic>
+<characteristic name="Semi-major axis (a)">0.603&quot;</characteristic>
+<characteristic name="Eccentricity (e)">0.4</characteristic>
+<characteristic name="Inclination (i)">152°</characteristic>
+<characteristic name="Longitude of the node (Ω)">2000°</characteristic>
+<characteristic name="Periastron epoch (T)">1956.8</characteristic>
+<characteristic name="Surface gravity (log g)">2.46 cgs</characteristic>
+<characteristic name="Temperature">4,660 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">–0.20 ± 0.07 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">2.6 ± 1.0 km/s</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Ursae Majoris in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Dubhe</link>
+</object>

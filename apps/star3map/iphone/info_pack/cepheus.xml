@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Cepheus (constellation)" type="Constellation">
+	<images>
+<image title="Cepheus (constellation)">cepheus_1.png</image>
+<image title="">cepheus__2.jpg</image>
+<image title="">cepheus__3.jpg</image>
+<image title="">cepheus__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cepheus is a constellation in the northern sky. It is named after Cepheus, King of Aethiopia in Greek mythology. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and remains one of the 88 modern constellations.
+
+Cepheus was the King of Aethiopia. He was married to Cassiopeia and was the father of Andromeda, both of whom are immortalized as modern day constellations along with Cepheus.
+Alpha Cephei, traditionally called "Alderamin", is a white hued star of magnitude 2.5, 49 light-years from Earth. Beta Cephei, traditionally called "Alfirk", is a double star with a blue-hued giant primary of magnitude 3.2 and a secondary of magnitude 7.9. The primary is a variable star considered to be the prototype of its subclass of pulsating variable stars, which are sometimes named for Beta Canis Majoris. Beta Cephei variables do not have wide ranges in magnitude, nor do they have periods longer than a few hours. Beta Cephei itself varies 0.1 magnitudes every 4.6 hours. Its traditional name means "flock" and refers to a flock of sheep. Gamma Cephei, traditionally called Errai, is an orange-hued star of magnitude 3.2, 45 light-years from Earth. Its traditional name means "the shepherd". It is a binary star approximately 50 light years away from Earth. The system consists of an orange subgiant and a red dwarf. Due to the precession of the equinoxes, γ Cephei will be the pole star between AD 3000 and 5200, with the closest approach to the celestial pole around AD 4000. The primary component is orbited by a planet.[citation needed]
+δ Cephei is the prototype Cepheid variable, a yellow-hued supergiant star 980 light-years from Earth. It was discovered to be variable by John Goodricke in 1784. It varies between 3.5m and 4.4m over a period of 5 days and 9 hours. The Cepheids are a class of pulsating variable stars; Delta Cephei has a minimum size of 40 solar diameters and a maximum size of 46 solar diameters. It is also a double star; the yellow star also has a wide-set blue-hued companion of magnitude 6.3.
+There are several other prominent variable stars in Cepheus. One, μ Cephei, is also known as Herschel's Garnet Star due to its deep red colour. It is a semiregular variable star with a minimum magnitude of 5.1 and a maximum magnitude of 3.4. Its period is approximately 2 years. The star is around 11.8 AU in radius. If it were placed at the centre of our Solar System, it would extend to the orbit of Saturn.[citation needed] Another, VV Cephei, like Mu Cephei, is a red supergiant and a semiregular variable star, located at least 2000 light-years from Earth. It has a minimum magnitude of 5.4 and a maximum magnitude of 4.8. One of the largest stars in the galaxy, it has a diameter of over 1000 solar diameters. VV Cephei is also an unusually long-period eclipsing binary, but the eclipses, which occur every 20.3 years, are too faint to be observed with the unaided eye. T Cephei, also a red giant, is a Mira variable with a minimum magnitude of 11.3 and a maximum magnitude of 5.2, 685 light-years from Earth. It has a period of 13 months and a diameter of 500 solar diameters.
+There are several prominent double stars and binary stars in Cepheus. Omicron Cephei is a binary star with a period of 800 years. The system, 211 light-years from Earth, consists of an orange-hued giant primary of magnitude 4.9 and a secondary of magnitude 7.1. Xi Cephei is another binary star, 102 light-years from Earth, with a period of 4000 years. It has a blue-white primary of magnitude 4.4 and a yellow secondary of magnitude 6.5.
+Kruger 60 is an 11th magnitude binary star consisting of two red dwarfs. The star system is one of the nearest, being only 13 light years away from Earth.[citation needed]
+Cepheus is most commonly depicted as holding his arms aloft, praying for the gods to spare the life of Andromeda. He is also depicted as a more regal monarch sitting on his throne.
+In Chinese astronomy, the stars of the constellation Cepheus are found in two areas: the Purple Forbidden enclosure (紫微垣, Zǐ Wēi Yuán) and the Black Tortoise of the North (北方玄武, Běi Fāng Xuán Wǔ).
+USS Cepheus (AKA-18) and USS Cepheus (AK-265), United States navy ships.
+Coordinates: 22h 00m 00s, +70° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Cep</characteristic>
+<characteristic name="Genitive">Cephei</characteristic>
+<characteristic name="Pronunciation">/ˈsiːfiəs/ or /ˈsiːfjuːs/; genitive /ˈsiːfiaɪ/</characteristic>
+<characteristic name="Symbolism">the King/King Cepheus</characteristic>
+<characteristic name="Right ascension">20h 01m 56.4481s – 09h 03m 19.7931s</characteristic>
+<characteristic name="Declination">88.6638870° – 53.3532715°</characteristic>
+<characteristic name="Family">Perseus</characteristic>
+<characteristic name="Area">588 sq. deg. (27th)</characteristic>
+<characteristic name="Main stars">7</characteristic>
+<characteristic name="Bayer/Flamsteed stars">43</characteristic>
+<characteristic name="Stars with planets">1</characteristic>
+<characteristic name="Stars brighter than 3.00m">1</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">3</characteristic>
+<characteristic name="Brightest star">α Cep (Alderamin) (2.45m)</characteristic>
+<characteristic name="Nearest star">Kruger 60 (13.15 ly, 4.03 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">None</characteristic>
+<characteristic name="Bordering constellations">Cygnus, Lacerta, Cassiopeia, Camelopardalis, Draco, Ursa Minor</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −10°. Best visible at 21:00 (9 p.m.) during the month of November.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Cepheus (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Cepheus_(constellation)</link>
+</object>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 88" type="Galaxies">
+	<images>
+		<image title="Spiral Galaxy Messier 88">m 88_1.jpg</image>
+		<image title="Messier 88, 24 inch telescope on Mt. Lemmon, AZ. Courtesy of Joseph D. Schulman">m 88_2.jpg</image>
+		<image title="M88 by Hubble space telescope">m 88_3.jpg</image>
+	</images>
+	<information>
+Messier 88 (also known as M88 or NGC 4501) is a spiral galaxy about 50 to 60 million light-years away in the constellation Coma Berenices. It was discovered by Charles Messier in 1781.
+M88 is one of the fifteen Messier objects that belong to the nearby Virgo Cluster of galaxies. It is galaxy number 1401 in the Virgo Cluster Catalogue (VCC) of 2096 galaxies that are candidate members of the cluster. M88 may be on a highly elliptical orbit that is carrying it toward the cluster center, which is occupied by the giant elliptical galaxy M87. It is currently 0.3–0.48 million parsecs from the center and will come closest to the core in about 200–300 million years. The motion of M88 through the intergalactic medium of the Virgo cluster is creating ram pressure that is stripping away the outer region of neutral hydrogen. This stripping has already been detected along the western, leading edge of the galaxy.
+M88 is one of the fifteen Messier objects that belong to the nearby Virgo Cluster of galaxies. It is galaxy number 1401 in the Virgo Cluster Catalogue (VCC) of 2096 galaxies that are candidate members of the cluster. M88 may be on a highly elliptical orbit that is carrying it toward the cluster center, which is occupied by the giant elliptical galaxy M87. It is currently 0.3–0.48 million parsecs from the center and will come closest to the core in about 200–300 million years. The motion of M88 through the intergalactic medium of the Virgo cluster is creating ram pressure that is stripping away the outer region of neutral hydrogen. This stripping has already been detected along the western, leading edge of the galaxy.
+This galaxy is inclined to the line of sight by 64°. It is classified as an Sbc spiral, which lies between the Sb and Sc categories of medium-wound and loosely-wound spiral arms, respectively. The arm structure of the spirals is very regular and can be followed down to the galactic core. The maximum rotation velocity of the gas is 241.6 ± 4.5 km/s.
+M88 is also classified as a type 2 seyfert galaxy, which means it produces narrow spectral line emission from highly ionized gas in the galactic nuclei. In the core region there is a central condensation with a 230 parsec diameter, which has two concentration peaks. This condensation is being fed by inflow from the spiral arms. The supermassive black hole at the core of this galaxy has 107.9 solar masses, or about 80 million times the mass of the Sun.
+In 1999, supernova 1999cl was discovered in this galaxy.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Coma Berenices</characteristic>
+		<characteristic name="Right ascension">12h 31m 59.2s</characteristic>
+		<characteristic name="Declination">+14° 25′ 14″</characteristic>
+		<characteristic name="Apparent dimensions (V)">6.9 × 3.7 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.4</characteristic>
+        <characteristic name="Type">SA(rs)b, HII Sy2</characteristic>
+		<characteristic name="Heliocentric radial velocity">2281 ± 3km/s</characteristic>
+		<characteristic name="Redshift">0.007609 ± 0.000010</characteristic>
+		<characteristic name="Galactocentric velocity">2235 ± 4 km/s</characteristic>
+		<characteristic name="Distance">47 ± 8 Mly (14.41 ± 2.45 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 4501, UGC 7675, PGC 41517, VCC 1401</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 88 in Wikipedia" icon="wiki.png">Адрес</link>
+</object>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Ophiuchi" type="Star">
+	<images>
+<image title="Rasalhague">rasalhague_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Ophiuchi (α Oph, α Ophiuchi) is the brightest star in the constellation Ophiuchus. It has the traditional name Ras Alhague, often condensed to Rasalhague.
+Alpha Ophiuchi is a binary star system with an orbital period of about 8.62 years. The orbital parameters were only poorly known until 2011 when observations using adaptive optics produced a better orbital fit, allowing the individual masses of the two components to be determined. The primary component, Alpha Ophiuchi A, has a mass of about 2.4 times the mass of the Sun, while the secondary, Alpha Ophiuchi B, has 0.85 solar masses. Estimates of the mass of the primary by other means range from a low of 1.92 to 2.10 solar masses, up to 2.84 or even 4.8 solar masses. The mass of the secondary suggests that it has a stellar classification in the range K5V to K7V, which indicates it is a main sequence star that is still generating energy by the thermonuclear fusion of hydrogen at its core. The pair reached periastron passage, or closest approach, around April 19, 2012, when they had an angular separation of 50 milliarcseconds.
+This star system has a combined apparent magnitude of +2.08 and is located at a distance of about 48.6 light-years (14.9 parsecs) from the Earth. The stellar classification of A5 III indicates that the primary is a giant star that has evolved away from the main sequence after consuming the hydrogen at its core. It is radiating about 25 times the luminosity of the Sun and has an effective temperature of about 8,000 K, giving it the characteristic white hue of an A-type star.
+Alpha Ophiuchi A is a rapidly rotating star with a projected rotational velocity of 240 km. It is spinning at a rate of about 88.5% of the velocity that would cause the star to break up. The resulting equatorial bulge is about 20% larger than the polar radius, giving the star the shape of an oblate spheroid. Because of this distorted shape, the poles have an effective temperature about 1,840 K greater than along the equator. The axis of rotation of the star is inclined about 87.°7 ± 0°4 to the line of sight from the Earth, so that it is being observed from nearly equator-on.
+The spectrum of Alpha Ophiuchi shows an anomalously high level of absorption of the lines for singly-ionized calcium (Ca II). However, this is likely the result of interstellar matter between the Earth and the star, rather than a property of the star or circumstellar dust.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Ophiuchus</characteristic>
+<characteristic name="Right ascension">17h 34m 56.06945s</characteristic>
+<characteristic name="Declination">+12° 33′ 36.1346″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.07</characteristic>
+<characteristic name="Spectral type">A5 III / K5–7 V</characteristic>
+<characteristic name="U−B color index">+0.10</characteristic>
+<characteristic name="B−V color index">+0.15</characteristic>
+<characteristic name="Radial velocity (Rv)">+12.6 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: 108.07 mas/yr, Dec.: -221.57 mas/yr</characteristic>
+<characteristic name="Parallax (π)">67.13 ± 1.06mas</characteristic>
+<characteristic name="Distance">48.6 ± 0.8 ly (14.9 ± 0.2 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">1.30</characteristic>
+<characteristic name="Period (P)">3,148.4 days</characteristic>
+<characteristic name="Semi-major axis (a)">427+20 −13 mas</characteristic>
+<characteristic name="Eccentricity (e)">0.92 ± 0.03</characteristic>
+<characteristic name="Inclination (i)">125+6 −9°</characteristic>
+<characteristic name="Longitude of the node (Ω)">232 ± 9°</characteristic>
+<characteristic name="Periastron epoch (T)">2452888 ± 53 JD</characteristic>
+<characteristic name="Argument of periastron (ω)(secondary)">162 ±14°</characteristic>
+<characteristic name="Mass">2.40+.23 −.37 M☉</characteristic>
+<characteristic name="Radius">2.6 R☉</characteristic>
+<characteristic name="Luminosity">25.1–25.6 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">3.91 cgs</characteristic>
+<characteristic name="Temperature">7,880–8,050 K</characteristic>
+<characteristic name="Rotational velocity (v sin i)">240 km/s</characteristic>
+<characteristic name="Age">0.77 ± 0.03 Gyr</characteristic>
+<characteristic name="Mass">0.85+.06 −.04 M☉</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Ophiuchi in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Rasalhague</link>
+</object>

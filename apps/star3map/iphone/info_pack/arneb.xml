@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Alpha Leporis" type="Star">
+	<images>
+<image title="Arneb">arneb_1.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Alpha Leporis (α Lep, α Leporis) is the brightest star in the constellation Lepus. It has the traditional name Arneb, from the Arabic أرنب ’arnab "hare".
+This is a massive star with about 14 times the mass of the Sun. The interferometer-measured angular diameter of this star, after correction for limb darkening, is 1.77 ± 0.09 mas. At an estimated distance of 2,218 light-years (680 parsecs), this yields a physical size of about 129 times the radius of the Sun. Alpha Leporis has a stellar classification of F0 Ib, with the Ib luminosity class indicating that it is a lower luminosity supergiant star. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The effective temperature of the outer envelope is about 6,850 K, which gives the star a yellow-white hue that is typical of F-type stars. It is an estimated 13 million years old.
+Alpha Leporis is an older, dying star that may have already passed through a supergiant phase and is now contracting and heating up in the latter phases of stellar evolution, or perhaps is still expanding into the supergiant phase. Based upon its estimated mass, it is expected to end its life in a spectacular stellar explosion known as a supernova.
+USS Arneb (AKA-56) was a ship of the United States navy.
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Constellation">Lepus</characteristic>
+<characteristic name="Right ascension">05h 32m 43.81612s</characteristic>
+<characteristic name="Declination">−17° 49′ 20.2414″</characteristic>
+<characteristic name="Apparent magnitude (V)">2.589</characteristic>
+<characteristic name="Spectral type">F0 Ib</characteristic>
+<characteristic name="U−B color index">+0.386</characteristic>
+<characteristic name="B−V color index">+0.217</characteristic>
+<characteristic name="Radial velocity (Rv)">+23.9 km/s</characteristic>
+<characteristic name="Proper motion (μ)">RA: +3.56 mas/yr, Dec.: +1.18 mas/yr</characteristic>
+<characteristic name="Parallax (π)">1.47 ± 0.14mas</characteristic>
+<characteristic name="Distance">2,200 ± 200 ly (680 ± 60 pc)</characteristic>
+<characteristic name="Absolute magnitude (MV)">−6.574</characteristic>
+<characteristic name="Mass">13.9 ± 0.8 M☉</characteristic>
+<characteristic name="Radius">129 R☉</characteristic>
+<characteristic name="Luminosity">32,000 L☉</characteristic>
+<characteristic name="Surface gravity (log g)">1.34 ± 0.07 cgs</characteristic>
+<characteristic name="Temperature">6,850 ± 80 K</characteristic>
+<characteristic name="Metallicity [Fe/H]">+0.04 dex</characteristic>
+<characteristic name="Rotational velocity (v sin i)">21 km/s</characteristic>
+<characteristic name="Age">13 Myr</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Alpha Leporis in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Arneb</link>
+</object>

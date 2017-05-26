@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Sextans" type="Constellation">
+	<images>
+<image title="Sextans">sextans_1.png</image>
+<image title="">sextans__2.jpg</image>
+<image title="">sextans__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Sextans is a minor equatorial constellation which was introduced in 1687 by Johannes Hevelius. Its name is Latin for the astronomical sextant, an instrument that Hevelius made frequent use of in his observations.
+Sextans as a constellation covers a rather dim, sparse region of the sky. It has only one star above the fifth magnitude, namely α Sextantis at 4.49m. The constellation contains a few double stars, including γ, 35, and 40 Sextantis. There are a few notable variable stars, including β, 25, 23 Sextantis, and LHS 292. NGC 3115, an edge-on lenticular galaxy, is the only noteworthy deep-sky object. It also lies near the ecliptic, which causes the Moon, and some of the planets to occasionally pass through it for brief periods of time.
+The constellation is the location of the field studied by the COSMOS project, undertaken by the Hubble Space Telescope.
+Sextans B is a fairly bright dwarf irregular galaxy at magnitude 6.6, 4.3 million light-years from Earth. It is part of the Local Group of galaxies.
+Coordinates: 10h 00m 00s, +00° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Sex</characteristic>
+<characteristic name="Genitive">Sextantis, Sextansis</characteristic>
+<characteristic name="Pronunciation">/ˈsɛkstənz/, genitive /sɛksˈtæntɨs/</characteristic>
+<characteristic name="Symbolism">the Sextant</characteristic>
+<characteristic name="Right ascension">10</characteristic>
+<characteristic name="Declination">0</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Quadrant">SQ2</characteristic>
+<characteristic name="Area">314 sq. deg. (47th)</characteristic>
+<characteristic name="Main stars">3</characteristic>
+<characteristic name="Bayer/Flamsteed stars">28</characteristic>
+<characteristic name="Stars with planets">5</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">5</characteristic>
+<characteristic name="Brightest star">α Sex (4.49m)</characteristic>
+<characteristic name="Nearest star">LHS 292 (14.80 ly, 4.54 pc)</characteristic>
+<characteristic name="Messier objects">None</characteristic>
+<characteristic name="Meteor showers">Sextantids</characteristic>
+<characteristic name="Bordering constellations">Leo, Hydra, Crater</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +80° and −90°. Best visible at 21:00 (9 p.m.) during the month of April.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Sextans in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Sextans</link>
+</object>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 23" type="Galaxies">
+	<images>
+		<image title="">m 23_1.jpg</image>
+	</images>
+	<information>
+Messier 23 (also known as NGC 6494) is an open cluster in the constellation Sagittarius. It was discovered by Charles Messier on June 20, 1764.
+M23 is at a distance of about 2,150 light-years away from Earth, its radius is around 15-20 light years. There are some 150 identified members in this cluster, the brightest being of magnitude 9.2. M23 can be found with a modestly sized telescope in the rich starfields of the Sagittarius Milky Way.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Sagittarius</characteristic>
+		<characteristic name="Right ascension">17h 56.8m</characteristic>
+		<characteristic name="Declination">−19° 01′</characteristic>
+		<characteristic name="Distance">2.15 kly (659 Pc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">6.9</characteristic>
+		<characteristic name="Apparent dimensions (V)">27.0′</characteristic>
+		<characteristic name="Radius">8</characteristic>
+		<characteristic name="Estimated age">220 million years</characteristic>
+		<characteristic name="Other designations">NGC 6494</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 23 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_23</link>
+</object>

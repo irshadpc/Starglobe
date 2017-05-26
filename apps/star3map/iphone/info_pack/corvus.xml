@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Corvus (constellation)" type="Constellation">
+	<images>
+<image title="Corvus (constellation)">corvus_1.png</image>
+<image title="">corvus__2.jpg</image>
+<image title="">corvus__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Corvus is a small constellation in the southern sky. Its name is Latin for raven or crow. It includes only 11 stars visible to the naked eye (brighter than magnitude 4.02). It was one of the 48 constellations listed by Ptolemy, who only counted 7 stars, and it remains one of the 88 modern constellations.
+
+Four principal stars, δ, γ, ε, and β Crv, form an asterism known as "the "Spica's Spanker" or "the Sail". γ and δ serve as pointers toward Spica.
+The four brightest stars in Corvus are mostly unremarkable. Alpha Corvi, also called Alchiba, is a white-hued star of magnitude 4.0, 40 light-years from Earth. Beta Corvi is a yellow-hued giant star of magnitude 2.7, 140 light-years from Earth. Gamma Corvi, also called Gienah, is the brightest star in Corvus at magnitude 2.6. 165 light-years from Earth, it is a blue-white hued giant star. Its traditional name means "wing". Delta Corvi, traditionally called Algorab, is a double star divisible in small amateur telescopes. The primary is a blue-white hued star of magnitude 2.9, 88 light-years from Earth. The secondary is a purple-tinged star of magnitude 9. Its common name means "the raven".
+Struve 1669 is a binary star that is divisible by small amateur telescopes, 280 light-years from Earth. The pair, both white stars, is visible to the naked eye at magnitude 5.2; the primary is of magnitude 5.9 and the secondary is of magnitude 6.0.
+31 Crateris (which was originally placed within in Crater) is a 5.2 magnitude star which was once mistaken for a moon of Mercury.
+TT Corvi is a Semiregular variable red giant of spectral type M3III and apparent magnitude 6.48 around 923 light years distant.
+Corvus contains no Messier objects.
+The Antennae peculiar galaxy, NGC 4038 and 4039, consists of two interacting galaxies that appear to have a heart shape as seen from Earth. The name originates from the huge tidal tails that come off the ends of the two galaxies, formed because of the spiral galaxies' original rotation. Both original galaxies were spiral galaxies and are now experiencing extensive star formation due to the interaction of gas clouds. The galaxies are 45 million light-years from Earth and each has multiple ultraluminous X-ray sources, the source of which is unknown. Astronomers theorize that they may be a rare type of x-ray emitting binary stars or intermediate-mass black holes. The Antennae galaxies appear in a telescope at the 10th magnitude.
+The center of Corvus is home to a planetary nebula NGC 4361. The nebula itself resembles a small elliptical galaxy, but the magnitude 13 star at its centre gives away its true nature.
+The Greek figure of Corvus is modeled on the Babylonian Raven (MUL.UGA.MUSHEN), which was similarly placed sitting on the tail of the Serpent (Greek Hydra). The Babylonian constellation was sacred to Adad, the god of rain and storm; in the second Millennium it would have risen just before the start of the autumnal rainy season.
+One myth associated with Corvus is that of Apollo and Coronis. Coronis had been unfaithful to her lover, who learned this information from a pure white crow. Apollo then turned its feathers black in a fit of rage.
+Another legend associated with Corvus is that a crow stopped on his way to fetch water for Apollo, in order to eat figs. Instead of telling the truth to Apollo, he lied and said that a snake, Hydra, kept him from the water, while holding a snake in his talons as proof. Apollo saw this to be a lie, however, and flung the crow (Corvus), cup (Crater), and the snake (Hydra) into the sky. He further punished the wayward bird by making sure that it would forever be thirsty, both in real life and in the heavens, where the Cup is barely out of reach.
+In Chinese astronomy, the stars of Corvus are located within the Vermillion Bird of the South (南方朱雀, Nán Fāng Zhū Què).
+In Indian astronomy, the first five stars of Corvus correspond to the Hastā, the 11th nakshatra or lunar mansion.
+Corvus was recognized as a constellation by several Polynesian cultures. In the Marquesas Islands, it was called Mee; in Pukapuka, it was called Te Manu, and in the Society Islands, it was called Metua-ai-papa.
+Coordinates: 12h 00m 00s, −20° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Crv</characteristic>
+<characteristic name="Genitive">Corvi</characteristic>
+<characteristic name="Pronunciation">/ˈkɔrvəs/, genitive /ˈkɔrvaɪ/</characteristic>
+<characteristic name="Symbolism">the Crow/Raven</characteristic>
+<characteristic name="Right ascension">12</characteristic>
+<characteristic name="Declination">−20</characteristic>
+<characteristic name="Family">Hercules</characteristic>
+<characteristic name="Quadrant">SQ3</characteristic>
+<characteristic name="Area">184 sq. deg. (70th)</characteristic>
+<characteristic name="Main stars">4</characteristic>
+<characteristic name="Bayer/Flamsteed stars">10</characteristic>
+<characteristic name="Stars with planets">1</characteristic>
+<characteristic name="Stars brighter than 3.00m">3</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">1</characteristic>
+<characteristic name="Brightest star">γ Crv (Gienah) (2.59m)</characteristic>
+<characteristic name="Nearest star">Ross 695 (28.99 ly, 8.89 pc)</characteristic>
+<characteristic name="Messier objects">0</characteristic>
+<characteristic name="Meteor showers">Corvids (June 26)</characteristic>
+<characteristic name="Bordering constellations">Virgo, Crater, Hydra</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +60° and −90°. Best visible at 21:00 (9 p.m.) during the month of May.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Corvus (constellation) in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Corvus_(constellation)</link>
+</object>

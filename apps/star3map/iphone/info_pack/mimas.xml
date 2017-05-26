@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Mimas" type="Moon">
+	<images>
+		<!-- Just save all images you want to use with names like moonname_number.png/.jpg -->
+		<image title="">Mimas_1.jpg</image>
+        <image title="">Mimas_2.jpg</image>
+        <image title="">Mimas_3.jpg</image>
+        <image title="">Mimas_4.jpg</image>
+	</images>
+	<information>
+        Mimas is a moon of Saturn which was discovered in 1789 by William Herschel. It is named after Mimas, a son of Gaia in Greek mythology, and is also designated Saturn I.
+
+        With a diameter of 396 kilometres (246 mi) it is the smallest astronomical body that is known to be rounded in shape because of self-gravitation.
+
+    The surface area of Mimas is slightly less than the land area of Spain. The low density of Mimas, 1.15 g/cm3, indicates that it is composed mostly of water ice with only a small amount of rock. Due to the tidal forces acting on it, Mimas is noticeably prolate; its longest axis is about 10% longer than the shortest. The ellipsoidal shape of Mimas is especially noticeable in some recent images from the Cassini probe.
+
+    Mimas's most distinctive feature is a giant impact crater 130 km (81 mi) across, named Herschel after the discoverer of Mimas. Herschel's diameter is almost a third of Mimas's own diameter; its walls are approximately 5 km (3 mi) high, parts of its floor measure 10 km (6 mi) deep, and its central peak rises 6 km (4 mi) above the crater floor. If there were a crater of an equivalent scale on Earth (in relative size) it would be over 4,000 km (2,500 mi) in diameter, wider than Australia. The impact that made this crater must have nearly shattered Mimas: fractures can be seen on the opposite side of Mimas that may have been created by shock waves from the impact travelling through Mimas's body.
+
+    The Mimantean surface is saturated with smaller impact craters, but no others are anywhere near the size of Herschel. Although Mimas is heavily cratered, the cratering is not uniform. Most of the surface is covered with craters larger than 40 km (25 mi) in diameter, but in the south polar region, there are generally no craters larger than 20 km (12 mi) in diameter.
+
+    Three types of geological features are officially recognized on Mimas: craters, chasmata (chasms) and catenae (crater chains).
+
+    </information>
+	<characteristics>
+		<!-- Add entries like this for all chanacteristics you like -->
+	</characteristics>
+	<link title="Get more info about Mimas in Wikipedia" icon="wiki.png">https://en.wikipedia.org/wiki/Mimas_(moon)</link>
+</object>

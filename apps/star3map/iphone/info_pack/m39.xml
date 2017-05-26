@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 39" type="Galaxies">
+	<images>
+		<image title="A image of M39.">m 39_1.jpg</image>
+	</images>
+	<information>
+Open Cluster M39 (also known as Messier Object 39, Messier 39, M39, or NGC 7092) is an open cluster in the constellation Cygnus. It was discovered by Charles Messier in 1764. M39 is at a distance of about 800 light-years away from Earth. Its age is estimated to be from 200 to 300 million years.
+It is located at Right Ascension 21 hours, 32.2 minutes, and Declination +48 degrees 26 minutes.
+It has a magnitude (brightness) of 5.5
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Cygnus</characteristic>
+		<characteristic name="Right ascension">21h 31m 42s</characteristic>
+		<characteristic name="Declination">+48° 25′ ″</characteristic>
+		<characteristic name="Distance">824.4 (252.8)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+5.5</characteristic>
+		<characteristic name="Other designations">Messier 39, NGC 7092</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 39 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_39</link>
+</object>

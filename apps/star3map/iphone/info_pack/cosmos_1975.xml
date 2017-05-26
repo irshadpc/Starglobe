@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="COSMOS 1975 Satellite details 1988-093A NORAD 19573" type="Satellite">
+	<images><image>satellite.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Cosmos 1975 was a Soviet ELINT (Electronic and Signals Intelligence) satellite launched from the Plesetsk cosmodrome.
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">19573	</characteristic><characteristic name="Int'l Code">1988-093A</characteristic>
+<characteristic name="Perigee">564.0 km</characteristic>
+<characteristic name="Apogee">584.1 km</characteristic>
+<characteristic name="Inclination">82.5 °</characteristic>
+<characteristic name="Period">96.0 minutes</characteristic>
+<characteristic name="Semi major axis">6945 km</characteristic>
+<characteristic name="Launch date">October 11, 1988</characteristic>
+<characteristic name="Source">Commonwealth of Independent States (former USSR) (CIS)</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

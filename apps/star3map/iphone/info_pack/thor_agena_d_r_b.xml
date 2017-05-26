@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="THOR AGENA D R/B Satellite details 1964-002A NORAD 00733" type="Satellite">
+	<images><image>garbage.png</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="NORAD ID">733	</characteristic><characteristic name="Int'l Code">1964-002A</characteristic>
+<characteristic name="Perigee">768.9 km</characteristic>
+<characteristic name="Apogee">816.7 km</characteristic>
+<characteristic name="Inclination">99.0 °</characteristic>
+<characteristic name="Period">100.6 minutes</characteristic>
+<characteristic name="Semi major axis">7163 km</characteristic>
+<characteristic name="Launch date">January 19, 1964</characteristic>
+<characteristic name="Source">United States (US)</characteristic>
+<characteristic name="Note">This is a ROCKET BODY</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="This article uses material from AFSPC">http://www.afspc.af.mil/</link>
+</object>

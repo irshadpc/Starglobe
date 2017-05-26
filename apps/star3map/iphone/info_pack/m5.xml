@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 5" type="Galaxies">
+	<images>
+		<image title="Messier 5 by Hubble Space Telescope. 2.85′ view">m5_1.jpg</image>
+		<image title="M5 wide angle by Robert J. Vanderbei">m5_2.jpg</image>
+		<image title="M5 photographed with a DSLR camera.">m5_3.jpg</image>
+	</images>
+	<information>
+Messier 5 or M5 (also designated NGC 5904) is a globular cluster in the constellation Serpens. It was discovered by Gottfried Kirch in 1702. It should not be confused with the much fainter and more distant globular cluster Palomar 5, which is situated nearby in the sky.
+M5 is, under extremely good conditions, just visible to the naked eye as a faint "star" near the star 5 Serpentis. Binoculars or small telescopes will identify the object as non-stellar while larger telescopes will show some individual stars, of which the brightest are of apparent magnitude 12.2.
+M5 was discovered by the German astronomer Gottfried Kirch in 1702 when he was observing a comet. Charles Messier also noted it in 1764, but thought it a nebula without any stars associated with it. William Herschel was the first to resolve individual stars in the cluster in 1791, counting roughly 200.
+Spanning 165 light-years in diameter, M5 is one of the larger globular clusters known. The gravitational sphere of influence of M5, (i.e. the volume of space in which stars are gravitationally bound to it rather than being torn away by the Milky Way's gravitational pull) has a radius of some 200 light-years.
+At 13 billion years old, M5 is also one of the older globulars associated with the Milky Way Galaxy. Its distance is about 24,500 light-years from Earth and the cluster contains more than 100,000 stars, as many as 500,000 according to some estimates.
+105 stars in M5 are known to be variable in brightness, 97 of them belonging to the RR Lyrae type. RR Lyrae stars, sometimes referred to as "Cluster Variables", are somewhat similar to Cepheid type variables and as such can be used as a tool to measure distances in outer space since the relation between their luminosities and periods are well known. The brightest and most easily observed variable in M5 varies from magnitude 10.6 to 12.1 in a period of just under 26.5 days.
+A dwarf nova has also been observed in this cluster.
+	</information>
+	<characteristics>
+		<characteristic name="Class">V</characteristic>
+		<characteristic name="Constellation">Serpens</characteristic>
+		<characteristic name="Right ascension">15h 18m 33.22s</characteristic>
+		<characteristic name="Declination">+02° 04′ 51.7″</characteristic>
+		<characteristic name="Distance">24.5 kly (7.5 kpc)</characteristic>
+		<characteristic name="Apparent magnitude (V)">+6.65</characteristic>
+		<characteristic name="Apparent dimensions (V)">23′.0</characteristic>
+		<characteristic name="Mass">8.57×105 M☉</characteristic>
+		<characteristic name="Radius">80 ly</characteristic>
+		<characteristic name="Metallicity">–1.12 dex</characteristic>
+		<characteristic name="Estimated age">10.62 Gyr</characteristic>
+		<characteristic name="Other designations">NGC 5904</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 5 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_5</link>
+</object>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Vulpecula" type="Constellation">
+	<images>
+<image title="Vulpecula">vulpecula_1.png</image>
+<image title="">vulpecula__2.jpg</image>
+<image title="">vulpecula__3.jpg</image>
+<image title="">vulpecula__4.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Vulpecula /vʌlˈpɛkjʊlə/ is a faint constellation in the northern sky. Its name is Latin for "little fox", although it is commonly known simply as the fox. It was identified in the seventeenth century, and is located in the middle of the Summer Triangle (an asterism consisting of the bright stars Deneb, Vega and Altair).
+
+There are no stars brighter than 4th magnitude in this constellation. The brightest star in Vulpecula is α Vulpeculae, a magnitude 4.44mred giant at a distance of 297 light-years. The star is an optical binary (separation of 413.7") that can be split using binoculars. The star also carries the traditional name Anser, which refers to the goose the little fox holds in its jaws.
+In 1967, the first pulsar, PSR B1919+21, was discovered in Vulpecula by Antony Hewish and Jocelyn Bell, in Cambridge. While they were searching for scintillation of radio signals of quasars, they observed pulses which repeated with a period of 1.3373 seconds. Terrestrial origin of the signal was ruled out because the time it took the object to reappear was a sidereal day instead of a solar day. This anomaly was finally identified as the signal of a rapidly rotating neutron star. Fifteen years after the first pulsar was discovered, the first millisecond pulsar, PSR B1937+21, was also discovered in Vulpecula, only a few degrees in the sky away from PSR B1919+21.
+Vulpecula is also home to HD 189733 b, one of the closest extrasolar planet currently being studied by the Spitzer Space Telescope. On 12 July 2007 the Financial Times (London) reported that the chemical signature of water vapour was detected in the atmosphere of this planet. Although HD 189733b with atmospheric temperatures rising above 1,000 °C is far from being habitable, this finding increases the likelihood that water, an essential component of life, would be found on a more Earth-like planet in the future.
+Two well-known deep-sky objects can be found in Vulpecula. The Dumbbell Nebula (M27), is a large, bright planetary nebula which was discovered by the French astronomer Charles Messier in 1764 as the very first object of its kind. It can be seen with good binoculars in a dark sky location, appearing as a dimly glowing disk approximately 6 arcminutes in diameter. A telescope reveals its double-lobed shape, similar to that of an hourglass. Brocchi's Cluster (Collinder 399) is an asterism formerly thought to be an open cluster. It is also called "the Coathanger" because of its distinctive star pattern when viewed with binoculars or a low power telescope.
+NGC 7052 is an edge-on spiral galaxy in Vulpecula at a distance of 214 million light-years from Earth. It has a central dusty disk with a diameter of 3700 light-years; there is a supermassive black hole with a mass of 300 million solar masses in its nucleus. Astronomers surmise that the disk is the remnant of a smaller galaxy that merged with NGC 7052. Because the black hole is currently accreting matter, polar jets can be seen emanating from the galaxy, and it has very strong radio emissions. This means that it is also classified as a radio galaxy.
+In the late 17th century, the astronomer Johannes Hevelius created Vulpecula. It was originally known as Vulpecula cum ansere ("the little fox with the goose") or Vulpecula et Anser ("the little fox and the goose"), and was illustrated with a goose in the jaws of a fox. Hevelius did not regard the fox and the goose to be two separate constellations, but later the stars were divided into a separate Anser and Vulpecula. Today, they have been merged again under the name of the fox, but the goose is remembered by the name of the star α Vulpeculae: Anser.
+Coordinates: 20h 00m 00s, +25° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Vul</characteristic>
+<characteristic name="Genitive">Vulpeculae</characteristic>
+<characteristic name="Pronunciation">/vʌlˈpɛkjʊlə/, genitive /vʌlˈpɛkjʊliː/</characteristic>
+<characteristic name="Symbolism">the Fox</characteristic>
+<characteristic name="Right ascension">20</characteristic>
+<characteristic name="Declination">+25</characteristic>
+<characteristic name="Quadrant">NQ4</characteristic>
+<characteristic name="Area">268 sq. deg. (55th)</characteristic>
+<characteristic name="Main stars">5, 20</characteristic>
+<characteristic name="Bayer/Flamsteed stars">33</characteristic>
+<characteristic name="Stars with planets">5</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">0</characteristic>
+<characteristic name="Brightest star">α Vul (Anser) (4.44m)</characteristic>
+<characteristic name="Nearest star">Ross 165 (33.54 ly, 10.28 pc)</characteristic>
+<characteristic name="Messier objects">1</characteristic>
+<characteristic name="Bordering constellations">Cygnus, Lyra, Hercules, Sagitta, Delphinus, Pegasus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +90° and −55°. Best visible at 21:00 (9 p.m.) during the month of September.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Vulpecula in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Vulpecula</link>
+</object>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Microscopium" type="Constellation">
+	<images>
+<image title="Microscopium">microscopium_1.png</image>
+<image title="">microscopium__2.jpg</image>
+<image title="">microscopium__3.jpg</image>
+<!--[%IMAGES%]-->
+<!-- <image>file.jpg</image> -->
+	</images>
+	<information>
+Microscopium /ˌmaɪkrəˈskɒpiəm/ is a small constellation in the southern sky, defined in the 18th century by Nicolas Louis de Lacaille. Its brightest star is Gamma Microscopii of apparent magnitude 4.68, actually a yellow giant located around 381 light-years distant. Two star systems—WASP-7 and HD 205739—have been found to have planets, while another—AU Microscopii—has a debris disk.
+
+The stars that now comprise Microscopium may formerly have belonged to the hind feet of Sagittarius. However, this is uncertain as, while its stars seem to be referred to by Al-Sufi as having been seen by Ptolemy, Al-Sufi does not specify their exact positions.
+Its name is Latin for microscope; it was called this due to its visual similarity to 18th century microscope. Its stars are very faint and hardly visible from most of the non-tropical northern hemisphere.
+The former constellation Neper, representing an auger, may have been located in or near modern-day Microscopium. However, this connection is disputed.
+Microscopium is a small constellation bordered by Capricornus to the north, Piscis Austrinus and Grus to the west, Sagittarius to the east, Indus to the south, and touching on Telescopium to the southeast. The recommended three-letter abbreviation for the constellation, as adopted by the International Astronomical Union in 1922, is 'Mic'. The official constellation boundaries, as set by Eugène Delporte in 1930, are defined by a polygon of 4 segments. In the equatorial coordinate system, the right ascension coordinates of these borders lie between 20h 27.3m and 21h 28.4m, while the declination coordinates are between −27.45° and −45.09°. Given that its brightest stars are of fifth magnitude, the constellation is invisible to the naked eye in areas with polluted skies.
+Lacaille charted and designated ten stars with the Bayer designations Alpha through to Iota in 1756. A star in neighbouring Indus that Lacaille had labelled Nu Indi turned out to be in Microscopium, so Gould renamed it Nu Microscopii.
+The brightest star is Gamma Microscopii, which has an apparent visual magnitude of 4.68. It is a yellow giant of spectral class G6 III. Lying 381 light years away, It depicts the eyepiece of the microscope.Alpha Microscopii is also a yellow giant, though in this case a variable star, which ranges between apparent magnitudes 4.88 and 4.94. It is of spectral type G7III. Alpha has a 10th magnitude companion, visible in small telescopes.Epsilon Microscopii lies 165 light years away, and is a blue-white main sequence star of apparent magnitude 4.7, and spectral type A1V.Theta1 and Theta2 Microscopii make up a wide double whose components are splittable to the naked eye. Both are white A-class magnetic spectrum variable stars with strong metallic lines, similar to Cor Caroli. They mark the constellation's specimen slide.
+Many notable objects are too faint to be seen with the naked eye. AX Microscopii, better known as Lacaille 8760, is a red dwarf which lies only 12.9 light years from our solar system.HD 205739 has a jupiter-sized planet. WASP-7 is a star of magnitude 9.54 which has been discovered to have an exoplanet WASP-7b, and AU Microscopii is a young star which appears to be a solar system in the making with a debris disk. BO Microscopii is a rapidly rotating star, and PSR J2144-3933 is an unusual pulsar with an unusually long rotation period.
+NGC 6925 is a barred spiral galaxy of apparent magnitude 11.3 which is lens-shaped as it lies almost edge on to us. It lies 3.7 degrees westnorthwest of Alpha Microscopii. NGC 6923 lies nearby and is a magnitude fainter still.
+
+Coordinates: 21h 00m 00s, −36° 00′ 00″
+
+<!-- Plain text -->
+	</information>
+	<characteristics>
+<characteristic name="Abbreviation">Mic</characteristic>
+<characteristic name="Genitive">Microscopii</characteristic>
+<characteristic name="Pronunciation">/ˌmaɪkrəˈskɒpiəm/, genitive /ˌmaɪkrəˈskɒpiaɪ/</characteristic>
+<characteristic name="Symbolism">the Microscope</characteristic>
+<characteristic name="Right ascension">21</characteristic>
+<characteristic name="Declination">−36</characteristic>
+<characteristic name="Family">La Caille</characteristic>
+<characteristic name="Quadrant">SQ4</characteristic>
+<characteristic name="Area">210 sq. deg. (66th)</characteristic>
+<characteristic name="Main stars">5</characteristic>
+<characteristic name="Bayer/Flamsteed stars">13</characteristic>
+<characteristic name="Stars with planets">2</characteristic>
+<characteristic name="Stars brighter than 3.00m">0</characteristic>
+<characteristic name="Stars within 10.00 pc (32.62 ly)">2</characteristic>
+<characteristic name="Brightest star">γ Mic (4.67m)</characteristic>
+<characteristic name="Nearest star">Lacaille 8760 (12.87 ly, 3.95 pc)</characteristic>
+<characteristic name="Messier objects">none</characteristic>
+<characteristic name="Bordering constellations">Capricornus, Sagittarius, Telescopium (corner), Indus, Grus, Piscis Austrinus</characteristic>
+<characteristic name="Visibility">Visible at latitudes between +45° and −90°. Best visible at 21:00 (9 p.m.) during the month of September.</characteristic>
+
+<!-- <characteristic name="name">value</characteristic> -->
+	</characteristics>
+	<link title="Get more info about Microscopium in Wikipedia" icon="wiki.png">http://en.m.wikipedia.org/wiki/Microscopium</link>
+</object>

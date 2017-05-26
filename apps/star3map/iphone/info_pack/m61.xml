@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 61Название" type="Galaxies">
+	<images>
+		<image title="Messier 61 taken by Hubble Credit: ESA/Hubble &amp; NASA. Acknowledgement: Det58">m 61_1.jpg</image>
+		<image title="Messier 61 image using data from Hubble’s Wide Field Camera 2">m 61_2.jpg</image>
+		<image title="Amateur Image of Messier 61 Showing Supernova 2008in on April 16, 2009">m 61_3.jpg</image>
+		<image title="Infrared image of M61 taken by the Spitzer Space Telescope">m 61_4.png</image>
+	</images>
+	<information>
+Messier 61 (also known as M61 or NGC 4303) is a barred spiral galaxy in the Virgo Cluster. It was discovered by Barnabus Oriani on May 5, 1779.
+M61 is one of the largest members of Virgo, belonging to the subunit known as S Cloud
+It has an Active galactic nucleus and it's classified as a starburst galaxy, with a candidate supermassive black hole with a mass around 5 million times that of our Sun on its center. This object is associated with a young, massive star cluster with a mass 100,000 times the one of the Sun, a radius of 3.1 parsecs and an age of 4 million years. Surrounding it, there's a nuclear spiral with a radius of 225 parsecs formed by several massive star-forming regions, that may be associated with a second bar much smaller than the main one of this galaxy.
+Star formation is also high across M61's disk, perhaps due to interactions with her satellite galaxies NGC 4292 and NGC 4303B.
+Unlike most late-type galaxies of the Virgo Cluster, M61 does not show a deficiency of neutral hydrogen
+Six supernovae have been observed in this galaxy:
+    SN 2008in
+    SN 2006ov
+    SN 1999gn
+    SN 1964F
+    SN 1961I
+    SN 1926A
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Virgo</characteristic>
+		<characteristic name="Right ascension">12h 21m 54.9</characteristic>
+		<characteristic name="Declination">+04° 28′ 25″</characteristic>
+		<characteristic name="Apparent dimensions (V)">6.5 × 5.8 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.18</characteristic>
+        <characteristic name="Type">SAB(rs)bc, HIISy2</characteristic>
+        <characteristic name="Heliocentric radial velocity">1566 ± 2km/s</characteristic>
+		<characteristic name="Redshift">0.005224 ± 0.000007</characteristic>
+		<characteristic name="Galactocentric velocity">1483 ± 4 km/s</characteristic>
+		<characteristic name="Distance">52.5 ± 2.3 Mly (16.10 ± 0.71 Mpc)</characteristic>
+		<characteristic name="Other designations">NGC 4303, UGC 07420, PGC 040001, MCG +01-32-022, USGC U490 NED310, MRC 1219+047, GC 2878</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 61 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_61</link>
+</object>

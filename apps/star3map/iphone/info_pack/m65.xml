@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object name="Messier 65" type="Galaxies">
+	<images>
+		<image title="M65 by Hubble. Credit: ESA/Hubble &amp; NASA">m 65_1.jpg</image>
+		<image title="The Leo Triplet, with M65 at the upper right, M66 at the lower right, and NGC 3628 at the upper left. Credit: Scott Anttila.">m 65_2.jpg</image>
+	</images>
+	<information>
+Messier 65 (also known as NGC 3623) is an intermediate spiral galaxy about 35 million light-years away in the constellation Leo. It was discovered by Charles Messier in 1780. M65, M66, and NGC 3628 comprise the famous Leo Triplet, a small group of galaxies.
+M65 was discovered by Charles Messier and included in his Messier Objects list. However, William Henry Smyth accidentally attributed the discovery to Pierre Méchain in his popular 19th century astronomical work A Cycle of Celestial Objects (stating "They [M65 and M66] were pointed out by Méchain to Messier in 1780"). This error was in turn picked up by Kenneth Glyn Jones in Messier's Nebulae and Star Clusters. This has since ramified into a number of other books by a variety of authors.
+The galaxy is low in dust and gas, and there is little star formation in it, although there has been some relatively recently in the arms. The ratio of old stars to new stars is correspondingly quite high. In most wavelengths it is quite uninteresting, though there is a radio source visible in the NVSS, offset from the core by about two arc-minutes. The identity of the source is uncertain, as it has not been identified visually, or formally studied in any published papers.
+To the eye, M65's disk appears slightly warped, and its relatively recent burst of star formation is also suggestive of some external disturbance. Rots (1978) suggests that the two other galaxies in the Leo Triplet interacted with each other about 800 million years ago. Recent research by Zhiyu Duan suggests that M65 may also have interacted, though much less strongly. He also notes that M65 may have a central bar—it is difficult to tell because the galaxy is seen from an oblique angle—a feature which is suggestive of tidal disruption.
+	</information>
+	<characteristics>
+		<characteristic name="Constellation">Leo</characteristic>
+		<characteristic name="Right ascension">11h 18m 55.9s</characteristic>
+		<characteristic name="Declination">+13° 05′ 32″</characteristic>
+		<characteristic name="Apparent dimensions (V)">8.709 × 2.454 moa</characteristic>
+		<characteristic name="Apparent magnitude (V)">10.25</characteristic>
+        <characteristic name="Type">SAB(rs)a, LINER</characteristic>
+        <characteristic name="Heliocentric radial velocity">807 ± 3[2]km/s</characteristic>
+		<characteristic name="Redshift">0.002692 ± 0.000010</characteristic>
+		<characteristic name="Galactocentric velocity">723 ± 5 km/s</characteristic>
+		<characteristic name="Other designations">NGC 3623, UGC 6328, PGC 34612</characteristic>
+	</characteristics>
+	<link title="Get more info about Messier 65 in Wikipedia" icon="wiki.png">http://en.wikipedia.org/wiki/Messier_65</link>
+</object>
