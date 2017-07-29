@@ -11,22 +11,9 @@
 #import "Network.h"
 #include "star3map.h"
 #import "Branch.h"
-
-
-
-#ifdef STARGLOBE_PRO
-//#import "Starglobe-Swift.h"
-#endif
-
-#ifdef STARGLOBE_FREE
 //#import "Starglobe_Free-Swift.h"
-#import "IAPManager.h"
-#import "FyberSDK.h"
-#endif
-
-#define IS_OS_7_OR_LATER    ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0)
-#define IS_OS_8_OR_LATER    ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
-
+#import "MKStoreKit.h"
+#import "SolarSystemViewController.h"
 #include <string>
 using namespace std;
 
@@ -160,46 +147,62 @@ extern double yRotation;
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    
-    [[NSUserDefaults standardUserDefaults] registerDefaults: [NSDictionary dictionaryWithObjectsAndKeys: [NSNumber numberWithBool:YES], @"FirstLaunch", nil]];
-    if([[NSUserDefaults standardUserDefaults] boolForKey: @"FirstLaunch"] == YES){
-        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"MusicOn"];
-        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"SatellitesOn"];
-        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"ARModeOn"];
-        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"NightModeOn"];
-
-        [[NSUserDefaults standardUserDefaults] setFloat:7.5 forKey:@"FadeTime"];
-        [[NSUserDefaults standardUserDefaults] setFloat:0.9 forKey:@"CameraValue"];
-
-
-
-
-        [[NSUserDefaults standardUserDefaults] setInteger:0 forKey:@"BackgroundPlayback"];
-    }
-    [[NSUserDefaults standardUserDefaults] setInteger:[[NSUserDefaults standardUserDefaults]integerForKey:@"HomePopupCounter"]+1 forKey:@"HomePopupCounter"];
-    
     [UINavigationBar appearance].barStyle = UIBarStyleBlack;
     [UINavigationBar appearance].barTintColor = [UIColor colorWithRed:40.0/250.0 green:40.0/250.0 blue:40.0/250.0 alpha:1.0];
     [UINavigationBar appearance].translucent = NO;
     [UITabBar appearance].barStyle = UIBarStyleBlack;
     [UITabBar appearance].barTintColor = [UIColor colorWithRed:40.0/250.0 green:40.0/250.0 blue:40.0/250.0 alpha:1.0];;
     [UITabBar appearance].translucent = NO;
-    
-    [[UINavigationBar appearance]setTintColor:[UIColor blueColor]];
-    [[UIToolbar appearance]setTintColor:[UIColor blueColor]];
-    
+    [[UINavigationBar appearance]setTintColor:[UIColor whiteColor]];
+    [[UITabBar appearance]setTintColor:[UIColor whiteColor]];
     application.idleTimerDisabled = YES;
-    
     [[UIApplication sharedApplication] setStatusBarHidden:YES];
     
-    BOOL hasCamera = [UIImagePickerController isSourceTypeAvailable:UIImagePickerControllerSourceTypeCamera];
-    
-    if ([[NSUserDefaults standardUserDefaults] valueForKey:@"ARModeOn"] == nil && hasCamera) {
-        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"ARModeOn"];
-        //[[NSUserDefaults standardUserDefaults] setFloat:0.2 forKey:@"CameraValue"];
+    [[NSUserDefaults standardUserDefaults] registerDefaults: [NSDictionary dictionaryWithObjectsAndKeys: [NSNumber numberWithBool:YES], @"StarglobeFirstLaunch", nil]];
+    if([[NSUserDefaults standardUserDefaults] boolForKey: @"StarglobeFirstLaunch"]){
+        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"MusicOn"];
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"SatellitesOn"];
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"ARModeOn"];
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"NightModeOn"];
+        [[NSUserDefaults standardUserDefaults] setInteger:0 forKey:@"LaunchCounter"];
+        [[NSUserDefaults standardUserDefaults] setInteger:0 forKey:@"InterstitialCounter"];
+        [[NSUserDefaults standardUserDefaults] setObject:@"$9.99" forKey:@"IAPPrice"];
+         
+        [[NSUserDefaults standardUserDefaults] setFloat:7.5 forKey:@"FadeTime"];
         [[NSUserDefaults standardUserDefaults] setFloat:0.0 forKey:@"CameraValue"];
-        [[NSUserDefaults standardUserDefaults] synchronize];
+        [[NSUserDefaults standardUserDefaults] setFloat:0.0 forKey:@"RealCameraValue"];
+        [[NSUserDefaults standardUserDefaults] setFloat:0.0 forKey:@"RealCameraValue"];
+
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"StarglobePro"];
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"StarglobeProForLife"];
     }
+    
+    [[NSUserDefaults standardUserDefaults] setInteger:[[NSUserDefaults standardUserDefaults]integerForKey:@"LaunchCounter"] + 1 forKey:@"LaunchCounter"];
+    [[NSUserDefaults standardUserDefaults] synchronize];
+    
+    FIROptions *firebaseOptions;
+    
+#ifdef STARGLOBE_FREE
+    firebaseOptions = [[FIROptions alloc]initWithContentsOfFile:[[NSBundle mainBundle]pathForResource:@"StarglobeFree-GoogleService-Info" ofType:@"plist"]];
+    firebaseOptions.deepLinkURLScheme = @"starglobefree";
+    
+#endif
+#ifdef STARGLOBE_PRO
+    firebaseOptions = [[FIROptions alloc]initWithContentsOfFile:[[NSBundle mainBundle]pathForResource:@"GoogleService-Info" ofType:@"plist"]];
+    firebaseOptions.deepLinkURLScheme = @"starglobe";
+#endif
+    
+    [FIRApp configureWithOptions:firebaseOptions];
+    
+    
+#ifdef STARGLOBE_FREE
+    [GADMobileAds configureWithApplicationID:@"ca-app-pub-1395183894711219~6800645684"];
+#endif
+    
+#ifdef STARGLOBE_PRO
+    [GADMobileAds configureWithApplicationID:@"ca-app-pub-1395183894711219~6291243282"];
+
+#endif
     
     // create main view controller
     //mainViewController = [[MainViewController alloc] initWithNibName: UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad ? @"MainViewController-iPad" : @"MainViewController"
@@ -252,9 +255,7 @@ extern double yRotation;
     
     locationManager = [[CLLocationManager alloc] init];
     locationManager.delegate = self;
-    if (IS_OS_8_OR_LATER) {
-        [locationManager requestWhenInUseAuthorization];
-    }
+    //[locationManager requestWhenInUseAuthorization];
 	[locationManager startUpdatingLocation];
 	[locationManager startUpdatingHeading];
 
@@ -297,8 +298,7 @@ extern double yRotation;
         motionManager = [[CMMotionManager alloc] init];
         [motionManager startDeviceMotionUpdates];
         
-        if([motionManager isGyroAvailable])
-        {
+        if([motionManager isGyroAvailable]) {
             if([motionManager isGyroActive] == NO)
             {
                 CMDeviceMotion *deviceMotion = motionManager.deviceMotion;
@@ -314,38 +314,94 @@ extern double yRotation;
         }
     }
     
-    Kiip *kiip;
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitProductsAvailableNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      
+                                                      NSLog(@"Products available: %@", [[MKStoreKit sharedKit] availableProducts]);
+                                                  }];
     
-#ifdef STARGLOBE_FREE
-    FYBSDKOptions *options = [FYBSDKOptions optionsWithAppId:@"99578" securityToken:@"eeadc14f33237288c3fff36e7c03ed61"];
-    [FyberSDK startWithOptions:options];
     
-    [[GeneralHelper sharedManager] updatePrice];
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitProductPurchasedNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"Purchase" object:nil];
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"PurchaseUpgrade" object:nil];
+
+                                                  }];
     
-    kiip = [[Kiip alloc] initWithAppKey:@"b1a59360704605fdb60ebca05feb3479" andSecret:@"c01e1a72d1034ae072f643a76760ccbb"];
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitRestoredPurchasesNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      
+                                                      NSLog(@"Restored Purchases");
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"RestoredPurchase" object:nil];
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"RestoredPurchaseUpgrade" object:nil];
+                                                      
+                                                      
+                                                  }];
     
-#endif
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitRestoringPurchasesFailedNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      NSLog(@"Failed restoring purchases with error: %@", [note object]);
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"FailedRestoring" object:nil];
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"FailedRestoringUpgrade" object:nil];
+                                                      
+                                                  }];
     
-#ifdef STARGLOBE_PRO
-    kiip = [[Kiip alloc] initWithAppKey:@"8dc6d41d8bbcaacacba9a93582e9911d" andSecret:@"4dc8857e3a9601b0a93ad4df6755ee27"];
-#endif
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitProductPurchaseFailedNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      NSLog(@"Failed restoring purchases with error: %@", [note object]);
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"FailedPurchase" object:nil];
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"FailedPurchaseUpgrade" object:nil];
+
+                                                  }];
     
-    kiip.delegate = self;
-    [Kiip setSharedInstance:kiip];
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitSubscriptionExpiredNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      
+                                                      if(![[NSUserDefaults standardUserDefaults] boolForKey: @"StarglobeProForLife"]){
+                                                          NSDate *expiryDate = [[MKStoreKit sharedKit] expiryDateForProduct:[[GeneralHelper sharedManager]purchaseID]];
+                                                          
+                                                          if (expiryDate != nil) {
+                                                              if ([expiryDate compare:[NSDate date]] == NSOrderedDescending) {
+                                                                  [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"StarglobePro"];
+                                                              }
+                                                          }
+                                                      }
+                                                  }];
     
-    FIROptions *firebaseOptions;
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitProductsAvailableNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      
+                                                      NSLog(@"Products available: %@", [[MKStoreKit sharedKit] availableProducts]);
+                                                      if ([[MKStoreKit sharedKit] availableProducts].count > 0) {
+                                                          SKProduct *product = [[[MKStoreKit sharedKit] availableProducts]objectAtIndex:0];
+                                                          
+                                                          NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];
+                                                          [numberFormatter setFormatterBehavior:NSNumberFormatterBehavior10_4];
+                                                          [numberFormatter setNumberStyle:NSNumberFormatterCurrencyStyle];
+                                                          [numberFormatter setLocale:product.priceLocale];
+                                                          NSString *formattedPrice = [numberFormatter stringFromNumber:product.price];
+                                                          if (formattedPrice != nil && formattedPrice.length > 0) {
+                                                              [[NSUserDefaults standardUserDefaults] setObject:formattedPrice forKey:@"IAPPrice"];
+                                                          }
+                                                          
+                                                      }
+                                                  }];
+        
     
-#ifdef STARGLOBE_FREE
-    firebaseOptions = [[FIROptions alloc]initWithContentsOfFile:[[NSBundle mainBundle]pathForResource:@"StarglobeFree-GoogleService-Info" ofType:@"plist"]];
-    firebaseOptions.deepLinkURLScheme = @"starglobefree";
-    
-#endif
-#ifdef STARGLOBE_PRO
-    firebaseOptions = [[FIROptions alloc]initWithContentsOfFile:[[NSBundle mainBundle]pathForResource:@"GoogleService-Info" ofType:@"plist"]];
-    firebaseOptions.deepLinkURLScheme = @"starglobe";
-#endif
-    
-    [FIRApp configureWithOptions:firebaseOptions];
     
     Branch *branch = [Branch getInstance];
     [branch initSessionWithLaunchOptions:launchOptions andRegisterDeepLinkHandler:^(NSDictionary *params, NSError *error) {
@@ -356,6 +412,8 @@ extern double yRotation;
     
     return YES;
 }
+
+
 
 - (void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo {
     // If you are receiving a notification message while your app is in the background,
@@ -368,7 +426,7 @@ extern double yRotation;
     }
     
     // Print full message.
-    NSLog(@"%@", userInfo);
+    NSLog(@"userInfo %@", userInfo);
 }
 
 - (void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo
@@ -383,7 +441,7 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
     }
     
     // Print full message.
-    NSLog(@"%@", userInfo);
+    NSLog(@"userInfo %@", userInfo);
     
     completionHandler(UIBackgroundFetchResultNewData);
 }
@@ -421,15 +479,25 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
     return [motionManager isGyroActive];
 }
 
+- (void)applicationDidEnterBackground:(UIApplication *)application{
+    [[NSUserDefaults standardUserDefaults]synchronize];
+}
+
 -(void) applicationWillEnterForeground: (UIApplication*)application{
+    if (mainViewController.lastContext) {
+        [EAGLContext setCurrentContext:mainViewController.lastContext];
+    }
+    [glView startAnimation];
+    [[SolarSystemViewController sharedInstance]restart];
 }
 
 -(void) applicationWillResignActive: (UIApplication*)application{
 	[glView stopAnimation];
+    [[SolarSystemViewController sharedInstance]cleanUp];
 }
 
 -(void) applicationDidBecomeActive: (UIApplication*)application{
-	[glView startAnimation];
+    
 }
 
 -(void) applicationWillTerminate: (UIApplication*)application{
@@ -509,8 +577,6 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
 -(void) applicationDidReceiveMemoryWarning: (UIApplication*)application{
 }
 
-- (void) kiip:(Kiip *)kiip didReceiveContent:(NSString *)contentId quantity:(int)quantity transactionId:(NSString *)transactionId signature:(NSString *)signature {
 
-}
 
 @end

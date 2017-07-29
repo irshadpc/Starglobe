@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0</string>
+	<string>2.0.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -44,8 +44,12 @@
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
 		<true/>
 	</dict>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Advertising</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Advertising</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Description</string>
+	<string>Starglobe uses the camera so you can search for stars in augmented reality mode.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Your location is required to be able to show you accurate locations of stars and planets</string>
 	<key>NSMainNibFile</key>
@@ -53,7 +57,7 @@
 	<key>NSMainNibFile~ipad</key>
 	<string>MainWindow-iPad</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string></string>
+	<string>Starglobe can save images of the sky to your photo library.</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>BreeOblique_Reg.ttf</string>

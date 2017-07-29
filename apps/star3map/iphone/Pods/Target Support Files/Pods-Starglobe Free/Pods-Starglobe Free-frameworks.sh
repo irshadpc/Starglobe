@@ -94,13 +94,13 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/MBProgressHUD/MBProgressHUD.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MZAppearance/MZAppearance.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MZFormSheetPresentationController/MZFormSheetPresentationController.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Ono/Ono.framework"
   install_framework "$BUILT_PRODUCTS_DIR/Protobuf/Protobuf.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Realm/Realm.framework"
   install_framework "$BUILT_PRODUCTS_DIR/STPopup/STPopup.framework"
   install_framework "$BUILT_PRODUCTS_DIR/UAAppReviewManager/UAAppReviewManager.framework"
   install_framework "$BUILT_PRODUCTS_DIR/UIAlertController+Blocks/UIAlertController_Blocks.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/GLInAppPurchase/GLInAppPurchase.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/SCPStoreKitManager/SCPStoreKitManager.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/XMLDictionary/XMLDictionary.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/nanopb/nanopb.framework"
 fi
 if [[ "$CONFIGURATION" == "Beta" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/Branch/Branch.framework"
@@ -108,13 +108,13 @@ if [[ "$CONFIGURATION" == "Beta" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/MBProgressHUD/MBProgressHUD.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MZAppearance/MZAppearance.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MZFormSheetPresentationController/MZFormSheetPresentationController.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Ono/Ono.framework"
   install_framework "$BUILT_PRODUCTS_DIR/Protobuf/Protobuf.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Realm/Realm.framework"
   install_framework "$BUILT_PRODUCTS_DIR/STPopup/STPopup.framework"
   install_framework "$BUILT_PRODUCTS_DIR/UAAppReviewManager/UAAppReviewManager.framework"
   install_framework "$BUILT_PRODUCTS_DIR/UIAlertController+Blocks/UIAlertController_Blocks.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/GLInAppPurchase/GLInAppPurchase.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/SCPStoreKitManager/SCPStoreKitManager.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/XMLDictionary/XMLDictionary.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/nanopb/nanopb.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/Branch/Branch.framework"
@@ -122,13 +122,13 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/MBProgressHUD/MBProgressHUD.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MZAppearance/MZAppearance.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MZFormSheetPresentationController/MZFormSheetPresentationController.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Ono/Ono.framework"
   install_framework "$BUILT_PRODUCTS_DIR/Protobuf/Protobuf.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Realm/Realm.framework"
   install_framework "$BUILT_PRODUCTS_DIR/STPopup/STPopup.framework"
   install_framework "$BUILT_PRODUCTS_DIR/UAAppReviewManager/UAAppReviewManager.framework"
   install_framework "$BUILT_PRODUCTS_DIR/UIAlertController+Blocks/UIAlertController_Blocks.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/GLInAppPurchase/GLInAppPurchase.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/SCPStoreKitManager/SCPStoreKitManager.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/XMLDictionary/XMLDictionary.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/nanopb/nanopb.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

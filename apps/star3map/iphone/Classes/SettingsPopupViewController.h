@@ -17,17 +17,17 @@
 - (void)cameraPressed;
 - (void)arModePressed;
 - (void)musicPressed;
+- (void)satellitesPressed;
 - (void)infosPressed;
 - (void)gyroPressed;
 - (void)settingsPressed;
 - (void)upgradePressed;
--(void)fadeSliderChangedPressed;
--(void)transSliderChangedPressed;
+- (void)changedCameraValue:(float)time;
 @end
 
-@interface SettingsPopupViewController : UIViewController <UNUserNotificationCenterDelegate, FIRMessagingDelegate, KPPoptartDelegate>
+@interface SettingsPopupViewController : UIViewController <UNUserNotificationCenterDelegate, FIRMessagingDelegate>
+@property(nonatomic, strong) GADInterstitial *interstitial;
 @property (nonatomic, strong) UISlider * cameraSlider;
-@property (nonatomic, strong) UISlider * timeSlider;
 @property (nonatomic, strong) UISwitch *cameraMode;
 @property (nonatomic, strong) UIButton *nightMode;
 @property (nonatomic, strong) UIButton *arMode;
@@ -35,14 +35,12 @@
 @property (nonatomic, strong) UIButton *music;
 @property (nonatomic, strong) UIButton *satellites;
 @property (nonatomic, strong) UIButton *upgrade;
-@property (nonatomic, strong) UIButton *settings;
+@property (nonatomic, strong) UIButton *pushNotifications;
 @property (nonatomic, strong) UIButton *rateApp;
 @property (nonatomic, strong) UIButton *calendar;
-@property (nonatomic, strong) UIButton *gyro;
+@property (nonatomic, strong) UIButton *discoverMode;
 @property (nonatomic, strong) UIImageView *cameraSmall;
 @property (nonatomic, strong) UIImageView *cameraBig;
-@property (nonatomic, strong) UIImageView *timeSmall;
-@property (nonatomic, strong) UIImageView *timeBig;
 @property (nonatomic, weak) id <SettingsPopupDelegate> delegate;
 @end
 

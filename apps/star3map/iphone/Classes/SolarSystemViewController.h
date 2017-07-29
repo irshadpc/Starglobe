@@ -10,14 +10,17 @@
 #import <MobileCoreServices/MobileCoreServices.h>
 #import <CoreMotion/CoreMotion.h>
 
-@interface SolarSystemViewController : UIViewController {
+@interface SolarSystemViewController : UIViewController  {
     EAGLContext *lastContext;
 }
 
 + (SolarSystemViewController *)sharedInstance;
 
 - (void)reloadAvailableWorlds;
+- (void)cleanUp;
+- (void)restart;
 
 @property (nonatomic, strong) EAGLContext *lastContext;
-
+@property(nonatomic, strong) GADBannerView *bannerView;
+@property(nonatomic, strong) GADInterstitial *interstitial;
 @end

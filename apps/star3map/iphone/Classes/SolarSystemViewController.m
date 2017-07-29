@@ -7,6 +7,7 @@
 //
 
 #import "SolarSystemViewController.h"
+#import "UAAppReviewManager.h"
 
 #define TAB_TITLE_PLANETS @"Planets"
 #define TAB_TITLE_INFORMATION @"Info"
@@ -20,8 +21,8 @@
 
 @property CMMotionManager *motionManager;
 
-@property OpenGLView *glView;
-@property SolarSystemScene *solarSystemScene;
+@property (strong) OpenGLView *glView;
+@property (strong) SolarSystemScene *solarSystemScene;
 
 @property UIView *sidebarView;
 @property UIView *tabSelectorMasterView;
@@ -76,18 +77,69 @@
     return sharedInstance;
 }
 
+
+
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
-    [self.navigationController setNavigationBarHidden:NO animated:YES];
+    [self.glView setAllViewsPaused: NO];
+
+    [self.navigationController setNavigationBarHidden:NO animated:animated];
 }
+
+
+
+- (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+    if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 3 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
+        if (self.interstitial.isReady) {
+            [self.interstitial presentFromRootViewController:self];
+            [self.interstitial loadRequest:[GADRequest request]];
+        } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 6 == 0) {
+            if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
+                [SKStoreReviewController requestReview];
+            } else {
+                [UAAppReviewManager showPrompt];
+            }
+        } else {
+            [self.tabBarController setSelectedIndex:2];
+        }
+    }
+    
+    [[NSUserDefaults standardUserDefaults] setInteger:[[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] + 1 forKey:@"InterstitialCounter"];
+}
+
+- (void)viewWillDisappear:(BOOL)animated {
+    [super viewWillDisappear:animated];
+    self.lastContext = [EAGLContext currentContext];
+    [EAGLContext setCurrentContext:nil];
+}
+
+- (void)cleanUp{
+    self.lastContext = [EAGLContext currentContext];
+    [EAGLContext setCurrentContext:nil];
+    [self.glView setAllViewsPaused: YES];
+}
+
+- (void)restart{
+    [self.glView setAllViewsPaused: NO];
+}
+
+-(void)dealloc{ NSLog(@"dealloc");
+    [[NSNotificationCenter defaultCenter]removeObserver:self];
+}
+
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    [self.navigationItem setTitle:@"Solar System Explorer"];
+    
+    self.edgesForExtendedLayout = UIRectEdgeNone;
+    
+    [self.navigationItem setTitle:@"Solar System"];
     self.view.backgroundColor = [UIColor blackColor];
     
     CGRect bounds = [[UIScreen mainScreen] bounds];
+    bounds.size.height = bounds.size.height - 93;
     
     // Define some values for sizes and positions
     const NSInteger screenWidth = bounds.size.width;
@@ -121,7 +173,9 @@
     }
     
     UIBarButtonItem *infoButton = [[UIBarButtonItem alloc] initWithTitle:@"Info" style:UIBarButtonItemStylePlain target:self action:@selector(planetInfomation:)];
-    [self.navigationItem setRightBarButtonItem:infoButton];
+    [self.navigationItem setLeftBarButtonItem:infoButton];
+    
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemDone target:self action:@selector(dismiss)];
     
     CGRect scrollViewFrame;
     scrollViewFrame.origin.x = 0;
@@ -145,14 +199,35 @@
     self.motionManager = [[CMMotionManager alloc] init];
     
     CGRect viewFrame = self.view.frame;
-    self.infoView = [[UIScrollView alloc] initWithFrame:CGRectMake(10, 10+44, viewFrame.size.width-20, viewFrame.size.height-44-75-20)];
+    self.infoView = [[UIScrollView alloc] initWithFrame:CGRectMake(10, 1, viewFrame.size.width-20, viewFrame.size.height-44-75-20 - 33)];
     self.infoView.alpha = 0.8f;
     self.infoView.backgroundColor = self.scrollView.backgroundColor;
     self.infoView.alpha = 0.0f;
     [self.view addSubview:self.infoView];
     
     [self populateScrollView];
-  
+    
+#ifdef STARGLOBE_FREE
+    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1007000083";
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8530266883"];
+#endif
+    
+#ifdef STARGLOBE_PRO
+    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1354749203";
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8583691902"];
+#endif
+    
+    self.bannerView.rootViewController = self;
+    
+    if ([[NSUserDefaults standardUserDefaults]integerForKey:@"LaunchCounter"] %2 == 0 && [[GeneralHelper sharedManager]freeVersion]) {NSLog(@"yoyo 0");
+        [self.view addSubview:self.bannerView];
+        [self.bannerView loadRequest:[GADRequest request]];
+        [self.interstitial loadRequest:[GADRequest request]];
+    }
+}
+
+- (void)dismiss{
+    [self dismissViewControllerAnimated:YES completion:nil];
 }
 
 - (void)resetScrollingAndLoopAgain:(UIScrollView *)view
@@ -331,12 +406,36 @@
             button.baseBackgroundColor = button.backgroundColor;
             GSWorldData *data = [[GSWorldData alloc] initWithJson:body];
             
-            void(^tappedBlock)(void) = ^{
-                [self tappedPlanetButton:button];
-            };
             
-            [button setWasTapped:tappedBlock];
             left += buttonWidth;
+            
+            if (index > 7 && [[GeneralHelper sharedManager]freeVersion]) {
+                void(^tappedBlock)(void) = ^{
+                    [self.tabBarController setSelectedIndex:2];
+                };
+                
+                [button setWasTapped:tappedBlock];
+                UIImageView *recommendedBadge = [[UIImageView alloc]initWithFrame:CGRectMake(75,0, 75, 20)];
+                recommendedBadge.tintColor = [UIColor redColor];
+                recommendedBadge.image = [[UIImage imageNamed:@"badge"]imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate];;
+                [button addSubview:recommendedBadge];
+                
+                UILabel *badgeLabel = [[UILabel alloc]initWithFrame:CGRectMake(0, 0, 75, 20)];
+                badgeLabel.text = NSLocalizedString(@"Pro", nil);
+                badgeLabel.font = [UIFont fontWithName:@"GillSans-SemiBold" size:17];
+                badgeLabel.textAlignment = NSTextAlignmentCenter;
+                badgeLabel.textColor = [UIColor whiteColor];
+                [recommendedBadge addSubview:badgeLabel];
+            } else {
+                void(^tappedBlock)(void) = ^{
+                    [self tappedPlanetButton:button];
+                };
+                
+                [button setWasTapped:tappedBlock];
+            }
+            
+            
+            
             [self.scrollView addSubview:button];
             [self.planetButtons setObject:button forKey:data.identifier];
             
@@ -354,11 +453,33 @@
                 childButton.baseBackgroundColor = childButton.backgroundColor;
                 GSWorldData *childData = [[GSWorldData alloc] initWithJson:child];
                 
-                void(^childTappedBlock)(void) = ^{
-                    [self tappedPlanetButton:childButton];
-                };
                 
-                [childButton setWasTapped:childTappedBlock];
+                
+                if (index > 7 && [[GeneralHelper sharedManager]freeVersion]) {
+                    void(^childTappedBlock)(void) = ^{
+                        [self.tabBarController setSelectedIndex:2];
+                    };
+                    
+                    [childButton setWasTapped:childTappedBlock];
+                    UIImageView *recommendedBadge = [[UIImageView alloc]initWithFrame:CGRectMake(75,0, 75, 20)];
+                    recommendedBadge.tintColor = [UIColor redColor];
+                    recommendedBadge.image = [[UIImage imageNamed:@"badge"]imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate];;
+                    [childButton addSubview:recommendedBadge];
+                    
+                    UILabel *badgeLabel = [[UILabel alloc]initWithFrame:CGRectMake(0, 0, 75, 20)];
+                    badgeLabel.text = NSLocalizedString(@"Pro", nil);
+                    badgeLabel.font = [UIFont fontWithName:@"GillSans-SemiBold" size:17];
+                    badgeLabel.textAlignment = NSTextAlignmentCenter;
+                    badgeLabel.textColor = [UIColor whiteColor];
+                    [recommendedBadge addSubview:badgeLabel];
+                } else {
+                    void(^childTappedBlock)(void) = ^{
+                        [self tappedPlanetButton:childButton];
+                    };
+                    
+                    [childButton setWasTapped:childTappedBlock];
+                }
+                
                 [blackView addSubview:childButton];
                 [self.planetButtons setObject:childButton forKey:childData.identifier];
                 
@@ -423,12 +544,17 @@
 
 - (void)planetInfomation:(id)sender {
     if (self.infoView.alpha == 0) {
+        UIBarButtonItem *infoButton = [[UIBarButtonItem alloc] initWithTitle:@"Cancel" style:UIBarButtonItemStylePlain target:self action:@selector(planetInfomation:)];
+        [self.navigationItem setLeftBarButtonItem:infoButton];
+        
         [UIView beginAnimations:nil context:nil];
         [UIView setAnimationDuration:0.5];
         
         self.infoView.alpha = 1.0f;
         [UIView commitAnimations];
     } else {
+        UIBarButtonItem *infoButton = [[UIBarButtonItem alloc] initWithTitle:@"Info" style:UIBarButtonItemStylePlain target:self action:@selector(planetInfomation:)];
+        [self.navigationItem setLeftBarButtonItem:infoButton];
         [UIView beginAnimations:nil context:nil];
         [UIView setAnimationDuration:0.5];
         

@@ -20,7 +20,7 @@
 
 static NSMutableArray *allViews = nil;
 
-+ (void)setAllViewsPaused:(BOOL)paused
+- (void)setAllViewsPaused:(BOOL)paused
 {
     NSArray *allViews = [OpenGLView allActiveViews];
     for(OpenGLView *view in allViews) {

@@ -46,8 +46,7 @@
     }
 }
 
-- (CC3GLMatrix *)baseModelviewMatrix
-{
+- (CC3GLMatrix *)baseModelviewMatrix{
     CC3GLMatrix *baseModelView = [CC3GLMatrix matrix];
     CC3Vector lookFrom = self.cameraPosition;
     CC3Vector lookAt = CC3VectorAdd(lookFrom, self.cameraFacingVector);
@@ -105,13 +104,11 @@
     }
 }
 
-- (GLuint)shaderAttributeWithName:(const GLchar *)name
-{
+- (GLuint)shaderAttributeWithName:(const GLchar *)name{
     return glGetAttribLocation(((OpenGLView *)self.view).programHandle, name);
 }
 
-- (GLuint)shaderUniformWithName:(const GLchar *)name
-{
+- (GLuint)shaderUniformWithName:(const GLchar *)name{
     return glGetUniformLocation(((OpenGLView *)self.view).programHandle, name);
 }
 

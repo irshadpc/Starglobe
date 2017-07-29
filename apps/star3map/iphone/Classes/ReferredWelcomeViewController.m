@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.title = NSLocalizedString(@"Welcome to ProPlayer", nil);
+    self.title = NSLocalizedString(@"Welcome to Starglobe", nil);
     
     self.view.backgroundColor = viewBackgroundColor;
     self.tableView.backgroundColor = viewBackgroundColor;
@@ -142,31 +142,31 @@
     
     if (indexPath.row == 2) {
         cell.textLabel.text = NSLocalizedString(@"Automatic Subtitles", nil);
-        cell.detailTextLabel.text = NSLocalizedString(@"Add subtitles to your videos in seconds with free, one-tap downloads from Opensubtitles.org.", nil);
+        cell.detailTextLabel.text = NSLocalizedString(@" ", nil);
         cell.imageView.image = [UIImage imageNamed:@"subtitle-upgrade"];
         cell.detailTextLabel.font = [UIFont preferredFontForTextStyle: UIFontTextStyleCaption1];
         cell.detailTextLabel.textAlignment = NSTextAlignmentLeft;
     } else if (indexPath.row == 3) {
         cell.textLabel.text = NSLocalizedString(@"No Ads", nil);
-        cell.detailTextLabel.text = NSLocalizedString(@"Enjoy your videos without any ads and interruptions.", nil);
+        cell.detailTextLabel.text = NSLocalizedString(@" ", nil);
         cell.imageView.image = [UIImage imageNamed:@"ads-upgrade"];
         cell.detailTextLabel.font = [UIFont preferredFontForTextStyle: UIFontTextStyleCaption1];
         cell.detailTextLabel.textAlignment = NSTextAlignmentLeft;
     } else if (indexPath.row == 4) {
         cell.textLabel.text = NSLocalizedString(@"Passcode Protection", nil);
-        cell.detailTextLabel.text = [NSString stringWithFormat:NSLocalizedString(@"Use a Passcode to protect ProPlayer from unauthorized access, e.g. when you lend someone your %@.", @"%@ stands for iPhone/iPad"), [UIDevice currentDevice].model];
+        cell.detailTextLabel.text = [NSString stringWithFormat:NSLocalizedString(@" ", nil), [UIDevice currentDevice].model];
         cell.imageView.image = [UIImage imageNamed:@"passcode-upgrade"];
         cell.detailTextLabel.font = [UIFont preferredFontForTextStyle: UIFontTextStyleCaption1];
         cell.detailTextLabel.textAlignment = NSTextAlignmentLeft;
     } else if (indexPath.row == 5) {
         cell.textLabel.text = NSLocalizedString(@"Gestures", nil);
-        cell.detailTextLabel.text = NSLocalizedString(@"Quickly control video playback with several customizable swipe and tap gestures, e.g. swipe to fast forward.", nil);
+        cell.detailTextLabel.text = NSLocalizedString(@" ", nil);
         cell.imageView.image = [UIImage imageNamed:@"gestures-upgrade"];
         cell.detailTextLabel.font = [UIFont preferredFontForTextStyle: UIFontTextStyleCaption1];
         cell.detailTextLabel.textAlignment = NSTextAlignmentLeft;
     } else if (indexPath.row == 6) {
         cell.textLabel.text = NSLocalizedString(@"Background Playback", nil);
-        cell.detailTextLabel.text = NSLocalizedString(@"Watching a music video but just want to listen to the audio? ProPlayer can play the audio in the background and continues even when you locked your device.", nil);
+        cell.detailTextLabel.text = NSLocalizedString(@" ", nil);
         cell.imageView.image = [UIImage imageNamed:@"background-upgrade"];
         cell.detailTextLabel.font = [UIFont preferredFontForTextStyle: UIFontTextStyleCaption1];
         cell.detailTextLabel.textAlignment = NSTextAlignmentLeft;

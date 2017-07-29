@@ -55,10 +55,10 @@ VarString app_font( "app_font", "main app font", Var_Archive, "Cantarell-Regular
 VarInteger app_fontSize( "app_fontSize", "main app font rasterization size", Var_Archive, 16 );
 VarFloat app_fontScale( "app_fontScale", "main app font rendering scale", Var_Archive, 0.5 );
 
-VarFloat app_starScale( "app_starScale", "scale of star sprite rendering", Var_Archive, 2 );
-VarFloat app_scale( "app_scale", "scale of stuff in angle space", Var_Archive, 0.00009f );
+VarFloat app_starScale( "app_starScale", "scale of star sprite rendering", Var_Archive, 10 );
+VarFloat app_scale( "app_scale", "scale of stuff in angle space", Var_Archive, 0.0001f );
 
-VarFloat app_nightFactor("app_nightFactor", "scale of stuff in angle space", Var_Archive, 0.0f);
+VarFloat app_nightFactor("app_nightFactor", "scale of stuff in angle space", Var_Archive, 0);
 
 using namespace star3map;
 

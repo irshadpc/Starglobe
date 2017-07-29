@@ -21,6 +21,9 @@ case "${TARGETED_DEVICE_FAMILY}" in
   3)
     TARGET_DEVICE_ARGS="--target-device tv"
     ;;
+  4)
+    TARGET_DEVICE_ARGS="--target-device watch"
+    ;;
   *)
     TARGET_DEVICE_ARGS="--target-device mac"
     ;;
@@ -77,67 +80,16 @@ EOM
   esac
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_resource "$PODS_CONFIGURATION_BUILD_DIR/KiipSDK/KiipSDKResources.bundle"
   install_resource "ZendeskSDK/ZendeskSDK.bundle"
   install_resource "ZendeskSDK/ZendeskSDKStrings.bundle"
-  install_resource "FyberMediationInneractive/Fyber_Inneractive_6.4.1-r2/SDK8/Fyber_Inneractive_6.4.1-r2.embeddedframework/Resources/InneractiveSDKResources.bundle"
-  install_resource "FyberMediationLoopMe/Fyber_LoopMe_6.0.1-r1/SDK8/Fyber_LoopMe_6.0.1-r1.embeddedframework/Resources/Shader.fsh"
-  install_resource "FyberMediationLoopMe/Fyber_LoopMe_6.0.1-r1/SDK8/Fyber_LoopMe_6.0.1-r1.embeddedframework/Resources/Shader.vsh"
-  install_resource "FyberMediationTapjoy/Fyber_Tapjoy_11.9.1-r1/SDK8/Fyber_Tapjoy_11.9.1-r1.embeddedframework/Resources/TapjoyResources.bundle"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_close.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_cta.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_mute_off.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_mute_on.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_privacy.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/__vungle.db"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIcon@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIconiPad@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIconiPhone@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBIntegrationAnalyzerViewController.xib"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/StartedBundleIcon.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/UnstartedBundleIcon.png"
 fi
 if [[ "$CONFIGURATION" == "Beta" ]]; then
-  install_resource "$PODS_CONFIGURATION_BUILD_DIR/KiipSDK/KiipSDKResources.bundle"
   install_resource "ZendeskSDK/ZendeskSDK.bundle"
   install_resource "ZendeskSDK/ZendeskSDKStrings.bundle"
-  install_resource "FyberMediationInneractive/Fyber_Inneractive_6.4.1-r2/SDK8/Fyber_Inneractive_6.4.1-r2.embeddedframework/Resources/InneractiveSDKResources.bundle"
-  install_resource "FyberMediationLoopMe/Fyber_LoopMe_6.0.1-r1/SDK8/Fyber_LoopMe_6.0.1-r1.embeddedframework/Resources/Shader.fsh"
-  install_resource "FyberMediationLoopMe/Fyber_LoopMe_6.0.1-r1/SDK8/Fyber_LoopMe_6.0.1-r1.embeddedframework/Resources/Shader.vsh"
-  install_resource "FyberMediationTapjoy/Fyber_Tapjoy_11.9.1-r1/SDK8/Fyber_Tapjoy_11.9.1-r1.embeddedframework/Resources/TapjoyResources.bundle"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_close.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_cta.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_mute_off.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_mute_on.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_privacy.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/__vungle.db"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIcon@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIconiPad@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIconiPhone@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBIntegrationAnalyzerViewController.xib"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/StartedBundleIcon.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/UnstartedBundleIcon.png"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_resource "$PODS_CONFIGURATION_BUILD_DIR/KiipSDK/KiipSDKResources.bundle"
   install_resource "ZendeskSDK/ZendeskSDK.bundle"
   install_resource "ZendeskSDK/ZendeskSDKStrings.bundle"
-  install_resource "FyberMediationInneractive/Fyber_Inneractive_6.4.1-r2/SDK8/Fyber_Inneractive_6.4.1-r2.embeddedframework/Resources/InneractiveSDKResources.bundle"
-  install_resource "FyberMediationLoopMe/Fyber_LoopMe_6.0.1-r1/SDK8/Fyber_LoopMe_6.0.1-r1.embeddedframework/Resources/Shader.fsh"
-  install_resource "FyberMediationLoopMe/Fyber_LoopMe_6.0.1-r1/SDK8/Fyber_LoopMe_6.0.1-r1.embeddedframework/Resources/Shader.vsh"
-  install_resource "FyberMediationTapjoy/Fyber_Tapjoy_11.9.1-r1/SDK8/Fyber_Tapjoy_11.9.1-r1.embeddedframework/Resources/TapjoyResources.bundle"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_close.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_cta.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_mute_off.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_mute_on.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/vg_privacy.png"
-  install_resource "FyberMediationVungle/Fyber_Vungle_4.0.9-r2/SDK8/Fyber_Vungle_4.0.9-r2.embeddedframework/Resources/__vungle.db"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIcon@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIconiPad@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBBackIconiPhone@2x.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/FYBIntegrationAnalyzerViewController.xib"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/StartedBundleIcon.png"
-  install_resource "FyberSDK/Fyber_iOS_SDK_v.8.11.0/fyber-sdk-lib/Resources/UnstartedBundleIcon.png"
 fi
 
 mkdir -p "${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}"

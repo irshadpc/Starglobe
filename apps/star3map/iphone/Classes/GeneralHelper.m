@@ -7,7 +7,6 @@
 //
 
 #import "GeneralHelper.h"
-#import "IAPManager.h"
 #import "UIAlertController+Window.h"
 
 static GeneralHelper *sharedManager = nil;
@@ -33,45 +32,39 @@ static GeneralHelper *sharedManager = nil;
     return self;
 }
 
-- (BOOL)freeVersion{
-#ifdef PROPLAYER_PRO
-    return NO;
-#endif
-#ifdef PROPLAYER_FREE
-    return YES;
-#endif
-    return YES;
-}
-
 - (NSString*)appstoreLink{
-    if ([self freeVersion]) {
-        return @"https://itunes.apple.com/us/app/starglobe-free-discover-stars-planets-galaxies-night/id703554364?mt=8&at=11lS6z";
-    }
-    return @"https://itunes.apple.com/us/app/starglobe-discover-stars-planets-galaxies-night-sky/id501980012?mt=8&at=11lS6z";
+#ifdef STARGLOBE_FREE
+    return @"https://itunes.apple.com/us/app/starglobe-free-discover-stars-planets-galaxies-night/id703554364?mt=8&at=11lS6z";
+#endif
+    
+#ifdef STARGLOBE_PRO
+    return @"https://itunes.apple.com/us/app/starglobe-discover-stars-planets-galaxies-night-sky/id501980012?mt=8&uo=4";
+#endif
+    
+   
 }
 
-
-- (void)updatePrice{
+- (NSString*)purchaseID{
 #ifdef STARGLOBE_FREE
-    if ([[[NSUserDefaults standardUserDefaults]valueForKey:@"IAPPrice"] isEqualToString:@""]) {
-        [[IAPManager sharedIAPManager] getProductsForIds:@[@"starglobe.pro"]
-                                              completion:^(NSArray *products) {
-                                                  BOOL hasProducts = [products count] != 0;
-                                                  if(hasProducts) {
-                                                      SKProduct *premium = products[0];
-                                                      
-                                                      NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];                                                                                                                 [numberFormatter setFormatterBehavior:NSNumberFormatterBehavior10_4];
-                                                      [numberFormatter setNumberStyle:NSNumberFormatterCurrencyStyle];
-                                                      [numberFormatter setLocale:premium.priceLocale];
-                                                      NSString *formattedPrice = [numberFormatter stringFromNumber:premium.price];
-                                                      [[NSUserDefaults standardUserDefaults] setValue:formattedPrice forKey:@"IAPPrice"];
-                                                  }
-                                              } error:^(NSError *error) {
-                                                  
-                                              }];
+    return @"StarglobeProSubscription";
+#endif
+    
+#ifdef STARGLOBE_PRO
+    return @"StarglobeSubscription";
+#endif
+    
+    return @"StarglobeProSubscription";
+}
+
+- (BOOL)freeVersion{
+    if([[NSUserDefaults standardUserDefaults] boolForKey: @"StarglobeProForLife"]){
+        return NO;
     }
     
-#endif
+    if([[NSUserDefaults standardUserDefaults] boolForKey: @"StarglobePro"]){
+        return NO;
+    }
+    return YES;
 }
 
 
@@ -126,32 +119,6 @@ static GeneralHelper *sharedManager = nil;
     return [fullPath lastPathComponent];
 }
 
-- (void)handlePasteboardString:(NSString *)pasteBoardString{
-  /*  NSDataDetector *detect = [[NSDataDetector alloc] initWithTypes:NSTextCheckingTypeLink error:nil];
-    NSArray *matches = [detect matchesInString:pasteBoardString options:0 range:NSMakeRange(0, [pasteBoardString length])];
-    if (matches.count > 0) {
-        UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"New Database" message:@"Would you like to import your new database and replace the existing one?" preferredStyle:UIAlertControllerStyleAlert];
-        UIAlertAction* ok = [UIAlertAction actionWithTitle:NSLocalizedString(@"Replace Database", nil) style:UIAlertActionStyleDefault
-                                                   handler:^(UIAlertAction * action) {
-                                                       NSString *stringURL = [matches objectAtIndex:0];
-                                                       NSURL *url = [NSURL URLWithString:stringURL];
-                                                       NSString *path = [url path];
-                                                       NSString *extension = [path pathExtension];
-                                                       if (extension != nil && ![extension isEqualToString:@""]) {
-                                                           
-                                                       }
-                                                   }];
-        UIAlertAction* cancel = [UIAlertAction actionWithTitle:NSLocalizedString(@"Cancel", nil) style:UIAlertActionStyleDefault
-                                                       handler:^(UIAlertAction * action) {
-                                                           [alert dismissViewControllerAnimated:YES completion:nil];
-                                                       }];
-        [alert addAction:cancel];
-        [alert addAction:ok];
-        [alert show];
-    }
-    
-    */
-}
 
 - (UIImage *)imageWithColor:(UIColor *)color {
     CGRect rect = CGRectMake(0.0f, 0.0f, 1.0f, 1.0f);

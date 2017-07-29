@@ -67,6 +67,4 @@
 #import "GeneralHelper.h"
 #import "GlobalVariables.h"
 #import "UIAlertController+Blocks.h"
-#import <KiipSDK/KiipSDK.h>
-
 #endif

@@ -30,8 +30,9 @@ extern "C" {
 /// Log message severity
 typedef NS_ENUM(NSInteger, BNCLogLevel) {
     BNCLogLevelAll = 0,
-    BNCLogLevelDebug = BNCLogLevelAll,
+    BNCLogLevelDebugSDK = BNCLogLevelAll,
     BNCLogLevelBreakPoint,
+    BNCLogLevelDebug,
     BNCLogLevelWarning,
     BNCLogLevelError,
     BNCLogLevelAssert,
@@ -43,7 +44,7 @@ typedef NS_ENUM(NSInteger, BNCLogLevel) {
 /*!
 * @return Returns the current log severity display level.
 */
-extern BNCLogLevel BNCLogDisplayLevel();
+extern BNCLogLevel BNCLogDisplayLevel(void);
 
 /*!
 * @param level Sets the current display level for log messages.
@@ -66,14 +67,14 @@ extern void BNCLogSetSynchronizeMessages(BOOL enable);
 
 /*!@return Returns YES if log messages are synchronized between threads.
 */
-extern BOOL BNCLogSynchronizeMessages();
+extern BOOL BNCLogSynchronizeMessages(void);
 
 
 #pragma mark - Programmatic Breakpoints
 
 
 ///@return Returns 'YES' if programmatic breakpoints are enabled.
-extern BOOL BNCLogBreakPointsAreEnabled();
+extern BOOL BNCLogBreakPointsAreEnabled(void);
 
 ///@param enabled Sets programmatic breakpoints enabled or disabled.
 extern void BNCLogSetBreakPointsEnabled(BOOL enabled);
@@ -95,7 +96,10 @@ extern void BNCLogFunctionOutputToStdErr(NSDate*_Nonnull timestamp, BNCLogLevel 
 extern void BNCLogSetOutputFunction(BNCLogOutputFunctionPtr _Nullable functionPtr);
 
 ///@return Returns the current logging function.
-extern BNCLogOutputFunctionPtr _Nullable BNCLogOutputFunction();
+extern BNCLogOutputFunctionPtr _Nullable BNCLogOutputFunction(void);
+
+/// If a predefined log handler is being used, the function closes the output file.
+extern void BNCLogCloseLogFile(void);
 
 ///@param URL Sets the log output function to a function that writes messages to the file at URL.
 extern void BNCLogSetOutputToURL(NSURL *_Nullable URL);
@@ -108,7 +112,7 @@ extern void BNCLogSetOutputToURLRecordWrap(NSURL *_Nullable URL, long maxRecords
 ///@param maxBytes Wraps the file at `maxBytes` bytes.  Must be an even number of bytes.
 extern void BNCLogSetOutputToURLByteWrap(NSURL *_Nullable URL, long maxBytes);
 
-typedef void (*BNCLogFlushFunctionPtr)();
+typedef void (*BNCLogFlushFunctionPtr)(void);
 
 ///@param flushFunction The logging functions use `flushFunction` to flush the outstanding log
 ///                     messages to the output function.  For instance, this function may call
@@ -116,14 +120,14 @@ typedef void (*BNCLogFlushFunctionPtr)();
 extern void BNCLogSetFlushFunction(BNCLogFlushFunctionPtr _Nullable flushFunction);
 
 ///@return Returns the current flush function.
-extern BNCLogFlushFunctionPtr _Nullable BNCLogFlushFunction();
+extern BNCLogFlushFunctionPtr _Nullable BNCLogFlushFunction(void);
 
 
-#pragma mark - BNCLogMessageInternal
+#pragma mark - BNCLogWriteMessage
 
 
-/// The main logging function used in the logging defines.
-extern void BNCLogMessageInternal(
+/// The main logging function used in the variadic logging defines.
+extern void BNCLogWriteMessageFormat(
     BNCLogLevel logLevel,
     const char *_Nullable sourceFileName,
     int sourceLineNumber,
@@ -131,35 +135,47 @@ extern void BNCLogMessageInternal(
     ...
 );
 
+/// Swift-friendly wrapper for BNCLogWriteMessageFormat
+extern void BNCLogWriteMessage(
+    BNCLogLevel logLevel,
+    NSString *_Nonnull sourceFileName,
+    NSUInteger sourceLineNumber,
+    NSString *_Nonnull message
+);
+
 /// This function synchronizes all outstanding log messages and writes them to the logging function
 /// set by BNCLogSetOutputFunction.
-extern void BNCLogFlushMessages();
+extern void BNCLogFlushMessages(void);
 
 
 #pragma mark - Logging
 ///@info Logging
 
+///@param format Log an info message with the specified formatting.
+#define BNCLogDebugSDK(...) \
+    do  { BNCLogWriteMessageFormat(BNCLogLevelDebugSDK, __FILE__, __LINE__, __VA_ARGS__); } while (0)
+
 ///@param format Log a debug message with the specified formatting.
 #define BNCLogDebug(...) \
-    do  { BNCLogMessageInternal(BNCLogLevelDebug, __FILE__, __LINE__, __VA_ARGS__); } while (0)
+    do  { BNCLogWriteMessageFormat(BNCLogLevelDebug, __FILE__, __LINE__, __VA_ARGS__); } while (0)
 
 ///@param format Log a warning message with the specified formatting.
 #define BNCLogWarning(...) \
-    do  { BNCLogMessageInternal(BNCLogLevelWarning, __FILE__, __LINE__, __VA_ARGS__); } while (0)
+    do  { BNCLogWriteMessageFormat(BNCLogLevelWarning, __FILE__, __LINE__, __VA_ARGS__); } while (0)
 
 ///@param format Log an error message with the specified formatting.
 #define BNCLogError(...) \
-    do  { BNCLogMessageInternal(BNCLogLevelError, __FILE__, __LINE__, __VA_ARGS__); } while (0)
+    do  { BNCLogWriteMessageFormat(BNCLogLevelError, __FILE__, __LINE__, __VA_ARGS__); } while (0)
 
 ///@param format Log a message with the specified formatting.
 #define BNCLog(...) \
-    do  { BNCLogMessageInternal(BNCLogLevelLog, __FILE__, __LINE__, __VA_ARGS__); } while (0)
+    do  { BNCLogWriteMessageFormat(BNCLogLevelLog, __FILE__, __LINE__, __VA_ARGS__); } while (0)
 
 ///Cause a programmatic breakpoint if breakpoints are enabled.
 #define BNCLogBreakPoint() \
     do  { \
         if (BNCLogBreakPointsAreEnabled()) { \
-            BNCLogMessageInternal(BNCLogLevelBreakPoint, __FILE__, __LINE__, @"Programmatic breakpoint."); \
+            BNCLogWriteMessageFormat(BNCLogLevelBreakPoint, __FILE__, __LINE__, @"Programmatic breakpoint."); \
             if (BNCDebuggerIsAttached()) { \
                 BNCLogFlushMessages(); \
                 BNCDebugBreakpoint(); \
@@ -171,7 +187,7 @@ extern void BNCLogFlushMessages();
 #define BNCBreakPointWithMessage(...) \
     do  { \
         if (BNCLogBreakPointsAreEnabled() { \
-            BNCLogMessageInternal(BNCLogLevelBreakPoint, __FILE__, __LINE__, __VA_ARGS__); \
+            BNCLogWriteMessageFormat(BNCLogLevelBreakPoint, __FILE__, __LINE__, __VA_ARGS__); \
             if (BNCDebuggerIsAttached()) { \
                 BNCLogFlushMessages(); \
                 BNCDebugBreakpoint(); \
@@ -183,7 +199,7 @@ extern void BNCLogFlushMessages();
 #define BNCLogAssert(condition) \
     do  { \
         if (!(condition)) { \
-            BNCLogMessageInternal(BNCLogLevelAssert, __FILE__, __LINE__, @"(%s) !!!", #condition); \
+            BNCLogWriteMessageFormat(BNCLogLevelAssert, __FILE__, __LINE__, @"(%s) !!!", #condition); \
             if (BNCLogBreakPointsAreEnabled() && BNCDebuggerIsAttached()) { \
                 BNCLogFlushMessages(); \
                 BNCDebugBreakpoint(); \
@@ -197,7 +213,7 @@ extern void BNCLogFlushMessages();
     do  { \
         if (!(condition)) { \
             NSString *m = [NSString stringWithFormat:message, __VA_ARGS__]; \
-            BNCLogMessageInternal(BNCLogLevelAssert, __FILE__, __LINE__, @"(%s) !!! %@", #condition, m); \
+            BNCLogWriteMessageFormat(BNCLogLevelAssert, __FILE__, __LINE__, @"(%s) !!! %@", #condition, m); \
             if (BNCLogBreakPointsAreEnabled() && BNCDebuggerIsAttached()) { \
                 BNCLogFlushMessages(); \
                 BNCDebugBreakpoint(); \

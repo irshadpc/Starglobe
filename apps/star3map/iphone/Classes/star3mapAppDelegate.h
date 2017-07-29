@@ -11,12 +11,10 @@
 #import "MainViewController.h"
 #import <CoreMotion/CoreMotion.h>
 #import <AVFoundation/AVFoundation.h>
-#import <KiipSDK/KiipSDK.h>
 
 @class EAGLView;
 
-@interface star3mapAppDelegate : NSObject <UIApplicationDelegate, CLLocationManagerDelegate, UIAccelerometerDelegate, UIAlertViewDelegate, AVCaptureVideoDataOutputSampleBufferDelegate, KiipDelegate>
-{
+@interface star3mapAppDelegate : NSObject <UIApplicationDelegate, CLLocationManagerDelegate, UIAccelerometerDelegate, UIAlertViewDelegate, AVCaptureVideoDataOutputSampleBufferDelegate> {
     EAGLView               * glView;
     CLLocationManager      * locationManager;
     IBOutlet UIWindow      * window;

@@ -13,32 +13,15 @@
 #import "SettingsPopupViewController.h"
 #import <CoreLocation/CoreLocation.h>
 #import <AVFoundation/AVFoundation.h>
-
-#ifdef STARGLOBE_FREE
 //#import "Starglobe_Free-Swift.h"
-#import "AdHelper.h"
-#import "FyberSDK.h"
-#import "FYBAdMob.h"
-#import "FYBFacebookAudienceNetwork.h"
-//#import "FYBTaypjoy.h"
-//#import "FYBInneractive.h"
-#import "FYBInMobi.h"
-#import "FYBIntegrationAnalyzerViewController.h"
-#endif
+#import "MBProgressHUD.h"
 
 @class CaptureSessionManager;
 @class MLPAutoCompleteTextField;
 @class SolarSystemViewController;
 @class SearchDataSource;
 
-#ifdef STARGLOBE_FREE
-#define Delegates UITableViewDataSource, UITableViewDelegate, UIPopoverControllerDelegate, UITextFieldDelegate, SettingsPopupDelegate, CLLocationManagerDelegate
-#endif
-#ifdef STARGLOBE_PRO
-#define Delegates UITableViewDataSource, UITableViewDelegate, UIPopoverControllerDelegate, UITextFieldDelegate, SettingsPopupDelegate, CLLocationManagerDelegate
-#endif
-
-@interface MainViewController : UIViewController <Delegates> {
+@interface MainViewController : UIViewController <UITableViewDataSource, UITableViewDelegate, UIPopoverControllerDelegate, UITextFieldDelegate, SettingsPopupDelegate, CLLocationManagerDelegate> {
     IBOutlet UIButton     * redVisionEnableButton;
     IBOutlet UIButton     * redVisionDisableButton;
     IBOutlet UIButton     * optionsButton;
@@ -69,6 +52,17 @@
 }
 @property BOOL firstLoaded;
 @property BOOL takeScreenshot;
+@property BOOL showDiscover;
+@property BOOL showUpgrade;
+@property BOOL isVisible;
+@property BOOL loadedInterstitial;
+@property BOOL loadedBanner;
+@property BOOL dontshowInterstitial;
+@property BOOL presentedInterstitial;
+@property(nonatomic, strong) GADBannerView *bannerView;
+@property(nonatomic, strong) GADInterstitial *interstitial;
+@property (nonatomic, retain) MBProgressHUD *HUD;
+@property (nonatomic, strong) NSArray *products;
 @property (nonatomic, strong) AVAudioPlayer *audioPlayer;
 @property (nonatomic, strong) CLLocationManager      * locationManager;
 @property (nonatomic, strong) STPopupController *popupViewController;

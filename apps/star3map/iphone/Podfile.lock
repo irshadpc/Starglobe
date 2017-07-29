@@ -1,145 +1,98 @@
 PODS:
-  - Branch (0.14.12):
-    - Branch/Core (= 0.14.12)
-    - Branch/without-IDFA (= 0.14.12)
-  - Branch/Core (0.14.12)
-  - Branch/without-IDFA (0.14.12)
-  - Firebase/Core (3.17.0):
-    - FirebaseAnalytics (= 3.9.0)
-    - FirebaseCore (= 3.6.0)
-  - Firebase/Messaging (3.17.0):
+  - Branch (0.16.2):
+    - Branch/Core (= 0.16.2)
+    - Branch/without-IDFA (= 0.16.2)
+    - Branch/without-Safari (= 0.16.2)
+  - Branch/Core (0.16.2)
+  - Branch/without-IDFA (0.16.2)
+  - Branch/without-Safari (0.16.2)
+  - Firebase/AdMob (4.0.4):
     - Firebase/Core
-    - FirebaseMessaging (= 1.2.3)
-  - FirebaseAnalytics (3.9.0):
-    - FirebaseCore (~> 3.6)
-    - FirebaseInstanceID (~> 1.0)
+    - Google-Mobile-Ads-SDK (= 7.21.0)
+  - Firebase/Core (4.0.4):
+    - FirebaseAnalytics (= 4.0.2)
+    - FirebaseCore (= 4.0.4)
+  - Firebase/Messaging (4.0.4):
+    - Firebase/Core
+    - FirebaseMessaging (= 2.0.0)
+  - FirebaseAnalytics (4.0.2):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
     - GoogleToolboxForMac/NSData+zlib (~> 2.1)
-  - FirebaseCore (3.6.0):
+  - FirebaseCore (4.0.4):
     - GoogleToolboxForMac/NSData+zlib (~> 2.1)
-  - FirebaseInstanceID (1.0.10):
-    - FirebaseCore (~> 3.6)
-  - FirebaseMessaging (1.2.3):
-    - FirebaseAnalytics (~> 3.8)
-    - FirebaseInstanceID (~> 1.0)
+    - nanopb (~> 0.3)
+  - FirebaseInstanceID (2.0.0):
+    - FirebaseCore (~> 4.0)
+  - FirebaseMessaging (2.0.0):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
     - GoogleToolboxForMac/Logger (~> 2.1)
     - Protobuf (~> 3.1)
-  - FyberMediationAdColony (3.1.1.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationAdMob (7.16.0.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationAppLovin (3.5.2.2):
-    - FyberSDK (~> 8.4)
-  - FyberMediationFacebookAudienceNetwork (4.21.0.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationHyprMX (4.2.0.78.3):
-    - FyberSDK (~> 8.4)
-  - FyberMediationInMobi (6.1.1.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationInneractive (6.4.1.2):
-    - FyberSDK (~> 8.4)
-  - FyberMediationLoopMe (6.0.1.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationNativeX (5.5.9.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationTapjoy (11.9.1.1):
-    - FyberSDK (~> 8.4)
-  - FyberMediationUnityAds (2.0.7.2):
-    - FyberSDK (~> 8.4)
-  - FyberMediationVungle (4.0.9.2):
-    - FyberSDK (~> 8.4)
-  - FyberSDK (8.11.0)
-  - GLInAppPurchase (1.1.3)
+  - Google-Mobile-Ads-SDK (7.21.0)
   - GoogleToolboxForMac/Defines (2.1.1)
   - GoogleToolboxForMac/Logger (2.1.1):
     - GoogleToolboxForMac/Defines (= 2.1.1)
   - GoogleToolboxForMac/NSData+zlib (2.1.1):
     - GoogleToolboxForMac/Defines (= 2.1.1)
-  - KiipSDK (2.3.0):
-    - KiipSDK/KiipSDK (= 2.3.0)
-  - KiipSDK/KiipSDK (2.3.0)
   - MBProgressHUD (1.0.0)
   - MZAppearance (1.1.6)
   - MZFormSheetPresentationController (2.4.2):
     - MZAppearance
-  - Protobuf (3.2.1)
-  - Realm (2.6.2):
-    - Realm/Headers (= 2.6.2)
-  - Realm/Headers (2.6.2)
-  - SCPStoreKitManager (1.1.2):
-    - SCPStoreKitManager/Core (= 1.1.2)
-  - SCPStoreKitManager/Core (1.1.2)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - Ono (1.2.2)
+  - Protobuf (3.3.0)
   - STPopup (1.8.2)
   - UAAppReviewManager (0.2.6)
   - UIAlertController+Blocks (0.9.2)
-  - ZendeskSDK (1.9.2.1):
-    - ZendeskSDK/Providers (= 1.9.2.1)
-    - ZendeskSDK/UI (= 1.9.2.1)
-  - ZendeskSDK/Providers (1.9.2.1)
-  - ZendeskSDK/UI (1.9.2.1):
+  - XMLDictionary (1.4.1)
+  - ZendeskSDK (1.10.0.1):
+    - ZendeskSDK/Providers (= 1.10.0.1)
+    - ZendeskSDK/UI (= 1.10.0.1)
+  - ZendeskSDK/Providers (1.10.0.1)
+  - ZendeskSDK/UI (1.10.0.1):
     - ZendeskSDK/Providers
 
 DEPENDENCIES:
   - Branch
+  - Firebase/AdMob
   - Firebase/Core
   - Firebase/Messaging
-  - FyberMediationAdColony (~> 3.1.1.1)
-  - FyberMediationAdMob (~> 7.16.0.1)
-  - FyberMediationAppLovin (~> 3.5.2.2)
-  - FyberMediationFacebookAudienceNetwork (~> 4.21.0.1)
-  - FyberMediationHyprMX (~> 4.2.0.78.3)
-  - FyberMediationInMobi (~> 6.1.1.1)
-  - FyberMediationInneractive (~> 6.4.1.2)
-  - FyberMediationLoopMe (~> 6.0.1.1)
-  - FyberMediationNativeX (~> 5.5.9.1)
-  - FyberMediationTapjoy (~> 11.9.1.1)
-  - FyberMediationUnityAds (~> 2.0.7.2)
-  - FyberMediationVungle (~> 4.0.9.2)
-  - FyberSDK (~> 8.11.0)
-  - GLInAppPurchase
-  - KiipSDK
   - MBProgressHUD
   - MZFormSheetPresentationController
-  - Realm
-  - SCPStoreKitManager
+  - Ono
   - STPopup
   - UAAppReviewManager
   - UIAlertController+Blocks
+  - XMLDictionary
   - ZendeskSDK
 
 SPEC CHECKSUMS:
-  Branch: f63d9cf82ac09747349a73184a0b739d28781c4d
-  Firebase: 4b66b5b59c43edac745b87f0c87e42cdd0279c13
-  FirebaseAnalytics: e5fe8486efc01bec33f6bf82e2fa9fce4b124052
-  FirebaseCore: 9691ee2ade70c098d7cf92440f4303f16d83ca75
-  FirebaseInstanceID: b9eedd6846fb5e1f0f7279e1deaa7a7e4cf8392e
-  FirebaseMessaging: 753d05a925e9eb8eadd09a0ffc9b808578b72fac
-  FyberMediationAdColony: 7ec2e7b5afa97a6f7423feede1d9939cf9f90cad
-  FyberMediationAdMob: 3b8644d673b73ca5061486e947c1b6c46b703c4b
-  FyberMediationAppLovin: e3852b46503a14634929a12ab89fafc56350b9aa
-  FyberMediationFacebookAudienceNetwork: 03c77dc8642aec761a2e048209677d993ef26fad
-  FyberMediationHyprMX: fdbda0973aff5643340e9345e445366f23949b2c
-  FyberMediationInMobi: dac96f026aebb0b37472097415a888c8f6634761
-  FyberMediationInneractive: 7517c786b1e70646fb65ccff169e35eae5e7dcd2
-  FyberMediationLoopMe: 330dbfd3f2748bb601d0fb2ca482520d7daf4f14
-  FyberMediationNativeX: 36f603886430a301aa2fc1fdea0628ce132a4037
-  FyberMediationTapjoy: 35d0893fbc52156dc723aa282163b7928c62e5ca
-  FyberMediationUnityAds: 311c505c8b1b743426b2dabe1f84d06214a90dbb
-  FyberMediationVungle: fb3a2fa513fc683a43e6cac5ba8d06d95ceaeba0
-  FyberSDK: 5c1cb47a67aaecc11518eeec5f19b6cea2f4b1f7
-  GLInAppPurchase: 57e3fcede4909be2a7b21a6a716883db9d7524c7
+  Branch: 41b7ee6b45f914cf58c10a9d555ac802142bc91c
+  Firebase: 1492bf04e1b73a7353b4fb2cf5a20bac9692f341
+  FirebaseAnalytics: ad41720e3e67fc63fbe3d2948d3e26932a8de311
+  FirebaseCore: cfc042628ef9f20debe09c0eb683135fcd404cb4
+  FirebaseInstanceID: 9fbf536668f4d3f0880e7438456dabd1376e294b
+  FirebaseMessaging: 227406c05b0dc9290702d2e9f18ab5528f0c2cf2
+  Google-Mobile-Ads-SDK: 4a6f1b43c8cc0e1e95a3b59d9f52a01671c6f9f3
   GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
-  KiipSDK: 8ec8b66794cec053b4bf38c2900bc4222778d858
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
   MZAppearance: 0c06d3fa9cc55142f1da14bc8631fbe8fd6e19d5
   MZFormSheetPresentationController: c1dc3bce639d2393b3cc416fcb6e050eb5bca062
-  Protobuf: 2ccbaf193f6c65adc67745453ca0c13234c32796
-  Realm: 29222766425b9f831228f81b63f0e38a97a4d700
-  SCPStoreKitManager: 2ea6d6e61f834fc62a6d8066dbe0a6a3fd0113a4
+  nanopb: 22bc080fa3955e2116b6ff3ee6c2cb3c15ab97cb
+  Ono: 80b1c686777d3f6d5d5ce6fcac8a74afef4ca197
+  Protobuf: d582fecf68201eac3d79ed61369ef45734394b9c
   STPopup: b69b3e7484ef7d2baec5f9ab2939f8a7bcdfe218
   UAAppReviewManager: 334bdb0085c3f80c7b696f33edc53667eda548e6
   UIAlertController+Blocks: 80e28b92523fb58aba4d1bccec013d5a0b0bddb2
-  ZendeskSDK: 3bdb52ad107aa87833d83ca7624080cab51f98b6
+  XMLDictionary: fa07b6ff422b3a91d47a5de9bc82e3fc04fbd167
+  ZendeskSDK: 57bba50d1e163f06091e2b9e6a08da4532600926
 
-PODFILE CHECKSUM: 903ce641f3bb44ad4a21eca65863dde9b59fbf98
+PODFILE CHECKSUM: 30cf76fb1ee8402cfa19011fbbca167b302eba26
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.2.1

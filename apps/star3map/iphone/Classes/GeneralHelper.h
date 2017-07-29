@@ -12,6 +12,6 @@
 + (id)sharedManager;
 - (BOOL)freeVersion;
 - (NSString*)appstoreLink;
-- (void)updatePrice;
+- (NSString*)purchaseID;
 - (UIImage *)imageWithColor:(UIColor *)color;
 @end

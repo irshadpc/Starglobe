@@ -151,7 +151,7 @@
 
 - (NSString*) tableView:(UITableView *) tableView titleForFooterInSection:(NSInteger)section{
     if (section == 0) {
-        return NSLocalizedString(@"ProPlayer was made by Azurcoding, a small software studio located in Munich, Germany. We dream up easy to use, focused and fun apps for your iOS devices.", nil);
+        return NSLocalizedString(@" ", nil);
     }
     return nil;
 }

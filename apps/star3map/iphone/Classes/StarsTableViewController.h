@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UAAppReviewManager.h"
 
 @interface StarsTableViewController : UITableViewController
-
+@property(nonatomic, strong) GADBannerView *bannerView;
+@property(nonatomic, strong) GADInterstitial *interstitial;
 @end

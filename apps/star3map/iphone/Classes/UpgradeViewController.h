@@ -12,6 +12,8 @@
 @interface UpgradeViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
 @property (nonatomic, retain) IBOutlet UITableView *tableView;
 @property (nonatomic, retain) UIButton *playButton;
+@property (nonatomic, retain) UILabel *priceLabel;
 @property BOOL inTabbar;
 @property (nonatomic, retain)MBProgressHUD *HUD;
+@property (nonatomic, strong) NSArray *products;
 @end

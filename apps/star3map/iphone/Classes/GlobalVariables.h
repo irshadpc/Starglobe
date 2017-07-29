@@ -8,4 +8,4 @@
 
 
 #define viewBackgroundColor [UIColor colorWithRed:25.0/255.0 green:25.0/255.0 blue:25.0/255.0 alpha:1.0];
-#define tableViewCellBackgroundColor [UIColor colorWithRed:20/255.0 green:20/255.0 blue:20/255.0 alpha:1.0]
+#define tableViewCellBackgroundColor [UIColor colorWithRed:20.0/255.0 green:20.0/255.0 blue:20.0/255.0 alpha:1.0]

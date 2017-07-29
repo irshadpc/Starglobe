@@ -21,6 +21,9 @@ case "${TARGETED_DEVICE_FAMILY}" in
   3)
     TARGET_DEVICE_ARGS="--target-device tv"
     ;;
+  4)
+    TARGET_DEVICE_ARGS="--target-device watch"
+    ;;
   *)
     TARGET_DEVICE_ARGS="--target-device mac"
     ;;
@@ -77,17 +80,14 @@ EOM
   esac
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_resource "$PODS_CONFIGURATION_BUILD_DIR/KiipSDK/KiipSDKResources.bundle"
   install_resource "ZendeskSDK/ZendeskSDK.bundle"
   install_resource "ZendeskSDK/ZendeskSDKStrings.bundle"
 fi
 if [[ "$CONFIGURATION" == "Beta" ]]; then
-  install_resource "$PODS_CONFIGURATION_BUILD_DIR/KiipSDK/KiipSDKResources.bundle"
   install_resource "ZendeskSDK/ZendeskSDK.bundle"
   install_resource "ZendeskSDK/ZendeskSDKStrings.bundle"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_resource "$PODS_CONFIGURATION_BUILD_DIR/KiipSDK/KiipSDKResources.bundle"
   install_resource "ZendeskSDK/ZendeskSDK.bundle"
   install_resource "ZendeskSDK/ZendeskSDKStrings.bundle"
 fi

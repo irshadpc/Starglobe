@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Others</key>
+	<array>
+		<string>StarglobeSubscription</string>
+	</array>
+	<key>SharedSecret</key>
+	<string>749a1ca3750a421fa92cf8e139a6f539</string>
+</dict>
+</plist>

@@ -50,7 +50,7 @@
 @property GLuint programHandle;
 
 + (NSArray *)allActiveViews;
-+ (void)setAllViewsPaused:(BOOL)paused;
+- (void)setAllViewsPaused:(BOOL)paused;
 
 - (void)presentScene:(OpenGLScene *)scene;
 

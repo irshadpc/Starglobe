@@ -12,6 +12,7 @@
 #import "app.h"
 #include "r3/command.h"
 #include "r3/var.h"
+#include "star3map.h"
 #import "SAModalBrowserView.h"
 #import "CaptureSessionManager.h"
 #import "UIImage+Tint.h"
@@ -20,12 +21,11 @@
 #import "OnboardingViewController.h"
 #import "StarsTableViewController.h"
 #import "UpgradeViewController.h"
-#import "FavoritesTableViewController.h"
-#import "SettingsTableViewController.h"
 #import "UIView+MLScreenshot.h"
 #import "BranchLinkProperties.h"
 #import "BranchUniversalObject.h"
-
+#import "MKStoreKit.h"
+#import "UAAppReviewManager.h"
 
 extern bool calibrationEnabled;
 extern float redVisionDestination;
@@ -54,12 +54,7 @@ extern float redVisionDestination;
 -(void) viewDidLoad{
     [super viewDidLoad];
     
-    NSString *path = [NSString stringWithFormat:@"%@/soundtrack.mp3", [[NSBundle mainBundle] resourcePath]];
-    NSURL *soundUrl = [NSURL fileURLWithPath:path];
-    
-    // Create audio player object and initialize with URL to sound
-    _audioPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:soundUrl error:nil];
-    _audioPlayer.numberOfLoops = -1;
+    useCompass = YES;
     
     _locationManager = [[CLLocationManager alloc] init];
     _locationManager.delegate = self;
@@ -68,8 +63,7 @@ extern float redVisionDestination;
     [_locationManager startUpdatingHeading];
     
     redVisionEnabled = NO;
-    satellitesShowing = YES;
-    useCompass = YES;
+    
     
     BOOL hasCamera = [UIImagePickerController isSourceTypeAvailable:UIImagePickerControllerSourceTypeCamera];
     if ([[NSUserDefaults standardUserDefaults] boolForKey:@"ARModeOn"] == NO) {
@@ -142,50 +136,155 @@ extern float redVisionDestination;
     [self.view addSubview:self.searchButton];
     [self.searchButton addTarget:self action:@selector(showStars) forControlEvents:UIControlEventTouchUpInside];
     
-    //if (![[NSUserDefaults standardUserDefaults]boolForKey:@"IntroShown"]) {
-        [self showIntro];
-    //}
     
+    
+    NSString *path = [NSString stringWithFormat:@"%@/soundtrack.mp3", [[NSBundle mainBundle] resourcePath]];
+    NSURL *soundUrl = [NSURL fileURLWithPath:path];
+    
+    _audioPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:soundUrl error:nil];
+    _audioPlayer.numberOfLoops = -1;
+    
+    if ([[NSUserDefaults standardUserDefaults] boolForKey:@"MusicOn"]) {
+        [_audioPlayer play];
+    } else {
+        [_audioPlayer pause];
+    }
+    
+    self.HUD = [[MBProgressHUD alloc]initWithView:self.view];
+    self.HUD.mode = MBProgressHUDModeIndeterminate;
+    self.HUD.square = NO;
+    
+    
+    [[MKStoreKit sharedKit] startProductRequest];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"Purchase" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"RestoredPurchase" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedRestoring" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedPurchase" object:nil];
+    self.bannerView = [[GADBannerView alloc] initWithAdSize:kGADAdSizeSmartBannerPortrait origin:CGPointMake(0, self.view.frame.size.height - _bannerView.frame.size.height)];
+    
+#ifdef STARGLOBE_FREE
+    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1007000083";
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8530266883"];
+#endif
+
+#ifdef STARGLOBE_PRO
+    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1354749203";
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8583691902"];
+#endif
+
+    self.bannerView.rootViewController = self;
+    
+    if ([[GeneralHelper sharedManager]freeVersion]) {
+        [self.view addSubview:self.bannerView];
+        [self.bannerView loadRequest:[GADRequest request]];
+        [self.interstitial loadRequest:[GADRequest request]];
+    }
+    satellitesShowing = [[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"];
+    [glView toggleSatellites:[[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"]];
+    [glView toggleCompass:NO];
+}
+
+- (void)succesfulPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobePro"];
+        [_bannerView removeFromSuperview];
+    }];
+}
+
+
+- (void)failedPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+        [self.HUD hideAnimated:NO];
+    }];
+}
+
+-(void)dealloc{
+    [[NSNotificationCenter defaultCenter]removeObserver:self];
+}
+
+
+- (void)viewDidLayoutSubviews {
+    [super viewDidLayoutSubviews];
+    [self.menuButton setFrame:CGRectMake(0, 0, 50, 50)];
+    [self.gyroButton setFrame:CGRectMake((self.view.frame.size.width - 50)/2 , 0, 50, 50)];
+    [self.searchButton setFrame:CGRectMake(self.view.frame.size.width-50, 0, 50, 50)];
+    [self.bannerView setFrame:CGRectMake(0, self.view.frame.size.height - _bannerView.frame.size.height, _bannerView.frame.size.width, _bannerView.frame.size.height)];
+
 }
 
 - (void)showStars{
-    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
+    self.lastContext = [EAGLContext currentContext];
+    [EAGLContext setCurrentContext:nil];
     
-    [FIRAnalytics logEventWithName:@"Tapped_Add_Files" parameters:nil];
+    [FIRAnalytics logEventWithName:@"Tapped_Show_Stars" parameters:nil];
+
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
     
     UITabBarController *tabbarController = [[UITabBarController alloc]init];
     
     StarsTableViewController *stars = [storyboard instantiateViewControllerWithIdentifier:@"StarsTableViewController"];
     UINavigationController *starsNavigationController = [[UINavigationController alloc] initWithRootViewController:stars];
     
-    FavoritesTableViewController *favorites = [storyboard instantiateViewControllerWithIdentifier:@"FavoritesTableViewController"];
-    UINavigationController *favoritesNavigationController = [[UINavigationController alloc] initWithRootViewController:favorites];
+    starsNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"Discover", nil) image:[UIImage imageNamed:@"menu_icon_stars"] tag:11];
     
-    starsNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemSearch tag:11];
+    UINavigationController *solarSystemNavigationController = [[UINavigationController alloc] initWithRootViewController:[SolarSystemViewController sharedInstance]];
+    solarSystemNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"Solar System", nil) image:[UIImage imageNamed:@"menu_icon_solar_system"] tag:12];
     
-    favoritesNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemFavorites tag:12];
-    
-    SolarSystemViewController *solarSystem = [SolarSystemViewController sharedInstance];
-    UINavigationController *solarSystemNavigationController = [[UINavigationController alloc] initWithRootViewController:solarSystem];
-    solarSystemNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemFavorites tag:13];
-    
-    if ([[GeneralHelper sharedManager]freeVersion] && [[NSUserDefaults standardUserDefaults]boolForKey:@"ProEnabled"] == NO) {
+    if ([[GeneralHelper sharedManager]freeVersion]) {
         UpgradeViewController *upgradeSettings = [storyboard instantiateViewControllerWithIdentifier:@"UpgradeViewController"];
         upgradeSettings.inTabbar = YES;
         UINavigationController *upgradeNavigation = [[UINavigationController alloc]initWithRootViewController:upgradeSettings];
-        upgradeNavigation.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"UpgradeNowTitle", nil) image:[UIImage imageNamed:@"more"] tag:14];
+        upgradeNavigation.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"Upgrade", nil) image:[UIImage imageNamed:@"more"] tag:13];
         
-        [tabbarController setViewControllers:@[starsNavigationController, favoritesNavigationController, solarSystemNavigationController, upgradeNavigation]];
+        [tabbarController setViewControllers:@[solarSystemNavigationController, starsNavigationController, upgradeNavigation]];
     } else {
-        [tabbarController setViewControllers:@[starsNavigationController, favoritesNavigationController, solarSystemNavigationController]];
+        [tabbarController setViewControllers:@[solarSystemNavigationController, starsNavigationController]];
     }
     
-    if([UIDevice currentDevice].userInterfaceIdiom == UIUserInterfaceIdiomPad){
-        tabbarController.modalPresentationStyle = UIModalPresentationFormSheet;
-    }
+    tabbarController.tabBar.tintColor = [UIColor whiteColor];
+    
+ 
     dispatch_async(dispatch_get_main_queue(), ^{
         [self presentViewController:tabbarController animated:YES completion:nil];
     });
+}
+
+- (void)showUpgradeView{
+    self.lastContext = [EAGLContext currentContext];
+    [EAGLContext setCurrentContext:nil];
+        
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
+    
+    
+    UITabBarController *tabbarController = [[UITabBarController alloc]init];
+    
+    StarsTableViewController *stars = [storyboard instantiateViewControllerWithIdentifier:@"StarsTableViewController"];
+    UINavigationController *starsNavigationController = [[UINavigationController alloc] initWithRootViewController:stars];
+    
+    starsNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"Discover", nil) image:[UIImage imageNamed:@"menu_icon_stars"] tag:11];
+    
+    UINavigationController *solarSystemNavigationController = [[UINavigationController alloc] initWithRootViewController:[SolarSystemViewController sharedInstance]];
+    solarSystemNavigationController.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"Solar System", nil) image:[UIImage imageNamed:@"menu_icon_solar_system"] tag:12];
+    
+    if ([[GeneralHelper sharedManager]freeVersion]) {
+        UpgradeViewController *upgradeSettings = [storyboard instantiateViewControllerWithIdentifier:@"UpgradeViewController"];
+        upgradeSettings.inTabbar = YES;
+        UINavigationController *upgradeNavigation = [[UINavigationController alloc]initWithRootViewController:upgradeSettings];
+        upgradeNavigation.tabBarItem = [[UITabBarItem alloc] initWithTitle:NSLocalizedString(@"Upgrade", nil) image:[UIImage imageNamed:@"more"] tag:13];
+        
+        [tabbarController setViewControllers:@[solarSystemNavigationController, starsNavigationController , upgradeNavigation]];
+    } else {
+        [tabbarController setViewControllers:@[solarSystemNavigationController, starsNavigationController ]];
+    }
+    
+    tabbarController.tabBar.tintColor = [UIColor whiteColor];
+    [tabbarController setSelectedIndex:2];
+    
+    dispatch_async(dispatch_get_main_queue(), ^{
+        [self presentViewController:tabbarController animated:YES completion:nil];
+    });
+
 }
 
 - (void)showSettingsPopover{
@@ -202,10 +301,6 @@ extern float redVisionDestination;
     [self.self.popupViewController dismiss];
 }
 
-- (void)showIAPPopup{
-  //  [GLInAppPurchaseUI alloc]init
-}
-
 - (void)toggleCompass:(id)sender {
     extern r3::VarBool app_useCompass;
     if(!app_useCompass.GetVal()) {
@@ -218,8 +313,10 @@ extern float redVisionDestination;
 
 
 - (void)showIntro {
-    OnboardingContentViewController *firstPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"WelcomeScreenSkyTrackingTitle", nil) body:NSLocalizedString(@"WelcomeScreenSkyTrackingText", nil) image:[UIImage imageNamed:@"stars"] buttonText:@"Text For Button" action:^{
-        
+    UIEdgeInsets insets = UIEdgeInsetsMake(0.0f, 20.0f, 0.0f, 20.0f);
+    UIImage *normalImage = [[UIImage imageNamed:@"button"] resizableImageWithCapInsets:insets];
+    
+    OnboardingContentViewController *firstPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Welcome to Starglobe", nil) body:NSLocalizedString(@"Starglobe is magical. Simply raise your iPhone or iPad to the sky to identify planets, constellation or even satellites!", nil) image:[UIImage imageNamed:@"stars"] buttonText:NSLocalizedString(@"Next", nil) action:^{
         
     }];
     firstPage.titleLabel.font = [UIFont fontWithName:@"Bree-Oblique" size:27.0];
@@ -228,7 +325,7 @@ extern float redVisionDestination;
     firstPage.movesToNextViewController = YES;
 
     
-    OnboardingContentViewController *secondPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"WelcomeScreenSolarSystemTitle", nil) body:NSLocalizedString(@"WelcomeScreenSolarSystemText", nil) image:[UIImage imageNamed:@"planet"] buttonText:NSLocalizedString(@"Text For Button", nil) action:^{
+    OnboardingContentViewController *secondPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Detailed Solar System", nil) body:NSLocalizedString(@"Deep zoom to reveal more stars in the new Power Sky View. With animated high-res planets and over 110000 more objects, there’s plenty to explore!", nil) image:[UIImage imageNamed:@"planet"] buttonText:NSLocalizedString(@"Next", nil) action:^{
         
     }];
     secondPage.titleLabel.font = [UIFont fontWithName:@"Bree-Oblique" size:27.0];
@@ -237,51 +334,72 @@ extern float redVisionDestination;
     secondPage.movesToNextViewController = YES;
 
     
-    OnboardingContentViewController *thirdPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Geolocation", nil) body:NSLocalizedString(@"WelcomeScreenGeolocationPermission", nil) image:[UIImage imageNamed:@"location"] buttonText:NSLocalizedString(@"Allow", nil) action:^{
+    OnboardingContentViewController *thirdPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Geolocation", nil) body:NSLocalizedString(@"Geolocation permissions are needed to create an accurate Sky View. You must allow this for Starglobe to identify objects in the sky above.", nil) image:[UIImage imageNamed:@"location"] buttonText:NSLocalizedString(@"Allow", nil) action:^{
         [_locationManager requestWhenInUseAuthorization];
     }];
     thirdPage.titleLabel.font = [UIFont fontWithName:@"Bree-Oblique" size:27.0];
     thirdPage.bodyLabel.font = [UIFont fontWithName:@"Roboto-Light" size:14.0];
     thirdPage.movesToNextViewController = YES;
-
+    [thirdPage.actionButton setBackgroundImage:normalImage forState:UIControlStateNormal];
+    thirdPage.actionButton.titleLabel.font = [UIFont boldSystemFontOfSize:21];
+    thirdPage.bottomPadding = 40;
     
-    OnboardingContentViewController *fourthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Starglobe Premium", nil) body:NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Upgrade", nil) action:^{
-        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"IntroShown"];
-        [[NSUserDefaults standardUserDefaults] synchronize];
+    
+    OnboardingContentViewController *fourthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Starglobe Premium", nil) body:NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Try for Free", nil) action:^{
+        self.showUpgrade = YES;
+
     }];
     fourthPage.titleLabel.font = [UIFont fontWithName:@"Bree-Oblique" size:27.0];
     fourthPage.bodyLabel.font = [UIFont fontWithName:@"Roboto-Light" size:14.0];
     fourthPage.actionButton.titleLabel.text = NSLocalizedString(@"Start 1 month free trial!", nil);
+    [fourthPage.actionButton setBackgroundImage:normalImage forState:UIControlStateNormal];
+    fourthPage.actionButton.titleLabel.font = [UIFont boldSystemFontOfSize:21];
     fourthPage.movesToNextViewController = YES;
+    fourthPage.bottomPadding = 40;
+    [fourthPage.view addSubview:self.HUD];
+
     
+    OnboardingContentViewController *fifthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Starglobe Premium", nil) body:NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Upgrade", nil) action:^{
+    }];
     
-    OnboardingViewController *onboardingVC = [OnboardingViewController onboardWithBackgroundImage:[UIImage imageNamed:@"OnboardBackground"] contents:@[firstPage, secondPage, thirdPage, fourthPage]];
+    fifthPage.viewWillAppearBlock = ^{
+        [self dismissViewControllerAnimated:YES completion:nil];
+    };
+
+    
+    OnboardingViewController *onboardingVC = [OnboardingViewController onboardWithBackgroundImage:[UIImage imageNamed:@"OnboardBackground"] contents:@[firstPage, secondPage, thirdPage, fourthPage, fifthPage]];
     onboardingVC.shouldFadeTransitions = YES;
     onboardingVC.shouldMaskBackground = NO;
     onboardingVC.fadePageControlOnLastPage = YES;
     onboardingVC.allowSkipping = YES;
     [onboardingVC.skipButton setTitle:NSLocalizedString(@"", nil) forState:UIControlStateNormal];
-
-    fourthPage.viewWillAppearBlock = ^{ NSLog(@"viewdidappearblock");
-        [onboardingVC.skipButton setTitle:NSLocalizedString(@"Skip", nil) forState:UIControlStateNormal];
+    onboardingVC.skipHandler = ^{
+        [self dismissViewControllerAnimated:YES completion:nil];
     };
+    
+    fourthPage.viewDidAppearBlock = ^{
+        [onboardingVC.skipButton setTitle:NSLocalizedString(@"Skip", nil) forState:UIControlStateNormal];
+        [onboardingVC.pageControl setHidden:YES];
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"StarglobeFirstLaunch"];
+        [[NSUserDefaults standardUserDefaults] synchronize];
+    };
+    
     
     [self presentViewController:onboardingVC animated:YES completion:nil];
 }
 
+- (void)viewWillAppear:(BOOL)animated{
+    [super viewWillAppear:animated];
+    
+    self.navigationController.navigationBarHidden = YES;
+    [self.navigationController.navigationBar setBarStyle:UIBarStyleBlack];
+}
+
+
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
-    if (_takeScreenshot) {
-        _takeScreenshot = NO;
-        UIImage *shareImage = [self screenshot];
-        NSArray *items = @[shareImage];
-        
-        UIActivityViewController *controller = [[UIActivityViewController alloc]initWithActivityItems:items applicationActivities:nil];
-        
-        [self presentViewController:controller animated:YES completion:nil];
-    }
-    
+
     //[glView setRenderer];
     if ([[NSUserDefaults standardUserDefaults] boolForKey:@"ARModeOn"] == NO && cameraView) {
         [cameraView setAlpha:0.0];
@@ -306,7 +424,7 @@ extern float redVisionDestination;
                                                                       CGRectGetMidY(layerRect))];
         [cameraView.layer addSublayer:[[self captureManager] previewLayer]];
         [[captureManager captureSession] startRunning];
-
+        
     }
     if (self.lastContext) {
         [EAGLContext setCurrentContext:self.lastContext];
@@ -314,11 +432,55 @@ extern float redVisionDestination;
     [glView startAnimation];
     //[glView drawView:self];
     
+    
+    if ([[NSUserDefaults standardUserDefaults] boolForKey:@"MusicOn"]) { NSLog(@"MusicOn");
+        [_audioPlayer play];
+    } else {
+        [_audioPlayer pause];
+    }
+    
     if (!_firstLoaded) {
         _firstLoaded = YES;
-        [_audioPlayer play];
+        
     }
+    _isVisible = YES;
+    //[self showIntro];
+
+    if ([[NSUserDefaults standardUserDefaults]boolForKey:@"StarglobeFirstLaunch"]) {
+        [self showIntro];
+    } else if (_showUpgrade) {
+        _showUpgrade = NO;
+        [self showUpgradeView];
+    } else if (_takeScreenshot) {
+        _takeScreenshot = NO;
+        UIImage *shareImage = [self screenshot];
+        NSArray *items = @[shareImage];
+        
+        UIActivityViewController *controller = [[UIActivityViewController alloc]initWithActivityItems:items applicationActivities:nil];
+        
+        [self presentViewController:controller animated:YES completion:nil];
+    } else if (_showDiscover) {
+        _showDiscover = NO;
+        [self showStars];
+    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 3 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
+        if (self.interstitial.isReady) {
+            [self.interstitial presentFromRootViewController:self];
+            [self.interstitial loadRequest:[GADRequest request]];
+        } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 6 == 0) {
+            if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
+                [SKStoreReviewController requestReview];
+            } else {
+                [UAAppReviewManager showPrompt];
+            }
+        } else {
+            [self showUpgradeView];
+        }
+        _dontshowInterstitial = YES;
+    }
+    
+    [[NSUserDefaults standardUserDefaults] setInteger:[[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] + 1 forKey:@"InterstitialCounter"];
 }
+
 
 -(void) viewDidUnload{
 }
@@ -329,18 +491,12 @@ extern float redVisionDestination;
     redVisionDestination = redVisionEnabled ? 1.0f : 0.0f;
 }
 
--(void) viewWillAppear: (BOOL)animated{
-    [super viewWillDisappear:animated];
-    self.navigationController.navigationBarHidden = YES;
-    [self.navigationController.navigationBar setBarStyle:UIBarStyleBlack];
-    
-    //[glView startAnimation];
-    
-}
+
 
 - (void)viewWillDisappear:(BOOL)animated {
     [super viewWillDisappear:animated];
     [glView stopAnimation];
+    _isVisible = NO;
 }
 
 
@@ -407,8 +563,7 @@ extern float redVisionDestination;
     }
     if ([[NSUserDefaults standardUserDefaults] boolForKey:@"ARModeOn"] == YES && cameraView) {
         [cameraView setAlpha:[[NSUserDefaults standardUserDefaults] floatForKey:@"CameraValue"]];
-    }
-    else if ([[NSUserDefaults standardUserDefaults] boolForKey:@"ARModeOn"] == YES && !cameraView) {
+    } else if ([[NSUserDefaults standardUserDefaults] boolForKey:@"ARModeOn"] == YES && !cameraView) {
         self.cameraView = [[UIView alloc] initWithFrame:self.view.bounds];
         [self.view addSubview:cameraView];
         [cameraView setUserInteractionEnabled:NO];
@@ -425,7 +580,6 @@ extern float redVisionDestination;
                                                                       CGRectGetMidY(layerRect))];
         [cameraView.layer addSublayer:[[self captureManager] previewLayer]];
         [[captureManager captureSession] startRunning];
-        
     }
     return YES;
 }
@@ -444,8 +598,7 @@ extern float redVisionDestination;
     static NSString * cellIdentifier = @"CellIdentifier";
     
     UITableViewCell * cell = [tableView dequeueReusableCellWithIdentifier: cellIdentifier];
-    if(cell == nil)
-    {
+    if (cell == nil) {
         cell = [[UITableViewCell alloc] initWithStyle: UITableViewCellStyleDefault reuseIdentifier: cellIdentifier];
         cell.accessoryType = UITableViewCellAccessoryNone;
         cell.backgroundColor = [UIColor blackColor];
@@ -462,8 +615,7 @@ extern float redVisionDestination;
     
     [calibrateButton setTitle: calibrationEnabled ? @"Done" : @"Calibrate" forState: UIControlStateNormal];
     
-    if(calibrationEnabled)
-    {
+    if (calibrationEnabled){
         [[UIApplication sharedApplication].delegate performSelector: @selector(startCapture)];
         
         extern r3::VarBool app_useCompass;
@@ -473,16 +625,13 @@ extern float redVisionDestination;
         extern r3::VarBool app_useCoreLocation;
         if(!app_useCoreLocation.GetVal())
             r3::ExecuteCommand("toggle app_useCoreLocation");
-    }
-    else
-    {
+    } else {
         [[UIApplication sharedApplication].delegate performSelector: @selector(stopCapture)];
     }
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 
@@ -493,7 +642,7 @@ extern float redVisionDestination;
     NSTimeInterval locationAge = -[newLocation.timestamp timeIntervalSinceNow];
     if(locationAge > 5.0)
         return;
-    
+    NSLog(@"latitude %d longitude %d", newLocation.coordinate.latitude, newLocation.coordinate.longitude);
     setLocation(newLocation.coordinate.latitude, newLocation.coordinate.longitude);
 }
 
@@ -570,8 +719,6 @@ extern float redVisionDestination;
 
 
 - (void)cameraPressed{
-    
-    
     /*extern r3::VarBool app_useCoreLocation;
     if(!app_useCoreLocation.GetVal()) {
         r3::ExecuteCommand("toggle app_useCoreLocation");
@@ -590,13 +737,13 @@ extern float redVisionDestination;
 
 - (void)musicPressed{
     if (_audioPlayer.isPlaying) {
-        [_audioPlayer play];
-    } else {
         [_audioPlayer pause];
+    } else {
+        [_audioPlayer play];
     }
 }
 
-- (void)infosPressed{
+- (void)satellitesPressed{
     if (satellitesShowing) {
         [glView toggleSatellites:NO];
         satellitesShowing = NO;
@@ -623,5 +770,14 @@ extern float redVisionDestination;
 - (void)upgradePressed{
     
 }
+
+- (void)changedCameraTime:(float)time{
+
+}
+
+-(void)changedFadeTime:(float)time{
+    RampDownTime = time;
+}
+
 
 @end

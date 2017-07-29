@@ -83,11 +83,11 @@ VarBool app_changeLocation( "app_changeLocation", "change current location when 
 VarBool app_useCoreLocation( "app_useCoreLocation", "use the location services to get global position", 1, false );
 VarBool app_showSatellites( "app_showSatellites", "use TLE satellite data to show satellites", 0, false );
 VarString app_satelliteFile( "app_satelliteFile", "file to use for satellite data", 0, "visual.txt" );
-VarInteger app_maxSatellites( "app_maxSatellites", "maximum number of satellites to display", 0, 100 );
+VarInteger app_maxSatellites( "app_maxSatellites", "maximum number of satellites to display", 0, 1);
 VarString app_stationsFile( "app_StationsFile", "file to use for stations data", 0, "stations.txt" );
 VarString app_constellationsFile( "app_ConstellationsFile", "file to use for constellations data", 0, "constellations_overlays.txt" );
 VarString app_telescopeFile( "app_TelescopeFile", "file to use for telescopes data", 0, "telescope.txt" );
-VarInteger app_maxStations( "app_maxStations", "maximum number of stations to display", 0, 7 );
+VarInteger app_maxStations( "app_maxStations", "maximum number of stations to display", 0, 8);
 
 VarFloat app_inputDrag( "app_inputDrag", "drag factor on input for inertia effect", 0, .9 );
 
@@ -863,7 +863,7 @@ namespace star3map {
 			Vec4f c( .5, .5, .7, .5 );
 			Vec4f cl( .5, .5, .7, .8 );
             
-            if (l.name == "Andromeda") {
+         /*   if (l.name == "Andromeda") {
                 DrawSprite(CreateTexture2DFromFile( "constellations/andromeda_low.png", TextureFormat_RGBA ), 50, l.center, lookDir);
             } else if (l.name == "Antila") {
                 DrawSprite(CreateTexture2DFromFile( "constellations/antila_low.png", TextureFormat_RGBA ), 35, l.center, lookDir);
@@ -1027,7 +1027,7 @@ namespace star3map {
                 DrawSprite(CreateTexture2DFromFile( "constellations/volans_low.png", TextureFormat_RGBA ), 25, l.center, lookDir);
             } else if (l.name == "Vulpecula") {
                 DrawSprite(CreateTexture2DFromFile( "constellations/vulpecula_low.png", TextureFormat_RGBA ), 30, l.center, lookDir);
-            }
+            } */
             
             
 			if ( lookDir.Dot( l.center ) > l.limit ) {
@@ -1039,8 +1039,8 @@ namespace star3map {
 				}
                 //Output("constellation %s", l.name.c_str());
                 
-				if ( dynamicLabels.count( l.localizedName ) == 0 ) {
-					DynamicLabel dl( l.localizedName, l.center, lookDir, 0, cl, 2.5f );
+				if ( dynamicLabels.count( l.name ) == 0 ) {
+					DynamicLabel dl( l.name, l.center, lookDir, 0, cl, 2.5f );
 					dynamicLabels[ dl.name ] = dl;					
 				} else {
 					dynamicLabels[ l.name ].seen();
