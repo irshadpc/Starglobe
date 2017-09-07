@@ -60,21 +60,7 @@
         [_characteristicsArray addObject:images[@"name"]];
         [_characteristicsValueArray addObject:[images stringValue]];
     }
-    
-    if ([[GeneralHelper sharedManager]freeVersion]) {
-        self.bannerView = [[GADBannerView alloc] initWithAdSize:kGADAdSizeSmartBannerPortrait];
-#ifdef STARGLOBE_FREE
-        self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1007000083";
-#endif
-        
-#ifdef STARGLOBE_PRO
-        self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1354749203";
-        
-#endif
-        self.bannerView.rootViewController = self;
-        [self.view addSubview:self.bannerView];
-        [self.bannerView loadRequest:[GADRequest request]];
-    }
+
 }
 
 - (void)didReceiveMemoryWarning {
@@ -184,9 +170,5 @@
     return cell;
 }
 
-
-- (void)viewDidLayoutSubviews {
-    [self.bannerView setFrame:CGRectMake(0, self.view.frame.size.height - _bannerView.frame.size.height, _bannerView.frame.size.width, _bannerView.frame.size.height)];
-}
 
 @end

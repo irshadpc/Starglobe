@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '8AADB53AB74AF6750C95D18593943B87'
+               BlueprintIdentifier = 'A6A23A875A67EFAD92F0AEC26FD63C26'
                BlueprintName = 'UAAppReviewManager-UAAppReviewManager-iOS'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'UAAppReviewManager-iOS.bundle'>

@@ -24,6 +24,13 @@
 @property (strong) OpenGLView *glView;
 @property (strong) SolarSystemScene *solarSystemScene;
 
+@property (nonatomic, retain) UIView *bannerView;
+@property (nonatomic, retain) UIImageView *iconView;
+@property (nonatomic, retain) UILabel *headlineLabel;
+@property (nonatomic, retain) UILabel *subtitleLabel;
+@property (nonatomic, retain) UIButton *upgradeButton;
+@property (nonatomic, retain) UIButton *overlayButton;
+
 @property UIView *sidebarView;
 @property UIView *tabSelectorMasterView;
 @property UISegmentedControl *tabSelector;
@@ -86,22 +93,19 @@
     [self.navigationController setNavigationBarHidden:NO animated:animated];
 }
 
-
+- (void)upgradePressed{
+    [self.tabBarController setSelectedIndex:2];
+}
 
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
-    if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 3 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
-        if (self.interstitial.isReady) {
-            [self.interstitial presentFromRootViewController:self];
-            [self.interstitial loadRequest:[GADRequest request]];
-        } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 6 == 0) {
-            if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
-                [SKStoreReviewController requestReview];
-            } else {
-                [UAAppReviewManager showPrompt];
-            }
-        } else {
+    if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 5 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
             [self.tabBarController setSelectedIndex:2];
+    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 10 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
+        if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
+            [SKStoreReviewController requestReview];
+        } else {
+            [UAAppReviewManager showPrompt];
         }
     }
     
@@ -207,22 +211,59 @@
     
     [self populateScrollView];
     
-#ifdef STARGLOBE_FREE
-    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1007000083";
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8530266883"];
-#endif
+    if ([[GeneralHelper sharedManager]freeVersion]){
+        _bannerView = [[UIView alloc]initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 50)];
+        _bannerView.backgroundColor = [UIColor colorWithRed:25.0/255.0 green:25.0/255.0 blue:25.0/255.0 alpha:1.0];
+        [self.view addSubview:_bannerView];
+        
+        _iconView = [[UIImageView alloc]initWithFrame:CGRectMake(5, 5, 40, 40)];
+        _iconView.image = [UIImage imageNamed:@"Icon-Rounded"];
+        [_bannerView addSubview: _iconView];
+        
+        _headlineLabel = [[UILabel alloc]initWithFrame:CGRectMake(55, 10, self.view.frame.size.width - 60, 17)];
+        _headlineLabel.numberOfLines = 1;
+        _headlineLabel.font = [UIFont boldSystemFontOfSize:16];
+        _headlineLabel.textColor = [UIColor whiteColor];
+        _headlineLabel.text = NSLocalizedString(@"Starglobe Pro", nil);
+        [_bannerView addSubview: _headlineLabel];
+        
+        _subtitleLabel = [[UILabel alloc]initWithFrame:CGRectMake(55, 27, self.view.frame.size.width - 60, 33)];
+        _subtitleLabel.numberOfLines = 2;
+        _subtitleLabel.font = [UIFont systemFontOfSize:12];
+        _subtitleLabel.textColor = [UIColor whiteColor];
+        _subtitleLabel.text = NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil);
+        [_bannerView addSubview: _subtitleLabel];
+        
+        _upgradeButton = [UIButton buttonWithType:UIButtonTypeSystem];
+        [_upgradeButton setFrame:CGRectMake(_headlineLabel.frame.origin.x + _headlineLabel.frame.size.width + 10, 10, 95, 40)];
+        [_upgradeButton setTitle:NSLocalizedString(@"Upgrade", nil) forState:UIControlStateNormal];
+        [_upgradeButton.titleLabel setFont:[UIFont boldSystemFontOfSize:14]];
+        [_upgradeButton setBackgroundColor:[UIColor redColor]];
+        [_upgradeButton setTintColor:[UIColor whiteColor]];
+        [_upgradeButton addTarget:self action:@selector(upgradePressed) forControlEvents:UIControlEventTouchUpInside];
+        [_bannerView addSubview: _upgradeButton];
+        
+        _overlayButton = [UIButton buttonWithType:UIButtonTypeSystem];
+        [_overlayButton setBackgroundColor:[UIColor clearColor]];
+        [_overlayButton addTarget:self action:@selector(upgradePressed) forControlEvents:UIControlEventTouchDown];
+        [_overlayButton setFrame:_bannerView.frame];
+        [self.view addSubview:_overlayButton];
+        [self.view bringSubviewToFront:_overlayButton];
+        
+        
+    }
     
-#ifdef STARGLOBE_PRO
-    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1354749203";
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8583691902"];
-#endif
-    
-    self.bannerView.rootViewController = self;
-    
-    if ([[NSUserDefaults standardUserDefaults]integerForKey:@"LaunchCounter"] %2 == 0 && [[GeneralHelper sharedManager]freeVersion]) {NSLog(@"yoyo 0");
-        [self.view addSubview:self.bannerView];
-        [self.bannerView loadRequest:[GADRequest request]];
-        [self.interstitial loadRequest:[GADRequest request]];
+}
+
+- (void)viewDidLayoutSubviews {
+    [super viewDidLayoutSubviews];
+    if ([[GeneralHelper sharedManager]freeVersion]){
+        [_bannerView setFrame:CGRectMake(0, 00, self.view.frame.size.width, 60)];
+        [_iconView setFrame:CGRectMake(5, 5, 50, 50)];
+        [_headlineLabel setFrame:CGRectMake(65, 5, self.view.frame.size.width - 175, 20)];
+        [_subtitleLabel setFrame:CGRectMake(65, 24, self.view.frame.size.width - 175, 35)];
+        [_upgradeButton setFrame:CGRectMake(_headlineLabel.frame.origin.x + _headlineLabel.frame.size.width + 10, 0, 100, 60)];
+        [_overlayButton setFrame:_bannerView.frame];
     }
 }
 

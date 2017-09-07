@@ -3,22 +3,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 use_frameworks!
 
-target 'Starglobe' do
-use_frameworks!
-pod 'Ono'
-pod 'MZFormSheetPresentationController'
-pod 'UIAlertController+Blocks'
-pod 'Branch'
-pod 'ZendeskSDK'
-pod 'STPopup'
-pod 'MBProgressHUD'
-pod 'Firebase/Core'
-pod 'Firebase/Messaging'
-pod 'Firebase/AdMob'
-pod 'UAAppReviewManager'
-pod 'XMLDictionary'
-end
-
 target 'Starglobe Free' do
 use_frameworks!
 pod 'Ono'
@@ -30,7 +14,6 @@ pod 'STPopup'
 pod 'MBProgressHUD'
 pod 'Firebase/Core'
 pod 'Firebase/Messaging'
-pod 'Firebase/AdMob'
 pod 'UAAppReviewManager'
 pod 'XMLDictionary'
 end

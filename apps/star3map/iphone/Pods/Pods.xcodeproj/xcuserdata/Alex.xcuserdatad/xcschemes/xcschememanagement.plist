@@ -39,11 +39,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Starglobe.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Protobuf.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -82,17 +77,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>01DE8134A2C897D36B46A718458F3AAB</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>0B1405EEA9856557C5CC171EB665C014</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>1664A581754CC70ACAD65BDFC01ED12A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1776FA62428C1E66CC6A6BCB422E6051</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -102,17 +92,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2D5009EBFD109CEC7A9878C61953B34E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5333D5E864445ACE80B77042E3550B73</key>
+		<key>3CB2DD791AC80AD44CE21B0B63BFD26F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>5920BEF6D814D9C7388C84718F765191</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B9AF7E8A81A996AE54CE0BF3EA0504F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -127,27 +117,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8AADB53AB74AF6750C95D18593943B87</key>
+		<key>7F8A7D84250C07A00C52937EADA8C447</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C60A17F5290EFE8675F7B9390E60B012</key>
+		<key>9801A1267166813A23B1AEF887124FA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>996B97E06FA7095C8EB709291DC5CC1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6A23A875A67EFAD92F0AEC26FD63C26</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>CEDD59822D1E065D3DD831573A928B53</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D17F198B88596092987C46F859913F31</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E60A3E8BE488E1050B12590581FB6926</key>
 		<dict>
 			<key>primary</key>
 			<true/>

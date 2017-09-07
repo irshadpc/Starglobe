@@ -54,7 +54,6 @@ extern float redVisionDestination;
 -(void) viewDidLoad{
     [super viewDidLoad];
     
-    useCompass = YES;
     
     _locationManager = [[CLLocationManager alloc] init];
     _locationManager.delegate = self;
@@ -136,7 +135,45 @@ extern float redVisionDestination;
     [self.view addSubview:self.searchButton];
     [self.searchButton addTarget:self action:@selector(showStars) forControlEvents:UIControlEventTouchUpInside];
     
+    if ([[GeneralHelper sharedManager]freeVersion]){
+    _bannerView = [[UIView alloc]initWithFrame:CGRectMake(0, self.view.frame.size.height - 50, self.view.frame.size.width, 50)];
+    _bannerView.backgroundColor = [UIColor colorWithRed:25.0/255.0 green:25.0/255.0 blue:25.0/255.0 alpha:1.0];
+    [self.view addSubview:_bannerView];
     
+    _iconView = [[UIImageView alloc]initWithFrame:CGRectMake(5, 5, 40, 40)];
+    _iconView.image = [UIImage imageNamed:@"Icon-Rounded"];
+    [_bannerView addSubview: _iconView];
+    
+    _headlineLabel = [[UILabel alloc]initWithFrame:CGRectMake(55, 10, self.view.frame.size.width - 60, 17)];
+    _headlineLabel.numberOfLines = 1;
+    _headlineLabel.font = [UIFont boldSystemFontOfSize:16];
+    _headlineLabel.textColor = [UIColor whiteColor];
+    _headlineLabel.text = NSLocalizedString(@"Starglobe Pro", nil);
+    [_bannerView addSubview: _headlineLabel];
+    
+    _subtitleLabel = [[UILabel alloc]initWithFrame:CGRectMake(55, 27, self.view.frame.size.width - 60, 33)];
+    _subtitleLabel.numberOfLines = 2;
+    _subtitleLabel.font = [UIFont systemFontOfSize:12];
+    _subtitleLabel.textColor = [UIColor whiteColor];
+    _subtitleLabel.text = NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil);
+    [_bannerView addSubview: _subtitleLabel];
+    
+    _upgradeButton = [UIButton buttonWithType:UIButtonTypeSystem];
+    [_upgradeButton setFrame:CGRectMake(_headlineLabel.frame.origin.x + _headlineLabel.frame.size.width + 10, 10, 95, 40)];
+    [_upgradeButton setTitle:NSLocalizedString(@"Upgrade", nil) forState:UIControlStateNormal];
+    [_upgradeButton.titleLabel setFont:[UIFont boldSystemFontOfSize:14]];
+    [_upgradeButton setBackgroundColor:[UIColor redColor]];
+    [_upgradeButton setTintColor:[UIColor whiteColor]];
+    [_upgradeButton addTarget:self action:@selector(showUpgradeView) forControlEvents:UIControlEventTouchUpInside];
+    [_bannerView addSubview: _upgradeButton];
+    
+    _overlayButton = [UIButton buttonWithType:UIButtonTypeSystem];
+    [_overlayButton setBackgroundColor:[UIColor clearColor]];
+    [_overlayButton addTarget:self action:@selector(showUpgradeView) forControlEvents:UIControlEventTouchDown];
+    [_overlayButton setFrame:_bannerView.frame];
+    [self.view addSubview:_overlayButton];
+    [self.view bringSubviewToFront:_overlayButton];
+    }
     
     NSString *path = [NSString stringWithFormat:@"%@/soundtrack.mp3", [[NSBundle mainBundle] resourcePath]];
     NSURL *soundUrl = [NSURL fileURLWithPath:path];
@@ -161,25 +198,11 @@ extern float redVisionDestination;
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"RestoredPurchase" object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedRestoring" object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedPurchase" object:nil];
-    self.bannerView = [[GADBannerView alloc] initWithAdSize:kGADAdSizeSmartBannerPortrait origin:CGPointMake(0, self.view.frame.size.height - _bannerView.frame.size.height)];
     
-#ifdef STARGLOBE_FREE
-    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1007000083";
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8530266883"];
-#endif
-
-#ifdef STARGLOBE_PRO
-    self.bannerView.adUnitID = @"ca-app-pub-1395183894711219/1354749203";
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8583691902"];
-#endif
-
-    self.bannerView.rootViewController = self;
-    
-    if ([[GeneralHelper sharedManager]freeVersion]) {
-        [self.view addSubview:self.bannerView];
-        [self.bannerView loadRequest:[GADRequest request]];
-        [self.interstitial loadRequest:[GADRequest request]];
+    if (satellitesShowing){
+        NSLog(@"satellitesShowing");
     }
+
     satellitesShowing = [[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"];
     [glView toggleSatellites:[[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"]];
     [glView toggleCompass:NO];
@@ -188,7 +211,6 @@ extern float redVisionDestination;
 - (void)succesfulPurchase{
     [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobePro"];
-        [_bannerView removeFromSuperview];
     }];
 }
 
@@ -209,8 +231,14 @@ extern float redVisionDestination;
     [self.menuButton setFrame:CGRectMake(0, 0, 50, 50)];
     [self.gyroButton setFrame:CGRectMake((self.view.frame.size.width - 50)/2 , 0, 50, 50)];
     [self.searchButton setFrame:CGRectMake(self.view.frame.size.width-50, 0, 50, 50)];
-    [self.bannerView setFrame:CGRectMake(0, self.view.frame.size.height - _bannerView.frame.size.height, _bannerView.frame.size.width, _bannerView.frame.size.height)];
-
+    if ([[GeneralHelper sharedManager]freeVersion]){
+    [_bannerView setFrame:CGRectMake(0, self.view.frame.size.height - 60, self.view.frame.size.width, 60)];
+    [_iconView setFrame:CGRectMake(5, 5, 50, 50)];
+    [_headlineLabel setFrame:CGRectMake(65, 5, self.view.frame.size.width - 175, 20)];
+    [_subtitleLabel setFrame:CGRectMake(65, 24, self.view.frame.size.width - 175, 35)];
+    [_upgradeButton setFrame:CGRectMake(_headlineLabel.frame.origin.x + _headlineLabel.frame.size.width + 10, 0, 100, 60)];
+    [_overlayButton setFrame:_bannerView.frame];
+    }
 }
 
 - (void)showStars{
@@ -344,11 +372,27 @@ extern float redVisionDestination;
     thirdPage.actionButton.titleLabel.font = [UIFont boldSystemFontOfSize:21];
     thirdPage.bottomPadding = 40;
     
-    
-    OnboardingContentViewController *fourthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Starglobe Premium", nil) body:NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Try for Free", nil) action:^{
-        self.showUpgrade = YES;
 
-    }];
+    
+    OnboardingContentViewController *fourthPage;
+    
+    if([[NSUserDefaults standardUserDefaults] boolForKey: @"StarglobeProForLife"]){
+        if([[NSUserDefaults standardUserDefaults] boolForKey: @"AppGratis"]){
+            fourthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"AppGratis", nil) body:NSLocalizedString(@"Thanks to AppGratis, you are receiving the Pro version (worth $9.99) of Starglobe for free!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Check out AppGratis", nil) action:^{
+                [[UIApplication sharedApplication]openURL:[NSURL URLWithString:@"http://appgratis.com"] options:[NSDictionary dictionary] completionHandler:nil];
+            }];
+        } else if([[NSUserDefaults standardUserDefaults] boolForKey: @"AppTurbo"]){
+            fourthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"AppGratis", nil) body:NSLocalizedString(@"Thanks to AppGratis, you are receiving the Pro version (worth $9.99) of Starglobe for free!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Check out AppGratis", nil) action:^{
+                [[UIApplication sharedApplication]openURL:[NSURL URLWithString:@"http://appturbo.com"] options:[NSDictionary dictionary] completionHandler:nil];
+            }];
+        }
+    } else {
+        fourthPage = [OnboardingContentViewController contentWithTitle:NSLocalizedString(@"Starglobe Premium", nil) body:NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil) image:[UIImage imageNamed:@"upgrade"] buttonText:NSLocalizedString(@"Try for Free", nil) action:^{
+            self.showUpgrade = YES;
+            
+        }];
+    }
+    
     fourthPage.titleLabel.font = [UIFont fontWithName:@"Bree-Oblique" size:27.0];
     fourthPage.bodyLabel.font = [UIFont fontWithName:@"Roboto-Light" size:14.0];
     fourthPage.actionButton.titleLabel.text = NSLocalizedString(@"Start 1 month free trial!", nil);
@@ -393,11 +437,23 @@ extern float redVisionDestination;
     
     self.navigationController.navigationBarHidden = YES;
     [self.navigationController.navigationBar setBarStyle:UIBarStyleBlack];
+    
+    
 }
 
 
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
+    
+    if (!_firstLoaded) {
+        _firstLoaded = YES;
+        satellitesShowing = [[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"];
+        [glView toggleSatellites:[[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"]];
+        [glView toggleCompass:NO];
+        useCompass = NO;
+    }
+    
+    
     
 
     //[glView setRenderer];
@@ -439,10 +495,7 @@ extern float redVisionDestination;
         [_audioPlayer pause];
     }
     
-    if (!_firstLoaded) {
-        _firstLoaded = YES;
-        
-    }
+    
     _isVisible = YES;
     //[self showIntro];
 
@@ -462,11 +515,8 @@ extern float redVisionDestination;
     } else if (_showDiscover) {
         _showDiscover = NO;
         [self showStars];
-    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 3 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
-        if (self.interstitial.isReady) {
-            [self.interstitial presentFromRootViewController:self];
-            [self.interstitial loadRequest:[GADRequest request]];
-        } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 6 == 0) {
+    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 5 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
+        if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 10 == 0) {
             if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
                 [SKStoreReviewController requestReview];
             } else {
@@ -475,7 +525,6 @@ extern float redVisionDestination;
         } else {
             [self showUpgradeView];
         }
-        _dontshowInterstitial = YES;
     }
     
     [[NSUserDefaults standardUserDefaults] setInteger:[[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] + 1 forKey:@"InterstitialCounter"];
@@ -642,7 +691,7 @@ extern float redVisionDestination;
     NSTimeInterval locationAge = -[newLocation.timestamp timeIntervalSinceNow];
     if(locationAge > 5.0)
         return;
-    NSLog(@"latitude %d longitude %d", newLocation.coordinate.latitude, newLocation.coordinate.longitude);
+    NSLog(@"≈ %d longitude %d", newLocation.coordinate.latitude, newLocation.coordinate.longitude);
     setLocation(newLocation.coordinate.latitude, newLocation.coordinate.longitude);
 }
 
@@ -651,7 +700,7 @@ extern float redVisionDestination;
 }
 
 -(void) accelerometer: (UIAccelerometer*)accelerometer didAccelerate: (UIAcceleration*)acceleration{
-    setAccel(acceleration.x, acceleration.y, acceleration.z);
+    setAccel(-acceleration.x, acceleration.y, -acceleration.z);
 }
 
 - (void)nightModePressed{

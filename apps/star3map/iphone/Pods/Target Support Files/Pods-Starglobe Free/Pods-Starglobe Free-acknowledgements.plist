@@ -94,16 +94,6 @@ SOFTWARE.</string>
 		</dict>
 		<dict>
 			<key>FooterText</key>
-			<string>Copyright 2017 Google</string>
-			<key>License</key>
-			<string>Copyright</string>
-			<key>Title</key>
-			<string>Google-Mobile-Ads-SDK</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>FooterText</key>
 			<string>
                                  Apache License
                            Version 2.0, January 2004
@@ -609,16 +599,13 @@ freely, subject to the following restrictions:
 		</dict>
 		<dict>
 			<key>FooterText</key>
-			<string>
-ZendeskSDK
+			<string>ZendeskSDK
 Created by Zendesk on  3/30/2017
 Copyright (c) 2017 Zendesk. All rights reserved.
-
 By downloading or using the Zendesk Mobile SDK, You agree to the Zendesk Master
 Subscription Agreement https://www.zendesk.com/company/customers-partners/#master-subscription-agreement and Application Developer and API License
 Agreement https://www.zendesk.com/company/customers-partners/#application-developer-api-license-agreement and
 acknowledge that such terms govern Your use of and access to the Mobile SDK.
-
 </string>
 			<key>License</key>
 			<string>Copyright</string>

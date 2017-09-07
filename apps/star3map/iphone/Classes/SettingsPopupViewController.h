@@ -26,7 +26,6 @@
 @end
 
 @interface SettingsPopupViewController : UIViewController <UNUserNotificationCenterDelegate, FIRMessagingDelegate>
-@property(nonatomic, strong) GADInterstitial *interstitial;
 @property (nonatomic, strong) UISlider * cameraSlider;
 @property (nonatomic, strong) UISwitch *cameraMode;
 @property (nonatomic, strong) UIButton *nightMode;
@@ -41,6 +40,12 @@
 @property (nonatomic, strong) UIButton *discoverMode;
 @property (nonatomic, strong) UIImageView *cameraSmall;
 @property (nonatomic, strong) UIImageView *cameraBig;
+@property (nonatomic, retain) UIView *bannerView;
+@property (nonatomic, retain) UIImageView *iconView;
+@property (nonatomic, retain) UILabel *headlineLabel;
+@property (nonatomic, retain) UILabel *subtitleLabel;
+@property (nonatomic, retain) UIButton *upgradeButton;
+@property (nonatomic, retain) UIButton *overlayButton;
 @property (nonatomic, weak) id <SettingsPopupDelegate> delegate;
 @end
 

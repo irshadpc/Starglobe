@@ -21,6 +21,4 @@
 - (void)restart;
 
 @property (nonatomic, strong) EAGLContext *lastContext;
-@property(nonatomic, strong) GADBannerView *bannerView;
-@property(nonatomic, strong) GADInterstitial *interstitial;
 @end

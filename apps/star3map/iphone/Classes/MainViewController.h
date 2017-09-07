@@ -55,12 +55,12 @@
 @property BOOL showDiscover;
 @property BOOL showUpgrade;
 @property BOOL isVisible;
-@property BOOL loadedInterstitial;
-@property BOOL loadedBanner;
-@property BOOL dontshowInterstitial;
-@property BOOL presentedInterstitial;
-@property(nonatomic, strong) GADBannerView *bannerView;
-@property(nonatomic, strong) GADInterstitial *interstitial;
+@property (nonatomic, retain) UIView *bannerView;
+@property (nonatomic, retain) UIImageView *iconView;
+@property (nonatomic, retain) UILabel *headlineLabel;
+@property (nonatomic, retain) UILabel *subtitleLabel;
+@property (nonatomic, retain) UIButton *upgradeButton;
+@property (nonatomic, retain) UIButton *overlayButton;
 @property (nonatomic, retain) MBProgressHUD *HUD;
 @property (nonatomic, strong) NSArray *products;
 @property (nonatomic, strong) AVAudioPlayer *audioPlayer;

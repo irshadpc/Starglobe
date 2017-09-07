@@ -8,8 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface StarListViewController : UITableViewController
+@interface StarListViewController : UIViewController
 @property NSArray *contentArray;
 @property int type;
-@property(nonatomic, strong) GADBannerView *bannerView;
+@property (nonatomic, retain) IBOutlet UITableView *tableView;
+@property (nonatomic, retain) UIView *bannerView;
+@property (nonatomic, retain) UIImageView *iconView;
+@property (nonatomic, retain) UILabel *headlineLabel;
+@property (nonatomic, retain) UILabel *subtitleLabel;
+@property (nonatomic, retain) UIButton *upgradeButton;
+@property (nonatomic, retain) UIButton *overlayButton;
 @end

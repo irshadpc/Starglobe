@@ -16,7 +16,11 @@
     if (self = [super init]) {
         CGRect screenBounds = [[UIScreen mainScreen] bounds];
         CGSize screenSize = CGSizeMake(screenBounds.size.width, screenBounds.size.height);
-        self.contentSizeInPopup = CGSizeMake(screenSize.width, 200);
+        if ([[GeneralHelper sharedManager]freeVersion]){
+            self.contentSizeInPopup = CGSizeMake(screenSize.width, 260);
+        } else {
+            self.contentSizeInPopup = CGSizeMake(screenSize.width, 200);
+        }
         self.popupController.navigationBarHidden = YES;
     }
     return self;
@@ -34,51 +38,140 @@
     
     self.view.backgroundColor = [UIColor colorWithRed:25.0/255.0 green:25.0/255.0 blue:25.0/255.0 alpha:1.0];
     
-    _camera = [UIButton buttonWithType:UIButtonTypeCustom];
-    [_camera setFrame:CGRectMake((screenSize.width-44)/2, 15, 44, 44)];
-    [_camera setImage:[UIImage imageNamed:@"controls_snapshot"] forState:UIControlStateNormal];
-    [_camera addTarget:self action:@selector(cameraPressed) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:_camera];
-    
-    _arMode = [UIButton buttonWithType:UIButtonTypeCustom];
-    [_arMode setFrame:CGRectMake(_camera.frame.origin.x - 59, 15, 44, 44)];
-    if ([[NSUserDefaults standardUserDefaults]boolForKey:@"ARModeOn"]){
-        [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera_on"] forState:UIControlStateNormal];
+    if ([[GeneralHelper sharedManager]freeVersion]){
+        _bannerView = [[UIView alloc]initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 50)];
+        _bannerView.backgroundColor = [UIColor colorWithRed:25.0/255.0 green:25.0/255.0 blue:25.0/255.0 alpha:1.0];
+        [self.view addSubview:_bannerView];
+        
+        _iconView = [[UIImageView alloc]initWithFrame:CGRectMake(5, 5, 40, 40)];
+        _iconView.image = [UIImage imageNamed:@"Icon-Rounded"];
+        [_bannerView addSubview: _iconView];
+        
+        _headlineLabel = [[UILabel alloc]initWithFrame:CGRectMake(55, 10, self.view.frame.size.width - 60, 17)];
+        _headlineLabel.numberOfLines = 1;
+        _headlineLabel.font = [UIFont boldSystemFontOfSize:16];
+        _headlineLabel.textColor = [UIColor whiteColor];
+        _headlineLabel.text = NSLocalizedString(@"Starglobe Pro", nil);
+        [_bannerView addSubview: _headlineLabel];
+        
+        _subtitleLabel = [[UILabel alloc]initWithFrame:CGRectMake(55, 27, self.view.frame.size.width - 60, 33)];
+        _subtitleLabel.numberOfLines = 2;
+        _subtitleLabel.font = [UIFont systemFontOfSize:12];
+        _subtitleLabel.textColor = [UIColor whiteColor];
+        _subtitleLabel.text = NSLocalizedString(@"Try all of the magical premium features of Starglobe for free right now!", nil);
+        [_bannerView addSubview: _subtitleLabel];
+        
+        _upgradeButton = [UIButton buttonWithType:UIButtonTypeSystem];
+        [_upgradeButton setFrame:CGRectMake(_headlineLabel.frame.origin.x + _headlineLabel.frame.size.width + 10, 10, 95, 40)];
+        [_upgradeButton setTitle:NSLocalizedString(@"Upgrade", nil) forState:UIControlStateNormal];
+        [_upgradeButton.titleLabel setFont:[UIFont boldSystemFontOfSize:14]];
+        [_upgradeButton setBackgroundColor:[UIColor redColor]];
+        [_upgradeButton setTintColor:[UIColor whiteColor]];
+        [_upgradeButton addTarget:self action:@selector(upgradePressed) forControlEvents:UIControlEventTouchUpInside];
+        [_bannerView addSubview: _upgradeButton];
+        
+        _overlayButton = [UIButton buttonWithType:UIButtonTypeSystem];
+        [_overlayButton setBackgroundColor:[UIColor clearColor]];
+        [_overlayButton addTarget:self action:@selector(upgradePressed) forControlEvents:UIControlEventTouchDown];
+        [_overlayButton setFrame:_bannerView.frame];
+        [self.view addSubview:_overlayButton];
+        [self.view bringSubviewToFront:_overlayButton];
+        
+        
+        
+        _camera = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_camera setFrame:CGRectMake((screenSize.width-44)/2, 75, 44, 44)];
+        [_camera setImage:[UIImage imageNamed:@"controls_snapshot"] forState:UIControlStateNormal];
+        [_camera addTarget:self action:@selector(cameraPressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_camera];
+        
+        _arMode = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_arMode setFrame:CGRectMake(_camera.frame.origin.x - 59, 75, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"ARModeOn"]){
+            [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera_on"] forState:UIControlStateNormal];
+        } else {
+            [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera"] forState:UIControlStateNormal];
+        }
+        [_arMode addTarget:self action:@selector(arModePressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_arMode];
+        
+        _nightMode = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_nightMode setFrame:CGRectMake(_arMode.frame.origin.x - 59, 75, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"NightModeOn"]){
+            [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode_on_red"] forState:UIControlStateNormal];
+        } else {
+            [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode"] forState:UIControlStateNormal];
+        }
+        [_nightMode addTarget:self action:@selector(nightModePressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_nightMode];
+        
+        _music = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_music setFrame:CGRectMake(_camera.frame.origin.x + 59, 75, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"MusicOn"]){
+            [_music setImage:[UIImage imageNamed:@"controls_music_on"] forState:UIControlStateNormal];
+        } else {
+            [_music setImage:[UIImage imageNamed:@"controls_music"] forState:UIControlStateNormal];
+        }
+        [_music addTarget:self action:@selector(musicPressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_music];
+        
+        _satellites = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_satellites setFrame:CGRectMake(_music.frame.origin.x + 59, 75, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"SatellitesOn"]){
+            [_satellites setImage:[UIImage imageNamed:@"controls_tracks_on"] forState:UIControlStateNormal];
+        } else {
+            [_satellites setImage:[UIImage imageNamed:@"controls_tracks"] forState:UIControlStateNormal];
+        }
+        [_satellites addTarget:self action:@selector(satellitesPressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_satellites];
     } else {
-        [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera"] forState:UIControlStateNormal];
+        _camera = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_camera setFrame:CGRectMake((screenSize.width-44)/2, 15, 44, 44)];
+        [_camera setImage:[UIImage imageNamed:@"controls_snapshot"] forState:UIControlStateNormal];
+        [_camera addTarget:self action:@selector(cameraPressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_camera];
+        
+        _arMode = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_arMode setFrame:CGRectMake(_camera.frame.origin.x - 59, 15, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"ARModeOn"]){
+            [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera_on"] forState:UIControlStateNormal];
+        } else {
+            [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera"] forState:UIControlStateNormal];
+        }
+        [_arMode addTarget:self action:@selector(arModePressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_arMode];
+        
+        _nightMode = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_nightMode setFrame:CGRectMake(_arMode.frame.origin.x - 59, 15, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"NightModeOn"]){
+            [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode_on_red"] forState:UIControlStateNormal];
+        } else {
+            [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode"] forState:UIControlStateNormal];
+        }
+        [_nightMode addTarget:self action:@selector(nightModePressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_nightMode];
+        
+        _music = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_music setFrame:CGRectMake(_camera.frame.origin.x + 59, 15, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"MusicOn"]){
+            [_music setImage:[UIImage imageNamed:@"controls_music_on"] forState:UIControlStateNormal];
+        } else {
+            [_music setImage:[UIImage imageNamed:@"controls_music"] forState:UIControlStateNormal];
+        }
+        [_music addTarget:self action:@selector(musicPressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_music];
+        
+        _satellites = [UIButton buttonWithType:UIButtonTypeCustom];
+        [_satellites setFrame:CGRectMake(_music.frame.origin.x + 59, 15, 44, 44)];
+        if ([[NSUserDefaults standardUserDefaults]boolForKey:@"SatellitesOn"]){
+            [_satellites setImage:[UIImage imageNamed:@"controls_tracks_on"] forState:UIControlStateNormal];
+        } else {
+            [_satellites setImage:[UIImage imageNamed:@"controls_tracks"] forState:UIControlStateNormal];
+        }
+        [_satellites addTarget:self action:@selector(satellitesPressed) forControlEvents:UIControlEventTouchUpInside];
+        [self.view addSubview:_satellites];
     }
-    [_arMode addTarget:self action:@selector(arModePressed) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:_arMode];
     
-    _nightMode = [UIButton buttonWithType:UIButtonTypeCustom];
-    [_nightMode setFrame:CGRectMake(_arMode.frame.origin.x - 59, 15, 44, 44)];
-    if ([[NSUserDefaults standardUserDefaults]boolForKey:@"NightModeOn"]){
-        [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode_on_red"] forState:UIControlStateNormal];
-    } else {
-        [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode"] forState:UIControlStateNormal];
-    }
-    [_nightMode addTarget:self action:@selector(nightModePressed) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:_nightMode];
-    
-    _music = [UIButton buttonWithType:UIButtonTypeCustom];
-    [_music setFrame:CGRectMake(_camera.frame.origin.x + 59, 15, 44, 44)];
-    if ([[NSUserDefaults standardUserDefaults]boolForKey:@"MusicOn"]){
-        [_music setImage:[UIImage imageNamed:@"controls_music_on"] forState:UIControlStateNormal];
-    } else {
-        [_music setImage:[UIImage imageNamed:@"controls_music"] forState:UIControlStateNormal];
-    }
-    [_music addTarget:self action:@selector(musicPressed) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:_music];
-    
-    _satellites = [UIButton buttonWithType:UIButtonTypeCustom];
-    [_satellites setFrame:CGRectMake(_music.frame.origin.x + 59, 15, 44, 44)];
-    if ([[NSUserDefaults standardUserDefaults]boolForKey:@"SatellitesOn"]){
-        [_satellites setImage:[UIImage imageNamed:@"controls_tracks_on"] forState:UIControlStateNormal];
-    } else {
-        [_satellites setImage:[UIImage imageNamed:@"controls_tracks"] forState:UIControlStateNormal];
-    }
-    [_satellites addTarget:self action:@selector(satellitesPressed) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:_satellites];
     
     
     _cameraSmall = [[UIImageView alloc]initWithFrame:CGRectMake(_nightMode.frame.origin.x, _camera.frame.origin.y + _camera.frame.size.height + 30, 20, 20)];
@@ -126,17 +219,19 @@
     [_rateApp setFrame:CGRectMake(_discoverMode.frame.origin.x + 70, _cameraSlider.frame.origin.y + _cameraSlider.frame.size.height + 20, 50, 50)];
     [_rateApp setImage:[UIImage imageNamed:@"controls_rateapp"] forState:UIControlStateNormal];
     [_rateApp setImage:[UIImage imageNamed:@"controls_rateapp_pink"] forState:UIControlStateDisabled];
-    [_rateApp addTarget:self action:@selector(showAd) forControlEvents:UIControlEventTouchUpInside];
+    [_rateApp addTarget:self action:@selector(upgradePressed) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:_rateApp];
     
-#ifdef STARGLOBE_FREE
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8530266883"];
-#endif
-    
-#ifdef STARGLOBE_PRO
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-1395183894711219/8583691902"];
-#endif
-    [self.interstitial loadRequest:[GADRequest request]];
+}
+
+- (void)viewDidLayoutSubviews {
+    [super viewDidLayoutSubviews];
+    [_bannerView setFrame:CGRectMake(0, 0, self.view.frame.size.width, 60)];
+    [_iconView setFrame:CGRectMake(5, 5, 50, 50)];
+    [_headlineLabel setFrame:CGRectMake(65, 5, self.view.frame.size.width - 175, 20)];
+    [_subtitleLabel setFrame:CGRectMake(65, 24, self.view.frame.size.width - 175, 35)];
+    [_upgradeButton setFrame:CGRectMake(_headlineLabel.frame.origin.x + _headlineLabel.frame.size.width + 10, 0, 100, 60)];
+    [_overlayButton setFrame:_bannerView.frame];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -249,14 +344,6 @@
     
     if([self.delegate respondsToSelector:@selector(upgradePressed)]) {
         [self.delegate upgradePressed];
-    }
-}
-
-- (void)showAd{
-    if (self.interstitial.isReady) {
-        [self.interstitial presentFromRootViewController:self];
-    } else {
-        [self upgradePressed];
     }
 }
 

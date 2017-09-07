@@ -16,5 +16,10 @@
 @property NSMutableArray *linkArray;
 @property NSString *contentFile;
 @property NSString *viewTitle;
-@property(nonatomic, strong) GADBannerView *bannerView;
+@property (nonatomic, retain) UIView *bannerView;
+@property (nonatomic, retain) UIImageView *iconView;
+@property (nonatomic, retain) UILabel *headlineLabel;
+@property (nonatomic, retain) UILabel *subtitleLabel;
+@property (nonatomic, retain) UIButton *upgradeButton;
+@property (nonatomic, retain) UIButton *overlayButton;
 @end

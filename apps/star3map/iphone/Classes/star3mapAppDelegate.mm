@@ -18,6 +18,7 @@
 using namespace std;
 
 #include "app.h"
+#import <StoreKit/StoreKit.h>
 
 @import Firebase;
 
@@ -194,15 +195,6 @@ extern double yRotation;
     
     [FIRApp configureWithOptions:firebaseOptions];
     
-    
-#ifdef STARGLOBE_FREE
-    [GADMobileAds configureWithApplicationID:@"ca-app-pub-1395183894711219~6800645684"];
-#endif
-    
-#ifdef STARGLOBE_PRO
-    [GADMobileAds configureWithApplicationID:@"ca-app-pub-1395183894711219~6291243282"];
-
-#endif
     
     // create main view controller
     //mainViewController = [[MainViewController alloc] initWithNibName: UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad ? @"MainViewController-iPad" : @"MainViewController"
@@ -406,7 +398,14 @@ extern double yRotation;
     Branch *branch = [Branch getInstance];
     [branch initSessionWithLaunchOptions:launchOptions andRegisterDeepLinkHandler:^(NSDictionary *params, NSError *error) {
         if (!error && params) {
-            NSLog(@"params: %@", params.description);
+            if ([[params objectForKey:@"StarglobeProForLife"]isEqualToString:@"True"]) {
+                if ([[params objectForKey:@"Provider"]isEqualToString:@"AppGratis"]) {
+                    [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"AppGratis"];
+                } else if ([[params objectForKey:@"Provider"]isEqualToString:@"AppTurbo"]) {
+                    [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"AppTurbo"];
+                }
+                [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobeProForLife"];
+            }
         }
     }];
     
@@ -531,11 +530,12 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
     
     CMDeviceMotion * deviceMotion = motionManager.deviceMotion;      
     CMAttitude     * attitude     = deviceMotion.attitude;
-
-    updateRotationMatrix(attitude.rotationMatrix.m11, attitude.rotationMatrix.m12, attitude.rotationMatrix.m13,
-                         attitude.rotationMatrix.m21, attitude.rotationMatrix.m22, attitude.rotationMatrix.m23,
-                         attitude.rotationMatrix.m31, attitude.rotationMatrix.m32, attitude.rotationMatrix.m33);
+    
+    updateRotationMatrix(-attitude.rotationMatrix.m11, -attitude.rotationMatrix.m12, attitude.rotationMatrix.m13,
+                         -attitude.rotationMatrix.m21, -attitude.rotationMatrix.m22, attitude.rotationMatrix.m23,
+                         -attitude.rotationMatrix.m31, -attitude.rotationMatrix.m32, attitude.rotationMatrix.m33);
 }
+
 
 -(UIImage*) imageFromSampleBuffer: (CMSampleBufferRef)sampleBuffer {
     CVImageBufferRef imageBuffer = CMSampleBufferGetImageBuffer(sampleBuffer); 

@@ -57,7 +57,7 @@ VarBool app_cull( "app_cull", "cull stars that are outside the current view", 0,
 VarFloat app_latBias( "app_latBias", "latitude bias - for debugging", 0, 0.0f );
 VarFloat app_lonBias( "app_lonBias", "longitude bias - for debugging", 0, 0.0f );
 
-VarFloat app_orientationHysteresis( "app_orientationHysteresis", "Ignore orientation noise below this threshold (degrees).", 0, 4 );
+VarFloat app_orientationHysteresis( "app_orientationHysteresis", "Ignore orientation noise below this threshold (degrees).", 0, 2 );
 
 extern VarBool app_useCoreLocation;
 extern vector< Sprite > stars;
@@ -108,17 +108,25 @@ bool useGyro = false;
 
 void updateRotationMatrix(float m11, float m12, float m13, 
                           float m21, float m22, float m23, 
-                          float m31, float m32, float m33)
-{
+                          float m31, float m32, float m33){
+    
+    
+    
     Matrix4f o;
 	o.SetRow( 0, Vec4f( m11, m12, m13, 0.0f ) );
 	o.SetRow( 1, Vec4f( m21, m22, m23, 0.0f ) );
 	o.SetRow( 2, Vec4f( m31, m32, m33, 0.0f ) );
 	o.SetRow( 3, Vec4f( 0.0, 0.0, 0.0, 1.0f ) );
     
-    Matrix4f calibration = Rotationf(Vec3f(0.0f, 0.0f, 1.0f), -yRotation).GetMatrix4();
+    Matrix4f r;
+    r.SetRow( 0, Vec4f( 1, 0, 0, 0.0f ) );
+    r.SetRow( 1, Vec4f( 0, -1, 0, 0.0f ) );
+    r.SetRow( 2, Vec4f( 0, 0, 1, 0.0f ) );
+    r.SetRow( 3, Vec4f( 0.0, 0.0, 0.0, 1.0f ) );
+    
+    Matrix4f calibration = Rotationf(Vec3f(0.0f, -1.0f, 0.0f), -yRotation).GetMatrix4();
 	
-	platformOrientation = o * calibration;//.Transpose();
+    platformOrientation = o ;//* calibration;//.Transpose();
     
     useGyro = true;
     
@@ -223,7 +231,9 @@ void setLocation( float latitude, float longitude ) {
     
 	platformLat = latitude + app_latBias.GetVal();
 	platformLon = longitude + app_lonBias.GetVal();
-	orientationDirty = true;
+    orientationDirty = true;
+    Output( "GotLocationUpdate: (%.2f, %.2f)", latitude, longitude);
+
 }
 
 Vec3f headings[2];
@@ -237,6 +247,7 @@ void setHeading( float x, float y, float z, float trueDiff ) {
 			app_useCompass.SetVal( true );
 		}
 	}
+    
 	
 	headings[ headingCount ] = Vec3f( x, y, z );
 	headingCount++;
@@ -247,7 +258,7 @@ void setHeading( float x, float y, float z, float trueDiff ) {
 	}
 	heading.Normalize();
 	trueHeadingDiff = trueDiff;
-	//Output( "heading: (%.2f, %.2f, %.2f)", x, y, z );
+	Output( "heading: (%.2f, %.2f, %.2f, %.2f)", x, y, z, trueDiff );
 	orientationDirty = true;
 }
 
@@ -264,7 +275,7 @@ void setAccel( float x, float y, float z ) {
 		accel += accels[ i ];
 	}
 	accel.Normalize();
-	//Output( "accel: (%.2f, %.2f, %.2f)", x, y, z );
+	Output( "accel: (%.2f, %.2f, %.2f)", x, y, z );
 	orientationDirty = true;
 }
 

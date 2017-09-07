@@ -45,10 +45,6 @@ Copyright 2017 Google
 
 Copyright 2017 Google
 
-## Google-Mobile-Ads-SDK
-
-Copyright 2017 Google
-
 ## GoogleToolboxForMac
 
 
@@ -496,16 +492,13 @@ freely, subject to the following restrictions:
 
 ## ZendeskSDK
 
-
 ZendeskSDK
 Created by Zendesk on  3/30/2017
 Copyright (c) 2017 Zendesk. All rights reserved.
-
 By downloading or using the Zendesk Mobile SDK, You agree to the Zendesk Master
 Subscription Agreement https://www.zendesk.com/company/customers-partners/#master-subscription-agreement and Application Developer and API License
 Agreement https://www.zendesk.com/company/customers-partners/#application-developer-api-license-agreement and
 acknowledge that such terms govern Your use of and access to the Mobile SDK.
-
 
 
 ## nanopb
