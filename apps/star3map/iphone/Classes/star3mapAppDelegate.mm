@@ -356,6 +356,18 @@ extern double yRotation;
 
                                                   }];
     
+    [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitProductPurchaseDeferredNotification
+                                                      object:nil
+                                                       queue:[[NSOperationQueue alloc] init]
+                                                  usingBlock:^(NSNotification *note) {
+                                                      NSLog(@"Failed restoring purchases with error: %@", [note object]);
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"FailedPurchase" object:nil];
+                                                      [[NSNotificationCenter defaultCenter]postNotificationName:@"FailedPurchaseUpgrade" object:nil];
+                                                      
+                                                  }];
+    
+    
+    
     [[NSNotificationCenter defaultCenter] addObserverForName:kMKStoreKitSubscriptionExpiredNotification
                                                       object:nil
                                                        queue:[[NSOperationQueue alloc] init]
@@ -479,10 +491,12 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application{
+    NSLog(@"applicationDidEnterBackground");
     [[NSUserDefaults standardUserDefaults]synchronize];
 }
 
 -(void) applicationWillEnterForeground: (UIApplication*)application{
+    NSLog(@"applicationWillEnterForeground");
     if (mainViewController.lastContext) {
         [EAGLContext setCurrentContext:mainViewController.lastContext];
     }
@@ -491,15 +505,25 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
 }
 
 -(void) applicationWillResignActive: (UIApplication*)application{
+    NSLog(@"applicationWillResignActive");
+    if (mainViewController.lastContext) {
+        [EAGLContext setCurrentContext:mainViewController.lastContext];
+    }
 	[glView stopAnimation];
     [[SolarSystemViewController sharedInstance]cleanUp];
 }
 
 -(void) applicationDidBecomeActive: (UIApplication*)application{
-    
+    NSLog(@"applicationDidBecomeActive");
+    if (mainViewController.lastContext) {
+        [EAGLContext setCurrentContext:mainViewController.lastContext];
+    }
+    [glView startAnimation];
+    [[SolarSystemViewController sharedInstance]restart];
 }
 
 -(void) applicationWillTerminate: (UIApplication*)application{
+    NSLog(@"applicationWillTerminate");
 	[glView stopAnimation];
 	platformQuit();
 }

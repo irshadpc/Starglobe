@@ -54,6 +54,7 @@
 @property BOOL takeScreenshot;
 @property BOOL showDiscover;
 @property BOOL showUpgrade;
+@property BOOL showMore;
 @property BOOL isVisible;
 @property (nonatomic, retain) UIView *bannerView;
 @property (nonatomic, retain) UIImageView *iconView;

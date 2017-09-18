@@ -101,7 +101,7 @@
     [super viewDidAppear:animated];
     if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 5 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
             [self.tabBarController setSelectedIndex:2];
-    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 10 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
+    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 9 == 0) {
         if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
             [SKStoreReviewController requestReview];
         } else {
@@ -126,6 +126,18 @@
 
 - (void)restart{
     [self.glView setAllViewsPaused: NO];
+}
+
+- (void)failedPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+    }];
+}
+
+- (void)succesfulPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobePro"];
+        [self.bannerView removeFromSuperview];
+    }];
 }
 
 -(void)dealloc{ NSLog(@"dealloc");
@@ -210,6 +222,11 @@
     [self.view addSubview:self.infoView];
     
     [self populateScrollView];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"Purchase" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"RestoredPurchase" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedRestoring" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedPurchase" object:nil];
     
     if ([[GeneralHelper sharedManager]freeVersion]){
         _bannerView = [[UIView alloc]initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 50)];
@@ -302,6 +319,8 @@
     }];
     
 }
+
+
 
 #pragma mark - Gyroscope methods
 

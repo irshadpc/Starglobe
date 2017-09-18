@@ -17,9 +17,9 @@
         CGRect screenBounds = [[UIScreen mainScreen] bounds];
         CGSize screenSize = CGSizeMake(screenBounds.size.width, screenBounds.size.height);
         if ([[GeneralHelper sharedManager]freeVersion]){
-            self.contentSizeInPopup = CGSizeMake(screenSize.width, 260);
+            self.contentSizeInPopup = CGSizeMake(screenSize.width, 300);
         } else {
-            self.contentSizeInPopup = CGSizeMake(screenSize.width, 200);
+            self.contentSizeInPopup = CGSizeMake(screenSize.width, 240);
         }
         self.popupController.navigationBarHidden = YES;
     }
@@ -78,15 +78,24 @@
         [self.view bringSubviewToFront:_overlayButton];
         
         
+        _infoLabel = [[UILabel alloc]initWithFrame:CGRectMake(10, 70, self.view.frame.size.width - 20, 20)];
+        _infoLabel.numberOfLines = 1;
+        _infoLabel.font = [UIFont systemFontOfSize:11];
+        _infoLabel.textColor = [UIColor whiteColor];
+        _infoLabel.textAlignment = NSTextAlignmentCenter;
+        _infoLabel.text = NSLocalizedString(@"Enabled Night Mode", nil);
+        [self.view addSubview: _infoLabel];
+        
+        
         
         _camera = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_camera setFrame:CGRectMake((screenSize.width-44)/2, 75, 44, 44)];
+        [_camera setFrame:CGRectMake((screenSize.width-44)/2, 115, 44, 44)];
         [_camera setImage:[UIImage imageNamed:@"controls_snapshot"] forState:UIControlStateNormal];
         [_camera addTarget:self action:@selector(cameraPressed) forControlEvents:UIControlEventTouchUpInside];
         [self.view addSubview:_camera];
         
         _arMode = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_arMode setFrame:CGRectMake(_camera.frame.origin.x - 59, 75, 44, 44)];
+        [_arMode setFrame:CGRectMake(_camera.frame.origin.x - 59, 115, 44, 44)];
         if ([[NSUserDefaults standardUserDefaults]boolForKey:@"ARModeOn"]){
             [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera_on"] forState:UIControlStateNormal];
         } else {
@@ -96,7 +105,7 @@
         [self.view addSubview:_arMode];
         
         _nightMode = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_nightMode setFrame:CGRectMake(_arMode.frame.origin.x - 59, 75, 44, 44)];
+        [_nightMode setFrame:CGRectMake(_arMode.frame.origin.x - 59, 115, 44, 44)];
         if ([[NSUserDefaults standardUserDefaults]boolForKey:@"NightModeOn"]){
             [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode_on_red"] forState:UIControlStateNormal];
         } else {
@@ -106,7 +115,7 @@
         [self.view addSubview:_nightMode];
         
         _music = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_music setFrame:CGRectMake(_camera.frame.origin.x + 59, 75, 44, 44)];
+        [_music setFrame:CGRectMake(_camera.frame.origin.x + 59, 115, 44, 44)];
         if ([[NSUserDefaults standardUserDefaults]boolForKey:@"MusicOn"]){
             [_music setImage:[UIImage imageNamed:@"controls_music_on"] forState:UIControlStateNormal];
         } else {
@@ -116,7 +125,7 @@
         [self.view addSubview:_music];
         
         _satellites = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_satellites setFrame:CGRectMake(_music.frame.origin.x + 59, 75, 44, 44)];
+        [_satellites setFrame:CGRectMake(_music.frame.origin.x + 59, 115, 44, 44)];
         if ([[NSUserDefaults standardUserDefaults]boolForKey:@"SatellitesOn"]){
             [_satellites setImage:[UIImage imageNamed:@"controls_tracks_on"] forState:UIControlStateNormal];
         } else {
@@ -187,7 +196,7 @@
     [_cameraSlider setMinimumTrackTintColor:[UIColor colorWithRed:155.0/255.0 green:155.0/255.0 blue:155.0/255.0 alpha:1.0]];
     [_cameraSlider setMaximumTrackTintColor:[UIColor colorWithRed:64.0/255.0 green:64.0/255.0 blue:64.0/255.0 alpha:1.0]];
     [_cameraSlider setMinimumValue: 0.0f];
-    [_cameraSlider setMaximumValue: 1.0f];
+    [_cameraSlider setMaximumValue: 10.0f];
     _cameraSlider.value = [[NSUserDefaults standardUserDefaults]floatForKey:@"RealCameraValue"];
     [_cameraSlider setContinuous:YES];
     [_cameraSlider addTarget:self action:@selector(changedCameraSlider:) forControlEvents:UIControlEventValueChanged];
@@ -219,7 +228,7 @@
     [_rateApp setFrame:CGRectMake(_discoverMode.frame.origin.x + 70, _cameraSlider.frame.origin.y + _cameraSlider.frame.size.height + 20, 50, 50)];
     [_rateApp setImage:[UIImage imageNamed:@"controls_rateapp"] forState:UIControlStateNormal];
     [_rateApp setImage:[UIImage imageNamed:@"controls_rateapp_pink"] forState:UIControlStateDisabled];
-    [_rateApp addTarget:self action:@selector(upgradePressed) forControlEvents:UIControlEventTouchUpInside];
+    [_rateApp addTarget:self action:@selector(infosPressed) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:_rateApp];
     
 }
@@ -239,6 +248,7 @@
 }
 
 - (void)changedCameraSlider:(UISlider*)sender{
+    sender.value = roundf(sender.value);
     if ([[NSUserDefaults standardUserDefaults]boolForKey:@"ARModeOn"]){
         [[NSUserDefaults standardUserDefaults] setFloat: sender.value forKey: @"RealCameraValue"];
         [[NSUserDefaults standardUserDefaults] setFloat: sender.value forKey: @"CameraValue"];
@@ -249,20 +259,30 @@
     if([self.delegate respondsToSelector:@selector(changedCameraValue:)]) {
         [self.delegate changedCameraValue:sender.value];
     }
+    
+    [_infoLabel setText: [NSString stringWithFormat:NSLocalizedString(@"Camera Opacity: %.f", nil), sender.value]];
+    [_infoLabel setHidden:NO];
+    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(labelAnimation) object:nil];
+    [self performSelector:@selector(labelAnimation) withObject:self afterDelay:3.0];
 }
 
 - (void)nightModePressed{
     if ([[NSUserDefaults standardUserDefaults]boolForKey:@"NightModeOn"]){
         [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"NightModeOn"];
         [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"Night Mode: Off", nil)];
     } else {
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"NightModeOn"];
         [_nightMode setImage:[UIImage imageNamed:@"controls_night_mode_on_red"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"Night Mode: On", nil)];
     }
     
     if([self.delegate respondsToSelector:@selector(nightModePressed)]) {
         [self.delegate nightModePressed];
     }
+    [_infoLabel setHidden:NO];
+    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(labelAnimation) object:nil];
+    [self performSelector:@selector(labelAnimation) withObject:self afterDelay:3.0];
 }
 
 - (void)arModePressed{
@@ -270,12 +290,17 @@
         [[NSUserDefaults standardUserDefaults] setFloat:0.0 forKey: @"CameraValue"];
         [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"ARModeOn"];
         [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"AR Mode: Off", nil)];
     } else {
         [[NSUserDefaults standardUserDefaults] setFloat:[[NSUserDefaults standardUserDefaults]floatForKey:@"RealCameraValue"] forKey: @"CameraValue"];
 
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"ARModeOn"];
         [_arMode setImage:[UIImage imageNamed:@"controls_ar_camera_on"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"AR Mode: On", nil)];
     }
+    [_infoLabel setHidden:NO];
+    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(labelAnimation) object:nil];
+    [self performSelector:@selector(labelAnimation) withObject:self afterDelay:3.0];
 }
 
 - (void)cameraPressed{
@@ -288,39 +313,58 @@
     if([self.delegate respondsToSelector:@selector(cameraPressed)]) {
         [self.delegate cameraPressed];
     }
+    [_infoLabel setHidden:NO];
+    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(labelAnimation) object:nil];
+    [self performSelector:@selector(labelAnimation) withObject:self afterDelay:3.0];
 }
 
 - (void)musicPressed{
     if ([[NSUserDefaults standardUserDefaults]boolForKey:@"MusicOn"]){
         [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"MusicOn"];
         [_music setImage:[UIImage imageNamed:@"controls_music"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"Music: Off", nil)];
     } else {
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"MusicOn"];
         [_music setImage:[UIImage imageNamed:@"controls_music_on"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"Music: On", nil)];
     }
     
     if([self.delegate respondsToSelector:@selector(musicPressed)]) {
         [self.delegate musicPressed];
     }
+    [_infoLabel setHidden:NO];
+    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(labelAnimation) object:nil];
+    [self performSelector:@selector(labelAnimation) withObject:self afterDelay:3.0];
 }
 
 - (void)satellitesPressed{
     if ([[NSUserDefaults standardUserDefaults]boolForKey:@"SatellitesOn"]){
         [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"SatellitesOn"];
         [_satellites setImage:[UIImage imageNamed:@"controls_tracks"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"Show Satellites: Off", nil)];
     } else {
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"SatellitesOn"];
         [_satellites setImage:[UIImage imageNamed:@"controls_tracks_on"] forState:UIControlStateNormal];
+        [_infoLabel setText: NSLocalizedString(@"Show Satellites: On", nil)];
     }
     if([self.delegate respondsToSelector:@selector(satellitesPressed)]) {
         [self.delegate satellitesPressed];
     }
+    [_infoLabel setHidden:NO];
+    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(labelAnimation) object:nil];
+    [self performSelector:@selector(labelAnimation) withObject:nil afterDelay:3.0];
+}
+
+- (void)labelAnimation{
+    [_infoLabel setHidden:YES];
 }
 
 - (void)infosPressed{
-    if([self.delegate respondsToSelector:@selector(infosPressed)]) {
-        [self.delegate infosPressed];
-    }
+    UINavigationController *navigationController = (UINavigationController*)self.presentingViewController;
+    MainViewController *presentingViewController = (MainViewController*)navigationController.topViewController;
+    presentingViewController.showMore = YES;
+    
+    [self.popupController dismiss];
 }
 
 - (void)gyroPressed{

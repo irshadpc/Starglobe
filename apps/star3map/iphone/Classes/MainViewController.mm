@@ -26,6 +26,7 @@
 #import "BranchUniversalObject.h"
 #import "MKStoreKit.h"
 #import "UAAppReviewManager.h"
+#import "AboutViewController.h"
 
 extern bool calibrationEnabled;
 extern float redVisionDestination;
@@ -211,6 +212,7 @@ extern float redVisionDestination;
 - (void)succesfulPurchase{
     [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobePro"];
+        [self.bannerView removeFromSuperview];
     }];
 }
 
@@ -313,6 +315,16 @@ extern float redVisionDestination;
         [self presentViewController:tabbarController animated:YES completion:nil];
     });
 
+}
+
+-(void)showAbout{
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
+    AboutViewController *aboutView = [storyboard instantiateViewControllerWithIdentifier:@"AboutViewController"];
+    UINavigationController *starsNavigationController = [[UINavigationController alloc] initWithRootViewController:aboutView];
+
+    dispatch_async(dispatch_get_main_queue(), ^{
+        [self presentViewController:starsNavigationController animated:YES completion:nil];
+    });
 }
 
 - (void)showSettingsPopover{
@@ -445,6 +457,9 @@ extern float redVisionDestination;
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
+    NSLog(@"viewDidAppear");
+
+    
     if (!_firstLoaded) {
         _firstLoaded = YES;
         satellitesShowing = [[NSUserDefaults standardUserDefaults] boolForKey:@"SatellitesOn"];
@@ -515,15 +530,16 @@ extern float redVisionDestination;
     } else if (_showDiscover) {
         _showDiscover = NO;
         [self showStars];
+    } else if (_showMore) {
+        _showMore = NO;
+        [self showAbout];
     } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 5 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
-        if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 10 == 0) {
-            if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
-                [SKStoreReviewController requestReview];
-            } else {
-                [UAAppReviewManager showPrompt];
-            }
-        } else {
             [self showUpgradeView];
+    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 9 == 0) {
+        if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
+            [SKStoreReviewController requestReview];
+        } else {
+            [UAAppReviewManager showPrompt];
         }
     }
     
@@ -544,6 +560,7 @@ extern float redVisionDestination;
 
 - (void)viewWillDisappear:(BOOL)animated {
     [super viewWillDisappear:animated];
+    NSLog(@"viewWillDisappear");
     [glView stopAnimation];
     _isVisible = NO;
 }
@@ -715,6 +732,10 @@ extern float redVisionDestination;
         [glView toggleCompass:NO];
     }
     useCompass = YES;
+}
+
+- (void)infosPressed{
+    _showMore = YES;
 }
 
 - (UIImage*)screenshot{

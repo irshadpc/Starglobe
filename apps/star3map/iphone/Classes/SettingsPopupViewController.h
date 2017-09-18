@@ -46,6 +46,7 @@
 @property (nonatomic, retain) UILabel *subtitleLabel;
 @property (nonatomic, retain) UIButton *upgradeButton;
 @property (nonatomic, retain) UIButton *overlayButton;
+@property (nonatomic, retain) UILabel *infoLabel;
 @property (nonatomic, weak) id <SettingsPopupDelegate> delegate;
 @end
 

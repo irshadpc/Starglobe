@@ -69,6 +69,11 @@
         [self.view bringSubviewToFront:_overlayButton];
         
     }
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"Purchase" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(succesfulPurchase) name:@"RestoredPurchase" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedRestoring" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(failedPurchase) name:@"FailedPurchase" object:nil];
 }
 
 - (void)viewDidLayoutSubviews {
@@ -83,6 +88,23 @@
     }
 }
 
+- (void)failedPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+    }];
+}
+
+- (void)succesfulPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobePro"];
+        [self.bannerView removeFromSuperview];
+        [self.tableView setFrame:CGRectMake(0, self.tableView.frame.origin.y, self.tableView.frame.size.width, self.tableView.frame.size.height + 60 )];
+    }];
+}
+
+-(void)dealloc{
+    [[NSNotificationCenter defaultCenter]removeObserver:self];
+}
+
 - (void)upgradePressed{
     [self.tabBarController setSelectedIndex:2];
 }
@@ -92,7 +114,7 @@
     [self.tableView deselectRowAtIndexPath:self.tableView.indexPathForSelectedRow animated:YES];
     if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 5 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
         [self.tabBarController setSelectedIndex:2];
-    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 10 == 0 && [[GeneralHelper sharedManager]freeVersion]) {
+    } else if ([[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] > 1 && [[NSUserDefaults standardUserDefaults]integerForKey:@"InterstitialCounter"] % 9 == 0) {
         if ([UIDevice currentDevice].systemVersion.floatValue >= 10.3) {
             [SKStoreReviewController requestReview];
         } else {

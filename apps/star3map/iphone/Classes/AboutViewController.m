@@ -29,6 +29,9 @@
     [self.tableView setSeparatorColor:[UIColor darkGrayColor]];
     self.tableView.showsVerticalScrollIndicator = NO;
     self.navigationController.toolbarHidden = YES;
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc]initWithBarButtonSystemItem:UIBarButtonSystemItemDone target:self action:@selector(dismiss)];
+    self.tableView.tableFooterView = [[UIView alloc] initWithFrame:CGRectZero];
+
 }
 
 - (void)viewWillAppear:(BOOL)animated {

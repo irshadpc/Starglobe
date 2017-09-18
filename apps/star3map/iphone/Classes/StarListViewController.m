@@ -113,6 +113,23 @@
     
 }
 
+- (void)failedPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+    }];
+}
+
+- (void)succesfulPurchase{
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^ {
+        [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"StarglobePro"];
+        [self.bannerView removeFromSuperview];
+        [self.tableView setFrame:CGRectMake(0, self.tableView.frame.origin.y, self.tableView.frame.size.width, self.tableView.frame.size.height + 60 )];
+    }];
+}
+
+-(void)dealloc{ NSLog(@"dealloc");
+    [[NSNotificationCenter defaultCenter]removeObserver:self];
+}
+
 - (void)viewDidLayoutSubviews {
     [super viewDidLayoutSubviews];
     if ([[GeneralHelper sharedManager]freeVersion]){

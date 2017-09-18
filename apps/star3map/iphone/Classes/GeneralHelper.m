@@ -57,7 +57,6 @@ static GeneralHelper *sharedManager = nil;
 }
 
 - (BOOL)freeVersion{
-    //return NO;
     if([[NSUserDefaults standardUserDefaults] boolForKey: @"StarglobeProForLife"]){
         return NO;
     }

@@ -115,8 +115,6 @@
 
 #pragma mark - Table view data source
 
-
-
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     return 1;
 }
@@ -178,8 +176,6 @@
             cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
         }
     
-    
-        
     cell.detailTextLabel.adjustsFontSizeToFitWidth = YES;
     return cell;
 }
