@@ -33,7 +33,7 @@ git clone https://github.com/azurcoding/Starglobe.git
 Step 2
 
 ```bash
-  cd Starglobe/apps/star3map/iphone
+cd Starglobe/apps/star3map/iphone
 ```
 
 Step 3
@@ -41,7 +41,7 @@ Step 3
 For this step you will need to have Cocoapods installed. (How to install Cocoapods: [https://cocoapods.org](https://cocoapods.org))
 Delete `Starglobe.xcworkspace` and then run this command:
 ```bash
-  pod install
+pod install
 ```
 
 Step 4
