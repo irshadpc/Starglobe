@@ -64,7 +64,7 @@ Build and run the application.
 
 ## Pull Requests
 
-If you want to help improve Starglobe, please do so in the form of a Pull Request.
+If you want to help improve Starglobe, please do so in the form of a Pull Request. When creating a PR, you will be asked to agree to the Contributor License Agreement (CLA).
 
 ## License
 Starglobe is licensed under the [GNU Affero General Public License v3.0](/LICENSE)
