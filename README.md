@@ -1,7 +1,7 @@
 ![Starglobe](1600x900.png)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=597c9d47a2538b0001c92e70&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/597c9d47a2538b0001c92e70/build/latest?branch=master)
 
 
 - Blocks content from annoying ad networks thereby loading pages super fast
@@ -25,50 +25,40 @@
 
 ## How to Install - iOS
 
-You need Xcode 7 or later. And an iOS device running atleast iOS 9.
+You need Xcode 9 or later. And an iOS device running at least iOS 8.
 
 Step 1
 
 Open a new terminal window in OS X. Refer to [this guide](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) on using the OS X Terminal.
 
 ```bash
-git clone https://github.com/krishkumar/BlockParty.git
+git clone https://github.com/azurcoding/Starglobe.git
 ```
 
 Step 2
 
 ```bash
-  cd BlockParty
+  cd Starglobe/apps/star3map/iphone
 ```
 
 Step 3
-
-Open `BlockParty.xcodeproj` in Xcode.
-
+For this step you will need to have Cocoapods installed. How to install Cocoapods: [https://cocoapods.org](https://cocoapods.org)
+Delete `Starglobe.xcworkspace` and then run this command:
+```bash
+  pod install
+```
 
 Step 4
+
+Open `Starglobe.xcworkspac` in Xcode.
+
+
+Step 5
 
 Build and run the application.
 
 - When running this application on a device you will need to add a signing profile in the project's Build Settings.
 
-
-Step 5
-
-Allow `BlockParty` in Content Blockers under Settings → Safari.
-
-## How to Install - OS X
-
-BlockParty is not available in the Safari Extensions Gallery yet. Instead, you can download from here or build from source.
-
-- Download Safari Extension - [BlockParty OS X](https://github.com/krishkumar/BlockParty/blob/master/BlockParty%20-%20Desktop%20Safari/distributable/BlockParty.safariextz?raw=true)
-
-  * To install Safari Extension, double click or drag to Safari.
-  * This extension takes effect immediately. You do not need to restart Safari.
-
-- Follow the below instructions to install from source.
-
-  * Instructions to install desktop version: [How to Use BlockParty for Desktop Safari](https://github.com/krishkumar/BlockParty/blob/master/BlockParty%20-%20Desktop%20Safari/How%20to%20Install.md)
 
 ## Tested
 
@@ -82,10 +72,5 @@ BlockParty is not available in the Safari Extensions Gallery yet. Instead, you c
 - iPad: iPad (4th generation) or iPad mini (2nd generation) and above
 - iPod touch: iPod touch (6th generation)
 
+## License
 
-## References
-
-* A step-by-step guide: [installing BlockParty on a device with iOS 9 beta installed](https://medium.com/@searls/installing-a-content-blocker-on-ios-9-public-beta-a25b2b83848f)
-* Instructions to install desktop version: [How to Use BlockParty for Desktop Safari](https://github.com/krishkumar/BlockParty/blob/master/BlockParty%20-%20Desktop%20Safari/How%20to%20Install.md)
-* WWDC 2015 Session 511: [Safari Extensibility: Content Blocking and Shared Links](https://developer.apple.com/videos/wwdc/2015/?id=511)
-* Introduction to WebKit Content Blockers: [Introduction & JSON Syntax](https://www.webkit.org/blog/3476/content-blockers-first-look/)
