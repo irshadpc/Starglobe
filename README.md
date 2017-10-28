@@ -16,12 +16,7 @@
 
 ## Screenshots
 
-![Screen1](1.png)![Screen2](2.png)![Screen3](3.png)
-
-
-![Screen4](4.png)
-![Screen5](5.png)
-
+![Screenshots](screenshots.png)
 
 ## How to Install - iOS
 
