@@ -1,4 +1,4 @@
-![Starglobe](1600x900.png)(https://itunes.apple.com/app//id703554364)
+[![Starglobe](1600x900.png)](https://itunes.apple.com/app//id703554364)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=597c9d47a2538b0001c92e70&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/597c9d47a2538b0001c92e70/build/latest?branch=master)
@@ -39,6 +39,7 @@ cd Starglobe/apps/star3map/iphone
 Step 3
 
 For this step you will need to have Cocoapods installed. (How to install Cocoapods: [https://cocoapods.org](https://cocoapods.org))
+
 Delete `Starglobe.xcworkspace` and then run this command:
 ```bash
 pod install
