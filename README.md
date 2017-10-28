@@ -11,8 +11,8 @@ Starglobe is a beautiful and intuitive stargazing app that uses your camera to p
 - Huge stellar catalog: 111,000 stars, galaxies constellations and satellites!
 - Get the facts on what you are looking at, including distance and brightness.
 - Red night mode: Preserve your dark-adapted eyesight.
-• Social: Capture and share beautiful images with friends and family on social networks. 
-• Mobile: WiFi is NOT required (does not require a data signal or GPS to function). Take it camping, boating, or even flying!
+- Social: Capture and share beautiful images with friends and family on social networks. 
+- Mobile: WiFi is NOT required (does not require a data signal or GPS to function). Take it camping, boating, or even flying!
 
 ## Screenshots
 
@@ -57,16 +57,14 @@ Build and run the application.
 
 ## Device Compatibility
 
-- iPhone: iPhone 5 and above
-- iPad: iPad (4th generation) or iPad mini (2nd generation) and above
+- iPhone: iPhone 5s and above
+- iPad: iPad (5th generation) or iPad mini (2nd generation) and above
 - iPod touch: iPod touch (6th generation)
 
 
 ## Pull Requests
 
-- iPad mini 2 running iOS 10
-- iPhone 6 running iOS 10
-- Desktop version tested on Safari 9 for Yosemite & El Capitan
+If you want to help improve Starglobe, please do so in the form of a Pull Request.
 
 ## License
 Starglobe is licensed under the [GNU Affero General Public License v3.0](/LICENSE)
