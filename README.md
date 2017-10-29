@@ -69,3 +69,8 @@ If you want to help improve Starglobe, please do so in the form of a Pull Reques
 
 ## License
 Starglobe is licensed under the [GNU Affero General Public License v3.0](/LICENSE)
+
+## Author
+
+AZSignupController is brought to you by Azurcoding
+[![Azurcoding Logo](azurcoding.png)](https://azurcoding.com)
